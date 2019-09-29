@@ -1,0 +1,140 @@
+{
+    "programmingLanguage": "atom",
+    "fileExtension": ["none"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "agda",
+    "fileExtension": ["agda", "lagda"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "afl",
+    "fileExtension": ["afl"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "bash",
+    "fileExtension": ["sh"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "c",
+    "fileExtension": ["c", "cgi", "cc"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "cs",
+    "fileExtension": ["cs"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "css",
+    "fileExtension": ["css"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "fluent",
+    "fileExtension": [""],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "golang",
+    "fileExtension": ["go"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "haskell",
+    "fileExtension": ["has","hs","lhs", "lit"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "html",
+    "fileExtension": ["html", "htm"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "java",
+    "fileExtension": ["java", "jsp", "jspx", "wss", "do", "action"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "javascript",
+    "fileExtension": ["js"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "julia",
+    "fileExtension": [""],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "jsdoc",
+    "fileExtension": [""],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "json",
+    "fileExtension": ["json"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "node",
+    "fileExtension": ["nw"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "ocaml",
+    "fileExtension": [""],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "php",
+    "fileExtension": ["php", "php4", "php3", "phtml"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "python",
+    "fileExtension": ["py"],
+    "keywordSetID": ["False",  "None",  "True",  "and",  "as",  "assert",  "async",  "await",  "break",  "class",  "continue",  "def",  "del",  "elif",  "else",  "except",  "finally",  "for",  "from",  "global",  "if",  "import",  "in",  "is",  "lambda",  "nonlocal",  "not",  "or",  "pass",  "raise",  "return",  "try",  "while",  "with",  "yield"]
+}
+{
+    "programmingLanguage": "razor",
+    "fileExtension": [""],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "regex",
+    "fileExtension": [""],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "ruby",
+    "fileExtension": ["rb", "rhtml"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "rust",
+    "fileExtension": [""],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "scala",
+    "fileExtension": [""],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "swift",
+    "fileExtension": ["swift"],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "typescript",
+    "fileExtension": [""],
+    "keywordSetID": []
+}
+{
+    "programmingLanguage": "verilog",
+    "fileExtension": ["v"],
+    "keywordSetID": []
+}

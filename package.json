@@ -1,0 +1,34 @@
+{
+  "name": "legesher-translations",
+  "version": "0.0.1",
+  "description": "Home of all the translations for spoken languages into programming language",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legesher/legesher-translations.git"
+  },
+  "keywords": [
+    "legesher",
+    "translations",
+    "language",
+    "translator"
+  ],
+  "author": "Madi Edgar <withmadico@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/legesher/legesher-translations/issues"
+  },
+  "homepage": "https://github.com/legesher/legesher-translations#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.0-beta2"
+  }
+}
