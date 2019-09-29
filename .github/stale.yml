@@ -1,0 +1,38 @@
+# Configuration for probot-stale - https://github.com/probot/stale
+
+# Number of days of inactivity before an Issue or Pull Request becomes stale
+daysUntilStale: 365
+
+# Number of days of inactivity before a stale Issue or Pull Request is closed
+daysUntilClose: 14
+
+# Issues or Pull Requests with these labels will never be considered stale
+# exemptLabels:
+
+# Label to use when marking as stale
+staleLabel: Status: Stale
+# Comment to post when marking as stale. Set to `false` to disable
+markComment: >
+  👏 Thanks for your contribution!
+
+  ⚠️This issue has been automatically marked as stale because it has not had
+  recent activity. Because the Legesher team treats their issues
+  [as their backlog](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog), stale issues
+  are closed. 📕 If you would like this issue to remain open:
+
+   1. Verify that you can still reproduce the issue in the latest version of Atom
+   1. Comment that the issue is still reproducible and include:
+      * What version of Atom you reproduced the issue on
+      * What OS and version you reproduced the issue on
+      * What steps you followed to reproduce the issue
+
+  Thank you! 👍
+
+# Comment to post when removing the stale label. Set to `false` to disable
+unmarkComment: true
+
+# Comment to post when closing a stale Issue or Pull Request. Set to `false` to disable
+closeComment: true
+
+# Limit to only `issues` or `pulls`
+only: issues
