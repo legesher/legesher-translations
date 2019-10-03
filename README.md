@@ -112,6 +112,7 @@ Legesher Developer Tools might be useful to you if:
 | [`legesher-dot-io`](https://github.com/legesher/legesher-dot-io) | Legesher's public [website](https://legesher.io) |
 | [`legesher-docs`](https://github.com/legesher/legesher-docs) | Legesher's documentation hub. Will be transitioning to a documentation host soon. |
 | [`legesher`](https://github.com/legesher/legesher) | Git integration to collaborate with code and others in other languages |
+| [`legesher-pride`](https://github.com/legesher/legesher-pride) | A non-programmer's dream to contributing to open source by sharing what they know and learning what's new |
 
 ## The Community
 A message from our [founder, Madi](https://www.instagram.com/withmadico/):
