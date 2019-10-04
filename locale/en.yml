@@ -1,6 +1,6 @@
-# Files in the config/locales directory are used for localization.
-# If you want to use locales other than English, follow the instructions in the legesher-translations repository.
-# https://github.com/legesher/legesher-translations
+# Files in the locale directory are used for localization.
+# If you want to use locales other than English, follow the instructions in legesher-translations guide.
+# https://legesher.readme.io/docs/translation-guide
 #
 # THANK YOU FOR MAKING LEGESHER LARGER THAN US.
 
