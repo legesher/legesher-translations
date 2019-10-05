@@ -910,55 +910,56 @@ _: "" #_(underscore)
 # |   LANGUAGE: JAVASCRIPT   |
 # ----------------------------
 # << Keywords >>
-arguments: ""
-await: ""
-break: ""
-case: ""
-catch: ""
-class: ""
-const: ""
-continue: ""
-debugger: ""
-default: ""
-delete: ""
-do: ""
-else: ""
-enum: ""
-eval: ""
-export: ""
-extends: ""
-false: ""
-finally: ""
-for: ""
-from: ""
-function: ""
-if: ""
-implements: ""
-import: ""
-in: ""
-instanceof: ""
-interface: ""
-let: ""
-new: ""
-null: ""
-package: ""
-private: ""
-protected: ""
-public: ""
-return: ""
-static: ""
-super: ""
-switch: ""
-this: ""
-throw: ""
-true: ""
-try: ""
-typeof: ""
-var: ""
-void: ""
-while: ""
-with: ""
-yield: ""
+arguments: "argumente"
+await: "erwarte"
+break: "bruch"
+case: "fall"
+catch: "fange" # not sure
+class: "klasse"
+const: "konstante"
+continue: "fortfahren"
+debugger: "debugger"
+default: "default"
+delete: "löschen"
+do: "tue"
+else: "sonst"
+enum: "enum" # no idea
+eval: "evaluieren"
+export: "exportieren"
+extends: "erweitert"
+false: "falsch"
+finally: "endlich"
+for: "für"
+from: "von"
+function: "funktion"
+if: "wenn"
+implements: "implementiert"
+import: "importiere"
+in: "in"
+instanceof: "instanzvon"
+interface: "interface"
+let: "lasse" # not sure
+new: "new"
+null: "null" # no idea
+package: "paket"
+private: "privat"
+protected: "geschützt"
+public: "öffentlich"
+return: "return" # rückgabe?
+static: "statisch"
+super: "super" # über?
+switch: "schalter"
+this: "dies"
+throw: "throw" # no idea
+true: "wahr"
+try: "versuche"
+typeof: "typvon"
+var: "var" # no idea
+void: "void" # no idea
+while: "während"
+with: "mit"
+yield: "yield" # ausgabe? ausbeute?
+
 # << Error Messages >>
 
 # ----------------------
@@ -1266,7 +1267,7 @@ __TRAIT__: ""
   await: "erwarte"
   break: "bruch"
   class: "klasse"
-  continue: "weiter"
+  continue: "fortfahren"
   def: "def" # <- short | definiere?
   del: "lösche"
   elif: "sonstwenn"
@@ -1286,7 +1287,7 @@ __TRAIT__: ""
   or: "oder"
   pass: "besteht" # bestanden?
   raise: "raise" # erheben?
-  return: "return" # rückgabe? ausgabe?
+  return: "return" # rückgabe?
   try: "versuche"
   while: "während"
   with: "mit"
@@ -1294,7 +1295,7 @@ __TRAIT__: ""
 
 # << Built-In Functions >>
 
-  abs: "abs" # absoluterwert?
+  abs: "abs" # absoluter wert?
   all: "alle"
   any: "eines"
   ascii: "ascii"
@@ -1357,7 +1358,7 @@ __TRAIT__: ""
   staticmethod: "statischemethode"
   str: "str"
   sum: "sum"
-  super: "über"
+  super: "super" # über?
   tuple: "tuple" # no idea
   type: "typ"
   vars: "vars" # variablen?
