@@ -912,7 +912,7 @@ _: "" #_(underscore)
 # << Keywords >>
 arguments: "argumente"
 await: "erwarte"
-break: "bruch"
+break: "brich"
 case: "fall"
 catch: "fange" # not sure
 class: "klasse"
@@ -920,37 +920,37 @@ const: "konstante"
 continue: "fortfahren"
 debugger: "debugger"
 default: "default"
-delete: "löschen"
+delete: "lösche"
 do: "tue"
 else: "sonst"
 enum: "enum" # no idea
-eval: "evaluieren"
-export: "exportieren"
+eval: "evaluiere"
+export: "exportiere"
 extends: "erweitert"
 false: "falsch"
 finally: "endlich"
 for: "für"
 from: "von"
 function: "funktion"
-if: "wenn"
+if: "falls"
 implements: "implementiert"
 import: "importiere"
 in: "in"
 instanceof: "instanzvon"
 interface: "interface"
-let: "lasse" # not sure
-new: "new"
+let: "sei"
+new: "neu"
 null: "null" # no idea
 package: "paket"
 private: "privat"
 protected: "geschützt"
 public: "öffentlich"
-return: "return" # rückgabe?
+return: "gib"
 static: "statisch"
 super: "super" # über?
 switch: "schalter"
 this: "dies"
-throw: "throw" # no idea
+throw: "werfe"
 true: "wahr"
 try: "versuche"
 typeof: "typvon"
@@ -958,7 +958,7 @@ var: "var" # no idea
 void: "void" # no idea
 while: "während"
 with: "mit"
-yield: "yield" # ausgabe? ausbeute?
+yield: "liefere"
 
 # << Error Messages >>
 
@@ -1262,22 +1262,22 @@ __TRAIT__: ""
   True: "Wahr"
   and: "und"
   as: "als"
-  assert: "assert" # stelle_fest? behaupte?
+  assert: "behaupte"
   async: "asynchron"
   await: "erwarte"
-  break: "bruch"
+  break: "brich"
   class: "klasse"
   continue: "fortfahren"
   def: "def" # <- short | definiere?
   del: "lösche"
-  elif: "sonstwenn"
+  elif: "sonstfalls"
   else: "sonst"
   except: "außer"
   finally: "endlich"
   for: "für"
   from: "von"
-  global:  "global"
-  if: "wenn"
+  global: "global"
+  if: "falls"
   import: "importiere"
   in: "in"
   is: "ist"
@@ -1285,13 +1285,13 @@ __TRAIT__: ""
   nonlocal: "unlogisch"
   not: "nicht"
   or: "oder"
-  pass: "besteht" # bestanden?
-  raise: "raise" # erheben?
-  return: "return" # rückgabe?
+  pass: "weiter"
+  raise: "erhebe"
+  return: "gib"
   try: "versuche"
   while: "während"
   with: "mit"
-  yield: "yield" # ausgabe? ausbeute?
+  yield: "liefere"
 
 # << Built-In Functions >>
 
@@ -1307,7 +1307,7 @@ __TRAIT__: ""
   callable: "rufbar"
   chr: "chr" # zeichen?
   classmethod: "klassenmethode"
-  compile: "compiliere"
+  compile: "kompiliere"
   complex: "komplex"
   delattr: "" # entfattr?
   dict: "dict" # wörterbuch?
@@ -1317,7 +1317,7 @@ __TRAIT__: ""
   eval: "evaluiere"
   exec: "ausführen"
   filter: "filter"
-  float: "float" # no idea
+  float: "gleitkomma"
   format: "format" # -> noun | formatiere -> imperativ
   frozenset: "frozenset" #gefrorenes set?
   getattr: "getattr" # holeattribute?
@@ -1331,15 +1331,15 @@ __TRAIT__: ""
   int: "int"
   isinstance: "istinstanz"
   issubclass: "istsubklasse"
-  iter: "iter" # no idea
+  iter: "iter" # Iterator same in German
   len: "länge"
   list: "liste"
   locals: "locale" # works but weird
-  map: "map" # no idea
+  map: "karte" # no idea
   max: "max"
-  memoryview: "memoryview" # speichersicht?
+  memoryview: "speicheransicht"
   min: "min"
-  next: "weiter"
+  next: "nächstes"
   object: "objekt"
   oct: "oct" # do idea
   open: "öffne"
@@ -1347,13 +1347,13 @@ __TRAIT__: ""
   pow: "potenz"
   print: "drucke"
   property: "eigenschaft"
-  range: "reichweite" # bereich?
+  range: "bereich"
   repr: "repr"
   reversed: "umgekehrt"
-  round: "runde" # +n?
+  round: "runde"
   set: "setze"
   setattr: "setzeattr"
-  slice: "scheibe" # weird but works
+  slice: "schnitt"
   sorted: "sortiert"
   staticmethod: "statischemethode"
   str: "str"
