@@ -912,7 +912,8 @@ _: "" #_(underscore)
 # << Keywords >>
 arguments: "argumente"
 await: "erwarte"
-break: "bruch"
+# break: "bruch"
+break: "brich" # Imperative of brechen, instead of noun Bruch
 case: "fall"
 catch: "fange" # not sure
 class: "klasse"
@@ -920,37 +921,42 @@ const: "konstante"
 continue: "fortfahren"
 debugger: "debugger"
 default: "default"
-delete: "löschen"
+# delete: "löschen" 
+delete: "lösche" # Imperative
 do: "tue"
 else: "sonst"
 enum: "enum" # no idea
-eval: "evaluieren"
-export: "exportieren"
+# eval: "evaluieren" # Imperative
+eval: "evaluiere"
+# export: "exportieren"
+export: "exportiere" # Imperative
 extends: "erweitert"
 false: "falsch"
 finally: "endlich"
 for: "für"
 from: "von"
 function: "funktion"
-if: "wenn"
+# if: "wenn"
+if: "falls" # If -> falls (It might happen), When -> Wenn (It will happen)
 implements: "implementiert"
 import: "importiere"
 in: "in"
 instanceof: "instanzvon"
 interface: "interface"
-let: "lasse" # not sure
-new: "new"
+# let: "lasse"
+let: "sei" # Mathematical notation e.g. let x be 5 -> Sei x 5
+new: "neu"
 null: "null" # no idea
 package: "paket"
 private: "privat"
 protected: "geschützt"
 public: "öffentlich"
-return: "return" # rückgabe?
+return: "gib"
 static: "statisch"
 super: "super" # über?
 switch: "schalter"
 this: "dies"
-throw: "throw" # no idea
+throw: "werfe"
 true: "wahr"
 try: "versuche"
 typeof: "typvon"
@@ -958,7 +964,7 @@ var: "var" # no idea
 void: "void" # no idea
 while: "während"
 with: "mit"
-yield: "yield" # ausgabe? ausbeute?
+yield: "liefere"
 
 # << Error Messages >>
 
@@ -1262,22 +1268,25 @@ __TRAIT__: ""
   True: "Wahr"
   and: "und"
   as: "als"
-  assert: "assert" # stelle_fest? behaupte?
+  assert: "behaupte"
   async: "asynchron"
   await: "erwarte"
-  break: "bruch"
+  # break: "bruch"
+  break: "brich" # Imperative instead of noun
   class: "klasse"
   continue: "fortfahren"
   def: "def" # <- short | definiere?
   del: "lösche"
-  elif: "sonstwenn"
+  # elif: "sonstwenn"
+  elif: "sonstfalls" # If -> falls, when -> wenn
   else: "sonst"
   except: "außer"
   finally: "endlich"
   for: "für"
   from: "von"
-  global:  "global"
-  if: "wenn"
+  global: "global"
+  # if: "wenn"
+  if: "falls" # If -> falls, when -> wenn
   import: "importiere"
   in: "in"
   is: "ist"
@@ -1285,13 +1294,14 @@ __TRAIT__: ""
   nonlocal: "unlogisch"
   not: "nicht"
   or: "oder"
-  pass: "besteht" # bestanden?
-  raise: "raise" # erheben?
-  return: "return" # rückgabe?
+  # pass: "besteht"
+  pass: "weiter" # pass in python means to execute a line of code that does nothing
+  raise: "erhebe"
+  return: "gib"
   try: "versuche"
   while: "während"
   with: "mit"
-  yield: "yield" # ausgabe? ausbeute?
+  yield: "liefere"
 
 # << Built-In Functions >>
 
@@ -1307,7 +1317,8 @@ __TRAIT__: ""
   callable: "rufbar"
   chr: "chr" # zeichen?
   classmethod: "klassenmethode"
-  compile: "compiliere"
+  # compile: "compiliere"
+  compile: "kompiliere" # German spelling
   complex: "komplex"
   delattr: "" # entfattr?
   dict: "dict" # wörterbuch?
@@ -1317,7 +1328,7 @@ __TRAIT__: ""
   eval: "evaluiere"
   exec: "ausführen"
   filter: "filter"
-  float: "float" # no idea
+  float: "gleitkomma" # Gleitkomma or Fließkomma is floating point
   format: "format" # -> noun | formatiere -> imperativ
   frozenset: "frozenset" #gefrorenes set?
   getattr: "getattr" # holeattribute?
@@ -1331,15 +1342,16 @@ __TRAIT__: ""
   int: "int"
   isinstance: "istinstanz"
   issubclass: "istsubklasse"
-  iter: "iter" # no idea
+  iter: "iter" # Iterator same in German
   len: "länge"
   list: "liste"
   locals: "locale" # works but weird
-  map: "map" # no idea
+  map: "karte" # no idea
   max: "max"
-  memoryview: "memoryview" # speichersicht?
+  memoryview: "speicheransicht"
   min: "min"
-  next: "weiter"
+  # next: "weiter" 
+  next: "nächstes" # More literal translation
   object: "objekt"
   oct: "oct" # do idea
   open: "öffne"
@@ -1347,13 +1359,15 @@ __TRAIT__: ""
   pow: "potenz"
   print: "drucke"
   property: "eigenschaft"
-  range: "reichweite" # bereich?
+  # range: "reichweite"
+  range: "bereich" # Better fitting in context
   repr: "repr"
   reversed: "umgekehrt"
-  round: "runde" # +n?
+  round: "runde"
   set: "setze"
   setattr: "setzeattr"
-  slice: "scheibe" # weird but works
+  # slice: "scheibe"
+  slice: "schnitt" # slice in this case is not necessarily a round plate, which "scheibe" implies
   sorted: "sortiert"
   staticmethod: "statischemethode"
   str: "str"
