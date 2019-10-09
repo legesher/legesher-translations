@@ -1,0 +1,704 @@
+{
+  "dialect": "qafar",
+  "languageExtension": "aa"
+}
+{
+  "dialect": "аԥсшәа",
+  "languageExtension": "ab"
+}
+{
+  "dialect": "Afrikaans",
+  "languageExtension": "af"
+}
+{
+  "dialect": "Akana",
+  "languageExtension": "ak"
+}
+{
+  "dialect": "አማርኛ",
+  "languageExtension": "am"
+}
+{
+  "dialect": "Aragonés",
+  "languageExtension": "an"
+}
+{
+  "dialect": "العربية",
+  "languageExtension": "ar"
+}
+{
+  "dialect": "অসমীয়া",
+  "languageExtension": "as"
+}
+{
+  "dialect": "Авар",
+  "languageExtension": "av"
+}
+{
+  "dialect": "Aymar",
+  "languageExtension": "ay"
+}
+{
+  "dialect": "آذربايجان",
+  "languageExtension": "az"
+}
+{
+  "dialect": "Нохчийн",
+  "languageExtension": "ce"
+}
+{
+  "dialect": "Башҡорт",
+  "languageExtension": "ba"
+}
+{
+  "dialect": "Беларуская",
+  "languageExtension": "be"
+}
+{
+  "dialect": "Български",
+  "languageExtension": "bg"
+}
+{
+  "dialect": "भोजपुरी",
+  "languageExtension": "bh"
+}
+{
+  "dialect": "Bislama",
+  "languageExtension": "bi"
+}
+{
+  "dialect": "Bamanankan",
+  "languageExtension": "bm"
+}
+{
+  "dialect": "বাংলা",
+  "languageExtension": "bn"
+}
+{
+  "dialect": "བོད་ཡིག",
+  "languageExtension": "bo"
+}
+{
+  "dialect": "Brezhoneg",
+  "languageExtension": "br"
+}
+{
+  "dialect": "Bosanski",
+  "languageExtension": "bs"
+}
+{
+  "dialect": "Català",
+  "languageExtension": "ca"
+}
+{
+  "dialect": "Нохчийн",
+  "languageExtension": "ce"
+}
+{
+  "dialect": "Chamoru",
+  "languageExtension": "ch"
+}
+{
+  "dialect": "Corsu",
+  "languageExtension": "co"
+}
+{
+  "dialect": "Nehiyaw",
+  "languageExtension": "cr"
+}
+{
+  "dialect": "Česky",
+  "languageExtension": "cs"
+}
+{
+  "dialect": "словѣньскъ",
+  "languageExtension": "cu"
+}
+{
+  "dialect": "Чăваш",
+  "languageExtension": "cv"
+}
+{
+  "dialect": "Cymraeg",
+  "languageExtension": "cy"
+}
+{
+  "dialect": "Dansk",
+  "languageExtension": "da"
+}
+{
+  "dialect": "Deutsch",
+  "languageExtension": "de"
+}
+{
+  "dialect": "ދިވެހިބަސް",
+  "languageExtension": "dv"
+}
+{
+  "dialect": "ཇོང་ཁ",
+  "languageExtension": "dz"
+}
+{
+  "dialect": "Ɛʋɛ",
+  "languageExtension": "ee"
+}
+{
+  "dialect": "English",
+  "languageExtension": "en"
+}
+{
+  "dialect": "Esperanto",
+  "languageExtension": "eo"
+}
+{
+  "dialect": "Español",
+  "languageExtension": "es"
+}
+{
+  "dialect": "Eesti",
+  "languageExtension": "et"
+}
+{
+  "dialect": "Euskara",
+  "languageExtension": "eu"
+}
+{
+  "dialect": "Fulfulde",
+  "languageExtension": "ff"
+}
+{
+  "dialect": "Suomi",
+  "languageExtension": "fi"
+}
+{
+  "dialect": "Na Vosa Vakaviti",
+  "languageExtension": "fj"
+}
+{
+  "dialect": "Føroyskt",
+  "languageExtension": "fo"
+}
+{
+  "dialect": "français",
+  "languageExtension": "fr"
+}
+{
+  "dialect": "Frysk",
+  "languageExtension": "fy"
+}
+{
+  "dialect": "Gaeilge",
+  "languageExtension": "ga"
+}
+{
+  "dialect": "Galego",
+  "languageExtension": "gl"
+}
+{
+  "dialect": "Avañe'ẽ",
+  "languageExtension": "gn"
+}
+{
+  "dialect": "Gaelg",
+  "languageExtension": "gv"
+}
+{
+  "dialect": "هَوُسَ",
+  "languageExtension": "ha"
+}
+{
+  "dialect": "עברית",
+  "languageExtension": "he"
+}
+{
+  "dialect": "हिन्दी",
+  "languageExtension": "hi"
+}
+{
+  "dialect": "Hiri Motu",
+  "languageExtension": "ho"
+}
+{
+  "dialect": "Krèyol ayisyen",
+  "languageExtension": "ht"
+}
+{
+  "dialect": "Magyar",
+  "languageExtension": "hu"
+}
+{
+  "dialect": "հայերեն",
+  "languageExtension": "hy"
+}
+{
+  "dialect": "Hrvatski",
+  "languageExtension": "hr"
+}
+{
+  "dialect": "Otsiherero",
+  "languageExtension": "hz"
+}
+{
+  "dialect": "Interlingua",
+  "languageExtension": "ia"
+}
+{
+  "dialect": "Bahasa Indonesia",
+  "languageExtension": "id"
+}
+{
+  "dialect": "Interlingue",
+  "languageExtension": "ie"
+}
+{
+  "dialect": "Igbo",
+  "languageExtension": "ig"
+}
+{
+  "dialect": "ꆇꉙ",
+  "languageExtension": "ii"
+}
+{
+  "dialect": "Iñupiak",
+  "languageExtension": "ik"
+}
+{
+  "dialect": "Ido",
+  "languageExtension": "io"
+}
+{
+  "dialect": "Íslenska",
+  "languageExtension": "is"
+}
+{
+  "dialect": "Italiano",
+  "languageExtension": "it"
+}
+{
+  "dialect": "ᐃᓄᒃᑎᑐᑦ",
+  "languageExtension": "iu"
+}
+{
+  "dialect": "日本語",
+  "languageExtension": "ja"
+}
+{
+  "dialect": "Basa Jawa",
+  "languageExtension": "jv"
+}
+{
+  "dialect": "ქართული",
+  "languageExtension": "ka"
+}
+{
+  "dialect": "KiKongo",
+  "languageExtension": "kg"
+}
+{
+  "dialect": "Gĩkũyũ",
+  "languageExtension": "ki"
+}
+{
+  "dialect": "Kuanyama",
+  "languageExtension": "kj"
+}
+{
+  "dialect": "Қазақша",
+  "languageExtension": "kk"
+}
+{
+  "dialect": "Kalaallisut",
+  "languageExtension": "kl"
+}
+{
+  "dialect": "ភាសាខ្មែរ",
+  "languageExtension": "km"
+}
+{
+  "dialect": "ಕನ್ನಡ",
+  "languageExtension": "kn"
+}
+{
+  "dialect": "한국어",
+  "languageExtension": "ko"
+}
+{
+  "dialect": "Kanuri",
+  "languageExtension": "kr"
+}
+{
+  "dialect": "كشميري",
+  "languageExtension": "ks"
+}
+{
+  "dialect": "كوردی",
+  "languageExtension": "ku"
+}
+{
+  "dialect": "Коми",
+  "languageExtension": "kv"
+}
+{
+  "dialect": "Kernewek",
+  "languageExtension": "kw"
+}
+{
+  "dialect": "Кыргызча",
+  "languageExtension": "ky"
+}
+{
+  "dialect": "Latina",
+  "languageExtension": "la"
+}
+{
+  "dialect": "Lëtzebuergesch",
+  "languageExtension": "lb"
+}
+{
+  "dialect": "Luganda",
+  "languageExtension": "lg"
+}
+{
+  "dialect": "Limburgs",
+  "languageExtension": "li"
+}
+{
+  "dialect": "Lingála",
+  "languageExtension": "ln"
+}
+{
+  "dialect": "ລາວ",
+  "languageExtension": "lo"
+}
+{
+  "dialect": "Lietuvių",
+  "languageExtension": "lt"
+}
+{
+  "dialect": "Latviešu",
+  "languageExtension": "lv"
+}
+{
+  "dialect": "Malagasy",
+  "languageExtension": "mg"
+}
+{
+  "dialect": "Kajin Majel",
+  "languageExtension": "mh"
+}
+{
+  "dialect": "Māori",
+  "languageExtension": "mi"
+}
+{
+  "dialect": "മലയാളം",
+  "languageExtension": "ml"
+}
+{
+  "dialect": "Монгол",
+  "languageExtension": "mn"
+}
+{
+  "dialect": "Moldovenească",
+  "languageExtension": "mo"
+}
+{
+  "dialect": "मराठी",
+  "languageExtension": "mr"
+}
+{
+  "dialect": "Bahasa Melayu",
+  "languageExtension": "ms"
+}
+{
+  "dialect": "bil-Malti",
+  "languageExtension": "mt"
+}
+{
+  "dialect": "Myanmasa",
+  "languageExtension": "my"
+}
+{
+  "dialect": "Dorerin Naoero",
+  "languageExtension": "na"
+}
+{
+  "dialect": "Sindebele",
+  "languageExtension": "nd"
+}
+{
+  "dialect": "नेपाली",
+  "languageExtension": "ne"
+}
+{
+  "dialect": "Oshiwambo",
+  "languageExtension": "ng"
+}
+{
+  "dialect": "Nederlands",
+  "languageExtension": "nl"
+}
+{
+  "dialect": "Norsk (nynorsk)",
+  "languageExtension": "nn"
+}
+{
+  "dialect": "Norsk",
+  "languageExtension": "no"
+}
+{
+  "dialect": "isiNdebele",
+  "languageExtension": "nr"
+}
+{
+  "dialect": "Diné bizaad",
+  "languageExtension": "nv"
+}
+{
+  "dialect": "Chi-Chewa",
+  "languageExtension": "ny"
+}
+{
+  "dialect": "Occitan",
+  "languageExtension": "oc"
+}
+{
+  "dialect": "ᐊᓂᔑᓈᐯᒧᐎᓐ",
+  "languageExtension": "oj"
+}
+{
+  "dialect": "Oromoo",
+  "languageExtension": "om"
+}
+{
+  "dialect": "ଓଡ଼ିଆ",
+  "languageExtension": "or"
+}
+{
+  "dialect": "Иронау",
+  "languageExtension": "os"
+}
+{
+  "dialect": "ਪੰਜਾਬੀ",
+  "languageExtension": "pa"
+}
+{
+  "dialect": "Pāli",
+  "languageExtension": "pi"
+}
+{
+  "dialect": "Polski",
+  "languageExtension": "pl"
+}
+{
+  "dialect": "پښتو",
+  "languageExtension": "ps"
+}
+{
+  "dialect": "Português",
+  "languageExtension": "pt"
+}
+{
+  "dialect": "Runa Simi",
+  "languageExtension": "qu"
+}
+{
+  "dialect": "Rumantsch",
+  "languageExtension": "rm"
+}
+{
+  "dialect": "Kirundi",
+  "languageExtension": "rn"
+}
+{
+  "dialect": "Română",
+  "languageExtension": "ro"
+}
+{
+  "dialect": "Русский",
+  "languageExtension": "ru"
+}
+{
+  "dialect": "Kinyarwandi",
+  "languageExtension": "rw"
+}
+{
+  "dialect": "संस्कृतम्",
+  "languageExtension": "sa"
+}
+{
+  "dialect": "Sardu",
+  "languageExtension": "sc"
+}
+{
+  "dialect": "सिनधि",
+  "languageExtension": "sd"
+}
+{
+  "dialect": "Davvisámegiella",
+  "languageExtension": "se"
+}
+{
+  "dialect": "Sängö",
+  "languageExtension": "sg"
+}
+{
+  "dialect": "Srpskohrvatski",
+  "languageExtension": "sh"
+}
+{
+  "dialect": "සිංහල",
+  "languageExtension": "si"
+}
+{
+  "dialect": "Slovenčina",
+  "languageExtension": "sk"
+}
+{
+  "dialect": "Slovenščina",
+  "languageExtension": "sl"
+}
+{
+  "dialect": "Gagana Samoa",
+  "languageExtension": "sm"
+}
+{
+  "dialect": "chiShona",
+  "languageExtension": "sn"
+}
+{
+  "dialect": "Soomaaliga",
+  "languageExtension": "so"
+}
+{
+  "dialect": "Shqip",
+  "languageExtension": "sq"
+}
+{
+  "dialect": "Српски",
+  "languageExtension": "sr"
+}
+{
+  "dialect": "SiSwati",
+  "languageExtension": "ss"
+}
+{
+  "dialect": "Sesotho",
+  "languageExtension": "st"
+}
+{
+  "dialect": "Basa Sunda",
+  "languageExtension": "su"
+}
+{
+  "dialect": "Svenska",
+  "languageExtension": "sv"
+}
+{
+  "dialect": "Kiswahili",
+  "languageExtension": "sw"
+}
+{
+  "dialect": "தமிழ்",
+  "languageExtension": "ta"
+}
+{
+  "dialect": "తెలుగు",
+  "languageExtension": "te"
+}
+{
+  "dialect": "Тоҷикӣ",
+  "languageExtension": "tg"
+}
+{
+  "dialect": "ไทย",
+  "languageExtension": "th"
+}
+{
+  "dialect": "ትግርኛ",
+  "languageExtension": "ti"
+}
+{
+  "dialect": "Туркмен",
+  "languageExtension": "tk"
+}
+{
+  "dialect": "Tagalog",
+  "languageExtension": "tl"
+}
+{
+  "dialect": "Setswana",
+  "languageExtension": "tn"
+}
+{
+  "dialect": "Lea Faka-Tonga",
+  "languageExtension": "to"
+}
+{
+  "dialect": "Türkçe",
+  "languageExtension": "tr"
+}
+{
+  "dialect": "Xitsonga",
+  "languageExtension": "ts"
+}
+{
+  "dialect": "Tatarça",
+  "languageExtension": "tt"
+}
+{
+  "dialect": "Twi",
+  "languageExtension": "tw"
+}
+{
+  "dialect": "Reo Mā`ohi",
+  "languageExtension": "ty"
+}
+{
+  "dialect": "Uyƣurqə",
+  "languageExtension": "ug"
+}
+{
+  "dialect": "Українська",
+  "languageExtension": "uk"
+}
+{
+  "dialect": "اردو",
+  "languageExtension": "ur"
+}
+{
+  "dialect": "Ўзбек",
+  "languageExtension": "uz"
+}
+{
+  "dialect": "Tshivenḓa",
+  "languageExtension": "ve"
+}
+{
+  "dialect": "Việtnam",
+  "languageExtension": "vi"
+}
+{
+  "dialect": "Wollof",
+  "languageExtension": "wo"
+}
+{
+  "dialect": "isiXhosa",
+  "languageExtension": "xh"
+}
+{
+  "dialect": "en:Yiddish",
+  "languageExtension": "yi"
+}
+{
+  "dialect": "Yorùbá",
+  "languageExtension": "yo"
+}
+{
+  "dialect": "Cuengh",
+  "languageExtension": "za"
+}
+{
+  "dialect": "中文",
+  "languageExtension": "zh"
+}
