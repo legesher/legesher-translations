@@ -1319,7 +1319,7 @@ __TRAIT__: ""
   classmethod: "metoda_klasowa" # metodaklasowa klasowametoda? klasowa_metoda?
   compile: "skompiluj"
   complex: "kompleksowa" # kompleksowa_analiza?
-  delattr: "usuńatrybut" # usuń_atrybut?
+  delattr: "usuń_atrybut" # usuńatrybut?
   dict: "słownik"
   dir: "katalog" # informator?
   divmod: "dzielmod"
