@@ -1,0 +1,315 @@
+{
+  "keyword": "False",
+  "translationSet": [
+    { "en": "False" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "similar to `0`, and considered FALSE in boolean logic",
+  "category": "Truth Values"
+}
+{
+  "keyword": "None",
+  "translationSet": [
+    { "en": "None" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": "References"
+}
+{
+  "keyword": "True",
+  "translationSet": [
+    { "en": "True" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "Similar to `1`, and considered TRUE in boolean logic",
+  "category": "Truth Values"
+}
+{
+  "keyword": "and",
+  "translationSet": [
+    { "en": "and" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": "Logical Operators"
+}
+{
+  "keyword": "as",
+  "translationSet": [
+    { "en": "as" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": "References"
+}
+{
+  "keyword": "assert",
+  "translationSet": [
+    { "en": "assert" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": "Debugging"
+}
+{
+  "keyword": "async",
+  "translationSet": [
+    { "en": "async" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": "User Defined Structures"
+}
+{
+  "keyword": "await",
+  "translationSet": [
+    { "en": "await" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": "User Defined Structures"
+}
+{
+  "keyword": "break",
+  "translationSet": [
+    { "en": "break" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "class",
+  "translationSet": [
+    { "en": "class" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "continue",
+  "translationSet": [
+    { "en": "continue" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "def",
+  "translationSet": [
+    { "en": "def" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "del",
+  "translationSet": [
+    { "en": "del" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "elif",
+  "translationSet": [
+    { "en": "elif" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "else",
+  "translationSet": [
+    { "en": "else" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "except",
+  "translationSet": [
+    { "en": "except" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "finally",
+  "translationSet": [
+    { "en": "finally" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "for",
+  "translationSet": [
+    { "en": "for" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "from",
+  "translationSet": [
+    { "en": "from" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "global",
+  "translationSet": [
+    { "en": "global" }
+  ],
+  "programmingLanugageSetID": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "if",
+  "translationSet": [
+    { "en": "if" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "import",
+  "translationSet": [
+    { "en": "import" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "in",
+  "translationSet": [
+    { "en": "in" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "is",
+  "translationSet": [
+    { "en": "is" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "lambda",
+  "translationSet": [
+    { "en": "lambda" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "nonlocal",
+  "translationSet": [
+    { "en": "nonlocal" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "not",
+  "translationSet": [
+    { "en": "not" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": "Logical Operators"
+}
+{
+  "keyword": "or",
+  "translationSet": [
+    { "en": "or" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": "Logical Operators"
+}
+{
+  "keyword": "pass",
+  "translationSet": [
+    { "en": "pass" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "raise",
+  "translationSet": [
+    { "en": "raise" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "return",
+  "translationSet": [
+    { "en": "return" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "try",
+  "translationSet": [
+    { "en": "try" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "while",
+  "translationSet": [
+    { "en": "while" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "with",
+  "translationSet": [
+    { "en": "with" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
+{
+  "keyword": "yield",
+  "translationSet": [
+    { "en": "yield" }
+  ],
+  "programmingLanugageSet": ["python"],
+  "definition": "",
+  "category": ""
+}
