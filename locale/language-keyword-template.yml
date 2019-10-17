@@ -1321,7 +1321,7 @@ __TRAIT__: ""
   input: ""
   int: ""
   isinstance: ""
-  issubclass: ""``
+  issubclass: ""
   iter: ""
   len: ""
   list: ""
@@ -1811,10 +1811,3 @@ xnor: ""
 xor: ""
 
 # << Error Messages >>
-
-# ------------------------------------
-# |   CONTENT: LEGESHER.IO WEBSITE   |
-# ------------------------------------
-# TODO: add home page translations
-# TODO: add tutorials
-# TODO: add other content
