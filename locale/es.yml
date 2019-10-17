@@ -1248,113 +1248,113 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: "Falso"
-  None: "Ninguno"
-  True: "Verdadero"
-  and: "Y"
-  as: "como"
-  assert: "afirmar"
-  async: "asíncrono"
-  await: "esperar"
-  break: "romper"
-  class: "clase"
-  continue: "continuar"
-  def: "definir" #def it's a short for define, in the traslated version isn't shorted
-  del: "eliminar" #same as def
-  elif: "si no si"
-  else: "entonces" # in this context means "entonces" because "if else" is "si entonces"
-  except: "excepto"
-  finally: "finalmente"
-  for: "por"
-  from: "desde"
-  global:  "global"
-  if: "si" # same in the else keyword, in this context means "si"
-  import: "importar"
-  in: "en"
-  is: "es"
-  lambda: "lambda" # there isn't translation for this word to spanish
-  nonlocal: "no local"
-  not: "no"
-  or: "o"
-  pass: "pasar"
-  raise: "subir"
-  return: "retornar"
-  try: "intentar"
-  while: "mientras"
-  with: "con"
-  yield: "generador" # it isn't the direct translation, but it's more understandeable since yield returns a generator
+  False: "Falso" # ✅
+  None: "Ninguno" # ✅
+  True: "Verdadero" # ✅
+  and: "Y" # ✅
+  as: "como" # ✅
+  assert: "afirmar" # ✅
+  async: "asíncrono" # ✅
+  await: "esperar" # ✅
+  break: "interrumpir"
+  class: "clase" # ✅
+  continue: "continuar" # ✅
+  def: "definir" # ✅ def it's a short for define, in the traslated version isn't shorted
+  del: "eliminar" # ✅ same as def
+  elif: "si no si" # ✅
+  else: "si no"
+  except: "excepto" # ✅
+  finally: "finalmente" # ✅
+  for: "para"
+  from: "desde" # ✅
+  global:  "global" # ✅
+  if: "si" # ✅ same in the else keyword, in this context means "si"
+  import: "importar" # ✅
+  in: "en" # ✅
+  is: "es" # ✅
+  lambda: "función anónima" # there isn't translation for this word to spanish
+  nonlocal: "no local" # ✅
+  not: "no" # ✅
+  or: "o" # ✅
+  pass: "pasar" # ✅
+  raise: "generar excepción"
+  return: "retornar" # ✅
+  try: "intentar" # ✅
+  while: "mientras" # ✅
+  with: "con" # ✅
+  yield: "entregar" # yield return a generator, insted of use "retornar", "entregar" can be more properly
 
 # << Built-In Functions >>
 
-  abs: "absoluto"
-  all: "todos"
-  any: "cualquier"
-  ascii: "ascii" # does not have direct translation
-  bin: "binarios" 
-  bool: "booleano"
-  breakpoint: "punto de ruptura"
-  bytearray: "arreglo de byte"
-  bytes: "byte" 
-  callable: "llamable"
-  chr: "caracter"
-  classmethod: "metodo de la clase"
-  compile: "compilar"
-  complex: "complejo"
-  delattr: "eliminar atributo" #from delete attribute
-  dict: "diccionario"
-  dir: "directorio"
-  divmod: "mode de division" #not quite sure if it should be translated like this
-  enumerate: "enumerado"
-  eval: "eval" # Not sure how will translate
-  exec: "ejecutar"
-  filter: "filtrar"
-  float: "flotante" 
-  format: "formato"
-  frozenset: "congelar"
-  getattr: "obtener atributo"
-  globals: "globales"
-  hasattr: "tiene atributo"
-  hash: "hash" # its direct translation wont make sense in this context
-  help: "ayuda"
-  hex: "hexadecimal"
-  id: "identificador"
-  input: "entrada"
-  int: "entero"
-  isinstance: "es instancia"
-  issubclass: "es subclase"
-  iter: "iterador"
-  len: "longitud"
-  list: "lista"
-  locals: "locales"
-  map: "mapa"
-  max: "maximo"
-  memoryview: "vista de memoria"
-  min: "minimo"
-  next: "siguiente"
-  object: "objeto"
-  oct: "octal"
-  open: "abierto"
-  ord: "ord" #I don't know how I would traslate this
-  pow: "potencia"
-  print: "imprimir"
-  property: "propiedad"
-  range: "rango"
-  repr: "repr" #can't be direct translated 
-  reversed: "invertido"
-  round: "redondear"
-  set: "asignar" # it is not the direct translation but in this context it makes sense 
-  setattr: "asignar atributo"
-  slice: "rebanada"
-  sorted: "ordenado"
-  staticmethod: "metodo estatico"
-  str: "cadeba de texto"
-  sum: "suma"
-  super: "superior"
-  tuple: "tupla"
-  type: "tipo"
-  vars: "variables"
-  zip: "zip" # can't be direct translated
-  __import__: "importar"
+  abs: "valor absoluto"
+  all: "todos iterables"
+  any: "alguno iterable"
+  ascii: "ascii" # ✅ does not have direct translation
+  bin: "binario"
+  bool: "booleano" # ✅
+  breakpoint: "punto de ruptura" # ✅
+  bytearray: "arreglo de byte" # ✅
+  bytes: "bytes"
+  callable: "llamable" # ✅
+  chr: "caracter" # ✅
+  classmethod: "metodo de la clase" # ✅
+  compile: "compilar" # ✅
+  complex: "complejo" # ✅
+  delattr: "eliminar atributo" # ✅ from delete attribute
+  dict: "diccionario" # ✅
+  dir: "atributos"
+  divmod: "cociente y resto"
+  enumerate: "enumerar"
+  eval: "evaluar"
+  exec: "ejecutar" # ✅
+  filter: "filtrar" # ✅
+  float: "flotante"  # ✅
+  format: "formato" # ✅
+  frozenset: "congelar" # ✅
+  getattr: "obtener atributo" # ✅
+  globals: "globales" # ✅
+  hasattr: "tiene atributo" # ✅
+  hash: "hash" # ✅ its direct translation wont make sense in this context
+  help: "ayuda" # ✅
+  hex: "hexadecimal" # ✅
+  id: "identificador" # ✅
+  input: "entrada" # ✅
+  int: "entero" # ✅
+  isinstance: "es instancia" # ✅
+  issubclass: "es subclase" # ✅
+  iter: "iterador" # ✅
+  len: "longitud" # ✅
+  list: "lista" # ✅
+  locals: "locales" # ✅
+  map: "mapa" # ✅
+  max: "máximo"
+  memoryview: "vista de memoria" # ✅
+  min: "mínimo"
+  next: "siguiente" # ✅
+  object: "objeto" # ✅
+  oct: "octal" # ✅
+  open: "abrir"
+  ord: "representación unicode" # I don't know how I would traslate this
+  pow: "potencia" # ✅
+  print: "imprimir" # ✅
+  property: "propiedad" # ✅
+  range: "rango" # ✅
+  repr: "representación"
+  reversed: "invertido" # ✅
+  round: "redondear" # ✅
+  set: "asignar" # ✅ it is not the direct translation but in this context it makes sense
+  setattr: "asignar atributo" # ✅
+  slice: "cortar"
+  sorted: "ordenar"
+  staticmethod: "metodo estatico" # ✅
+  str: "cadena de texto" # ✅
+  sum: "suma" # ✅
+  super: "superior" # ✅
+  tuple: "tupla" # ✅
+  type: "tipo" # ✅
+  vars: "variables" # ✅
+  zip: "zip" # ✅ can't be direct translated
+  __import__: "importar" # ✅
 
 # << Error Messages >>
 
