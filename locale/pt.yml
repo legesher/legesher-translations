@@ -229,7 +229,7 @@ continue: "continuar"
 decltype: ""
 default: ""
 delete: "deletar"
-do: "fa�a"
+do: "faça"
 double: ""
 dynamic_cast: ""
 else: ""
@@ -1248,112 +1248,112 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: ""
-  None: ""
-  True: ""
-  and: ""
-  as: ""
-  assert: ""
-  async: ""
-  await: ""
-  break: ""
-  class: ""
-  continue: ""
-  def: ""
-  del: ""
-  elif: ""
-  else: ""
-  except: ""
-  finally: ""
-  for: ""
-  from: ""
-  global:  ""
-  if: ""
-  import: ""
-  in: ""
-  is: ""
-  lambda: ""
+  False: "Falso"
+  None: "Nada" #❓
+  True: "Verdadeiro"
+  and: "e"
+  as: "como"
+  assert: "assegure" #❓
+  async: "assíncrono" #Maybe remove the special character
+  await: "aguarde" 
+  break: "quebre" #❓
+  class: "classe"
+  continue: "continue"
+  def: "def" #define -> 'definir' (def still)
+  del: "del" #delete -> 'deletar' (or 'apagar', 'remover')
+  elif: "sense" #if -> 'se', else -> 'senão'... elif -> 'sen(ão)' + 'se' = 'sense'
+  else: "senão" 
+  except: "exceto"
+  finally: "finalmente"
+  for: "para"
+  from: "de" 
+  global:  "global" #The same, no variation
+  if: "se"
+  import: "importe"
+  in: "em"
+  is: "é"
+  lambda: "lambda"
   nonlocal: ""
-  not: ""
-  or: ""
-  pass: ""
+  not: "não"
+  or: "ou"
+  pass: "passe"
   raise: ""
-  return: ""
-  try: ""
-  while: ""
-  with: ""
+  return: "retorne"
+  try: "tente"
+  while: "enquanto"
+  with: "com"
   yield: ""
 
 # << Built-In Functions >>
 
-  abs: ""
+  abs: "abs"
   all: ""
-  any: ""
+  any: "qualquer"
   ascii: ""
-  bin: ""
-  bool: ""
+  bin: "bin"
+  bool: "bool" #🤔
   breakpoint: ""
-  bytearray: ""
+  bytearray: "" 
   bytes: ""
   callable: ""
   chr: ""
   classmethod: ""
-  compile: ""
-  complex: ""
+  compile: "compilar" #Assuming it's a verb
+  complex: "complexo"
   delattr: ""
-  dict: ""
+  dict: "dic" #Dictionaty -> 'Dicionário'
   dir: ""
   divmod: ""
   enumerate: ""
   eval: ""
   exec: ""
   filter: ""
-  float: ""
-  format: ""
+  float: "" #🤔
+  format: "formato" #❓ #Assuming it's a noun (not verb etc)
   frozenset: ""
   getattr: ""
-  globals: ""
+  globals: "globais"
   hasattr: ""
-  hash: ""
-  help: ""
-  hex: ""
-  id: ""
-  input: ""
-  int: ""
+  hash: "hash"
+  help: "ajuda"
+  hex: "hex"
+  id: "id"
+  input: "entrada"
+  int: "int" #Integer -> 'inteiro'
   isinstance: ""
-  issubclass: ""``
-  iter: ""
-  len: ""
-  list: ""
+  issubclass: ""
+  iter: "iter" #❓ #iterate, iterable, iterative -> 'iterar, iterável, iterativo' (pretty much the same)
+  len: "tam" #lenght -> 'tamanho' or 'comprimento'
+  list: "lista"
   locals: ""
-  map: ""
-  max: ""
+  map: "map" #map (verb) -> 'mapear' (map still)
+  max: "max" #Maximum -> 'Máximo' (max still)
   memoryview: ""
-  min: ""
-  next: ""
-  object: ""
+  min: "min" #❓ #minimun -> 'mínimo' (min still, except for the accent)
+  next: "próximo" #next -> próximo 
+  object: "objeto"
   oct: ""
-  open: ""
+  open: "abrir" #Assuming it's a verb
   ord: ""
   pow: ""
-  print: ""
+  print: "" #🤔 #print is 'imprimir', but in practice, we use 'printar'. So I believe it's better to stay with print
   property: ""
   range: ""
-  repr: ""
-  reversed: ""
-  round: ""
-  set: ""
-  setattr: ""
-  slice: ""
-  sorted: ""
-  staticmethod: ""
-  str: ""
-  sum: ""
-  super: ""
-  tuple: ""
-  type: ""
-  vars: ""
-  zip: ""
+  repr: "repr" #❓ #Representation -> 'Representação'
+  reversed: "revertido" #more common is 'invertido', but to maintain a certain consistance with the language, i chose 'revertido', which also exists
+  round: "arredondar" #round as adjective is 'redondo', but as a verb is 'arredondar'
+  set: "definir" #set -> 'definir'
+  setattr: "definiratr" #set -> 'definir', attribute -> 'atributo'
+  slice: "fatiar" #❓ #slice as a noun is 'fatia', but as a verb is 'fatiar'
+  sorted: "ordenado" #sort -> 'ordenar'
+  staticmethod: "metodoestatico" #static -> 'estático', method -> 'método'
+  str: "str" #🤔 #The translation for string is 'linha', but it's not really used with this meaning
+  sum: "soma"
+  super: "super"
+  tuple: "tupla"
+  type: "tipo" #Type (meaning kind, group; not keyboard typing) -> 'Tipo'
+  vars: "vars" #Variables -> 'Variáveis' 
+  zip: "zip" #🤔
   __import__: ""
 
 # << Error Messages >>
