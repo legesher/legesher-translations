@@ -14,27 +14,27 @@ language-abbreviation: "pt"
 # NOTE: All keywords are capitalized for Atom because it is used for
 # key information found in comments within the editor
   NOTE: "NOTA"
-  INFO: ""
-  IDEA: ""
+  INFO: "INFORMAÇÃO"
+  IDEA: "IDEIA"
   DEBUG: ""
-  REMOVE: ""
-  OPTIMIZE: ""
+  REMOVE: "REMOVER"
+  OPTIMIZE: "OTIMIZAR"
   REVIEW: "REVISAR"
   HACK: ""
   UNDONE: "INCOMPLETO"
-  TODO: ""
-  REFACTOR: ""
-  DEPRECATED: ""
+  TODO: "PARA FAZER"
+  REFACTOR: "REFAZER"
+  DEPRECATED: "DESCONTINUADO"
   TASK: "TAREFA"
   CHGME: ""
-  NOTREACHED: ""
+  NOTREACHED: "NÃO ATINGIDO"
   WTF: ""
   BUG: ""
-  ERROR: ""
-  OMG: ""
+  ERROR: "ERRO"
+  OMG: "OH MEU DEUS"
   ERR: ""
   OMFGRLY: ""
-  WARNING: ""
+  WARNING: "AVISO"
   WARN: ""
   BROKEN: "QUEBRADO"
 
@@ -43,17 +43,17 @@ language-abbreviation: "pt"
 # ----------------------
 # NOTE: https://agda.readthedocs.io/en/v2.5.4.2/index.html
 # << Keywords >>
-  abstract: ""
+  abstract: "abstrato"
   codata: ""
   coinductive: ""
   constructor: ""
-  data: ""
-  do: ""
+  data: "dado"
+  do: "fazer"
   eta-equality: ""
-  field: ""
+  field: "campo"
   forall: ""
-  hiding: ""
-  import: ""
+  hiding: "esconder"
+  import: "importar"
   in: ""
   inductive: ""
   infix: ""
@@ -69,25 +69,25 @@ language-abbreviation: "pt"
   overlap: ""
   pattern: ""
   postulate: ""
-  primitive: ""
-  private: ""
-  public: ""
+  primitive: "primitivo"
+  private: "privado"
+  public: "público"
   quote: ""
   quoteContext: ""
   quoteGoal: ""
   quoteTerm: ""
-  record: ""
+  record: "gravar"
   renaming: ""
   rewrite: ""
   Set: "" # can appear with a number suffix, optionally suffixed, make sure we account for this
-  syntax: ""
-  tactic: ""
+  syntax: "sintaxe"
+  tactic: "tática"
   unquote: ""
   unquoteDecl: ""
   unquoteDef: ""
-  using: ""
-  where: ""
-  with: ""
+  using: "usando"
+  where: "aonde"
+  with: "com"
 
 # << Error Messages >>
 
@@ -98,22 +98,22 @@ language-abbreviation: "pt"
 # NOTE: https://www.amibroker.com/guide/a_language.html
 
 # << Keywords >>
-do: "" # (part of do-while statement)
-while: ""
-for: ""
-if: "" # (part of if-else statement)
-else: "" # (part of if-else statement)
-switch: ""
-break: "" # (part of the switch statement or for/while statements)
-case: "" # (part of the switch statement)
-continue: "" # (part of for/while statements)
-default: "" # (part of switch statement)
-function: ""
-procedure: ""
-return: ""
-local: ""
-global: ""
-static: ""
+do: "fazer" # (part of do-while statement)
+while: "enquanto"
+for: "para"
+if: "se" # (part of if-else statement)
+else: "se não" # (part of if-else statement)
+switch: "trocar"
+break: "quebrar" # (part of the switch statement or for/while statements)
+case: "caso" # (part of the switch statement)
+continue: "continue" # (part of for/while statements)
+default: "padrão" # (part of switch statement)
+function: "função"
+procedure: "procedimento"
+return: "retorne"
+local: "local"
+global: "global"
+static: "estático"
 typeof: ""
 NOT: ""
 AND: ""
