@@ -5,7 +5,7 @@
 # THANK YOU FOR MAKING LEGESHER LARGER THAN US.
 
 # NOTE: "language-abbreviation"
-language-abbreviation: ""
+language-abbreviation: "pl"
 
 # ----------------------
 # |    SYSTEM: ATOM    |
@@ -1248,113 +1248,132 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: ""
-  None: ""
-  True: ""
-  and: ""
-  as: ""
-  assert: ""
-  async: ""
-  await: ""
-  break: ""
-  class: ""
-  continue: ""
-  def: ""
-  del: ""
-  elif: ""
-  else: ""
-  except: ""
-  finally: ""
-  for: ""
-  from: ""
-  global:  ""
-  if: ""
-  import: ""
-  in: ""
-  is: ""
-  lambda: ""
-  nonlocal: ""
-  not: ""
-  or: ""
-  pass: ""
-  raise: ""
-  return: ""
-  try: ""
-  while: ""
-  with: ""
-  yield: ""
+#
+# Things that definitely a second look by someone have 2ndOPINION on the same line as the word that needs looking at.
+#
+# Some notes:
+#
+# 1) Would it be better to substitute the Polish letters
+#    with their normal Latin variations to ease typing
+#    for the end user?
+#
+#    Examples:
+#        oczekój -> oczekoj
+#        usuń -> usun
+#
+# 2) So far I've been writing in tense like as if the author
+#    is talking to the script & telling the code to do stuff.
+#    I think it makes sense to do it like that but would like
+#    someone else's opinion on this.
+#
+
+  False: "Nieprawda" # Fałsz?
+  None: "Nic"
+  True: "Prawda"
+  and: "i"
+  as: "jako" # jak?
+  assert: "zapewnij" # zapewniać
+  async: "asynchronicznie" # Probably best to keep as "async".
+  await: "oczekój" # poczekaj? oczekiwać?
+  break: "przerwij" # przerwać?
+  class: "klasa"
+  continue: "kontynuuj"
+  def: "definicja" # Probably best to keep as "def"
+  del: "usuń" # kasuj?
+  elif: "inaczejjeśli" # inaczej_jeśli?   Abbreviation: injeśli? [2ndOPINION]
+  else: "inaczej"
+  except: "wyjątek"
+  finally: "wreszcie" # ostatecznie?
+  for: "na" # za?
+  from: "z" # od?
+  global:  "globalna"
+  if: "jeśli" # jeżeli?
+  import: "importuj" # importować?
+  in: "w" # we?
+  is: "jest"
+  lambda: "lambda" #
+  nonlocal: "nielokalna" # nie_lokalna?
+  not: "nie"
+  or: "albo"
+  pass: "przejdź"
+  raise: "zgłoś"
+  return: "zwróć"
+  try: "spróbuj"
+  while: "podczas"
+  with: "przy" # Can't think of any other word that makes sense & doesn't clash with "from". [2ndOPINION]
+  yield: "wydobywaj"
 
 # << Built-In Functions >>
 
-  abs: ""
-  all: ""
-  any: ""
-  ascii: ""
-  bin: ""
-  bool: ""
-  breakpoint: ""
-  bytearray: ""
-  bytes: ""
-  callable: ""
-  chr: ""
-  classmethod: ""
-  compile: ""
-  complex: ""
-  delattr: ""
-  dict: ""
-  dir: ""
-  divmod: ""
-  enumerate: ""
-  eval: ""
-  exec: ""
-  filter: ""
-  float: ""
-  format: ""
-  frozenset: ""
-  getattr: ""
-  globals: ""
-  hasattr: ""
-  hash: ""
-  help: ""
-  hex: ""
-  id: ""
-  input: ""
-  int: ""
-  isinstance: ""
-  issubclass: ""
-  iter: ""
-  len: ""
-  list: ""
-  locals: ""
-  map: ""
-  max: ""
-  memoryview: ""
-  min: ""
-  next: ""
-  object: ""
-  oct: ""
-  open: ""
-  ord: ""
-  pow: ""
-  print: ""
-  property: ""
-  range: ""
-  repr: ""
-  reversed: ""
-  round: ""
-  set: ""
-  setattr: ""
-  slice: ""
-  sorted: ""
-  staticmethod: ""
-  str: ""
-  sum: ""
-  super: ""
-  tuple: ""
-  type: ""
-  vars: ""
-  zip: ""
-  __import__: ""
+  abs: "wartość_całkowita" # To avoid clash with "int" the "wartość_" & "liczba_" (for "int") unless there are better suggestions? [2ndOPINION]
+  all: "wszystko"
+  any: "jakiekolwiek"
+  ascii: "ascii"
+  bin: "binarny"
+  bool: "bool" # boolowska? zerojedynkowa?
+  breakpoint: "punkt_przerwania"
+  bytearray: "tablica_bajtów" # szyk_bajtów?
+  bytes: "bajty"
+  callable: "wywoływalne"
+  chr: "znak" # litera?
+  classmethod: "metoda_klasowa" # metodaklasowa klasowametoda? klasowa_metoda?
+  compile: "skompiluj"
+  complex: "kompleksowa" # kompleksowa_analiza?
+  delattr: "usuń_atrybut" # usuńatrybut?
+  dict: "słownik"
+  dir: "katalog" # informator?
+  divmod: "dzielmod"
+  enumerate: "wyliczaj"
+  eval: "oceń"
+  exec: "wykonaj"
+  filter: "filtruj"
+  float: "zmiennoprzecinkowa" # liczba_zmiennoprzecinkowa?   Abbreviation: zmienno? [2ndOPINION]
+  format: "sformatuj"
+  frozenset: "niezmienny_zestaw" # niezmiennyzestaw?
+  getattr: "weź_atrybut" # weźatrybut?
+  globals: "globalne" # wszystkie_globalne?
+  hasattr: "ma_atrybut" # maatrybut
+  hash: "zakoduj"
+  help: "pomoc"
+  hex: "szesnastkowa"
+  id: "identyfikator" # Probably best to keep as "id".
+  input: "wkład" # wklad_użytkownika?
+  int: "liczba_całkowita"
+  isinstance: "jest_wystąpieniem" # jestwystąpieniem?
+  issubclass: "jest_podklasą" # jestpodklasą
+  iter: "iterator" # Probably best to keep as "iter". [2ndOPINION]
+  len: "ilość"
+  list: "lista"
+  locals: "lokalne"
+  map: "zamapuj"
+  max: "maksymalna"
+  memoryview: "widok_pamięciowy" # widokpamięciowy
+  min: "minimalna"
+  next: "następny"
+  object: "objekt"
+  oct: "ósemkowa"
+  open: "otwartym" # Was thinking "otwórz" but then we lose Python's speech-like flow. [2ndOPINION]
+  ord: "ord" # I can't think of a sensible translation for this, probably best to keep as "ord"? [2ndOPINION]
+  pow: "do_potęgi"
+  print: "drukuj"
+  property: "właściwość"
+  range: "zasięg"
+  repr: "przedrukuj" # przedruk? przedrukować?
+  reversed: "odwróć" # odwrócić? odwrócona?
+  round: "zaokrągl"
+  set: "ustaw"
+  setattr: "ustaw_atrybut" # ustawatrybut?
+  slice: "pokrój"
+  sorted: "posortowana"
+  staticmethod: "metoda_statyczna" # metodastatyczna?
+  str: "ciąg"
+  sum: "suma"
+  super: "rodzic"
+  tuple: "krotka"
+  type: "typ"
+  vars: "zmienne"
+  zip: "zip"
+  __import__: "__importuj__" # __importować__?
 
 # << Error Messages >>
 
@@ -1811,3 +1830,10 @@ xnor: ""
 xor: ""
 
 # << Error Messages >>
+
+# ------------------------------------
+# |   CONTENT: LEGESHER.IO WEBSITE   |
+# ------------------------------------
+# TODO: add home page translations
+# TODO: add tutorials
+# TODO: add other content
