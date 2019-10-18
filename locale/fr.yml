@@ -5,7 +5,7 @@
 # THANK YOU FOR MAKING LEGESHER LARGER THAN US.
 
 # NOTE: "language-abbreviation"
-language-abbreviation: ""
+language-abbreviation: "fr"
 
 # ----------------------
 # |    SYSTEM: ATOM    |
@@ -1248,113 +1248,113 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: "Faux" # ✓
-  None: "Nul"  # ? Previously: Null. Could be nul (masc) or nulle (fem), but french language defaults to masculine.
-  True: "Vrai" # ✓
-  and: "et" # ? Previously: and. Translation should be 'et'
-  as: "comme"  # ✓
-  assert: "affirme" # ? Previously: Affirmer. Affirmer is closer to meaning "to assert". I believe the present tense would be more intuitive.
-  async: "async" # :thinking: Previously: Asynchrone. Like we don't use the full word asynchronous in english, a shorthand is likely fine
-  await: "attend" # ? Previously: attendre. Verb tense
-  break: "casse" # ? Previously: Arreter. Arreter means 'to stop', which is not quite the same usage as break. Tricky, went with more literal 'casse'
-  class: "classe" # ✓
-  continue: "continue" # ? Previously: continuer. Verb tense
-  def: "déf" # ? Previously: définir. Shorthand
-  del: "efface" # ? Previously: supprimer. Sup means to suppress, efface means erase, feels closer + more intuitive
-  elif: "sinon si" # ✓
-  else: "sinon" # ✓
-  except: "excepte" # ? Previously: Excepter. Verbe tense. Thought 'sauf' might work as well, but this feels more explicit
-  finally: "finalement" # ✓
-  for: "pour" # ✓
-  from: "de" # ✓
-  global:  "globale" # ✓
-  if: "si" # ✓
-  import: "importe" # Previously: importer. Verb tense
-  in: "dans" # ✓
-  is: "est" # ✓
-  lambda: "lambda" # ✓
-  nonlocal: "nonlocale" # Previously: non locale. Don't think we should have 2 word keywords?
-  not: "non" # ✓
-  or: "ou" # ✓
-  pass: "passe" # ? Previously: Passer. Verb tense
-  return: "retourne" # ? Previously: retourner. Verb tense
-  raise: "lève" # Previously: lever. Verb tense + accent
-  try: "essaye" # Previously: essayer. Verb tense
-  while: "tantque" # ✓ Nice, like this better than 'pendant'
-  with: "avec" # ✓
-  yield: "produit" # ? Previously: produire. Verb tense
+  False: "Faux" # ✓✓
+  None: "Nul"  # ? Previously: Null. Could be nul (masc) or nulle (fem), but french language defaults to masculine. || ✓ Agree on "Nul" as translation. More likely to be in masc form
+  True: "Vrai" # ✓✓
+  and: "et" # ? Previously: and. Translation should be 'et' || ✓ Agree on "et"
+  as: "comme"  # ✓✓
+  assert: "affirme" # ? Previously: Affirmer. Affirmer is closer to meaning "to assert". I believe the present tense would be more intuitive. || ✓ Agree on use of present tense, rather than infinitive 'affirmer'
+  async: "async" # :thinking: Previously: Asynchrone. Like we don't use the full word asynchronous in english, a shorthand is likely fine || ✓ Agree on use of shorthand (and same for below shorthands)
+  await: "attend" # ? Previously: attendre. Verb tense || ✓
+  break: "casse" # ? Previously: Arreter. Arreter means 'to stop', which is not quite the same usage as break. Tricky, went with more literal 'casse' || ✓ Agree that "casse" is closer to the meaning, as you 'break' the loop 
+  class: "classe" # ✓✓
+  continue: "continue" # ? Previously: continuer. Verb tense || ✓
+  def: "déf" # ? Previously: définir. Shorthand || ✓ But could also be put in present tense as "définit", but "déf" is fine, as it is in English as "def"
+  del: "efface" # ? Previously: supprimer. Sup means to suppress, efface means erase, feels closer + more intuitive || ? "supprime" could work too, meaning 'removes'. I often see 'supprime' relating to computing and data, but 'efface' would work too
+  elif: "sinon si" # ✓✓
+  else: "sinon" # ✓✓
+  except: "excepte" # ? Previously: Excepter. Verbe tense. Thought 'sauf' might work as well, but this feels more explicit || ✓ agree on "excepte"
+  finally: "finalement" # ✓✓
+  for: "pour" # ✓✓
+  from: "de" # ✓✓
+  global:  "globale" # ✓✓ 
+  if: "si" # ✓✓
+  import: "importe" # Previously: importer. Verb tense || ✓
+  in: "dans" # ✓✓
+  is: "est" # ✓✓
+  lambda: "lambda" # ✓✓
+  nonlocal: "nonlocale" # Previously: non locale. Don't think we should have 2 word keywords? || ✓ 
+  not: "non" # ✓✓
+  or: "ou" # ✓✓
+  pass: "passe" # ? Previously: Passer. Verb tense || ✓
+  return: "retourne" # ? Previously: retourner. Verb tense || ✓
+  raise: "lève" # Previously: lever. Verb tense + accent || ✓
+  try: "essaye" # Previously: essayer. Verb tense || ✓ 
+  while: "tantque" # ✓ Nice, like this better than 'pendant' || ✓
+  with: "avec" # ✓✓
+  yield: "produit" # ? Previously: produire. Verb tense || ✓
 
 # << Built-In Functions >>
 
-  abs: "abs" # ? Previously: absolue. Shorthand
-  all: "tout" # ✓
-  any: "nimporte" # Previously: peu importe. should be one word, n'importe means the same.
-  ascii: "ascii" # ✓
-  bin: "bin" # ? Previously: binaire. Shorthand fits the same.
-  bool: "bool" # ? Previously: booléen. Shorthand fits the same.
-  breakpoint: "point-arret" # ✓
-  bytearray: "chaine-octets" # ? Previously: chaine octets. Made one word.
-  bytes: "octets" # ✓
-  callable: "appelable" # ✓
-  chr: "caractère" # ? Previously: caractére. Fixed accent
-  classmethod: "méthodeclasse" # ? Previously: Methode de classe. Squashed to one word.
-  compile: "compile" # ✓
-  complex: "complexe" # ✓
-  delattr: "effaceattr" # ? Previously: supprimer attribut. One word, more accurate delete word.
-  dict: "dict" # ? Previously: binaire. Shorthand fits the same.
-  dir: "repertoire" # ✓
-  divmod: "divmod" # ? Previously: Division modulo. One word, shorthand fits fine
-  enumerate: "énumérer" # ✓
-  eval: "éval" # ? Previously: évaluer. Shorthand
-  exec: "exécute" # ? Previously: excevuter. Typo
-  filter: "filtre" # ✓
-  float: "flotte" # :thinking: Previously: flotant. Nothing exact here.
-  format: "format" # ✓
-  getattr: "chercheattr" # ? Previously: recupere attribut. One word, cherche is closer to 'find'. Recupere is closer to 'recover'.
-  frozenset: "ensemblefigé" # ? Previously: ensemble figé. Made one word
-  hasattr: "àattr" # ? Previously: a l'attribute. One word, more to the point. 
-  globals: "globaux" # ? Previously: Global. Pluralize
-  hash: "hachage" # ? Previously: tableau de hachage. More to the point. Might still be a better word for it perhaps.
-  help: "aide" # ✓
-  hex: "hex" # Previously: hexadecimal. shorthand
-  id: "id" # Previously: identifier. Shorthand, not necessarily the verb form.
-  input: "entrée" # ✓
-  int: "entier" # :thinking: entier means 'whole'. Unsure about what's appropriate here.
-  isinstance: "estinstance" # made one word
-  issubclass: "estsousclasse" # made one word
-  iter: "iter" # ? Previously: iteration. Shorthand
-  len: "longeur" # ? Previously: taille. Taille is typically a person's height.
-  list: "liste" # ✓
-  locals: "locales" # ? Pluralized
-  map: "map" # :thinking: Unsure if this definition of map has a suitable french equivalent. This might be fine.
-  max: "max" # ? Previously: maximum. shorthand
-  memoryview: "vuememoire" # ? Previously "". Added definition
-  min: "min" # ? previously: minimum. Shorthand
-  next: "prochain" # ? previously: suivant. Both are fair, but prochain feels closer to the usage.
-  object: "objet" # ✓
-  oct: "oct" # ? previously: octal. Shorthand
-  open: "ouvre" # ? Previously: overt. verb tense.
-  ord: "ord" # ? Previously: ordinal. Shorthand.
-  pow: "puissance" # ✓
-  print: "affiche" # ? Previously: afficer. Verb tense. Perhaps 'imprime' is more literal, as this means 'display', but that's the average usage in reality.
-  property: "propriété" # ✓
+  abs: "abs" # ? Previously: absolue. Shorthand || ✓
+  all: "tout" # ✓✓
+  any: "nimporte" # Previously: peu importe. should be one word, n'importe means the same. || ✓ Agree on "nimporte"
+  ascii: "ascii" # ✓✓
+  bin: "bin" # ? Previously: binaire. Shorthand fits the same. || ✓ 
+  bool: "bool" # ? Previously: booléen. Shorthand fits the same. || ✓
+  breakpoint: "point-arret" # ✓✓
+  bytearray: "chaine-octets" # ? Previously: chaine octets. Made one word. || ✓
+  bytes: "octets" # ✓✓
+  callable: "appelable" # ✓✓
+  chr: "caractère" # ? Previously: caractére. Fixed accent || ✓ 
+  classmethod: "méthodeclasse" # ? Previously: Methode de classe. Squashed to one word. || ✓
+  compile: "compile" # ✓✓
+  complex: "complexe" # ✓✓
+  delattr: "effaceattr" # ? Previously: supprimer attribut. One word, more accurate delete word. || ✓ Agree on 1 word, but, as above, could also "supprimeattr"
+  dict: "dict" # ? Previously: binaire. Shorthand fits the same. || ✓ Agree on "dict"
+  dir: "repertoire" # ✓✓ 
+  divmod: "divmod" # ? Previously: Division modulo. One word, shorthand fits fine || ✓
+  enumerate: "énumérer" # ✓ || ? Could also be put in present tense as "énumère"
+  eval: "éval" # ? Previously: évaluer. Shorthand || ✓
+  exec: "exécute" # ? Previously: excevuter. Typo || ✓
+  filter: "filtre" # ✓✓
+  float: "flotant" # :thinking: Previously: flotant. Nothing exact here. || :thinking: --> previously "flotte". Seems that "flotant" is more commonly used referring to 'floats'
+  format: "format" # ✓✓
+  getattr: "chercheattr" # ? Previously: recupere attribut. One word, cherche is closer to 'find'. Recupere is closer to 'recover'. || ✓ agree on "chercheattr"
+  frozenset: "ensemblefigé" # ? Previously: ensemble figé. Made one word || ✓
+  hasattr: "àattr" # ? Previously: a l'attribute. One word, more to the point. || ✓
+  globals: "globaux" # ? Previously: Global. Pluralize || ✓
+  hash: "hachage" # ? Previously: tableau de hachage. More to the point. Might still be a better word for it perhaps. || ✓ agree on "hachage"
+  help: "aide" # ✓✓
+  hex: "hex" # Previously: hexadecimal. shorthand || ✓
+  id: "id" # Previously: identifier. Shorthand, not necessarily the verb form. || ✓
+  input: "entrée" # ✓✓
+  int: "entier" # :thinking: entier means 'whole'. Unsure about what's appropriate here. || ? if unclear, could be "nombre-entier", but "entier" should be ok too
+  isinstance: "estinstance" # made one word || ✓
+  issubclass: "estsousclasse" # made one word || ✓
+  iter: "iter" # ? Previously: iteration. Shorthand || ✓
+  len: "longeur" # ? Previously: taille. Taille is typically a person's height. || ✓
+  list: "liste" # ✓✓
+  locals: "locales" # ? Pluralized || ? Could also be "locaux" 
+  map: "map" # :thinking: Unsure if this definition of map has a suitable french equivalent. This might be fine. || ✓ Don't think there is a more suitable term in French..
+  max: "max" # ? Previously: maximum. shorthand || ✓
+  memoryview: "vuememoire" # ? Previously "". Added definition || ✓
+  min: "min" # ? previously: minimum. Shorthand || ✓
+  next: "prochain" # ? previously: suivant. Both are fair, but prochain feels closer to the usage. || ✓
+  object: "objet" # ✓✓
+  oct: "oct" # ? previously: octal. Shorthand || ✓
+  open: "ouvre" # ? Previously: overt. verb tense. || ✓
+  ord: "ord" # ? Previously: ordinal. Shorthand. || ✓
+  pow: "puissance" # ✓✓
+  print: "affiche" # ? Previously: afficer. Verb tense. Perhaps 'imprime' is more literal, as this means 'display', but that's the average usage in reality. || ✓ agree on "affiche"
+  property: "propriété" # ✓✓
   range: "interval" # ✓
-  repr: "répr" # ? Previously: Répresentation. Shorthand
-  reversed: "renversé" # Previously: renverser. verb tense.
-  round: "arrondit" # Previously: arrondir. Verb tense.
-  set: "ensemble" # ✓
-  setattr: "attribue" # Previously: attribuer. verb tense. Perhaps should be more explicit, as it's also the noun.
-  slice: "tranche" # ✓
-  sorted: "trié" # ? Previously: trier. Verb tense.
-  staticmethod: "méthodestatique" # made one word.
-  str: "chainecaractére" # :thinking: No direct translation here. Perhaps we leave as 'str'.
-  sum: "somme" # ✓
-  super: "super" # ✓
-  tuple: "tuple" # ✓
-  type: "type" # ✓
-  vars: "vars" # ? previously: variables. Shorthand
-  zip: "zip" # ✓
-  __import__: "__import__" # ✓
+  repr: "répr" # ? Previously: Répresentation. Shorthand || ✓
+  reversed: "renversé" # Previously: renverser. verb tense. || ✓
+  round: "arrondit" # Previously: arrondir. Verb tense. || ✓
+  set: "ensemble" # ✓✓
+  setattr: "attribue" # Previously: attribuer. verb tense. Perhaps should be more explicit, as it's also the noun. || ? could also be "définit-attr" or "déf-attr" to translate the 'set' part as well
+  slice: "tranche" # ✓✓
+  sorted: "trié" # ? Previously: trier. Verb tense. || ✓
+  staticmethod: "méthodestatique" # made one word. || ✓
+  str: "chainecaractére" # :thinking: No direct translation here. Perhaps we leave as 'str'. || ? tough one. Could shorten to "chaîne" 
+  sum: "somme" # ✓✓
+  super: "super" # ✓✓
+  tuple: "tuple" # ✓✓
+  type: "type" # ✓✓
+  vars: "vars" # ? previously: variables. Shorthand || ✓
+  zip: "zip" # ✓✓
+  __import__: "__import__" # ✓✓ 
 
 # << Error Messages >>
 
