@@ -179,6 +179,7 @@ defaults: &defaults
   yo: Yorùbá
   za: Cuengh
   zh: 中文
+  zh-classical: 文言
 
 production:
   <<: *defaults
