@@ -5,7 +5,7 @@
 # THANK YOU FOR MAKING LEGESHER LARGER THAN US.
 
 # NOTE: "language-abbreviation"
-language-abbreviation: "pl"
+language-abbreviation: ""
 
 # ----------------------
 # |    SYSTEM: ATOM    |
@@ -13,81 +13,81 @@ language-abbreviation: "pl"
 # << Keywords >>
 # NOTE: All keywords are capitalized for Atom because it is used for
 # key information found in comments within the editor
-  NOTE: ""
-  INFO: ""
-  IDEA: ""
-  DEBUG: ""
-  REMOVE: ""
-  OPTIMIZE: ""
-  REVIEW: ""
-  HACK: ""
-  UNDONE: ""
-  TODO: ""
-  REFACTOR: ""
+  NOTE: "NOTATKA"
+  INFO: "INFORMACJA"
+  IDEA: "IDEA"
+  DEBUG: "DEBUG"
+  REMOVE: "USUNĄĆ"
+  OPTIMIZE: "OPTYMALIZACJA"
+  REVIEW: "OCENIAĆ"
+  HACK: "HAKOWAĆ"
+  UNDONE: "NIEZROBIONE"
+  TODO: "DOZROBIENIA"
+  REFACTOR: "ZMIENIAĆ"
   DEPRECATED: ""
-  TASK: ""
-  CHGME: ""
-  NOTREACHED: ""
-  WTF: ""
-  BUG: ""
-  ERROR: ""
-  OMG: ""
-  ERR: ""
-  OMFGRLY: ""
-  WARNING: ""
-  WARN: ""
-  BROKEN: ""
+  TASK: "ZADANIE"
+  CHGME: "CHGME"
+  NOTREACHED: "NIEOSIĄGNIĘTY"
+  WTF: "WTF"
+  BUG: "PROBLEM"
+  ERROR: "BŁĄD"
+  OMG: "OMG"
+  ERR: "ERR"
+  OMFGRLY: "OMFGRLY"
+  WARNING: "OSTRZEŻENIE"
+  WARN: "OSTRZEGAĆ"
+  BROKEN: "ZEPSUTY"
 
 # ----------------------
 # |   LANGUAGE: AGDA   |
 # ----------------------
 # NOTE: https://agda.readthedocs.io/en/v2.5.4.2/index.html
 # << Keywords >>
-  abstract: ""
-  codata: ""
-  coinductive: ""
-  constructor: ""
-  data: ""
-  do: ""
-  eta-equality: ""
-  field: ""
-  forall: ""
-  hiding: ""
-  import: ""
-  in: ""
-  inductive: ""
-  infix: ""
-  infixl: ""
-  infixr: ""
-  instance: ""
-  let: ""
-  macro: ""
-  module: ""
-  mutual: ""
+  abstract: "abstrakcyjny"
+  codata: "wsółdane"
+  coinductive: "koindukcyjny"
+  constructor: "kkonstraktor"
+  data: "data"
+  do: "zrobić"
+  eta-equality: "współprzewidziany"
+  field: "pole"
+  forall: "dlakażdego"
+  hiding: "ukrywać"
+  import: "importować"
+  in: "w"
+  inductive: "induktywny"
+  infix: "wzrostek"
+  infixl: "wzrostekl"
+  infixr: "wzrostekr"
+  instance: "przykład"
+  let: "pozwolić"
+  macro: "makro"
+  module: "moduł"
+  mutual: "wspólny"
   no-eta-equality: ""
-  open: ""
-  overlap: ""
-  pattern: ""
-  postulate: ""
-  primitive: ""
-  private: ""
-  public: ""
-  quote: ""
-  quoteContext: ""
-  quoteGoal: ""
-  quoteTerm: ""
-  record: ""
-  renaming: ""
-  rewrite: ""
-  Set: "" # can appear with a number suffix, optionally suffixed, make sure we account for this
-  syntax: ""
-  tactic: ""
-  unquote: ""
-  unquoteDecl: ""
-  unquoteDef: ""
-  using: ""
-  where: ""
-  with: ""
+  open: "otwarty"
+  overlap: "nakładaćsię"
+  pattern: "wzór"
+  postulate: "postulować"
+  primitive: "prymitywny"
+  private: "prywatny"
+  public: "publiczny"
+  quote: "cytować"
+  quoteContext: "przytaczaćKontekst"
+  quoteGoal: "przytaczaćCel"
+  quoteTerm: "przytaczaćSłowo"
+  record: "rekord"
+  renaming: "przemianować"
+  rewrite: "przepisać"
+  Set: "Zbiór" # can appear with a number suffix, optionally suffixed, make sure we account for this
+  syntax: "składnia"
+  tactic: "taktyka"
+  unquote: "zamykaćCudzysłów"
+  unquoteDecl: "zamykaćDeklarację"
+  unquoteDef: "zamykaćDefinicje"
+  using: "używać"
+  where: "gdzie"
+  with: "z"
 
 # << Error Messages >>
 
@@ -98,49 +98,49 @@ language-abbreviation: "pl"
 # NOTE: https://www.amibroker.com/guide/a_language.html
 
 # << Keywords >>
-do: "" # (part of do-while statement)
-while: ""
-for: ""
-if: "" # (part of if-else statement)
-else: "" # (part of if-else statement)
-switch: ""
-break: "" # (part of the switch statement or for/while statements)
-case: "" # (part of the switch statement)
-continue: "" # (part of for/while statements)
-default: "" # (part of switch statement)
-function: ""
-procedure: ""
-return: ""
-local: ""
-global: ""
-static: ""
-typeof: ""
-NOT: ""
-AND: ""
-OR: ""
-Null: ""
+do: "zrób" # (part of do-while statement)
+while: "kiedy"
+for: "dla"
+if: "jeśli" # (part of if-else statement)
+else: "inaczej" # (part of if-else statement)
+switch: "zmień"
+break: "złam" # (part of the switch statement or for/while statements)
+case: "przypadek" # (part of the switch statement)
+continue: "kontynuuj" # (part of for/while statements)
+default: "domyślny" # (part of switch statement)
+function: "funkcja"
+procedure: "procedura"
+return: "zwróć"
+local: "lokalny"
+global: "globalny"
+static: "statyczny"
+typeof: "przykład"
+NOT: "NIE"
+AND: "I"
+OR: "LUB"
+Null: "NIEWAŻNY"
 # << Error Messages >>
 
 # ----------------------
 # |   LANGUAGE: BASH   |
 # ----------------------
 # << Keywords >>
-case: ""
-do: ""
-done: ""
-elif: ""
-else: ""
-esac: ""
-fi: ""
-for: ""
-function: ""
-if: ""
-in: ""
-select: ""
-then: ""
-time: ""
-until: ""
-while: ""
+case: "przypadek"
+do: "zrób"
+done: "zrobione"
+elif: "inaczej jeśli"
+else: "inaczej"
+esac: "esac"
+fi: "fi"
+for: "dla"
+function: "funkcja"
+if: "jeśli"
+in: "w"
+select: "wybierz"
+then: "wtedy"
+time: "czas"
+until: "dopóki"
+while: "kiedy"
 
 # << Error Messages >>
 
@@ -148,38 +148,38 @@ while: ""
 # |   LANGUAGE: C      |
 # ----------------------
 # << Keywords >>
-auto: ""
-double: ""
-int: ""
-struct: ""
-break: ""
-else: ""
-long: ""
-switch: ""
-case: ""
-enum: ""
-register: ""
-typedef: ""
-char: ""
-extern: ""
-return: ""
-union: ""
-const: ""
-float: ""
-short: ""
-unsigned: ""
-continue: ""
-for: ""
-signed: ""
-void: ""
-default: ""
-goto: ""
-sizeof: ""
-volatile: ""
-do: ""
-if: ""
-static: ""
-while: ""
+auto: "auto"
+double: "dwucyfrowa"
+int: "całkowita"
+struct: "strukt"
+break: "złam"
+else: "inaczej"
+long: "długa"
+switch: "zmień"
+case: "przypadek"
+enum: "enumerator"
+register: "rejestr"
+typedef: "typDom"
+char: "litera"
+extern: "zewnętrzny"
+return: "zwróć"
+union: "unia"
+const: "stała"
+float: "płynna"
+short: "krótki"
+unsigned: "niepodpisany"
+continue: "kontynuuj"
+for: "dla"
+signed: "podpisany"
+void: "nieważny"
+default: "domyślny"
+goto: "idźDo"
+sizeof: "rozmiaru"
+volatile: "złamać"
+do: "zrób"
+if: "jeśli"
+static: "statyczny"
+while: "jeśli"
 
 # << Error Messages >>
 
@@ -1248,132 +1248,113 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-#
-# Things that definitely a second look by someone have 2ndOPINION on the same line as the word that needs looking at.
-#
-# Some notes:
-#
-# 1) Would it be better to substitute the Polish letters
-#    with their normal Latin variations to ease typing
-#    for the end user?
-#
-#    Examples:
-#        oczekój -> oczekoj
-#        usuń -> usun
-#
-# 2) So far I've been writing in tense like as if the author
-#    is talking to the script & telling the code to do stuff.
-#    I think it makes sense to do it like that but would like
-#    someone else's opinion on this.
-#
-
-  False: "Nieprawda" # Fałsz?
-  None: "Nic"
-  True: "Prawda"
-  and: "i"
-  as: "jako" # jak?
-  assert: "zapewnij" # zapewniać
-  async: "asynchronicznie" # Probably best to keep as "async".
-  await: "oczekój" # poczekaj? oczekiwać?
-  break: "przerwij" # przerwać?
-  class: "klasa"
-  continue: "kontynuuj"
-  def: "definicja" # Probably best to keep as "def"
-  del: "usuń" # kasuj?
-  elif: "inaczejjeśli" # inaczej_jeśli?   Abbreviation: injeśli? [2ndOPINION]
-  else: "inaczej"
-  except: "wyjątek"
-  finally: "wreszcie" # ostatecznie?
-  for: "na" # za?
-  from: "z" # od?
-  global:  "globalna"
-  if: "jeśli" # jeżeli?
-  import: "importuj" # importować?
-  in: "w" # we?
-  is: "jest"
-  lambda: "lambda" #
-  nonlocal: "nielokalna" # nie_lokalna?
-  not: "nie"
-  or: "albo"
-  pass: "przejdź"
-  raise: "zgłoś"
-  return: "zwróć"
-  try: "spróbuj"
-  while: "podczas"
-  with: "przy" # Can't think of any other word that makes sense & doesn't clash with "from". [2ndOPINION]
-  yield: "wydobywaj"
+  False: ""
+  None: ""
+  True: ""
+  and: ""
+  as: ""
+  assert: ""
+  async: ""
+  await: ""
+  break: ""
+  class: ""
+  continue: ""
+  def: ""
+  del: ""
+  elif: ""
+  else: ""
+  except: ""
+  finally: ""
+  for: ""
+  from: ""
+  global:  ""
+  if: ""
+  import: ""
+  in: ""
+  is: ""
+  lambda: ""
+  nonlocal: ""
+  not: ""
+  or: ""
+  pass: ""
+  raise: ""
+  return: ""
+  try: ""
+  while: ""
+  with: ""
+  yield: ""
 
 # << Built-In Functions >>
 
-  abs: "wartość_całkowita" # To avoid clash with "int" the "wartość_" & "liczba_" (for "int") unless there are better suggestions? [2ndOPINION]
-  all: "wszystko"
-  any: "jakiekolwiek"
-  ascii: "ascii"
-  bin: "binarny"
-  bool: "bool" # boolowska? zerojedynkowa?
-  breakpoint: "punkt_przerwania"
-  bytearray: "tablica_bajtów" # szyk_bajtów?
-  bytes: "bajty"
-  callable: "wywoływalne"
-  chr: "znak" # litera?
-  classmethod: "metoda_klasowa" # metodaklasowa klasowametoda? klasowa_metoda?
-  compile: "skompiluj"
-  complex: "kompleksowa" # kompleksowa_analiza?
-  delattr: "usuń_atrybut" # usuńatrybut?
-  dict: "słownik"
-  dir: "katalog" # informator?
-  divmod: "dzielmod"
-  enumerate: "wyliczaj"
-  eval: "oceń"
-  exec: "wykonaj"
-  filter: "filtruj"
-  float: "zmiennoprzecinkowa" # liczba_zmiennoprzecinkowa?   Abbreviation: zmienno? [2ndOPINION]
-  format: "sformatuj"
-  frozenset: "niezmienny_zestaw" # niezmiennyzestaw?
-  getattr: "weź_atrybut" # weźatrybut?
-  globals: "globalne" # wszystkie_globalne?
-  hasattr: "ma_atrybut" # maatrybut
-  hash: "zakoduj"
-  help: "pomoc"
-  hex: "szesnastkowa"
-  id: "identyfikator" # Probably best to keep as "id".
-  input: "wkład" # wklad_użytkownika?
-  int: "liczba_całkowita"
-  isinstance: "jest_wystąpieniem" # jestwystąpieniem?
-  issubclass: "jest_podklasą" # jestpodklasą
-  iter: "iterator" # Probably best to keep as "iter". [2ndOPINION]
-  len: "ilość"
-  list: "lista"
-  locals: "lokalne"
-  map: "zamapuj"
-  max: "maksymalna"
-  memoryview: "widok_pamięciowy" # widokpamięciowy
-  min: "minimalna"
-  next: "następny"
-  object: "objekt"
-  oct: "ósemkowa"
-  open: "otwartym" # Was thinking "otwórz" but then we lose Python's speech-like flow. [2ndOPINION]
-  ord: "ord" # I can't think of a sensible translation for this, probably best to keep as "ord"? [2ndOPINION]
-  pow: "do_potęgi"
-  print: "drukuj"
-  property: "właściwość"
-  range: "zasięg"
-  repr: "przedrukuj" # przedruk? przedrukować?
-  reversed: "odwróć" # odwrócić? odwrócona?
-  round: "zaokrągl"
-  set: "ustaw"
-  setattr: "ustaw_atrybut" # ustawatrybut?
-  slice: "pokrój"
-  sorted: "posortowana"
-  staticmethod: "metoda_statyczna" # metodastatyczna?
-  str: "ciąg"
-  sum: "suma"
-  super: "rodzic"
-  tuple: "krotka"
-  type: "typ"
-  vars: "zmienne"
-  zip: "zip"
-  __import__: "__importuj__" # __importować__?
+  abs: ""
+  all: ""
+  any: ""
+  ascii: ""
+  bin: ""
+  bool: ""
+  breakpoint: ""
+  bytearray: ""
+  bytes: ""
+  callable: ""
+  chr: ""
+  classmethod: ""
+  compile: ""
+  complex: ""
+  delattr: ""
+  dict: ""
+  dir: ""
+  divmod: ""
+  enumerate: ""
+  eval: ""
+  exec: ""
+  filter: ""
+  float: ""
+  format: ""
+  frozenset: ""
+  getattr: ""
+  globals: ""
+  hasattr: ""
+  hash: ""
+  help: ""
+  hex: ""
+  id: ""
+  input: ""
+  int: ""
+  isinstance: ""
+  issubclass: ""
+  iter: ""
+  len: ""
+  list: ""
+  locals: ""
+  map: ""
+  max: ""
+  memoryview: ""
+  min: ""
+  next: ""
+  object: ""
+  oct: ""
+  open: ""
+  ord: ""
+  pow: ""
+  print: ""
+  property: ""
+  range: ""
+  repr: ""
+  reversed: ""
+  round: ""
+  set: ""
+  setattr: ""
+  slice: ""
+  sorted: ""
+  staticmethod: ""
+  str: ""
+  sum: ""
+  super: ""
+  tuple: ""
+  type: ""
+  vars: ""
+  zip: ""
+  __import__: ""
 
 # << Error Messages >>
 
@@ -1830,10 +1811,3 @@ xnor: ""
 xor: ""
 
 # << Error Messages >>
-
-# ------------------------------------
-# |   CONTENT: LEGESHER.IO WEBSITE   |
-# ------------------------------------
-# TODO: add home page translations
-# TODO: add tutorials
-# TODO: add other content
