@@ -1,0 +1,221 @@
+{
+  "projectName": "legesher-translations",
+  "projectOwner": "madiedgar",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "types": {
+    "marketing": {
+      "symbol": "💌",
+      "description": "Marketing - People who help in marketing the repo/project"
+    }
+  },
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "atom",
+  "contributors": [
+    {
+      "login": "madiedgar",
+      "name": "Madison (Pfaff) Edgar",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7844510?v=4",
+      "profile": "http://withmadi.co",
+      "contributions": [
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "fernandasj",
+      "name": "Fernanda Vieira",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19349745?v=4",
+      "profile": "https://github.com/fernandasj",
+      "contributions": [
+        "doc",
+        "marketing"
+      ]
+    },
+    {
+      "login": "ZeroOne010101",
+      "name": "zeroone010101",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/43586679?v=4",
+      "profile": "https://github.com/ZeroOne010101",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "LoLei",
+      "name": "Lorenz Leitner",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/9076894?v=4",
+      "profile": "https://lolei.github.io/",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "wang-ories",
+      "name": "WANG - YANG",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/52870180?v=4",
+      "profile": "https://github.com/wang-ories",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "tomekp97",
+      "name": "tomekp97",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28924907?v=4",
+      "profile": "https://github.com/tomekp97",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "katherinefernandes",
+      "name": "Katherine Fernandes",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/39100068?v=4",
+      "profile": "https://github.com/katherinefernandes",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "ninoCan",
+      "name": "Antonino Cangialosi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22853343?v=4",
+      "profile": "https://github.com/ninoCan",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "Jam-Iko",
+      "name": "jam-iko",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/44161368?v=4",
+      "profile": "https://github.com/Jam-Iko",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "JekRock",
+      "name": "Yevhen Badorov",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5882133?v=4",
+      "profile": "https://github.com/JekRock",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "zoomstereo",
+      "name": "Johan Pimentel",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10217353?v=4",
+      "profile": "https://github.com/zoomstereo",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "charberg",
+      "name": "Charles Bergeron",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7586930?v=4",
+      "profile": "https://github.com/charberg",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "asperduti",
+      "name": "Ariel Sperduti",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/8466918?v=4",
+      "profile": "http://ariel.sperduti.com.ar",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "GiacomoPignoni",
+      "name": "Pigna",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/34923063?v=4",
+      "profile": "http://giacomo.online",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "KChantal",
+      "name": "Kim",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44471099?v=4",
+      "profile": "https://github.com/KChantal",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "marcuscastelo",
+      "name": "Marcus Vinicius Castelo Branco Martins",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/27441558?v=4",
+      "profile": "https://github.com/marcuscastelo",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "geraldobraz",
+      "name": "Geraldo Braz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/26909405?v=4",
+      "profile": "https://www.linkedin.com/in/geraldo-braz-402361138/",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "Fayhen",
+      "name": "Diego Souza",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/45882000?v=4",
+      "profile": "https://github.com/Fayhen",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "jonnyfluckey",
+      "name": "Jonny Fluckey",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/46408080?v=4",
+      "profile": "http://www.jonnyfluckey.com",
+      "contributions": [
+        "translation",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "cos1715",
+      "name": "Taras Samoilenko",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/32968019?v=4",
+      "profile": "https://github.com/cos1715",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "bartekprzadka",
+      "name": "bartekprzadka",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/43320509?v=4",
+      "profile": "https://github.com/bartekprzadka",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "GhalyahF",
+      "name": "Ghalyah Al-Ansari",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10036755?v=4",
+      "profile": "https://github.com/GhalyahF",
+      "contributions": [
+        "translation"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}

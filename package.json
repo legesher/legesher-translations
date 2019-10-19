@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/legesher/legesher-translations#readme",
   "devDependencies": {
+    "all-contributors-cli": "^6.9.2",
     "nodemon": "^1.19.1"
   },
   "dependencies": {
