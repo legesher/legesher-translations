@@ -159,6 +159,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/marcuscastelo"><img src="https://avatars1.githubusercontent.com/u/27441558?v=4" width="100px;" alt="Marcus Vinicius Castelo Branco Martins"/><br /><sub><b>Marcus Vinicius Castelo Branco Martins</b></sub></a><br /><a href="#translation-marcuscastelo" title="Translation">🌍</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/geraldo-braz-402361138/"><img src="https://avatars2.githubusercontent.com/u/26909405?v=4" width="100px;" alt="Geraldo Braz"/><br /><sub><b>Geraldo Braz</b></sub></a><br /><a href="#translation-geraldobraz" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Fayhen"><img src="https://avatars0.githubusercontent.com/u/45882000?v=4" width="100px;" alt="Diego Souza"/><br /><sub><b>Diego Souza</b></sub></a><br /><a href="#translation-Fayhen" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://www.jonnyfluckey.com"><img src="https://avatars2.githubusercontent.com/u/46408080?v=4" width="100px;" alt="Jonny Fluckey"/><br /><sub><b>Jonny Fluckey</b></sub></a><br /><a href="#translation-jonnyfluckey" title="Translation">🌍</a></td>
   </tr>
 </table>
 
