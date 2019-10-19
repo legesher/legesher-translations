@@ -114,6 +114,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "charberg",
+      "name": "Charles Bergeron",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7586930?v=4",
+      "profile": "https://github.com/charberg",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7

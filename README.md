@@ -150,6 +150,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/Jam-Iko"><img src="https://avatars2.githubusercontent.com/u/44161368?v=4" width="100px;" alt="jam-iko"/><br /><sub><b>jam-iko</b></sub></a><br /><a href="#translation-Jam-Iko" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/JekRock"><img src="https://avatars2.githubusercontent.com/u/5882133?v=4" width="100px;" alt="Yevhen Badorov"/><br /><sub><b>Yevhen Badorov</b></sub></a><br /><a href="#translation-JekRock" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/zoomstereo"><img src="https://avatars2.githubusercontent.com/u/10217353?v=4" width="100px;" alt="Johan Pimentel"/><br /><sub><b>Johan Pimentel</b></sub></a><br /><a href="#translation-zoomstereo" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/charberg"><img src="https://avatars2.githubusercontent.com/u/7586930?v=4" width="100px;" alt="Charles Bergeron"/><br /><sub><b>Charles Bergeron</b></sub></a><br /><a href="#translation-charberg" title="Translation">🌍</a></td>
   </tr>
 </table>
 
