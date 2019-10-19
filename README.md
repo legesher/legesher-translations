@@ -161,6 +161,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/Fayhen"><img src="https://avatars0.githubusercontent.com/u/45882000?v=4" width="100px;" alt="Diego Souza"/><br /><sub><b>Diego Souza</b></sub></a><br /><a href="#translation-Fayhen" title="Translation">🌍</a></td>
     <td align="center"><a href="http://www.jonnyfluckey.com"><img src="https://avatars2.githubusercontent.com/u/46408080?v=4" width="100px;" alt="Jonny Fluckey"/><br /><sub><b>Jonny Fluckey</b></sub></a><br /><a href="#translation-jonnyfluckey" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/cos1715"><img src="https://avatars0.githubusercontent.com/u/32968019?v=4" width="100px;" alt="Taras Samoilenko"/><br /><sub><b>Taras Samoilenko</b></sub></a><br /><a href="#translation-cos1715" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/bartekprzadka"><img src="https://avatars1.githubusercontent.com/u/43320509?v=4" width="100px;" alt="bartekprzadka"/><br /><sub><b>bartekprzadka</b></sub></a><br /><a href="#translation-bartekprzadka" title="Translation">🌍</a></td>
   </tr>
 </table>
 
