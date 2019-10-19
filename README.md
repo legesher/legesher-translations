@@ -142,6 +142,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/ZeroOne010101"><img src="https://avatars2.githubusercontent.com/u/43586679?v=4" width="100px;" alt="zeroone010101"/><br /><sub><b>zeroone010101</b></sub></a><br /><a href="#translation-ZeroOne010101" title="Translation">🌍</a></td>
     <td align="center"><a href="https://lolei.github.io/"><img src="https://avatars3.githubusercontent.com/u/9076894?v=4" width="100px;" alt="Lorenz Leitner"/><br /><sub><b>Lorenz Leitner</b></sub></a><br /><a href="#translation-LoLei" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/wang-ories"><img src="https://avatars1.githubusercontent.com/u/52870180?v=4" width="100px;" alt="WANG - YANG"/><br /><sub><b>WANG - YANG</b></sub></a><br /><a href="#translation-wang-ories" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/tomekp97"><img src="https://avatars3.githubusercontent.com/u/28924907?v=4" width="100px;" alt="tomekp97"/><br /><sub><b>tomekp97</b></sub></a><br /><a href="#translation-tomekp97" title="Translation">🌍</a></td>
   </tr>
 </table>
 
