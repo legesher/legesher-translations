@@ -140,6 +140,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="http://withmadi.co"><img src="https://avatars0.githubusercontent.com/u/7844510?v=4" width="100px;" alt="Madison (Pfaff) Edgar"/><br /><sub><b>Madison (Pfaff) Edgar</b></sub></a><br /><a href="#projectManagement-madiedgar" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/fernandasj"><img src="https://avatars2.githubusercontent.com/u/19349745?v=4" width="100px;" alt="Fernanda Vieira"/><br /><sub><b>Fernanda Vieira</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=fernandasj" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ZeroOne010101"><img src="https://avatars2.githubusercontent.com/u/43586679?v=4" width="100px;" alt="zeroone010101"/><br /><sub><b>zeroone010101</b></sub></a><br /><a href="#translation-ZeroOne010101" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://lolei.github.io/"><img src="https://avatars3.githubusercontent.com/u/9076894?v=4" width="100px;" alt="Lorenz Leitner"/><br /><sub><b>Lorenz Leitner</b></sub></a><br /><a href="#translation-LoLei" title="Translation">🌍</a></td>
   </tr>
 </table>
 
