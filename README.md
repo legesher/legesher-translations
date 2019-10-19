@@ -156,6 +156,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/KChantal"><img src="https://avatars1.githubusercontent.com/u/44471099?v=4" width="100px;" alt="Kim"/><br /><sub><b>Kim</b></sub></a><br /><a href="#translation-KChantal" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/marcuscastelo"><img src="https://avatars1.githubusercontent.com/u/27441558?v=4" width="100px;" alt="Marcus Vinicius Castelo Branco Martins"/><br /><sub><b>Marcus Vinicius Castelo Branco Martins</b></sub></a><br /><a href="#translation-marcuscastelo" title="Translation">🌍</a></td>
   </tr>
 </table>
 
