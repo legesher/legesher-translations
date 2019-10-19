@@ -147,6 +147,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/ninoCan"><img src="https://avatars1.githubusercontent.com/u/22853343?v=4" width="100px;" alt="Antonino Cangialosi"/><br /><sub><b>Antonino Cangialosi</b></sub></a><br /><a href="#translation-ninoCan" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Jam-Iko"><img src="https://avatars2.githubusercontent.com/u/44161368?v=4" width="100px;" alt="jam-iko"/><br /><sub><b>jam-iko</b></sub></a><br /><a href="#translation-Jam-Iko" title="Translation">🌍</a></td>
   </tr>
 </table>
 
