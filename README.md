@@ -154,6 +154,9 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="http://ariel.sperduti.com.ar"><img src="https://avatars2.githubusercontent.com/u/8466918?v=4" width="100px;" alt="Ariel Sperduti"/><br /><sub><b>Ariel Sperduti</b></sub></a><br /><a href="#translation-asperduti" title="Translation">🌍</a></td>
     <td align="center"><a href="http://giacomo.online"><img src="https://avatars0.githubusercontent.com/u/34923063?v=4" width="100px;" alt="Pigna"/><br /><sub><b>Pigna</b></sub></a><br /><a href="#translation-GiacomoPignoni" title="Translation">🌍</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/KChantal"><img src="https://avatars1.githubusercontent.com/u/44471099?v=4" width="100px;" alt="Kim"/><br /><sub><b>Kim</b></sub></a><br /><a href="#translation-KChantal" title="Translation">🌍</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
