@@ -105,6 +105,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "zoomstereo",
+      "name": "Johan Pimentel",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10217353?v=4",
+      "profile": "https://github.com/zoomstereo",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7
