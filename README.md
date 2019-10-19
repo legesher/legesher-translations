@@ -138,6 +138,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
 <table>
   <tr>
     <td align="center"><a href="http://withmadi.co"><img src="https://avatars0.githubusercontent.com/u/7844510?v=4" width="100px;" alt="Madison (Pfaff) Edgar"/><br /><sub><b>Madison (Pfaff) Edgar</b></sub></a><br /><a href="#projectManagement-madiedgar" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/fernandasj"><img src="https://avatars2.githubusercontent.com/u/19349745?v=4" width="100px;" alt="Fernanda Vieira"/><br /><sub><b>Fernanda Vieira</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=fernandasj" title="Documentation">📖</a></td>
   </tr>
 </table>
 

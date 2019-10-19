@@ -24,6 +24,15 @@
       "contributions": [
         "projectManagement"
       ]
+    },
+    {
+      "login": "fernandasj",
+      "name": "Fernanda Vieira",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19349745?v=4",
+      "profile": "https://github.com/fernandasj",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
