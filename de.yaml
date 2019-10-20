@@ -1263,123 +1263,123 @@ __TRAIT__: ""
 # # works but weird -> its translated and makes sense, but sounds weird to me ...
 # ... needs second opinion on wether to translate or keep english
 
-  False: "Falsch"
-  None: "Nichts"
-  True: "Wahr"
-  and: "und"
-  as: "als"
-  assert: "behaupte"
-  async: "asynchron"
-  await: "erwarte"
+  False: "Falsch" ✓
+  None: "Nichts" ✓
+  True: "Wahr" ✓
+  and: "und" ✓
+  as: "als" ✓
+  assert: "behaupte" ✓
+  async: "asynchron" ✓
+  await: "erwarte" ?
   # break: "bruch"
-  break: "brich" # Imperative instead of noun
-  class: "klasse"
-  continue: "fortfahren"
-  def: "def" # <- short | definiere?
-  del: "lösche"
-  # elif: "sonstwenn"
-  elif: "sonstfalls" # If -> falls, when -> wenn
-  else: "sonst"
-  except: "außer"
-  finally: "endlich"
-  for: "für"
-  from: "von"
-  global: "global"
-  # if: "wenn"
-  if: "falls" # If -> falls, when -> wenn
-  import: "importiere"
-  in: "in"
-  is: "ist"
-  lambda: "lambda"
-  nonlocal: "unlogisch"
-  not: "nicht"
-  or: "oder"
-  # pass: "besteht"
-  pass: "weiter" # pass in python means to execute a line of code that does nothing
-  raise: "erhebe"
-  return: "gib"
-  try: "versuche"
-  while: "während"
-  with: "mit"
-  yield: "liefere"
+  break: "brich" # Imperative instead of noun ?
+  class: "klasse" ✓
+  continue: "fortfahren" ✓
+  def: "def" # <- short | definiere? ✓
+  del: "lösche" ?
+  # elif: "sonstwenn" ✓
+  elif: "sonstfalls" # If -> falls, when -> wenn ✓
+  else: "sonst" ✓
+  except: "außer" ✓
+  finally: "endlich" ✓
+  for: "für" ?
+  from: "von" ✓
+  global: "global" ✓
+  # if: "wenn" ✓
+  if: "falls" # If -> falls, when -> wenn ✓
+  import: "importiere" ✓
+  in: "in" ✓
+  is: "ist" ✓
+  lambda: "lambda" ✓
+  nonlocal: "unlogisch" ?
+  not: "nicht" ✓
+  or: "oder" ✓
+  # pass: "besteht" ✓
+  pass: "weiter" # pass in python means to execute a line of code that does nothing ✓
+  raise: "erhebe" ?
+  return: "gib" ?
+  try: "versuche" ✓
+  while: "während" ?
+  with: "mit" ?
+  yield: "liefere" ?
 
 # << Built-In Functions >>
 
-  abs: "abs" # absoluter wert?
-  all: "alle"
-  any: "eines"
-  ascii: "ascii"
-  bin: "bin" # binär?
-  bool: "bool" # warheitswert?
-  breakpoint: "bruchpunkt"
-  bytearray: "bytearray"
-  bytes: "bytes"
-  callable: "rufbar"
+  abs: "abs" # absoluter wert? ✓
+  all: "alle" ✓
+  any: "eines" ✓
+  ascii: "ascii" ✓
+  bin: "bin" # binär? ✓
+  bool: "bool" # warheitswert? ✓
+  breakpoint: "bruchpunkt" ✓
+  bytearray: "bytearray" ✓
+  bytes: "bytes" ✓
+  callable: "rufbar" ✓
   chr: "chr" # zeichen?
-  classmethod: "klassenmethode"
-  # compile: "compiliere"
-  compile: "kompiliere" # German spelling
-  complex: "komplex"
-  delattr: "" # entfattr?
-  dict: "dict" # wörterbuch?
-  dir: "ver" # verzeichnis?
-  divmod: "divmod" # no idea, division(en) == division(de) so...
-  enumerate: "aufzählen" # zähle_auf?
-  eval: "evaluiere"
-  exec: "ausführen"
-  filter: "filter"
-  float: "gleitkomma" # Gleitkomma or Fließkomma is floating point
-  format: "format" # -> noun | formatiere -> imperativ
-  frozenset: "frozenset" #gefrorenes set?
-  getattr: "getattr" # holeattribute?
-  globals: "globale"
-  hasattr: "hatattr"
-  hash: "hash"
-  help: "hilfe"
-  hex: "hex"
-  id: "id" # no idea, probably same
-  input: "eingabe"
-  int: "int"
-  isinstance: "istinstanz"
-  issubclass: "istsubklasse"
-  iter: "iter" # Iterator same in German
-  len: "länge"
-  list: "liste"
-  locals: "locale" # works but weird
-  map: "karte" # no idea
-  max: "max"
-  memoryview: "speicheransicht"
-  min: "min"
-  # next: "weiter" 
-  next: "nächstes" # More literal translation
-  object: "objekt"
-  oct: "oct" # do idea
-  open: "öffne"
-  ord: "ord" # no idea
-  pow: "potenz"
-  print: "drucke"
-  property: "eigenschaft"
-  # range: "reichweite"
-  range: "bereich" # Better fitting in context
-  repr: "repr"
-  reversed: "umgekehrt"
-  round: "runde"
-  set: "setze"
-  setattr: "setzeattr"
-  # slice: "scheibe"
-  slice: "schnitt" # slice in this case is not necessarily a round plate, which "scheibe" implies
-  sorted: "sortiert"
-  staticmethod: "statischemethode"
-  str: "str"
-  sum: "sum"
-  super: "super" # über?
-  tuple: "tuple" # no idea
-  type: "typ"
-  vars: "vars" # variablen?
-  zip: "zip" # no idea
-  __import__: "__importiere__"
-
-# << Error Messages >>
+  classmethod: "klassenmethode" ✓
+  # compile: "compiliere" ✓
+  compile: "kompiliere" # German spelling ✓
+  complex: "komplex" ✓
+  delattr: "" # entfattr? ✓
+  dict: "dict" # wörterbuch? ✓
+  dir: "ver" # verzeichnis? ✓
+  divmod: "divmod" # no idea, division(en) == division(de) so... ✓
+  enumerate: "aufzählen" # zähle_auf? ?
+  eval: "evaluiere" ✓
+  exec: "ausführen" ?
+  filter: "filter" ✓
+  float: "gleitkomma" # Gleitkomma or Fließkomma is floating point ✓
+  format: "format" # -> noun | formatiere -> imperativ ✓
+  frozenset: "frozenset" #gefrorenes set? ✓
+  getattr: "getattr" # holeattribute? ✓
+  globals: "globale" ✓
+  hasattr: "hatattr" ✓
+  hash: "hash" ✓
+  help: "hilfe" ✓
+  hex: "hex" ✓
+  id: "id" # no idea, probably same ✓
+  input: "eingabe" ✓
+  int: "int" ✓
+  isinstance: "istinstanz" ✓
+  issubclass: "istsubklasse" ✓
+  iter: "iter" # Iterator same in German ✓
+  len: "länge" ?
+  list: "liste" ✓
+  locals: "locale" # works but weird ✓
+  map: "karte" # no idea ✓
+  max: "max" ✓
+  memoryview: "speicheransicht" ✓
+  min: "min" ✓
+  # next: "weiter"  ✓
+  next: "nächstes" # More literal translation ✓
+  object: "objekt" ✓
+  oct: "oct" # do idea ✓
+  open: "öffne" ?
+  ord: "ord" # no idea ✓
+  pow: "potenz" ✓
+  print: "drucke" ✓
+  property: "eigenschaft" ✓
+  # range: "reichweite" ✓
+  range: "bereich" # Better fitting in context ✓
+  repr: "repr" ✓
+  reversed: "umgekehrt" ✓
+  round: "runde" ?
+  set: "setze" ✓
+  setattr: "setzeattr" ✓
+  # slice: "scheibe" ✓
+  slice: "schnitt" # slice in this case is not necessarily a round plate, which "scheibe" implies ?
+  sorted: "sortiert" ✓
+  staticmethod: "statischemethode" ✓
+  str: "str" ✓
+  sum: "sum" ✓
+  super: "super" # über? ✓
+  tuple: "tuple" # no idea ✓
+  type: "typ" ✓
+  vars: "vars" # variablen? ✓
+  zip: "zip" # no idea ✓
+  __import__: "__importiere__" ✓
+ 
+# << Error Messages >> 
 
 # ----------------------
 # |   LANGUAGE: RAZOR   |
