@@ -1262,122 +1262,126 @@ __TRAIT__: ""
 # # no idea -> cant think of a german equivalent
 # # works but weird -> its translated and makes sense, but sounds weird to me ...
 # ... needs second opinion on wether to translate or keep english
+#
+# General comment to German translations; due to its grammatical structure,
+# German tends to use more than one word where only one is sufficient in
+# English. This means that many keywords are not easily translatable.
 
-  False: "Falsch"
-  None: "Nichts"
-  True: "Wahr"
-  and: "und"
-  as: "als"
-  assert: "behaupte"
-  async: "asynchron"
-  await: "erwarte"
+  False: "Falsch" # ✅
+  None: "Nichts" # ✅
+  True: "Wahr" # ✅
+  and: "und" # ✅
+  as: "als" # ✅
+  assert: "behaupte" # ? fordere
+  async: "asynchron" # ✅
+  await: "erwarte" # ✅(if spaces are possible, prefer "warte ab")
   # break: "bruch"
-  break: "brich" # Imperative instead of noun
-  class: "klasse"
-  continue: "fortfahren"
-  def: "def" # <- short | definiere?
-  del: "lösche"
+  break: "brich" # Imperative instead of noun # ✅
+  class: "klasse" # ✅
+  continue: "fortfahren" # ? überspringe (imperative and the semantic meaning is clearer)
+  def: "def" # <- short | definiere? # ✅(prefer long form)
+  del: "lösche" # ✅
   # elif: "sonstwenn"
-  elif: "sonstfalls" # If -> falls, when -> wenn
-  else: "sonst"
-  except: "außer"
-  finally: "endlich"
-  for: "für"
-  from: "von"
-  global: "global"
+  elif: "sonstfalls" # If -> falls, when -> wenn # ? andernfalls
+  else: "sonst" # ✅
+  except: "außer" # ✅
+  finally: "endlich" # ? schlußendlich
+  for: "für" # ✅
+  from: "von" # ? aus (in the semantic context of python, this represents the meaning more clearly)
+  global: "global" # ✅
   # if: "wenn"
-  if: "falls" # If -> falls, when -> wenn
-  import: "importiere"
-  in: "in"
-  is: "ist"
-  lambda: "lambda"
-  nonlocal: "unlogisch"
-  not: "nicht"
-  or: "oder"
+  if: "falls" # If -> falls, when -> wenn # ✅
+  import: "importiere" # ? verwende
+  in: "in" # ✅
+  is: "ist" # ✅
+  lambda: "lambda" # ✅
+  nonlocal: "unlogisch" # "unlogisch" is definitely wrong. "nichtlokal" is the appropriate translation
+  not: "nicht" # ✅
+  or: "oder" # ✅
   # pass: "besteht"
-  pass: "weiter" # pass in python means to execute a line of code that does nothing
-  raise: "erhebe"
-  return: "gib"
-  try: "versuche"
-  while: "während"
-  with: "mit"
-  yield: "liefere"
+  pass: "weiter" # pass in python means to execute a line of code that does nothing # ✅
+  raise: "erhebe" # ? (I'm not happy with this, because one cannot use "erhebe eine Ausnahme", i.e. raise an exception, in German)
+  return: "gib" # ✅(if spaces are possible, prefer "gib zurück")
+  try: "versuche" # ✅
+  while: "während" # ✅
+  with: "mit" # ✅
+  yield: "liefere" # ✅(if spaces are possible, prefer "gib ab". This would completement the translation of return)
 
 # << Built-In Functions >>
 
-  abs: "abs" # absoluter wert?
-  all: "alle"
-  any: "eines"
-  ascii: "ascii"
-  bin: "bin" # binär?
-  bool: "bool" # warheitswert?
-  breakpoint: "bruchpunkt"
-  bytearray: "bytearray"
-  bytes: "bytes"
-  callable: "rufbar"
-  chr: "chr" # zeichen?
-  classmethod: "klassenmethode"
+  abs: "abs" # absoluter wert? # ✅
+  all: "alle" # ✅
+  any: "eines" # ✅
+  ascii: "ascii" # ✅
+  bin: "bin" # binär? # prefer "binär"
+  bool: "bool" # warheitswert? # ✅(because bool refers to the last name of George Bool, I think the original value is appropriate)
+  breakpoint: "bruchpunkt" # ✅
+  bytearray: "bytearray" # ? byteabfolge
+  bytes: "bytes" # ✅
+  callable: "rufbar" # ? aufrufbar
+  chr: "chr" # zeichen? # prefer "zeichen"
+  classmethod: "klassenmethode" # ✅
   # compile: "compiliere"
-  compile: "kompiliere" # German spelling
-  complex: "komplex"
-  delattr: "" # entfattr?
-  dict: "dict" # wörterbuch?
-  dir: "ver" # verzeichnis?
-  divmod: "divmod" # no idea, division(en) == division(de) so...
-  enumerate: "aufzählen" # zähle_auf?
-  eval: "evaluiere"
-  exec: "ausführen"
-  filter: "filter"
-  float: "gleitkomma" # Gleitkomma or Fließkomma is floating point
-  format: "format" # -> noun | formatiere -> imperativ
-  frozenset: "frozenset" #gefrorenes set?
-  getattr: "getattr" # holeattribute?
-  globals: "globale"
-  hasattr: "hatattr"
-  hash: "hash"
-  help: "hilfe"
-  hex: "hex"
-  id: "id" # no idea, probably same
-  input: "eingabe"
-  int: "int"
-  isinstance: "istinstanz"
-  issubclass: "istsubklasse"
-  iter: "iter" # Iterator same in German
-  len: "länge"
-  list: "liste"
-  locals: "locale" # works but weird
-  map: "karte" # no idea
-  max: "max"
-  memoryview: "speicheransicht"
-  min: "min"
+  compile: "kompiliere" # German spelling # ✅
+  complex: "komplex" # ✅
+  delattr: "" # entfattr? # I like "entfattr"
+  dict: "dict" # wörterbuch? # ? aufschlüßelung / schlüßeltabelle (A dict here, does not refer to a table of words, but a table of key-value pairs)
+  dir: "ver" # verzeichnis? # ? "verz" (based on German abbreviation rules, the latter is correct)
+  divmod: "divmod" # no idea, division(en) == division(de) so... # ✅(I agree with using "divmod", because both division and modulo are the same in German)
+  enumerate: "aufzählen" # zähle_auf? # ? nummeriere
+  eval: "evaluiere" # ? verarbeite / berechne
+  exec: "ausführen" # ✅(if spaces are possible, use "führe aus" or "rufe auf")
+  filter: "filter" # ? filtriere
+  float: "gleitkomma" # Gleitkomma or Fließkomma is floating point # ? prefer "fließkomma" because it's more widely used
+  format: "format" # -> noun | formatiere -> imperativ # prefer "formatiere" because semantically, it's a function
+  frozenset: "frozenset" #gefrorenes set? # ? festmenge (Frozenset refers to a set of unique values that is not modifiable after its creation)
+  getattr: "getattr" # holeattribute? # ? nimmattr
+  globals: "globale" # ✅ (alternatively, "globalvar" for "globale Variable")
+  hasattr: "hatattr" # ✅
+  hash: "hash" # ? schlüssel / streuwert
+  help: "hilfe" # ✅
+  hex: "hex" # ✅
+  id: "id" # no idea, probably same # ✅ (or "identität")
+  input: "eingabe" # ✅
+  int: "int" # ? ganzzahl
+  isinstance: "istinstanz" # ✅
+  issubclass: "istsubklasse" # ✅
+  iter: "iter" # Iterator same in German # ✅
+  len: "länge" # ✅
+  list: "liste" # ✅
+  locals: "locale" # works but weird # ? lokale / lokalvar (analogous to globals)
+  map: "karte" # no idea # ? zuweisung
+  max: "max" # ✅
+  memoryview: "speicheransicht" # ✅
+  min: "min" # ✅
   # next: "weiter" 
-  next: "nächstes" # More literal translation
-  object: "objekt"
-  oct: "oct" # do idea
-  open: "öffne"
-  ord: "ord" # no idea
-  pow: "potenz"
-  print: "drucke"
-  property: "eigenschaft"
+  next: "nächstes" # More literal translation # ✅
+  object: "objekt" # ✅
+  oct: "oct" # do idea # ? okt / oktal / oktalzahl
+  open: "öffne" # ✅
+  ord: "ord" # no idea # ? ord / ordnungszahl
+  pow: "potenz" # ✅
+  print: "drucke" # ✅(if spaces are allowed, "gib aus")
+  property: "eigenschaft" # ✅
   # range: "reichweite"
-  range: "bereich" # Better fitting in context
-  repr: "repr"
-  reversed: "umgekehrt"
-  round: "runde"
-  set: "setze"
-  setattr: "setzeattr"
+  range: "bereich" # Better fitting in context # ✅ (alternatively, "intervall")
+  repr: "repr" # ✅
+  reversed: "umgekehrt" # ✅
+  round: "runde" # ✅
+  set: "setze" # ✅
+  setattr: "setzeattr" # ✅
   # slice: "scheibe"
-  slice: "schnitt" # slice in this case is not necessarily a round plate, which "scheibe" implies
-  sorted: "sortiert"
-  staticmethod: "statischemethode"
-  str: "str"
-  sum: "sum"
-  super: "super" # über?
-  tuple: "tuple" # no idea
-  type: "typ"
-  vars: "vars" # variablen?
-  zip: "zip" # no idea
-  __import__: "__importiere__"
+  slice: "schnitt" # slice in this case is not necessarily a round plate, which "scheibe" implies # ? abschnitt / ausschnitt
+  sorted: "sortiert" # ✅
+  staticmethod: "statischemethode" # ✅
+  str: "str" # ? text
+  sum: "sum" # ? summe
+  super: "super" # über? # ✅(I don't really see a better translation than "super", given the keyword refers to the base class)
+  tuple: "tuple" # no idea # ? tupel
+  type: "typ" # ✅
+  vars: "vars" # variablen? # ? prefer "variablen"
+  zip: "zip" # no idea # ? reißverschluss / paarbildung (maybe abbreviated as "paar")
+  __import__: "__importiere__" # ? __verwende__
 
 # << Error Messages >>
 
