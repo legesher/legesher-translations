@@ -1267,41 +1267,41 @@ __TRAIT__: ""
 #    someone else's opinion on this.
 #
 
-  False: "Nieprawda" # Fałsz?
-  None: "Nic"
-  True: "Prawda"
-  and: "i"
-  as: "jako" # jak?
-  assert: "zapewnij" # zapewniać
-  async: "asynchronicznie" # Probably best to keep as "async".
-  await: "oczekój" # poczekaj? oczekiwać?
-  break: "przerwij" # przerwać?
-  class: "klasa"
-  continue: "kontynuuj"
-  def: "definicja" # Probably best to keep as "def"
-  del: "usuń" # kasuj?
-  elif: "inaczejjeśli" # inaczej_jeśli?   Abbreviation: injeśli? [2ndOPINION]
-  else: "inaczej"
-  except: "wyjątek"
-  finally: "wreszcie" # ostatecznie?
-  for: "na" # za?
-  from: "z" # od?
-  global:  "globalna"
-  if: "jeśli" # jeżeli?
-  import: "importuj" # importować?
-  in: "w" # we?
-  is: "jest"
-  lambda: "lambda" #
-  nonlocal: "nielokalna" # nie_lokalna?
-  not: "nie"
-  or: "albo"
-  pass: "przejdź"
-  raise: "zgłoś"
-  return: "zwróć"
-  try: "spróbuj"
-  while: "podczas"
-  with: "przy" # Can't think of any other word that makes sense & doesn't clash with "from". [2ndOPINION]
-  yield: "wydobywaj"
+  False: "Nieprawda" # Fałsz? # ❓ I Would go with Fałsz
+  None: "Nic" # ✅
+  True: "Prawda" # ✅
+  and: "i" #❓ I would use "oraz" because i is often used as variable for iteration
+  as: "jako" # jak? ✅ 'jako' is good
+  assert: "zapewnij" # zapewniać ✅ 'zapewnij' is good
+  async: "asynchronicznie" # Probably best to keep as "async". ✅ both seem good
+  await: "oczekój" # poczekaj? oczekiwać? ❓ it's a grammar error, should be: 'oczekuj'
+  break: "przerwij" # przerwać? ✅ is good
+  class: "klasa" # ✅
+  continue: "kontynuuj" # ✅
+  def: "definicja" # Probably best to keep as "def" ✅ both are good
+  del: "usuń" # kasuj? ✅ 'usuń' is good
+  elif: "inaczejjeśli" # inaczej_jeśli?   Abbreviation: injeśli? [2ndOPINION] ✅ 'inaczejjeśli
+  else: "inaczej" # ✅
+  except: "wyjątek" # ✅
+  finally: "wreszcie" # ostatecznie? ✅ 'wreszcie' is good
+  for: "na" # za? ❓ should be: 'dla'
+  from: "z" # od? ✅ 'z' is good
+  global:  "globalna" # ✅
+  if: "jeśli" # jeżeli? ✅ both are good
+  import: "importuj" # importować? ✅ 'importuj' is good
+  in: "w" # we? ✅ 'w' is good
+  is: "jest" # ✅
+  lambda: "lambda" # ✅
+  nonlocal: "nielokalna" # nie_lokalna? ✅ 'nielokalna' is good
+  not: "nie" # ✅
+  or: "albo" # ✅
+  pass: "przejdź" # ✅
+  raise: "zgłoś" # ✅
+  return: "zwróć" # ✅
+  try: "spróbuj" # ✅
+  while: "podczas" # ❓ should be 'dopóki' or 'gdy'
+  with: "przy" # Can't think of any other word that makes sense & doesn't clash with "from". [2ndOPINION] # ✅
+  yield: "wydobywaj" # ❓ 'zwracaj' should be better although it does conflict with 'return'
 
 # << Built-In Functions >>
 
