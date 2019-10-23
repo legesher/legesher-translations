@@ -1,0 +1,12 @@
+{
+  "JavaScript": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify",
+      "ESLint"
+    ],
+    "arrow_parens": "always",
+    "brace_style": "collapse-preserve-inline"
+  }
+}
