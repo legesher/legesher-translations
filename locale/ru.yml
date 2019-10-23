@@ -1,0 +1,918 @@
+# Files in the locale directory are used for localization.
+# If you want to use locales other than English, follow the instructions in legesher-translations guide.
+# https://legesher.readme.io/docs/translation-guide
+#
+# THANK YOU FOR MAKING LEGESHER LARGER THAN US.
+
+
+language-abbreviation: "ru"
+# ----------------------
+# |    SYSTEM: ATOM    |
+# ----------------------
+# << Keywords >>
+# All keywords will be capitalized because it is used for
+# key information found in comments
+  NOTE: "NOTE"
+  INFO: "INFO"
+  IDEA: "IDEA"
+  DEBUG: "DEBUG"
+  REMOVE: "REMOVE"
+  OPTIMIZE: "OPTIMIZE"
+  REVIEW: "REVIEW"
+  HACK: "HACK"
+  UNDONE: "UNDONE"
+  TODO: "TODO"
+  REFACTOR: "REFACTOR"
+  DEPRECATED: "DEPRECATED"
+  TASK: "TASK"
+  CHGME: "CHGME"
+  NOTREACHED: "NOTREACHED"
+  WTF: "WTF"
+  BUG: "BUG"
+  ERROR: "ERROR"
+  OMG: "OMG"
+  ERR: "ERR"
+  OMFGRLY: "OMFGRLY"
+  WARNING: "WARNING"
+  WARN: "WARN"
+  BROKEN: "BROKEN"
+
+# ----------------------
+# |   LANGUAGE: AGDA   |
+# ----------------------
+# NOTE: https://agda.readthedocs.io/en/v2.5.4.2/index.html
+# << Keywords >>
+  abstract: "abstract"
+  codata: "codata"
+  coinductive: "coinductive"
+  constructor: "constructor"
+  data: "data"
+  do: "do"
+  eta-equality: "equality"
+  field: "field"
+  forall: "forall"
+  hiding: "hiding"
+  import: "import"
+  in: "in"
+  inductive: "inductive"
+  infix: "infix"
+  infixl: "infixl"
+  infixr: "infixr"
+  instance: "instance"
+  let: "let"
+  macro: "macro"
+  module: "module"
+  mutual: "mutual"
+  no-eta-equality: "equality"
+  open: "open"
+  overlap: "overlap"
+  pattern: "pattern"
+  postulate: "postulate"
+  primitive: "primitive"
+  private: "private"
+  public: "public"
+  quote: "quote"
+  quoteContext: "quoteContext"
+  quoteGoal: "quoteGoal"
+  quoteTerm: "quoteTerm"
+  record: "record"
+  renaming: "renaming"
+  rewrite: "rewrite"
+  Set: "Set" # can appear with a number suffix, optionally suffixed, make sure we account for this
+  syntax: "syntax"
+  tactic: "tactic"
+  unquote: "unquote"
+  unquoteDecl: "unquoteDecl"
+  unquoteDef: "unquoteDef"
+  using: "using"
+  where: "where"
+  with: "with"
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: AFL    |
+# ----------------------
+# Amibroker Formula Language
+# NOTE: https://www.amibroker.com/guide/a_language.html
+
+# << Keywords >>
+do: "do" # (part of do-while statement)
+while: "while"
+for: "for"
+if: "if" # (part of if-else statement)
+else: "else" # (part of if-else statement)
+switch: "switch"
+break: "break" # (part of the switch statement or for/while statements)
+case: "case" # (part of the switch statement)
+continue: "continue" # (part of for/while statements)
+default: "default" # (part of switch statement)
+function: "function"
+procedure: "procedure"
+return: "return"
+local: "local"
+global: "global"
+static: "static"
+typeof: "typeof"
+NOT: "NOT"
+AND: "AND"
+OR: "OR"
+Null: "Null"
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: BASH   |
+# ----------------------
+# << Keywords >>
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: C      |
+# ----------------------
+# << Keywords >>
+auto: "auto"
+double: "double"
+int: "int"
+struct: "struct"
+break: "break"
+else: "else"
+long: "long"
+switch: "switch"
+case: "case"
+enum: "enum"
+register: "register"
+typedef: "typedef"
+char: "char"
+extern: "extern"
+return: "return"
+union: "union"
+const: "const"
+float: "float"
+short: "short"
+unsigned: "unsigned"
+continue: "continue"
+for: "for"
+signed: "signed"
+void: "void"
+default: "default"
+goto: "goto"
+sizeof: "sizeof"
+volatile: "volatile"
+do: "do"
+if: "if"
+static: "static"
+while: "while"
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE:  C++   |
+# ----------------------
+# << Keywords >>
+
+#define: "define"
+#defined: "defined"
+#elif: "elif"
+#else: "else"
+#endif: "endif"
+#error: "error"
+#if: "if"
+#ifdef: "ifdef"
+#ifndef: "ifndef"
+#include: "include"
+#line: "line"
+#pragma: "pragma"
+#undef: "undef"
+alignas: "alignas"
+alignof: "alignof"
+and: "and"
+and_eq: "and_eq"
+asm: "asm"
+atomic_cancel: "atomic_cancel"
+atomic_commit: "atomic_commit"
+atomic_noexcept: "atomic_noexcept"
+auto: "auto"
+bitand: "bitand"
+bitor: "bitor"
+bool: "bool"
+break: "break"
+case: "case"
+catch: "catch"
+char: "char"
+char16_t: "char16_t"
+char32_t: "char32_t"
+class: "class"
+compl: "compl"
+concept: "concept"
+const: "const"
+constexpr: "constexpr"
+const_cast: "const_cast"
+continue: "continue"
+decltype: "decltype"
+default: "default"
+delete: "delete"
+do: "do"
+double: "double"
+dynamic_cast: "dynamic_cast"
+else: "else"
+enum: "enum"
+explicit: "explicit"
+export: "export"
+extern: "extern"
+false: "false"
+final: "final"
+float: "float"
+for: "for"
+friend: "friend"
+goto: "goto"
+if: "if"
+inline: "inline"
+int: "int"
+import: "import"
+long: "long"
+module: "module"
+mutable: "mutable"
+namespace: "namespace"
+new: "new"
+noexcept: "noexcept"
+not: "not"
+not_eq: "not_eq"
+nullptr: "nullptr"
+operator: "operator"
+or: "or"
+or_eq: "or_eq"
+override: "override"
+private: "private"
+protected: "protected"
+public: "public"
+register: "register"
+reinterpret_cast: "reinterpret_cast"
+requires: "requires"
+return: "return"
+short: "short"
+signed: "signed"
+sizeof: "sizeof"
+static: "static"
+static_assert: "static_assert"
+static_cast: "static_cast"
+struct: "struct"
+switch: "switch"
+synchronized: "synchronized"
+template: "template"
+this: "this"
+thread_local: "thread_local"
+throw: "throw"
+transaction_safe: "transaction_safe"
+transaction_safe_dynamic: "transaction_safe_dynamic"
+true: "true"
+try: "try"
+typedef: "typedef"
+typeid: "typeid"
+typename: "typename"
+union: "union"
+unsigned: "unsigned"
+using: "using"
+virtual: "virtual"
+void: "void"
+volatile: "volatile"
+wchar_t: "wchar_t"
+while: "while"
+xor: "xor"
+xor_eq: "xor_eq"
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: C#     |
+# ----------------------
+# << Keywords >>
+abstract: "abstract"
+add: "add"
+alias: "alias"
+as: "as"
+ascending: "ascending"
+async: "async"
+await: "await"
+base: "base"
+bool: "bool"
+break: "break"
+byte: "byte"
+case: "case"
+catch: "catch"
+char: "char"
+checked: "checked"
+class: "class"
+const: "const"
+continue: "continue"
+decimal: "decimal"
+default: "default"
+delegate: "delegate"
+descending: "descending"
+do: "do"
+double: "double"
+dynamic: "dynamic"
+else: "else"
+enum: "enum"
+event: "event"
+explicit: "explicit"
+extern: "extern"
+false: "false"
+finally: "finally"
+fixed: "fixed"
+float: "float"
+for: "for"
+foreach: "foreach"
+from: "from"
+get: "get"
+global: "global"
+goto: "goto"
+group: "group"
+if: "if"
+implicit: "implicit"
+in: "in"
+int: "int"
+interface: "interface"
+internal: "internal"
+into: "into"
+is: "is"
+join: "join"
+let: "let"
+lock: "lock"
+long: "long"
+namespace: "namespace"
+new: "new"
+null: "null"
+object: "object"
+operator: "operator"
+orderby: "orderby"
+out: "out"
+override: "override"
+params: "params"
+partial: "partial"
+private: "private"
+protected: "protected"
+public: "public"
+readonly: "readonly"
+ref: "ref"
+remove: "remove"
+return: "return"
+sbyte: "sbyte"
+sealed: "sealed"
+select: "select"
+set: "set"
+short: "short"
+sizeof: "sizeof"
+stackalloc: "stackalloc"
+static: "static"
+string: "string"
+struct: "struct"
+switch: "switch"
+this: "this"
+throw: "throw"
+true: "true"
+try: "try"
+typeof: "typeof"
+uint: "uint"
+ulong: "ulong"
+unchecked: "unchecked"
+unsafe: "unsafe"
+ushort: "ushort"
+using: "using"
+value: "value"
+var: "var"
+virtual: "virtual"
+void: "void"
+volatile: "volatile"
+where: "where"
+while: "while"
+yield: "yield"
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: CSS    |
+# ----------------------
+# << Keywords >>
+# << Error Messages >>
+
+# ------------------------
+# |   LANGUAGE: FLUENT   |
+# ------------------------
+# << Keywords >>
+# << Error Messages >>
+
+# ------------------------
+# |   LANGUAGE: GOLANG   |
+# ------------------------
+# << Keywords >>
+break: "break"
+default: "default"
+func: "func"
+interface: "interface"
+select: "select"
+case: "case"
+defer: "defer"
+go: "go"
+map: "map"
+struct: "struct"
+chan: "chan"
+else: "else"
+goto: "goto"
+package: "package"
+switch: "switch"
+const: "const"
+fallthrough: "fallthrough"
+if: "if"
+range: "range"
+type: "type"
+continue: "continue"
+for: "for"
+import: "import"
+return: "return"
+var: "var"
+
+# << Error Messages >>
+
+# -------------------------
+# |   LANGUAGE: HASKELL   |
+# -------------------------
+# << Keywords >>
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: HTML   |
+# ----------------------
+# << Keywords >>
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: JAVA   |
+# ----------------------
+# << Keywords >>
+abstract: "abstract"
+continue: "continue"
+for: "for"
+new: "new"
+switch: "switch"
+assert: "assert"
+default: "default"
+goto: "goto"
+package: "package"
+synchronized: "synchronized"
+boolean: "boolean"
+do: "do"
+if: "if"
+private: "private"
+this: "this"
+break: "break"
+double: "double"
+implements: "implements"
+protected: "protected"
+throw: "throw"
+byte: "byte"
+else: "else"
+import: "import"
+public: "public"
+throws: "throws"
+case: "case"
+enum: "enum"
+instanceof: "instanceof"
+return: "return"
+transient: "transient"
+catch: "catch"
+extends: "extends"
+int: "int"
+short: "short"
+try: "try"
+char: "char"
+final: "final"
+interface: "interface"
+static: "static"
+void: "void"
+class: "class"
+finally: "finally"
+long: "long"
+strictfp: "strictfp"
+volatile: "volatile"
+const: "const"
+float: "float"
+native: "native"
+super: "super"
+while: "while"
+_: "_" #_(underscore)
+
+# << Error Messages >>
+
+# ----------------------------
+# |   LANGUAGE: JAVASCRIPT   |
+# ----------------------------
+# << Keywords >>
+arguments: "arguments"
+await: "await"
+break: "break"
+case: "case"
+catch: "catch"
+class: "class"
+const: "const"
+continue: "continue"
+debugger: "debugger"
+default: "default"
+delete: "delete"
+do: "do"
+else: "else"
+enum: "enum"
+eval: "eval"
+export: "export"
+extends: "extends"
+false: "false"
+finally: "finally"
+for: "for"
+from: "from"
+function: "function"
+if: "if"
+implements: "implements"
+import: "import"
+in: "in"
+instanceof: "instanceof"
+interface: "interface"
+let: "let"
+new: "new"
+null: "null"
+package: "package"
+private: "private"
+protected: "protected"
+public: "public"
+return: "return"
+static: "static"
+super: "super"
+switch: "switch"
+this: "this"
+throw: "throw"
+true: "true"
+try: "try"
+typeof: "typeof"
+var: "var"
+void: "void"
+while: "while"
+with: "with"
+yield: "yield"
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: JULIA  |
+# ----------------------
+# << Keywords >>
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: JSDOC  |
+# ----------------------
+# << Keywords >>
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: JSON   |
+# ----------------------
+# << Keywords >>
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: NODE   |
+# ----------------------
+# << Keywords >>
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: OCAML  |
+# ----------------------
+# << Keywords >>
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: PHP    |
+# ----------------------
+# << Keywords >>
+# << Error Messages >>
+
+# ----------------------
+# |  LANGUAGE: PYTHON  |
+# ----------------------
+# << Keywords >>
+  False: "Ложно"
+  None: "Ничего"
+  True: "Истина"
+  and: "А так же"
+  as: "Как"
+  assert: "Истинность утверждения"
+  async: "Асинхронно"
+  await: "Указывает, что при выполнении следующего за ним выражения возможно переключение с текущей сопрограммы на другую или на основной поток выполнения"
+  break: "Разрыв"
+  class: "Класс"
+  continue: "Продолжить"
+  def: "Определение"
+  del: "Удаление"
+  elif: "Иначе если"
+  else: "Иначе"
+  except: "Исключать"
+  finally: "В заключение"
+  for: "Для"
+  from: "Из"
+  global:  "Глобальный"
+  if: "Если"
+  import: "Импортировать"
+  in: "В"
+  is: "Есть"
+  lambda: "Лямбда"
+  nonlocal: "Нелокальный"
+  not: "Нет"
+  or: "Или"
+  pass: "Проходить"
+  raise: "Повышать"
+  return: "Возвращать"
+  try: "Пытаться"
+  while: "Пока"
+  with: "С"
+  yield: "Возвращение объекта-генератора из функции"
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: RAZOR   |
+# ----------------------
+# << Keywords >>
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: REGEX  |
+# ----------------------
+# << Keywords >>
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: RUBY   |
+# ----------------------
+# << Keywords >>
+alias: "alias"
+and: "and"
+begin: "begin"
+break: "break"
+case: "case"
+class: "class"
+def: "def"
+defined?: ""
+do: "do"
+else: "else"
+elsif: "elsif"
+end: "end"
+ensure: "ensure"
+false: "false"
+for: "for"
+if: "if"
+in: "in"
+module: "module"
+next: "next"
+nil: "nil"
+not: "not"
+or: "or"
+redo: "redo"
+rescue: "rescue"
+retry: "retry"
+return: "return"
+self: "self"
+super: "super"
+then: "then"
+true: "true"
+undef: "undef"
+unless: "unless"
+until: "until"
+when: "when"
+while: "while"
+yield: "yield"
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE:  RUST  |
+# ----------------------
+# << Keywords >>
+
+_: "_"
+abstract: "abstract"
+alignof: "alignof"
+as: "as"
+become: "become"
+box: "box"
+break: "break"
+const: "const"
+continue: "continue"
+crate: "crate"
+do: "do"
+else: "else"
+enum: "enum"
+extern: "extern"
+false: "false"
+final: "final"
+fn: "fn"
+for: "for"
+if: "if"
+impl: "impl"
+in: "in"
+let: "let"
+loop: "loop"
+macro: "macro"
+match: "match"
+mod: "mod"
+move: "move"
+mut: "mut"
+offsetof: "offsetof"
+override: "override"
+priv: "priv"
+proc: "proc"
+pub: "pub"
+pure: "pure"
+ref: "ref"
+return: "return"
+Self: "Self"
+self: "self"
+sizeof: "sizeof"
+static: "static"
+struct: "struct"
+super: "super"
+trait: "trait"
+true: "true"
+type: "type"
+typeof: "typeof"
+unsafe: "unsafe"
+unsized: "unsized"
+use: "use"
+virtual: "virtual"
+where: "where"
+while: "while"
+yield: "yield"
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: SCALA  |
+# ----------------------
+# << Keywords >>
+abstract: "abstract"
+case: "case"
+catch: "catch"
+class: "class"
+def: "def"
+do: "do"
+else: "else"
+extends: "extends"
+false: "false"
+final: "final"
+finally: "finally"
+for: "for"
+forSome: "forSome"
+if: "if"
+implicit: "implicit"
+import: "import"
+lazy: "lazy"
+macro: "macro"
+match: "match"
+new: "new"
+null: "null"
+object: "object"
+override: "override"
+package: "package"
+private: "private"
+protected: "protected"
+return: "return"
+sealed: "sealed"
+super: "super"
+this: "this"
+throw: "throw"
+trait: "trait"
+try: "try"
+true: "true"
+type: "type"
+val: "val"
+var: "var"
+while: "while"
+with: "with"
+yield: "yield"
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: SWIFT   |
+# ----------------------
+# << Keywords >>
+associatedtype: "associatedtype"
+class: "class"
+deinit: "deinit"
+enum: "enum"
+extension: "extension"
+func: "func"
+import: "import"
+init: "init"
+inout: "inout"
+internal: "internal"
+let: "let"
+operator: "operator"
+private: "private"
+protocol: "protocol"
+public: "public"
+static: "static"
+struct: "struct"
+subscript: "subscript"
+typealias: "typealias"
+var: "var"
+break: "break"
+case: "case"
+continue: "continue"
+default: "default"
+defer: "defer"
+do: "do"
+else: "else"
+fallthrough: "fallthrough"
+for: "for"
+guard: "guard"
+if: "if"
+in: "in"
+repeat: "repeat"
+return: "return"
+switch: "switch"
+where: "where"
+while: "while"
+as: "as"
+catch: "catch"
+dynamicType: "dynamicType"
+false: "false"
+is: "is"
+nil: "nil"
+rethrows: "rethrows"
+super: "super"
+self: "self"
+Self: "Self"
+throw: "throw"
+throws: "throws"
+true: "true"
+try: "try"
+#column: "column"
+#file: "file"
+#function: "function"
+#line: "line"
+#available: "available"
+#column: "column"
+#else: "else"
+#elseif: "elseif"
+#endif: "endif"
+#file: "file"
+#function: "function"
+#if: "if"
+#line: "line"
+#selector: "selector"
+associativity: "associativity"
+convenience: "convenience"
+dynamic: "dynamic"
+didSet: "didSet"
+final: "final"
+get: "get"
+infix: "infix"
+indirect: "indirect"
+lazy: "lazy"
+left: "left"
+mutating: "mutating"
+none: "none"
+nonmutating: "nonmutating"
+optional: "optional"
+override: "override"
+postfix: "postfix"
+precedence: "precedence"
+prefix: "prefix"
+Protocol: "Protocol"
+required: "required"
+right: "right"
+set: "set"
+Type: "Type"
+unowned: "unowned"
+weak: "weak"
+willSet: "willSet"
+
+# << Error Messages >>
+
+# ---------------------------
+# |   LANGUAGE: TYPESCRIPT  |
+# ---------------------------
+# << Keywords >>
+# << Error Messages >>
+
+# ------------------------
+# |   LANGUAGE: VERILOG  |
+# ------------------------
+# << Keywords >>
+# << Error Messages >>
+
+# ------------------------------------
+# |   CONTENT: LEGESHER.IO WEBSITE   |
+# ------------------------------------
+# TODO: add home page translations
+# TODO: add tutorials
+# TODO: add other content
+
