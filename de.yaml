@@ -1309,12 +1309,12 @@ __TRAIT__: ""
 
 # << Built-In Functions >>
 
-  abs: "abs" #✅ absoluter wert?
+  abs: "abs" # absoluter wert?
   all: "alle" #✅✅
   any: "eines" #✅ #? beliebig
   ascii: "ascii" #✅✅
-  bin: "bin" # binär?#✅
-  bool: "bool" # warheitswert? #✅✅
+  bin: "bin" # binär?
+  bool: "bool" # warheitswert?
   breakpoint: "bruchpunkt" # ✅ # ? Bruchpunkt
   bytearray: "bytearray" # ? byteabfolge #? Bytearray
   bytes: "bytes" # ✅ #? Bytes
@@ -1341,7 +1341,7 @@ __TRAIT__: ""
   hash: "hash" #✅ # ? schlüssel / streuwert
   help: "hilfe" # ✅✅
   hex: "hex" # ✅✅
-  id: "id" # ✅# no idea, probably same
+  id: "id" # no idea, probably same
   input: "eingabe" # ✅ #? Eingabe
   int: "int" #✅ ? ganzzahl
   isinstance: "istinstanz" #✅✅
