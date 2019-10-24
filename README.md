@@ -172,6 +172,9 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/karimelazzouni"><img src="https://avatars2.githubusercontent.com/u/7556912?v=4" width="100px;" alt="Karim El Azzouni"/><br /><sub><b>Karim El Azzouni</b></sub></a><br /><a href="#translation-karimelazzouni" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Pervicorn"><img src="https://avatars1.githubusercontent.com/u/56754355?v=4" width="100px;" alt="pervicorn"/><br /><sub><b>pervicorn</b></sub></a><br /><a href="#translation-Pervicorn" title="Translation">🌍</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://rigoramirez.com"><img src="https://avatars1.githubusercontent.com/u/9856345?v=4" width="100px;" alt="Rigo Ramírez"/><br /><sub><b>Rigo Ramírez</b></sub></a><br /><a href="#translation-reegoram" title="Translation">🌍</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->

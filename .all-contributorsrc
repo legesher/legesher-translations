@@ -269,6 +269,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "reegoram",
+      "name": "Rigo Ramírez",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9856345?v=4",
+      "profile": "https://rigoramirez.com",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7
