@@ -166,6 +166,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
   <tr>
     <td align="center"><a href="https://github.com/GhalyahF"><img src="https://avatars0.githubusercontent.com/u/10036755?v=4" width="100px;" alt="Ghalyah Al-Ansari"/><br /><sub><b>Ghalyah Al-Ansari</b></sub></a><br /><a href="#translation-GhalyahF" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Raamyy"><img src="https://avatars3.githubusercontent.com/u/29176293?v=4" width="100px;" alt="Ramy Gamal"/><br /><sub><b>Ramy Gamal</b></sub></a><br /><a href="#translation-Raamyy" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/otherpaco"><img src="https://avatars1.githubusercontent.com/u/27810032?v=4" width="100px;" alt="otherpaco"/><br /><sub><b>otherpaco</b></sub></a><br /><a href="#translation-otherpaco" title="Translation">🌍</a></td>
   </tr>
 </table>
 
