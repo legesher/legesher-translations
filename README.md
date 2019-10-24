@@ -174,6 +174,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
   </tr>
   <tr>
     <td align="center"><a href="https://rigoramirez.com"><img src="https://avatars1.githubusercontent.com/u/9856345?v=4" width="100px;" alt="Rigo Ramírez"/><br /><sub><b>Rigo Ramírez</b></sub></a><br /><a href="#translation-reegoram" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/kararade"><img src="https://avatars1.githubusercontent.com/u/6010411?v=4" width="100px;" alt="Carlos Almeida"/><br /><sub><b>Carlos Almeida</b></sub></a><br /><a href="#translation-kararade" title="Translation">🌍</a></td>
   </tr>
 </table>
 
