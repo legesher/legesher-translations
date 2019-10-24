@@ -260,6 +260,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "Pervicorn",
+      "name": "pervicorn",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/56754355?v=4",
+      "profile": "https://github.com/Pervicorn",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7

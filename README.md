@@ -170,6 +170,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://twitter.com/nausicaea"><img src="https://avatars1.githubusercontent.com/u/20278686?v=4" width="100px;" alt="Eleanore Young"/><br /><sub><b>Eleanore Young</b></sub></a><br /><a href="#translation-nausicaea" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/kartoniks"><img src="https://avatars0.githubusercontent.com/u/14161766?v=4" width="100px;" alt="kartoniks"/><br /><sub><b>kartoniks</b></sub></a><br /><a href="#translation-kartoniks" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/karimelazzouni"><img src="https://avatars2.githubusercontent.com/u/7556912?v=4" width="100px;" alt="Karim El Azzouni"/><br /><sub><b>Karim El Azzouni</b></sub></a><br /><a href="#translation-karimelazzouni" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Pervicorn"><img src="https://avatars1.githubusercontent.com/u/56754355?v=4" width="100px;" alt="pervicorn"/><br /><sub><b>pervicorn</b></sub></a><br /><a href="#translation-Pervicorn" title="Translation">🌍</a></td>
   </tr>
 </table>
 
