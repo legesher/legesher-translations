@@ -195,6 +195,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/ajrichards"><img src="https://avatars3.githubusercontent.com/u/364593?v=4" width="100px;" alt="Adam J Richards"/><br /><sub><b>Adam J Richards</b></sub></a><br /><a href="#translation-ajrichards" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/JohannaHillebrand"><img src="https://avatars2.githubusercontent.com/u/32872683?v=4" width="100px;" alt="Johanna"/><br /><sub><b>Johanna</b></sub></a><br /><a href="#translation-JohannaHillebrand" title="Translation">🌍</a></td>
     <td align="center"><a href="http://br.linkedin.com/in/lucianorc"><img src="https://avatars3.githubusercontent.com/u/15809447?v=4" width="100px;" alt="Luciano Costa"/><br /><sub><b>Luciano Costa</b></sub></a><br /><a href="#translation-lucianorc" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/merelyAnna"><img src="https://avatars3.githubusercontent.com/u/8435581?v=4" width="100px;" alt="merelyanna"/><br /><sub><b>merelyanna</b></sub></a><br /><a href="#translation-merelyAnna" title="Translation">🌍</a></td>
   </tr>
 </table>
 
