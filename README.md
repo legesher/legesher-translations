@@ -24,7 +24,7 @@
     <!-- <a href="https://github.com/legesher/legesher-translations/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/legesher/legesher-translations?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
-        <img src="https://img.shields.io/badge/all_contributors-22-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/all_contributors-31-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://streamlabs.com/withmadico/tip" alt="Backers on Github">
         <img src="https://img.shields.io/badge/sponsors-4-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://instagram.com/withmadico" alt="Sponsors on Github">
@@ -67,9 +67,19 @@ We are actively working on adding as many written languages as we can for versio
 
 ### Languages in Active Development
 
-- Spanish (es)
-- Ukrainian (uk)
-- Portuguese (pt)
+- [Afar (aa)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Afar")
+- [Arabic (ar)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Arabic")
+- [French (fr)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+French")
+- [German (de)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+German")
+- [Italian (it)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Italian")
+- [Polish (pl) ](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Polish")
+- [Portuguese (pt)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Portugese")
+- [Russian (ru)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Russian")
+- [Spanish (es)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Spanish")
+- [Tagalog (tl)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Tagalog")
+- [Ukrainian (uk)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Ukranian")
+- [Xhosa (xh)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Xhosa")
+
 
 _📢 If your native language is not available in the Legesher translation repository, we'd love your help to add it!!_
 
@@ -77,7 +87,7 @@ _📢 If your native language is not available in the Legesher translation repos
 
 ❤️Legesher relies on the passionate members of its community (both developer and non-developer alike) to keep delivering impactful tools to people all over the world.
 
-Before contributing, be sure to consult Legesher's [contribution guidelines](https://github.com/legesher/legesher/blob/master/CONTRIBUTING.md) and [language conventions](https://github.com/legesher/legesher/blob/master/.github/language-conventions.md). As a member of our community, you must abide by our [Code Of Conduct](https://github.com/legesher/legesher/blob/master/CODE_OF_CONDUCT.md).
+Before contributing, be sure to consult Legesher's [contribution guidelines](https://github.com/legesher/legesher/blob/master/CONTRIBUTING.md) and [language conventions](https://github.com/legesher/legesher/blob/master/LANGUAGE_CONVENTIONS.md). As a member of our community, you must abide by our [Code Of Conduct](https://github.com/legesher/legesher/blob/master/CODE_OF_CONDUCT.md).
 
 ## Installation
 
@@ -165,12 +175,22 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/GhalyahF"><img src="https://avatars0.githubusercontent.com/u/10036755?v=4" width="100px;" alt="Ghalyah Al-Ansari"/><br /><sub><b>Ghalyah Al-Ansari</b></sub></a><br /><a href="#translation-GhalyahF" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Raamyy"><img src="https://avatars3.githubusercontent.com/u/29176293?v=4" width="100px;" alt="Ramy Gamal"/><br /><sub><b>Ramy Gamal</b></sub></a><br /><a href="#translation-Raamyy" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/otherpaco"><img src="https://avatars1.githubusercontent.com/u/27810032?v=4" width="100px;" alt="otherpaco"/><br /><sub><b>otherpaco</b></sub></a><br /><a href="#translation-otherpaco" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://twitter.com/nausicaea"><img src="https://avatars1.githubusercontent.com/u/20278686?v=4" width="100px;" alt="Eleanore Young"/><br /><sub><b>Eleanore Young</b></sub></a><br /><a href="#translation-nausicaea" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/kartoniks"><img src="https://avatars0.githubusercontent.com/u/14161766?v=4" width="100px;" alt="kartoniks"/><br /><sub><b>kartoniks</b></sub></a><br /><a href="#translation-kartoniks" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/karimelazzouni"><img src="https://avatars2.githubusercontent.com/u/7556912?v=4" width="100px;" alt="Karim El Azzouni"/><br /><sub><b>Karim El Azzouni</b></sub></a><br /><a href="#translation-karimelazzouni" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Pervicorn"><img src="https://avatars1.githubusercontent.com/u/56754355?v=4" width="100px;" alt="pervicorn"/><br /><sub><b>pervicorn</b></sub></a><br /><a href="#translation-Pervicorn" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://rigoramirez.com"><img src="https://avatars1.githubusercontent.com/u/9856345?v=4" width="100px;" alt="Rigo Ramírez"/><br /><sub><b>Rigo Ramírez</b></sub></a><br /><a href="#translation-reegoram" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/kararade"><img src="https://avatars1.githubusercontent.com/u/6010411?v=4" width="100px;" alt="Carlos Almeida"/><br /><sub><b>Carlos Almeida</b></sub></a><br /><a href="#translation-kararade" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/kcmvillarino"><img src="https://avatars2.githubusercontent.com/u/17331323?v=4" width="100px;" alt="Charlie Villarino"/><br /><sub><b>Charlie Villarino</b></sub></a><br /><a href="#translation-kcmvillarino" title="Translation">🌍</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 _This project follows the [all-contributors](https://allcontributors.org/) specification. Contributions of any kind are welcome and recognized. ✨_
