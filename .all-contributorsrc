@@ -296,6 +296,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "annahayhurst",
+      "name": "Anna",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/31887817?v=4",
+      "profile": "https://www.linkedin.com/in/anna-hayhurst-98aa58140/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7

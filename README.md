@@ -186,6 +186,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://rigoramirez.com"><img src="https://avatars1.githubusercontent.com/u/9856345?v=4" width="100px;" alt="Rigo Ramírez"/><br /><sub><b>Rigo Ramírez</b></sub></a><br /><a href="#translation-reegoram" title="Translation">🌍</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/kararade"><img src="https://avatars1.githubusercontent.com/u/6010411?v=4" width="100px;" alt="Carlos Almeida"/><br /><sub><b>Carlos Almeida</b></sub></a><br /><a href="#translation-kararade" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/kcmvillarino"><img src="https://avatars2.githubusercontent.com/u/17331323?v=4" width="100px;" alt="Charlie Villarino"/><br /><sub><b>Charlie Villarino</b></sub></a><br /><a href="#translation-kcmvillarino" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/anna-hayhurst-98aa58140/"><img src="https://avatars3.githubusercontent.com/u/31887817?v=4" width="100px;" alt="Anna"/><br /><sub><b>Anna</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=annahayhurst" title="Documentation">📖</a></td>
   </tr>
 </table>
 
