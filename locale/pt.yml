@@ -128,10 +128,10 @@ Null: "Nulo"
 case: "caso"
 do: "faça"
 done: "feito"
-elif: ""
+elif: "se não, se"
 else: "se não"
-esac: ""
-fi: ""
+esac: "fim caso"
+fi: "fim se"
 for: "por"
 function: "função"
 if: "se"
@@ -1319,7 +1319,7 @@ __TRAIT__: ""
   if: "se"
     #Fayhen-✅
     #geraldobraz-✅
-  import: "importe" 
+  import: "importe"
     #Fayhen-❓ - Verb is correct but may be better kept on its infinitive form ('importar')
     #geraldobraz-❓
   in: "em"
@@ -1487,7 +1487,7 @@ __TRAIT__: ""
     #Fayhen-✅
     #geraldobraz-✅
   next: "próximo"
-    #next -> próximo 
+    #next -> próximo
     #Fayhen-✅
   object: "objeto"
     #Fayhen-✅
