@@ -189,6 +189,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://www.linkedin.com/in/anna-hayhurst-98aa58140/"><img src="https://avatars3.githubusercontent.com/u/31887817?v=4" width="100px;" alt="Anna"/><br /><sub><b>Anna</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=annahayhurst" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/sime1"><img src="https://avatars2.githubusercontent.com/u/8495723?v=4" width="100px;" alt="sime1"/><br /><sub><b>sime1</b></sub></a><br /><a href="#translation-sime1" title="Translation">🌍</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/jayehernandez/"><img src="https://avatars1.githubusercontent.com/u/13959651?v=4" width="100px;" alt="Jaye Hernandez"/><br /><sub><b>Jaye Hernandez</b></sub></a><br /><a href="#translation-jayehernandez" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/zolumasoft"><img src="https://avatars3.githubusercontent.com/u/6179125?v=4" width="100px;" alt="Gift M"/><br /><sub><b>Gift M</b></sub></a><br /><a href="#translation-zolumasoft" title="Translation">🌍</a></td>
   </tr>
 </table>
 
