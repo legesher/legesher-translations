@@ -305,6 +305,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "sime1",
+      "name": "sime1",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/8495723?v=4",
+      "profile": "https://github.com/sime1",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7
