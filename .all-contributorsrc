@@ -351,6 +351,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "lucianorc",
+      "name": "Luciano Costa",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15809447?v=4",
+      "profile": "http://br.linkedin.com/in/lucianorc",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7
