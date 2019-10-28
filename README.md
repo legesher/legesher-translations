@@ -191,6 +191,9 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://www.linkedin.com/in/jayehernandez/"><img src="https://avatars1.githubusercontent.com/u/13959651?v=4" width="100px;" alt="Jaye Hernandez"/><br /><sub><b>Jaye Hernandez</b></sub></a><br /><a href="#translation-jayehernandez" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/zolumasoft"><img src="https://avatars3.githubusercontent.com/u/6179125?v=4" width="100px;" alt="Gift M"/><br /><sub><b>Gift M</b></sub></a><br /><a href="#translation-zolumasoft" title="Translation">🌍</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ajrichards"><img src="https://avatars3.githubusercontent.com/u/364593?v=4" width="100px;" alt="Adam J Richards"/><br /><sub><b>Adam J Richards</b></sub></a><br /><a href="#translation-ajrichards" title="Translation">🌍</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
