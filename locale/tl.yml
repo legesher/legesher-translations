@@ -1251,113 +1251,113 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: "mali"
-  None: "wala"
-  True: "totoo"
-  and: "at"
-  as: "bilang"
-  assert: "igiit"
-  async: "async"
-  await: "naghihintay"
-  break: "hinto"
-  class: "klase"
-  continue: "magpatuloy"
-  def: "def"
-  del: "del"
-  elif: "elif"
-  else: "iba pa"
-  except: "maliban"
-  finally: "sa wakas"
-  for: "para sa"
-  from: "mula sa"
-  global:  "global"
-  if: "kung"
-  import: "angkat"
-  in: "sa"
-  is: "ay"
-  lambda: "lambda"
-  nonlocal: "nonlocal"
-  not: "hindi"
-  or: "o"
-  pass: "pumasa"
-  raise: "itaas"
-  return: "bumalik"
-  try: "subukan"
-  while: "habang"
-  with: "kasama"
-  yield: "ani"
+  False: "mali" ✅
+  None: "wala" ✅
+  True: "totoo" ✅
+  and: "at" ✅
+  as: "bilang" ✅
+  assert: "igiit" ✅
+  async: "async" ✅
+  await: "naghihintay" ✅
+  break: "hinto" ❓ # tigil might be a better alternative
+  class: "klase" ✅
+  continue: "magpatuloy" ✅
+  def: "def" ✅
+  del: "del" ✅
+  elif: "elif" ✅
+  else: "iba pa" ✅
+  except: "maliban" ✅
+  finally: "sa wakas" ❓ # sa huli might be a better alternative
+  for: "para sa" ✅
+  from: "mula sa" ✅
+  global:  "global" ✅
+  if: "kung" ✅
+  import: "angkat" 🤔 # import works for the context used in Python, angkat is not widely used anymore
+  in: "sa" ✅
+  is: "ay" ✅
+  lambda: "lambda" ✅
+  nonlocal: "nonlocal" ✅
+  not: "hindi" ✅
+  or: "o" ✅
+  pass: "pumasa" ✅
+  raise: "itaas" ✅
+  return: "bumalik" ✅
+  try: "subukan" ✅
+  while: "habang" ✅
+  with: "kasama" ✅
+  yield: "ani" ✅
 
 # << Built-In Functions >>
 
-  abs: ""
-  all: ""
-  any: ""
-  ascii: ""
-  bin: ""
-  bool: ""
-  breakpoint: ""
-  bytearray: ""
-  bytes: ""
-  callable: ""
-  chr: ""
-  classmethod: ""
-  compile: ""
-  complex: ""
-  delattr: ""
-  dict: ""
-  dir: ""
-  divmod: ""
-  enumerate: ""
-  eval: ""
-  exec: ""
-  filter: ""
-  float: ""
-  format: ""
-  frozenset: ""
-  getattr: ""
-  globals: ""
-  hasattr: ""
-  hash: ""
-  help: ""
-  hex: ""
-  id: ""
-  input: ""
-  int: ""
-  isinstance: ""
-  issubclass: ""
-  iter: ""
-  len: ""
-  list: ""
-  locals: ""
-  map: ""
-  max: ""
-  memoryview: ""
-  min: ""
-  next: ""
-  object: ""
-  oct: ""
-  open: ""
-  ord: ""
-  pow: ""
-  print: ""
-  property: ""
-  range: ""
-  repr: ""
-  reversed: ""
-  round: ""
-  set: ""
-  setattr: ""
-  slice: ""
-  sorted: ""
+  abs: "abs"
+  all: "lahat"
+  any: "anumang"
+  ascii: "ascii"
+  bin: "bin"
+  bool: "bool"
+  breakpoint: "breakpoint"
+  bytearray: "bytearray"
+  bytes: "bytes"
+  callable: "natatawag"
+  chr: "chr"
+  classmethod: "classmethod"
+  compile: "compile"
+  complex: "kumplikado"
+  delattr: "delattr"
+  dict: "dict"
+  dir: "dir"
+  divmod: "divmod"
+  enumerate: "magtala"
+  eval: "eval"
+  exec: "exec"
+  filter: "salain"
+  float: "float"
+  format: "format"
+  frozenset: "frozenset"
+  getattr: "getattr"
+  globals: "globals"
+  hasattr: "hasattr"
+  hash: "hash"
+  help: "tumulong"
+  hex: "hex"
+  id: "id"
+  input: "input"
+  int: "int"
+  isinstance: "isinstance"
+  issubclass: "issubclass"
+  iter: "iter"
+  len: "len"
+  list: "list"
+  locals: "locals"
+  map: "map"
+  max: "pinakamataas"
+  memoryview: "memoryview"
+  min: "pinakamaliit"
+  next: "susunod"
+  object: "bagay"
+  oct: "oct"
+  open: "bukas"
+  ord: "ord"
+  pow: "pow"
+  print: "print"
+  property: "katangian"
+  range: "saklaw"
+  repr: "repr"
+  reversed: "baligtad"
+  round: "round"
+  set: "set"
+  setattr: "setattr"
+  slice: "hiwain"
+  sorted: "pinagsunod-sunod"
   staticmethod: ""
-  str: ""
-  sum: ""
-  super: ""
-  tuple: ""
-  type: ""
-  vars: ""
-  zip: ""
-  __import__: ""
+  str: "str"
+  sum: "suma"
+  super: "super"
+  tuple: "tuple"
+  type: "uri"
+  vars: "vars"
+  zip: "zip"
+  __import__: "__import__"
 
 # << Error Messages >>
 
