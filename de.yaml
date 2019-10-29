@@ -148,38 +148,38 @@ while: ""
 # |   LANGUAGE: C      |
 # ----------------------
 # << Keywords >>
-auto: ""
-double: ""
-int: ""
-struct: ""
-break: ""
-else: ""
+auto: "auto"
+double: "Kommazahl"
+int: "GanzeZahl"
+struct: "Struktur"
+break: "Abbruch"
+else: "ansonsten"
 long: ""
-switch: ""
-case: ""
-enum: ""
-register: ""
-typedef: ""
-char: ""
-extern: ""
-return: ""
+switch: "switch" #there is not really a good alternative in German
+case: "Fall"
+enum: "enum"
+register: "Register"
+typedef: "TypDefinition"
+char: "Zeichen"
+extern: "extern"
+return: "Rückgabe"
 union: ""
-const: ""
-float: ""
+const: "Konstante"
+float: "Fließkommazahl"
 short: ""
-unsigned: ""
-continue: ""
-for: ""
-signed: ""
-void: ""
-default: ""
-goto: ""
-sizeof: ""
+unsigned: "vorzeichenlos"
+continue: "fahreFort"
+for: "für"
+signed: "vorzeichenbehaftet"
+void: "stumm" #maybe
+default: "default"
+goto: "wechselZu"
+sizeof: "größeVon"
 volatile: ""
-do: ""
-if: ""
-static: ""
-while: ""
+do: "tue"
+if: "wenn"
+static: "statisch"
+while: "solange"
 
 # << Error Messages >>
 
@@ -852,56 +852,56 @@ wbr: "" #	Defines a possible line-break
 # |   LANGUAGE: JAVA   |
 # ----------------------
 # << Keywords >>
-abstract: ""
-continue: ""
-for: ""
-new: ""
-switch: ""
-assert: ""
-default: ""
-goto: ""
-package: ""
-synchronized: ""
-boolean: ""
-do: ""
-if: ""
-private: ""
-this: ""
-break: ""
-double: ""
-implements: ""
-protected: ""
-throw: ""
-byte: ""
-else: ""
-import: ""
-public: ""
-throws: ""
-case: ""
-enum: ""
-instanceof: ""
-return: ""
+abstract: "abstrakt"
+continue: "fahreFort"
+for: "für"
+new: "neu"
+switch: "switch"
+assert: "vergleiche"
+default: "default"
+goto: "geheZu"
+package: "Paket"
+synchronized: "synchronisiert"
+boolean: "Wahrheitswert"
+do: "tue"
+if: "wenn"
+private: "privat"
+this: "dieses"
+break: "Abbruch"
+double: "Kommazahl"
+implements: "implementiert"
+protected: "geschützt"
+throw: "werfe"
+byte: "Byte"
+else: "dann"
+import: "importiere"
+public: "öffentlich"
+throws: "werfe"
+case: "Fall"
+enum: "enum"
+instanceof: "instanzVon"
+return: "gebeZurück"
 transient: ""
-catch: ""
-extends: ""
-int: ""
+catch: "fange" 
+extends: "erweitert"
+int: "Ganzzahl"
 short: ""
-try: ""
-char: ""
-final: ""
-interface: ""
-static: ""
-void: ""
-class: ""
-finally: ""
+try: "versuche"
+char: "Zeichen"
+final: "final"
+interface: "Interface"
+static: "statisch"
+void: "stumm" 
+class: "Klasse"
+finally: "schlussendlich"
 long: ""
 strictfp: ""
 volatile: ""
-const: ""
-float: ""
-native: ""
-super: ""
-while: ""
+const: "Konstante"
+float: "Fließkommazahl"
+native: "nativ"
+super: "super"
+while: "solange"
 _: "" #_(underscore)
 
 # << Error Messages >>
@@ -910,61 +910,61 @@ _: "" #_(underscore)
 # |   LANGUAGE: JAVASCRIPT   |
 # ----------------------------
 # << Keywords >>
-arguments: "argumente"
-await: "erwarte"
+arguments: "argumente" #✅
+await: "erwarte" #warteAuf?
 # break: "bruch"
-break: "brich" # Imperative of brechen, instead of noun Bruch
-case: "fall"
-catch: "fange" # not sure
-class: "klasse"
-const: "konstante"
-continue: "fortfahren"
-debugger: "debugger"
-default: "default"
+break: "brich" # Imperative of brechen, instead of noun Bruch #abbruch?
+case: "fall" #✅
+catch: "fange" # not sure #fangeAuf
+class: "klasse" #✅
+const: "konstante" #✅
+continue: "fortfahren" #fahreFort?
+debugger: "debugger" #✅
+default: "default" #✅
 # delete: "löschen" 
-delete: "lösche" # Imperative
-do: "tue"
-else: "sonst"
-enum: "enum" # no idea
+delete: "lösche" #✅ # Imperative 
+do: "tue" #✅
+else: "sonst" #✅
+enum: "enum" #✅ # no idea 
 # eval: "evaluieren" # Imperative
-eval: "evaluiere"
+eval: "evaluiere" #✅
 # export: "exportieren"
-export: "exportiere" # Imperative
-extends: "erweitert"
-false: "falsch"
-finally: "endlich"
-for: "für"
-from: "von"
-function: "funktion"
+export: "exportiere" #✅ # Imperative
+extends: "erweitert" #✅
+false: "falsch" #✅
+finally: "endlich" #schlussendlich?
+for: "für" #✅
+from: "von" #✅
+function: "funktion" #✅
 # if: "wenn"
-if: "falls" # If -> falls (It might happen), When -> Wenn (It will happen)
-implements: "implementiert"
-import: "importiere"
-in: "in"
-instanceof: "instanzvon"
-interface: "interface"
+if: "falls" #✅ # If -> falls (It might happen), When -> Wenn (It will happen)
+implements: "implementiert" #✅
+import: "importiere" #✅
+in: "in" #✅
+instanceof: "instanzvon" #✅
+interface: "interface" #✅
 # let: "lasse"
-let: "sei" # Mathematical notation e.g. let x be 5 -> Sei x 5
-new: "neu"
-null: "null" # no idea
-package: "paket"
-private: "privat"
-protected: "geschützt"
-public: "öffentlich"
-return: "gib"
-static: "statisch"
-super: "super" # über?
-switch: "schalter"
-this: "dies"
-throw: "werfe"
-true: "wahr"
-try: "versuche"
-typeof: "typvon"
-var: "var" # no idea
-void: "void" # no idea
-while: "während"
-with: "mit"
-yield: "liefere"
+let: "sei" #✅ # Mathematical notation e.g. let x be 5 -> Sei x 5
+new: "neu" #✅
+null: "null" #✅ # no idea
+package: "paket" #✅
+private: "privat" #✅
+protected: "geschützt" #✅
+public: "öffentlich" #✅
+return: "gib" #✅
+static: "statisch" #✅
+super: "super"  #✅ # über?
+switch: "schalter" #works but weird
+this: "dies" #✅
+throw: "werfe" #✅
+true: "wahr" #✅
+try: "versuche" #✅
+typeof: "typvon" #✅
+var: "var" #✅ # no idea
+void: "void" #stumm? maybe? # no idea
+while: "während" #✅ #solange?
+with: "mit" #✅
+yield: "liefere" #✅
 
 # << Error Messages >>
 
@@ -1272,100 +1272,100 @@ __TRAIT__: ""
   True: "Wahr" #✅✅✅
   and: "und" #✅✅✅
   as: "als" #✅✅✅
-  assert: "behaupte" #❓"bestätige" or "versichere" might fit better
+  assert: "behaupte" # ? fordere #❓"bestätige" or "versichere" might fit better
   async: "asynchron" #✅✅✅
-  await: "erwarte" #✅✅✅
+  await: "erwarte" #✅✅✅ #warte auf ?
   # break: "bruch"
-  break: "brich" #❓"brich ab" fits better; just "brich" rather means "to fracture something"
-  class: "klasse" #✅ #?Klasse is a noun <- I second this one, the "K" needs to be uppercase
-  continue: "fortfahren" # ? überspringe (imperative and the semantic meaning is clearer) <- I second this
-  def: "def" # <- short | definiere? #🤔
+  break: "brich" # Imperative instead of noun # Abbruch ? #❓"brich ab" fits better; just "brich" rather means "to fracture something"
+  class: "klasse" #✅ #?Klasse is a noun # needs a capital "K" <- I second this one, the "K" needs to be uppercase
+  continue: "fortfahren" # ? überspringe (imperative and the semantic meaning is clearer) # <- I second this # works but weird 
+  def: "def" # <- short | definiere? ✅ #🤔
   del: "lösche" #✅✅✅
   # elif: "sonstwenn"
-  elif: "sonstfalls" #✅ If -> falls, when -> wenn
+  elif: "sonstfalls" #✅ # If -> falls, when -> wenn #ansonsten?
   else: "sonst" #✅✅✅
   except: "außer" #✅✅✅
-  finally: "endlich" # ? schlußendlich # ? abschließend # I second "schlußendlich"
-  for: "für" #✅✅✅ 
-  from: "von" # ? aus (in the semantic context of python, this represents the meaning more clearly) # I second "aus"
+  finally: "endlich" # ? schlußendlich ✅ # ? abschließend # I second "schlußendlich"
+  for: "für" #✅✅✅
+  from: "von" ✅ # ? aus (in the semantic context of python, this represents the meaning more clearly) # I second "aus"
   global: "global" #✅✅✅
   # if: "wenn"
-  if: "falls" #If -> falls, when -> wenn #✅
-  import: "importiere" #✅✅ ? verwende
+  if: "falls" ✅✅ # If -> falls, when -> wenn
+  import: "importiere" #✅✅✅ ? verwende
   in: "in" #✅✅✅
   is: "ist" #✅✅✅
-  lambda: "lambda" #✅✅❓ It's a noun, so "Lambda"
-  nonlocal: "unlogisch" # "unlogisch" is definitely wrong. "nichtlokal" is the appropriate translation # ? nonlokal #🤔
+  lambda: "lambda" #✅✅✅ ❓ It's a noun, so "Lambda"
+  nonlocal: "unlogisch" # "unlogisch" is definitely wrong. "nichtlokal" is the appropriate translation  # ? nonlokal #nichtlokal? #🤔
   not: "nicht" #✅✅✅
   or: "oder" #✅✅✅
   # pass: "besteht"
-  pass: "weiter" # pass in python means to execute a line of code that does nothing #✅
-  raise: "erhebe" # ? (I'm not happy with this, because one cannot use "erhebe eine Ausnahme", i.e. raise an exception, in German)
-  return: "gib" #✅(if spaces are possible, prefer "gib zurück") <- I second that
+  pass: "weiter" # pass in python means to execute a line of code that does nothing #✅✅
+  raise: "erhebe" # ? (I'm not happy with this, because one cannot use "erhebe eine Ausnahme", i.e. raise an exception, in German) # auslösen?
+  return: "gib" #✅(if spaces are possible, prefer "gib zurück")✅
   try: "versuche" #✅✅✅
   while: "während" #✅✅✅
   with: "mit" #✅✅✅
-  yield: "liefere" #✅(if spaces are possible, prefer "gib ab". This would completement the translation of return) <- I second that
+  yield: "liefere" #✅✅(if spaces are possible, prefer "gib ab". This would completement the translation of return) <- I second that
 
 # << Built-In Functions >>
 
-  abs: "abs" # absoluter wert? #✅
+  abs: "abs" # absoluter wert? #absolut? #✅
   all: "alle" #✅✅✅
-  any: "eines" #✅ #? beliebig # I second "beliebig"
+  any: "eines" #✅ #? beliebig ✅ # I second "beliebig"
   ascii: "ascii" #✅✅✅
-  bin: "bin" # binär? #I second "binär"
-  bool: "bool" # warheitswert? #✅
-  breakpoint: "bruchpunkt" # ✅✅ # ? Bruchpunkt
-  bytearray: "bytearray" # ? byteabfolge #? Bytearray #✅
-  bytes: "bytes" # ✅✅ #? Bytes 
-  callable: "rufbar" # ? aufrufbar # I second "aufrufbar"
-  chr: "chr" # zeichen? #❓"Buchstabe" oder "Zeichen"
-  classmethod: "klassenmethode" # ✅ #?Klassenmethode # I second "Klassenmethode"
+  bin: "bin" # binär? ✅ #I second "binär"
+  bool: "bool" # warheitswert? ✅✅
+  breakpoint: "bruchpunkt" # ✅✅ # ? Bruchpunkt #Abbruchpunkt?
+  bytearray: "bytearray" # ? byteabfolge #? Bytearray ✅✅
+  bytes: "bytes" # ✅✅ #? Bytes ✅
+  callable: "rufbar" # ? aufrufbar✅ # I second "aufrufbar"
+  chr: "chr" # zeichen? ✅ #❓"Buchstabe" oder "Zeichen"
+  classmethod: "klassenmethode" # ✅✅ #?Klassenmethode✅
   # compile: "compiliere"
-  compile: "kompiliere" # German spelling #✅
+  compile: "kompiliere"✅✅ # German spelling
   complex: "komplex" # ✅✅✅
-  delattr: "" # entfattr? #❓"lösche Attribut", shortened to "löeschattr" maybe
-  dict: "dict" # wörterbuch? #❓The German equivalent for dictionary would probably be "assoziative Liste", so maybe shortened to "assozListe"
-  dir: "ver" # verzeichnis? # I second "Verzeichnis"
-  divmod: "divmod" # no idea, division(en) == division(de) so... #🤔
-  enumerate: "aufzählen" # zähle_auf? #✅
-  eval: "evaluiere" #✅✅ # ? verarbeite / berechne
+  delattr: "" # entfattr? #löscheAttribut? #❓"lösche Attribut", shortened to "löeschattr" maybe
+  dict: "dict" # wörterbuch? ✅ ❓The German equivalent for dictionary would probably be "assoziative Liste", so maybe shortened to "assozListe"; "Wörterbuch" a literal translation
+  dir: "ver" # verzeichnis? #Verzeichnis? # I second "Verzeichnis"
+  divmod: "divmod" # no idea, division(en) == division(de) so... #modulo? #🤔
+  enumerate: "aufzählen" # zähle_auf? #✅✅
+  eval: "evaluiere" #✅✅✅ # ? verarbeite / berechne
   exec: "ausführen" # ✅✅✅(if spaces are possible, use "führe aus" or "rufe auf")
-  filter: "filter" #✅✅ # ? filtriere
-  float: "gleitkomma" # Gleitkomma or Fließkomma is floating point # ✅
-  format: "format" # -> noun | formatiere -> imperativ # I second "formatiere"
-  frozenset: "frozenset" #gefrorenes set? #🤔
-  getattr: "getattr" # holeattribute? # I second "holeattr"
-  globals: "globale" # ✅✅ (alternatively, "globalvar" for "globale Variable")
-  hasattr: "hatattr" # ✅✅
-  hash: "hash" #✅ # ? schlüssel / streuwert  #🤔 "Streuwert" is the best/the most literal translation, but I think "hash" works just fine
+  filter: "filter" #✅✅✅ # ? filtriere
+  float: "gleitkomma" # Gleitkomma or Fließkomma is floating point #Fließkomma? #✅
+  format: "format" # -> noun | formatiere -> imperativ #formatiere? # I second "formatiere"
+  frozenset: "frozenset" #gefrorenes set? #works but weird #🤔
+  getattr: "getattr" # holeattribute? #holeAttribute # I second "holeattr"
+  globals: "globale" # ✅✅✅ (alternatively, "globalvar" for "globale Variable")
+  hasattr: "hatattr" # ✅✅ #hatAttribut?
+  hash: "hash" #✅ # ? schlüssel / streuwert #Streuwert? #🤔 "Streuwert" is the best/the most literal translation, but I think "hash" works just fine
   help: "hilfe" # ✅✅✅
-  hex: "hex" # ✅✅ #❓"hexadezimalzahl"
-  id: "id" # no idea, probably same #✅
-  input: "eingabe" # ✅✅ #? Eingabe
-  int: "int" #✅ ? ganzzahl # I second "ganzzahö"
+  hex: "hex" # ✅✅✅ #❓"hexadezimalzahl"
+  id: "id" #✅✅ # no idea, probably same
+  input: "eingabe" # ✅✅ #? Eingabe ✅
+  int: "int" #✅✅✅ ? ganzzahl
   isinstance: "istinstanz" #✅✅✅
   issubclass: "istsubklasse" #✅✅✅
-  iter: "iter" # Iterator same in German #✅
-  len: "länge" #✅✅ Länge?
-  list: "liste" #✅✅ Liste?
-  locals: "locale" # works but weird #🤔
-  map: "karte" # no idea #🤔"Karte" doesn't fit, depending on the context it means menu, or ticket, or chart, ...
+  iter: "iter" # Iterator same in German ✅✅
+  len: "länge" #✅✅ Länge? ✅
+  list: "liste" #✅✅ Liste? ✅
+  locals: "locale" # works but weird #lokale or maybe lokaleVariable? #🤔
+  map: "karte" # no idea #no idea #🤔"Karte" doesn't fit, depending on the context it means menu, or ticket, or chart, ...
   max: "max" #✅✅✅
-  memoryview: "speicheransicht" #✅✅ #? Speicheransicht
+  memoryview: "speicheransicht" #✅✅ #? Speicheransicht ✅
   min: "min" #✅✅✅
   # next: "weiter" 
-  next: "nächstes" # More literal translation #❓"nächstfolgend"
-  object: "objekt" #✅✅✅
-  oct: "oct" # do idea #❓"oktalzahl
+  next: "nächstes" # More literal translation ✅ #❓"nächstfolgend"
+  object: "objekt" #✅✅✅ 
+  oct: "oct" # do idea #no idea #❓"oktalzahl
   open: "öffne" #✅✅✅
-  ord: "ord" # no idea #🤔
+  ord: "ord" #✅ # no idea #🤔
   pow: "potenz" #✅✅✅
   print: "drucke" #✅✅✅(if spaces are allowed, "gib aus")
-  property: "eigenschaft" # ✅✅ #? Eigenschaft
+  property: "eigenschaft" # ✅✅✅ #? Eigenschaft 
   # range: "reichweite"
-  range: "bereich" # Better fitting in context #✅
-  repr: "repr" #✅ #🤔
+  range: "bereich" # Better fitting in context #✅✅
+  repr: "repr" #✅✅ #🤔
   reversed: "umgekehrt" #✅✅✅
   round: "runde" #✅✅✅
   set: "setze" #✅✅✅
@@ -1373,14 +1373,14 @@ __TRAIT__: ""
   # slice: "scheibe"
   slice: "schnitt" # slice in this case is not necessarily a round plate, which "scheibe" implies ❓"Scheibe" fits (eine Scheibe Brot = a slice of bread) or "Stück" maybe
   sorted: "sortiert" #✅✅✅
-  staticmethod: "statischemethode" #✅✅✅
-  str: "str" # ? text #✅✅
-  sum: "sum" # ? summe #✅✅
-  super: "super" # über? # I second "über"
-  tuple: "tuple" # no idea #❓"Tupel"
+  staticmethod: "statischemethode" #✅✅✅ #should be "statischeMethode", because its two words and therefore camelcase is easier to read
+  str: "str" # ? text #✅✅✅
+  sum: "sum" # ? summe #✅✅✅
+  super: "super" #✅ # über? # I second "über"
+  tuple: "tuple" # no idea #❓"Tupel" #Tupel?
   type: "typ" # ✅✅ #?Typ
-  vars: "vars" # variablen? # I second "variablen"
-  zip: "zip" # no idea #🤔
+  vars: "vars" # variablen? # I second "variablen" #Variablen?
+  zip: "zip" #✅ # no idea #🤔
   __import__: "__importiere__" #✅✅ # ? __verwende__
 
 # << Error Messages >>
