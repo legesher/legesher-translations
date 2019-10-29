@@ -24,7 +24,7 @@
     <!-- <a href="https://github.com/legesher/legesher-translations/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/legesher/legesher-translations?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
-        <img src="https://img.shields.io/badge/all_contributors-31-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/all_contributors-38-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://streamlabs.com/withmadico/tip" alt="Backers on Github">
         <img src="https://img.shields.io/badge/sponsors-4-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://instagram.com/withmadico" alt="Sponsors on Github">
@@ -71,15 +71,17 @@ We are actively working on adding as many written languages as we can for versio
 - [Arabic (ar)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Arabic")
 - [French (fr)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+French")
 - [German (de)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+German")
+- [Hindi (hi)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Hindi")
 - [Italian (it)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Italian")
 - [Polish (pl) ](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Polish")
 - [Portuguese (pt)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Portugese")
+- [Romanian (ro)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Romanian")
 - [Russian (ru)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Russian")
 - [Spanish (es)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Spanish")
 - [Tagalog (tl)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Tagalog")
 - [Ukrainian (uk)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Ukranian")
+- [Welsh (cy)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Welsh")
 - [Xhosa (xh)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Xhosa")
-
 
 _📢 If your native language is not available in the Legesher translation repository, we'd love your help to add it!!_
 
@@ -201,6 +203,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 _This project follows the [all-contributors](https://allcontributors.org/) specification. Contributions of any kind are welcome and recognized. ✨_
