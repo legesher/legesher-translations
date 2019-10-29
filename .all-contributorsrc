@@ -59,7 +59,8 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/52870180?v=4",
       "profile": "https://github.com/wang-ories",
       "contributions": [
-        "translation"
+        "translation",
+        "doc"
       ]
     },
     {
@@ -295,6 +296,87 @@
       "profile": "https://github.com/kcmvillarino",
       "contributions": [
         "translation"
+      ]
+    },
+    {
+      "login": "annahayhurst",
+      "name": "Anna",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/31887817?v=4",
+      "profile": "https://www.linkedin.com/in/anna-hayhurst-98aa58140/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "sime1",
+      "name": "sime1",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/8495723?v=4",
+      "profile": "https://github.com/sime1",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "jayehernandez",
+      "name": "Jaye Hernandez",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13959651?v=4",
+      "profile": "https://www.linkedin.com/in/jayehernandez/",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "zolumasoft",
+      "name": "Gift M",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6179125?v=4",
+      "profile": "https://github.com/zolumasoft",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "ajrichards",
+      "name": "Adam J Richards",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/364593?v=4",
+      "profile": "https://github.com/ajrichards",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "JohannaHillebrand",
+      "name": "Johanna",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/32872683?v=4",
+      "profile": "https://github.com/JohannaHillebrand",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "lucianorc",
+      "name": "Luciano Costa",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15809447?v=4",
+      "profile": "http://br.linkedin.com/in/lucianorc",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "merelyAnna",
+      "name": "merelyanna",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8435581?v=4",
+      "profile": "https://github.com/merelyAnna",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "chauxvive",
+      "name": "Mary Paul",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7773134?v=4",
+      "profile": "http://mpaulcodes.com",
+      "contributions": [
+        "doc"
       ]
     }
   ],
