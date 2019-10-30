@@ -1093,11 +1093,11 @@ $comment: ""
 # |   LANGUAGE: NODE   |
 # ----------------------
 # << Keywords >>
-__dirname: ""
-__filename: ""
-exports: ""
-module: ""
-require: "" #require()
+__dirname: "__nomedodiretório"
+__filename: "__nomedoarquivo"
+exports: "exporta"
+module: "módulo"
+require: "requer" #require()
 
 # << Error Messages >>
 
