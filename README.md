@@ -205,6 +205,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
   <tr>
     <td align="center"><a href="https://github.com/diana48"><img src="https://avatars1.githubusercontent.com/u/4687354?v=4" width="100px;" alt="diana48"/><br /><sub><b>diana48</b></sub></a><br /><a href="#translation-diana48" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/twille00"><img src="https://avatars0.githubusercontent.com/u/51475681?v=4" width="100px;" alt="twille00"/><br /><sub><b>twille00</b></sub></a><br /><a href="#translation-twille00" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/startonmonday"><img src="https://avatars2.githubusercontent.com/u/43269631?v=4" width="100px;" alt="startonmonday"/><br /><sub><b>startonmonday</b></sub></a><br /><a href="#translation-startonmonday" title="Translation">🌍</a></td>
   </tr>
 </table>
 
