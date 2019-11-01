@@ -202,6 +202,9 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="http://silive.in"><img src="https://avatars3.githubusercontent.com/u/30745619?v=4" width="100px;" alt="bvishal8510"/><br /><sub><b>bvishal8510</b></sub></a><br /><a href="#translation-bvishal8510" title="Translation">🌍</a></td>
     <td align="center"><a href="http://mercode.org"><img src="https://avatars1.githubusercontent.com/u/40173707?v=4" width="100px;" alt="Tan Siret G. AKINCI"/><br /><sub><b>Tan Siret G. AKINCI</b></sub></a><br /><a href="#translation-Yutyo" title="Translation">🌍</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/diana48"><img src="https://avatars1.githubusercontent.com/u/4687354?v=4" width="100px;" alt="diana48"/><br /><sub><b>diana48</b></sub></a><br /><a href="#translation-diana48" title="Translation">🌍</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
