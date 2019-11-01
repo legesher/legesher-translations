@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "test",
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "lint": "tslint '{src,test,script}/**/*.ts'"
   },
   "repository": {
     "type": "git",
@@ -24,12 +25,22 @@
   },
   "homepage": "https://github.com/legesher/legesher-translations#readme",
   "devDependencies": {
+    "@unibeautify/beautifier-eslint": "^0.6.0",
+    "@unibeautify/beautifier-js-beautify": "^0.4.0",
+    "@unibeautify/beautifier-prettier": "^0.9.0",
+    "@unibeautify/beautifier-prettydiff": "^0.6.0",
     "all-contributors-cli": "^6.9.2",
-    "nodemon": "^1.19.1"
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.16.0",
+    "js-beautify": "^1.10.2",
+    "nodemon": "^1.19.4",
+    "prettier": "^1.18.2",
+    "prettydiff2": "^2.2.8",
+    "unibeautify-cli": "^0.2.1"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "mongodb": "^3.3.0-beta2"
+    "mongodb": "^3.3.3"
   }
 }
