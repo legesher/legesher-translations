@@ -200,6 +200,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/merelyAnna"><img src="https://avatars3.githubusercontent.com/u/8435581?v=4" width="100px;" alt="merelyanna"/><br /><sub><b>merelyanna</b></sub></a><br /><a href="#translation-merelyAnna" title="Translation">🌍</a></td>
     <td align="center"><a href="http://mpaulcodes.com"><img src="https://avatars1.githubusercontent.com/u/7773134?v=4" width="100px;" alt="Mary Paul"/><br /><sub><b>Mary Paul</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=chauxvive" title="Documentation">📖</a></td>
     <td align="center"><a href="http://silive.in"><img src="https://avatars3.githubusercontent.com/u/30745619?v=4" width="100px;" alt="bvishal8510"/><br /><sub><b>bvishal8510</b></sub></a><br /><a href="#translation-bvishal8510" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://mercode.org"><img src="https://avatars1.githubusercontent.com/u/40173707?v=4" width="100px;" alt="Tan Siret G. AKINCI"/><br /><sub><b>Tan Siret G. AKINCI</b></sub></a><br /><a href="#translation-Yutyo" title="Translation">🌍</a></td>
   </tr>
 </table>
 
