@@ -1319,11 +1319,7 @@ __TRAIT__: ""
   if: "se"
     #Fayhen-✅
     #geraldobraz-✅
-<<<<<<< HEAD
-  import: "importe" 
-=======
   import: "importe"
->>>>>>> 88b9da697c570eb0909d556fb759709ec363496a
     #Fayhen-❓ - Verb is correct but may be better kept on its infinitive form ('importar')
     #geraldobraz-❓
   in: "em"
