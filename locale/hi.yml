@@ -1248,113 +1248,113 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: "असत्य"
-None: "कोई नहीं"
-True: "सच"
-and: "और"
-as: "के रूप में"
-assert: "जोर"
-async: "async"
-await: "प्रतीक्षा करें"
-break: "टूटना"
-class: "वर्ग"
-continue: "जारी रखें"
-def: "Def"
-del: "डेल"
-elif: "एलिफ"
-else: "अन्य"
-except: "सिवाय"
-finally: "अंत में"
-for: "के लिए"
-from: "से"
-global:  "वैश्विक"
-if: "यदि"
-import: "आयात"
-in: "में"
-is: "है"
-lambda: "लैम्ब्डा"
-nonlocal: "नॉनक्लोकल"
-not: "नहीं"
-or: "या"
-pass: "पास"
-raise: "उठाना"
-return: "वापसी"
-try: "प्रयास करें"
-while: "जबकि"
-with: "साथ"
-yield: "उपज"
+False: "असत्य" # ✅
+None: "कोई नहीं" # ❓ My suggestion : "कुछ नहीं" This seems better in the context of none as a datatype
+True: "सच" # ❓ My suggestion : "सत्य"
+and: "और" # ✅
+as: "के रूप में" # ✅
+assert: "जोर" # ❓ My suggestion : "दावा करना" This one aligns better with the meaning of assert used in Python which is to claim/ give a data type and not "जोर" which would mean force
+async: "async" # ❓ Translation for asynchronous is "अतुल्यकालिक"
+await: "प्रतीक्षा करें" # ✅
+break: "टूटना" # ❓ My suggestion : "तोडना" or maybe "समाप्त करना" to better fit the context of ending a loop
+class: "वर्ग" # ✅
+continue: "जारी रखें" # ✅
+def: "Def" # ❓ My suggestion : "परिभाषा करना" since def stands for define
+del: "डेल" # ❓ My suggestion : "हटाना" or "मिटाना". "डेल" is just the phonetic translation
+elif: "एलिफ" # ❓ My suggestion : "अथवा अगर"
+else: "अन्य" # ❓ My suggestion : "अन्यथा"
+except: "सिवाय" # ✅
+finally: "अंत में" # ✅
+for: "के लिए" # ✅
+from: "से" # ✅
+global:  "वैश्विक" # ❓ My suggestion : "विश्वीय"
+if: "यदि" # ✅
+import: "आयात" # ✅
+in: "में" # ✅
+is: "है" # ✅
+lambda: "लैम्ब्डा" # 🤔 "लैम्ब्डा" is just a phonetic translation
+nonlocal: "नॉनलोकल" # ❓ My suggestion : "गैर स्थानीय". "नॉनलोकल" is just a phonetic translation of "nonlocal"
+not: "नहीं" # ✅
+or: "या" # ✅
+pass: "पास" # ✅
+raise: "उठाना" # ✅
+return: "वापसी" # ❓ "प्रतिदान"
+try: "प्रयास करें" # ✅ "प्रयास करना"
+while: "जबकि" # ❓ Better Alternative: "जब तक" This fits better to the while loop definition, since while follows while(condition). "जब तक" literally translates to "till when"
+with: "साथ" # ✅
+yield: "उपज" # ✅
 
 # << Built-In Functions >>
 
-abs: "एब्स"
-all: "सभी"
-any: "कोई भी"
-ascii: "ascii"
-bin: "बॉक्स"
-bool: "बुल"
-breakpoint: "ब्रेकपॉइंट"
-bytearray: "बाइट"
-bytes: "बाइट्स"
-callable: "कॉल करने योग्य"
-chr: "chr"
-classmethod: "वर्गमूल"
-compile: "संकलन"
-complex: "जटिल"
-delattr: "delattr"
-dict: "परिभाषा"
-dir: "dir"
-divmod: "divmod"
-enumerate: "गणना करें"
-eval: "eval"
-exec: "निष्पादित करें"
-filter: "फ़िल्टर"
-float: "फ्लोट"
-format: "प्रारूप"
-frozenset: "फ्रोजन"
-getattr: "getattr"
-globals: "ग्लोबल्स"
-hasattr: "hasattr"
-hash: "हैश"
-help: "मदद"
-hex: "हेक्स"
-id: "आईडी"
-input: "इनपुट"
-int: "पूर्णांक"
-isinstance: "isinstance"
-issubclass: "इसस्क्क्लास"
-iter: "यह"
-len: "लेन"
-list: "सूची"
-locals: "स्थानीय"
-map: "नक्शा"
-max: "अधिकतम"
-memoryview: "मेमोरीव्यू"
-min: "न्यूनतम"
-next: "अगला"
-object: "ऑब्जेक्ट"
-oct: "अष्ट"
-open: "खुला"
-ord: "ऑर्डर"
-pow: "पाउ"
-print: "प्रिंट"
-property: "संपत्ति"
-range: "रेंज"
-repr: "repr"
-reversed: "औंधा"
-round: "गोल"
-set: "समूह"
-setattr: "setattr"
-slice: "टुकड़ा"
-sorted: "छाँटे गए"
-staticmethod: "स्थिर"
-str: "str"
-sum: "योग"
-super: "उत्तम"
-tuple: "tuple"
-type: "प्रकार"
-vars: "जिसका"
-zip: "ज़िप"
-__import__: "__आयात__"
+abs: "एब्स" # ❓ "परम"
+all: "सभी" # ❓ "सब"
+any: "कोई भी" # ✅
+ascii: "ascii" # ✅
+bin: "बॉक्स" # ❓ "दोहरा" maybe because "bin" refers to binary or just use "bin"
+bool: "बुल" # ❓ Correct Spelling "बूल"
+breakpoint: "ब्रेकपॉइंट" # ❓ "विराम बिंदु"
+bytearray: "बाइट" # ❓ "बाइट अरे" or maybe "बाइट सरणी"
+bytes: "बाइट्स" # ✅
+callable: "कॉल करने योग्य" # ✅
+chr: "chr" # ❓ "अक्षर" I believe data types should be kept as it is just change them phonetically if needed
+classmethod: "वर्गमूल" # ❓ "वर्ग विधि"
+compile: "संकलन" # ✅
+complex: "जटिल" # ❓ "पेचीदा"
+delattr: "delattr" # ❓ "गुण हटाना" or "विशेषता हटाना"
+dict: "परिभाषा" # 🤔 maybe "कोश"
+dir: "dir" # 🤔 maybe "निर्देशिका"
+divmod: "divmod" # 🤔 maybe "विभाजन शेष"
+enumerate: "गणना करें" # ❓ "गणना करना"
+eval: "eval" # ❓ "मूल्यांकन करना"
+exec: "निष्पादित करें" # ❓ "निष्पादित करना"
+filter: "फ़िल्टर" # ✅
+float: "फ्लोट" # ✅ I believe data types should be kept as it is just change them phonetically if needed
+format: "प्रारूप" # ✅
+frozenset: "फ्रोजन" # ❓ "जमा हुआ समूह" or "स्तम्भित समूह"
+getattr: "getattr" # ❓ "गुण लेना" or "गुण प्राप्त करना" or "विशेषता प्राप्त करना"
+globals: "ग्लोबल्स" # ❓ "वैश्विक" or "विश्वीय"
+hasattr: "hasattr" # ❓ "गुण होना" or "विशेषता होना"
+hash: "हैश" # ✅ or just use English versions
+help: "मदद" # ✅ or just use English versions
+hex: "हेक्स" # ✅ or just use English versions
+id: "आईडी" # ✅ or just use English versions
+input: "इनपुट" # 🤔 maybe "आगत"
+int: "पूर्णांक" # ✅
+isinstance: "isinstance" # ❓ "उदाहरण है"
+issubclass: "इसस्क्क्लास" # ❓ "उपवर्ग है"
+iter: "यह" # 🤔 "पुनरावृति करना" or "दुहराना" or "बार-बार करना"
+len: "लेन" # ❓ "लंबाई" or "विस्तार" is more appropriate in the context of "len" as used in Python
+list: "सूची" # ✅
+locals: "स्थानीय" # ✅
+map: "नक्शा" # ❓ "तलरूप-मिति करना" if you consider "map" in the verb form otherwise "नक्शा" seems correct
+max: "अधिकतम" # ✅
+memoryview: "मेमोरीव्यू" # ❓ "स्मृति दर्शन"
+min: "न्यूनतम" # ✅
+next: "अगला" # ✅
+object: "ऑब्जेक्ट" # ❓ "वस्तु"
+oct: "अष्ट" # ✅ or just use English versions
+open: "खुला" # ✅
+ord: "ऑर्डर" # ❓ "ऑर्ड"
+pow: "पाउ" # ❓ "घातांक"
+print: "प्रिंट" # ❓ "छापना" but "print" is used in everyday speak as well, not sure whether translation is required here
+property: "संपत्ति" # ❓ "स्वभाव" or maybe "लक्षण" or "विशेषता"
+range: "रेंज" # ❓ "सीमा"
+repr: "repr" # 🤔
+reversed: "औंधा" # ✅
+round: "गोल" # ✅
+set: "समूह" # ✅
+setattr: "setattr" # ❓ "गुण लगाना" or "गुण स्थापित करना" or "विशेषता लगाना" or "विशेषता स्थापित करना"
+slice: "टुकड़ा" # ✅
+sorted: "छाँटे गए" # ✅
+staticmethod: "स्थिर" # ❓ "स्थिर विधि"
+str: "str" # ✅ I believe data types should be kept as it is just change them phonetically if needed
+sum: "योग" # ❓ "जोड" or "योगफल"
+super: "उत्तम" # 🤔 "बढ़िया" or "उत्तम" is the correct translation but not sure if it should be used since the use of "super" keyword does not relate to its literal meaning. So keep it as "super" only
+tuple: "tuple" # ❓ Phonetic - "टपल"
+type: "प्रकार" # ✅
+vars: "जिसका" # ❓ "जिसका" is wrong. Variables are called as "चर" in Hindi Mathematics. This fits the usage of "vars" since it returns a dictionary of variables in a class instance. So "चर" should be used.
+zip: "ज़िप" # 🤔
+__import__: "__आयात__" # ✅
 
 # << Error Messages >>
 
