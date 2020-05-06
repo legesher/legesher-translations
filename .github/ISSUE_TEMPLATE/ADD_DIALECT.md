@@ -1,6 +1,10 @@
 ---
-name: 🌍Add New Dialect
+name: "\U0001F30DAdd New Dialect"
 about: Add a new translation to the project
+title: 
+labels: 
+assignees: 
+
 ---
 
 ## Adding LANGUAGE to the Legesher Translations for Python
