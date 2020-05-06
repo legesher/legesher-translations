@@ -1,6 +1,10 @@
 ---
-name: 🌍Review Dialect
+name: "\U0001F30DReview Dialect"
 about: Review dialect translation for the project
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 ## Review DIALECT Language Translations for the Python Programming Language
