@@ -1248,7 +1248,6 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  #git commit -m 'added python keywords (#144)'
   False: "שקר"
   None: "כלום"
   True: "אמת"
