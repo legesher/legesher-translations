@@ -82,6 +82,7 @@ We are actively working on adding as many written languages as we can for versio
 - [Ukrainian (uk)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Ukranian")
 - [Welsh (cy)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Welsh")
 - [Xhosa (xh)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Xhosa")
+- [Hebrew (he)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Hebrew")
 
 _📢 If your native language is not available in the Legesher translation repository, we'd love your help to add it!!_
 
