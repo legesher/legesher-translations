@@ -98,27 +98,27 @@ language-abbreviation: "भाषा-संक्षिप्त नाम"
 # NOTE: https://www.amibroker.com/guide/a_language.html
 
 # << Keywords >>
-do: "" # (part of do-while statement)
-while: ""
-for: ""
-if: "" # (part of if-else statement)
-else: "" # (part of if-else statement)
-switch: ""
-break: "" # (part of the switch statement or for/while statements)
-case: "" # (part of the switch statement)
-continue: "" # (part of for/while statements)
-default: "" # (part of switch statement)
-function: ""
-procedure: ""
-return: ""
-local: ""
-global: ""
-static: ""
-typeof: ""
-NOT: ""
-AND: ""
-OR: ""
-Null: ""
+do: "करना" # (part of do-while statement)
+while: "जबकि"
+for: "के लिये"
+if: "अगर" # (part of if-else statement)
+else: "और" # (part of if-else statement)
+switch: "बदलना"
+break: "विराम" # (part of the switch statement or for/while statements)
+case: "स्थिति" # (part of the switch statement)
+continue: "जारी रखें" # (part of for/while statements)
+default: "चूक" # (part of switch statement)
+function: "कार्य"
+procedure: "प्रक्रिया"
+return: "वापसी"
+local: "स्थानीय"
+global: "वैश्विक"
+static: "स्थिर"
+typeof: "प्रकार का"
+NOT: "नहीं"
+AND: "तथा"
+OR: "या"
+Null: "अमान्य"
 # << Error Messages >>
 
 # ----------------------
@@ -654,31 +654,31 @@ z-index: "" #	Sets the stack order of a positioned element
 # |   LANGUAGE: GOLANG   |
 # ------------------------
 # << Keywords >>
-break: ""
-default: ""
-func: ""
-interface: ""
-select: ""
-case: ""
-defer: ""
-go: ""
-map: ""
-struct: ""
-chan: ""
-else: ""
-goto: ""
-package: ""
-switch: ""
-const: ""
-fallthrough: ""
-if: ""
-range: ""
-type: ""
-continue: ""
-for: ""
-import: ""
-return: ""
-var: ""
+break: "विराम"
+default: "चूक"
+func: "कार्य"
+interface: "अंतराफलक"
+select: "चयन"
+case: "स्थिति"
+defer: "आस्थगित करें"
+go: "चलना"
+map: "मैप"
+struct: "संरचना"
+chan: "चान"
+else: "और"
+goto: "के लिए जाओ"
+package: "पैकेज, संकुल"
+switch: "बदलना"
+const: "अचल"
+fallthrough: "असफल"
+if: "अगर"
+range: "सीमा"
+type: "प्रकार"
+continue: "जारी रखें"
+for: "के लिये"
+import: "आयात"
+return: "वापसी"
+var: "वर"
 
 # << Error Messages >>
 
