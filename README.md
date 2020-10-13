@@ -97,6 +97,7 @@ We are actively working on adding as many written languages as we can for versio
 - [Urdu (ur)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Urdu")
 - [Welsh (cy)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Welsh")
 - [Xhosa (xh)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Xhosa")
+- [Bahasa Indonesia (id)](https://github.com/legesher/legesher-translations/issues/147)
 
 _📢 If your native language is not available in the Legesher translation repository, we'd love your help to add it!! Create an issue using the "🌏 Add New Dialect" template._
 
