@@ -107,7 +107,7 @@ switch: "बदलना"
 break: "विराम" # (part of the switch statement or for/while statements)
 case: "स्थिति" # (part of the switch statement)
 continue: "जारी रखें" # (part of for/while statements)
-default: "चूक" # (part of switch statement)
+default: "डिफ़ॉल्ट" # (part of switch statement)
 function: "कार्य"
 procedure: "प्रक्रिया"
 return: "वापसी"
@@ -161,7 +161,7 @@ enum: "गणना, परिगणना"
 register: "सूची, दर्ज करना"
 typedef: "परिभाषा का प्रकार"
 char: "अक्षर"
-extern: "extern" :question:
+extern: "extern"
 return: "वापस"
 union: "संयोजन"
 const: "अचल"
@@ -206,9 +206,9 @@ alignof: "के संरेखित करें"
 and: "तथा"
 and_eq: "और बराबर"
 asm: "asm"
-atomic_cancel: "atomic_cancel" # :question:
-atomic_commit: "atomic_commit" # :question:
-atomic_noexcept: "atomic_noexcept" # :question:
+atomic_cancel: "atomic_cancel" 
+atomic_commit: "atomic_commit"
+atomic_noexcept: "atomic_noexcept" 
 auto: "स्वत:"
 bitand: "बिटएंड"
 bitor: "बिटोर"
@@ -220,7 +220,7 @@ char: "चार"
 char16_t: "char16_t"
 char32_t: "char32_t"
 class: "वर्ग, कक्षा"
-compl: "compl" :question:
+compl: "compl" 
 concept: "संकल्पना"
 const: "अचल, स्थिर"
 constexpr: "अचल अभिव्यक्ति"
@@ -699,7 +699,7 @@ deriving instance: "व्युत्पन्न उदाहरण, उदा
 do: "करना"
 forall: "सबके लिए"
 foreign: "बाह्य"
-hiding: "छुपा रहे है" :question:
+hiding: "छुपा रहे है"
 if: "अगर"
 then: "फिर"
 else: "अन्य"
@@ -715,7 +715,7 @@ module: "मॉडुल, मापांक"
 newtype: "नया प्रकार"
 proc: "proc"
 qualified: "योग्य"
-rec: "rec" :question:
+rec: "rec" 
 type: "प्रकार"
 type family: "परिवार प्रकार"
 type instance: "उदाहरण प्रकार"
