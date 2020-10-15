@@ -1286,22 +1286,22 @@ yield: "उपज" # ✅
 
 # << Built-In Functions >>
 
-abs: "परम" # ❓ "परम"
-all: "सब" # ❓ "सब"
-any: "कोई भी" # ✅
+abs: "परम, पूर्ण" # ❓ "परम" I think "पूर्ण" fits better for abs, which returns absolute value. @sshiv5768 "पूर्ण" :heavy_check_mark:
+all: "सब" # ❓ "सब" I am agree with "सब", because it sounds perfect hindi translation. @sshiv5768 "सब" :heavy_check_mark:
+any: "कोई भी" # ✅✔✔
 ascii: "ascii" # ✅
-bin: "दोहरा" # ❓ "दोहरा" maybe because "bin" refers to binary or just use "bin"
-bool: "बूल" # ❓ Correct Spelling "बूल"
-breakpoint: "विराम बिंदु" # ❓ "विराम बिंदु"
-bytearray: "बाइट सरणी # ❓ "बाइट अरे" or maybe "बाइट सरणी"
+bin: "दोहरा" # ❓ "दोहरा" maybe because "bin" refers to binary or just use "bin". @sshiv5768 "दोहरा" :heavy_check_mark:
+bool: "बूल" # ❓ Correct Spelling "बूल".@sshiv5768 "बूल" :heavy_check_mark:
+breakpoint: "विराम बिंदु" # ❓ "विराम बिंदु" @sshiv5768 "विराम बिंदु" :heavy_check_mark:
+bytearray: "बाइट अरे" # ❓ "बाइट अरे" or maybe "बाइट सरणी" @sshiv5768 "बाइट अरे" :heavy_check_mark:
 bytes: "बाइट्स" # ✅
 callable: "कॉल करने योग्य" # ✅
-chr: "अक्षर, चर" # ❓ "अक्षर" I believe data types should be kept as it is just change them phonetically if needed
-classmethod: "वर्ग विध" # ❓ "वर्ग विधि"
+chr: "चर" # ❓ "अक्षर" I believe data types should be kept as it is just change them phonetically if needed @sshiv5768 "चर" :heavy_check_mark:
+classmethod: "वर्ग विधि" # ❓ "वर्ग विधि" @sshiv5768 "वर्ग विधि" :heavy_check_mark:
 compile: "संकलन" # ✅
-complex: "पेचीदा" # ❓ "पेचीदा"
-delattr: "विशेषता हटाना" # ❓ "गुण हटाना" or "विशेषता हटाना"
-dict: "कोश" # 🤔 maybe "कोश"
+complex: "पेचीदा" # ❓ "पेचीदा" @sshiv5768 "पेचीदा" :heavy_check_mark:
+delattr: "विशेषता हटाना" # ❓ "गुण हटाना" or "विशेषता हटाना" @sshiv5768 "विशेषता हटाना" :heavy_check_mark:
+dict: "कोश" # 🤔 maybe "कोश" I think "कोश" suits better for dict.
 dir: "निर्देशिका" # 🤔 maybe "निर्देशिका"
 divmod: "विभाजन शेष" # 🤔 maybe "विभाजन शेष"
 enumerate: "गणना करें" # ❓ "गणना करना"
