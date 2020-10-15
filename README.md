@@ -70,8 +70,12 @@ We are actively working on adding as many written languages as we can for versio
 - [Afar (aa)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Afar")
 - [Arabic (ar)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Arabic")
 - [French (fr)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+French")
+- [Gaelic (ga)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Gaelic")
 - [German (de)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+German")
+- [Gujarati (gu)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Gujarati")
+- [Hebrew (he)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Hebrew")
 - [Hindi (hi)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Hindi")
+- [Indonesian (id)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Indonesian")
 - [Italian (it)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Italian")
 - [Polish (pl) ](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Polish")
 - [Portuguese (pt)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Portugese")
@@ -79,10 +83,11 @@ We are actively working on adding as many written languages as we can for versio
 - [Russian (ru)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Russian")
 - [Spanish (es)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Spanish")
 - [Tagalog (tl)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Tagalog")
+- [Telugu (te)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Telugu")
+- [Turkish (tr)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Turkish")
 - [Ukrainian (uk)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Ukranian")
 - [Welsh (cy)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Welsh")
 - [Xhosa (xh)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Xhosa")
-- [Hebrew (he)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Hebrew")
 
 _📢 If your native language is not available in the Legesher translation repository, we'd love your help to add it!!_
 
