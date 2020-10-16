@@ -504,6 +504,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "iam-agf",
+      "name": "agf-nohchil",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/61362029?v=4",
+      "profile": "https://github.com/iam-agf",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7
