@@ -219,6 +219,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/naderalfakesh"><img src="https://avatars3.githubusercontent.com/u/48882168?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nadir Alfakesh</b></sub></a><br /><a href="#translation-naderalfakesh" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://adarwall.github.io/Adarwall"><img src="https://avatars1.githubusercontent.com/u/42234958?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Adar Wallerstein</b></sub></a><br /><a href="#translation-Adarwall" title="Translation">🌍</a></td>
   </tr>
 </table>
 
