@@ -559,6 +559,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "marsnone",
+      "name": "Martin O'Neill",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/34975034?v=4",
+      "profile": "https://github.com/marsnone",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7
