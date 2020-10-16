@@ -232,6 +232,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/JJgar2725"><img src="https://avatars3.githubusercontent.com/u/40704782?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jaime Garcia, Jr.</b></sub></a><br /><a href="#translation-JJgar2725" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/iofall"><img src="https://avatars2.githubusercontent.com/u/50991099?v=4?s=100" width="100px;" alt=""/><br /><sub><b>iofall</b></sub></a><br /><a href="#translation-iofall" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/marsnone"><img src="https://avatars3.githubusercontent.com/u/34975034?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Martin O'Neill</b></sub></a><br /><a href="#translation-marsnone" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/arjunshekhawat5"><img src="https://avatars2.githubusercontent.com/u/42422394?v=4?s=100" width="100px;" alt=""/><br /><sub><b>arjunshekhawat5</b></sub></a><br /><a href="#content-arjunshekhawat5" title="Content">🖋</a></td>
   </tr>
 </table>
 
