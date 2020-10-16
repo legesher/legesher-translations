@@ -229,6 +229,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
   <tr>
     <td align="center"><a href="https://github.com/SvA1"><img src="https://avatars1.githubusercontent.com/u/41849274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Svetlana A.</b></sub></a><br /><a href="#translation-SvA1" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/syauqy"><img src="https://avatars3.githubusercontent.com/u/3627108?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Syauqy Nurul Aziz</b></sub></a><br /><a href="#translation-syauqy" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/JJgar2725"><img src="https://avatars3.githubusercontent.com/u/40704782?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jaime Garcia, Jr.</b></sub></a><br /><a href="#translation-JJgar2725" title="Translation">🌍</a></td>
   </tr>
 </table>
 
