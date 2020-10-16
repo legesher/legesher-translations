@@ -1,1 +1,1 @@
-See the [Legesher contributing guide](https://github.com/legesher/legesher/blob/master/CONTRIBUTING.md)
+See the [Legesher contributing guide](https://docs.legesher.io/the-official-things/contributing-guidelines)
