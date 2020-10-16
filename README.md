@@ -224,6 +224,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/fernandakawasaki"><img src="https://avatars2.githubusercontent.com/u/50497814?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fernanda Kawasaki</b></sub></a><br /><a href="#translation-fernandakawasaki" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/ypresion"><img src="https://avatars1.githubusercontent.com/u/45670033?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ypresion</b></sub></a><br /><a href="#translation-ypresion" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/iam-agf"><img src="https://avatars2.githubusercontent.com/u/61362029?v=4?s=100" width="100px;" alt=""/><br /><sub><b>agf-nohchil</b></sub></a><br /><a href="#translation-iam-agf" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/alxnull"><img src="https://avatars1.githubusercontent.com/u/26907770?v=4?s=100" width="100px;" alt=""/><br /><sub><b>alxnull</b></sub></a><br /><a href="#translation-alxnull" title="Translation">🌍</a></td>
   </tr>
 </table>
 
