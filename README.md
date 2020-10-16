@@ -222,6 +222,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://adarwall.github.io/Adarwall"><img src="https://avatars1.githubusercontent.com/u/42234958?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Adar Wallerstein</b></sub></a><br /><a href="#translation-Adarwall" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/nagendrady"><img src="https://avatars1.githubusercontent.com/u/31478127?v=4?s=100" width="100px;" alt=""/><br /><sub><b>nagendrady</b></sub></a><br /><a href="#translation-nagendrady" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/fernandakawasaki"><img src="https://avatars2.githubusercontent.com/u/50497814?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fernanda Kawasaki</b></sub></a><br /><a href="#translation-fernandakawasaki" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/ypresion"><img src="https://avatars1.githubusercontent.com/u/45670033?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ypresion</b></sub></a><br /><a href="#translation-ypresion" title="Translation">🌍</a></td>
   </tr>
 </table>
 
