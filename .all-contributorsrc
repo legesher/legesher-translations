@@ -441,6 +441,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "Ectalite",
+      "name": "ectalite",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/31344054?v=4",
+      "profile": "https://github.com/Ectalite",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7

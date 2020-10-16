@@ -214,6 +214,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/startonmonday"><img src="https://avatars2.githubusercontent.com/u/43269631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>startonmonday</b></sub></a><br /><a href="#translation-startonmonday" title="Translation">🌍</a></td>
     <td align="center"><a href="http://bit.do/parammittal16"><img src="https://avatars1.githubusercontent.com/u/31361983?v=4?s=100" width="100px;" alt=""/><br /><sub><b>PARAM MITTAL</b></sub></a><br /><a href="#translation-parammittal16" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/sshiv5768"><img src="https://avatars3.githubusercontent.com/u/40575397?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shivlal Sharma</b></sub></a><br /><a href="#translation-sshiv5768" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Ectalite"><img src="https://avatars2.githubusercontent.com/u/31344054?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ectalite</b></sub></a><br /><a href="#translation-Ectalite" title="Translation">🌍</a></td>
   </tr>
 </table>
 
