@@ -226,6 +226,9 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/iam-agf"><img src="https://avatars2.githubusercontent.com/u/61362029?v=4?s=100" width="100px;" alt=""/><br /><sub><b>agf-nohchil</b></sub></a><br /><a href="#translation-iam-agf" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/alxnull"><img src="https://avatars1.githubusercontent.com/u/26907770?v=4?s=100" width="100px;" alt=""/><br /><sub><b>alxnull</b></sub></a><br /><a href="#translation-alxnull" title="Translation">🌍</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/SvA1"><img src="https://avatars1.githubusercontent.com/u/41849274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Svetlana A.</b></sub></a><br /><a href="#translation-SvA1" title="Translation">🌍</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
