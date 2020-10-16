@@ -217,6 +217,9 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/Ectalite"><img src="https://avatars2.githubusercontent.com/u/31344054?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ectalite</b></sub></a><br /><a href="#translation-Ectalite" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/aliciacisnerosm"><img src="https://avatars1.githubusercontent.com/u/21281205?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alicia Cisneros</b></sub></a><br /><a href="#translation-aliciacisnerosm" title="Translation">🌍</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/naderalfakesh"><img src="https://avatars3.githubusercontent.com/u/48882168?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nadir Alfakesh</b></sub></a><br /><a href="#translation-naderalfakesh" title="Translation">🌍</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
