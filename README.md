@@ -24,11 +24,9 @@
     <!-- <a href="https://github.com/legesher/legesher-translations/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/legesher/legesher-translations?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
-        <img src="https://img.shields.io/badge/all_contributors-46-black?style=flat-square&color=f58977&labelColor=black" /></a>
-    <a href="https://streamlabs.com/withmadico/tip" alt="Backers on Github">
-        <img src="https://img.shields.io/badge/sponsors-4-black?style=flat-square&color=f58977&labelColor=black" /></a>
-    <a href="https://instagram.com/withmadico" alt="Sponsors on Github">
-        <img src="https://img.shields.io/badge/sponsor-@withmadico-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/all_contributors-62-black?style=flat-square&color=f58977&labelColor=black" /></a>
+    <a href="https://github.com/sponsors/madiedgar" alt="Sponsors on Github">
+        <img src="https://img.shields.io/badge/sponsor-@madiedgar-black?style=flat-square&color=f58977&labelColor=black" /></a>
 
 </p>
 <!-- SOCIAL BADGES -->
@@ -95,7 +93,7 @@ _📢 If your native language is not available in the Legesher translation repos
 
 ❤️Legesher relies on the passionate members of its community (both developer and non-developer alike) to keep delivering impactful tools to people all over the world.
 
-Before contributing, be sure to consult Legesher's [contribution guidelines](https://github.com/legesher/legesher/blob/master/CONTRIBUTING.md) and [language conventions](https://github.com/legesher/legesher/blob/master/LANGUAGE_CONVENTIONS.md). As a member of our community, you must abide by our [Code Of Conduct](https://github.com/legesher/legesher/blob/master/CODE_OF_CONDUCT.md).
+Before contributing, be sure to consult Legesher's [contribution guidelines](https://docs.legesher.io/the-official-things/contributing-guidelines) and [language conventions](https://docs.legesher.io/legesher-translations/translation-conventions). As a member of our community, you must abide by our [Code Of Conduct](https://docs.legesher.io/the-official-things/code-of-conduct).
 
 ## Installation
 
@@ -111,13 +109,10 @@ Navigate to the location on your computer where you want to host your code. Once
 git clone git@github.com:your-username/legesher-translations.git
 ```
 
-**3️⃣ Bootstrapping the repository**  
-You'll then want to navigate within the folder that was just created that contains all of the content of the forked repository. There you'll want to run the installation script to get the updated version of all the dependencies.
+**3️⃣ Switch to the language's branch**
+For translating, any changes will be first made in the language specific branch, `LANGUAGE-translation`. _Please make translation PR's for a new or reviewed language to the designated branch and not to `master`._
 
-```
-cd legesher-translations
-cd guide
-```
+More details on translation PR expectations are found in the [Translation Guide](https://docs.legesher.io/legesher-translations/translation-guide).
 
 ## Development
 
@@ -148,75 +143,95 @@ A message from our [founder, Madi](https://www.instagram.com/withmadico/):
 
 > It is truly a blessing to be surrounded by a community of passionate, driven individuals who love sharing their gifts to creating better products together. Your contribution means the world to me, and keeps me motivated to continue creating. This wouldn't be possible without you. From the bottom of my heart, 💛 THANK YOU!
 
-Meet our [community](https://github.com/legesher/legesher/tree/master/community) (full of contributors, backers, sponsors, and supporters) that give a little piece of their heart to this project. Thank you so much. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
+Meet our [community](https://legesher.io/community) (full of contributors, backers, sponsors, and supporters) that give a little piece of their heart to this project. Thank you so much. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://withmadi.co"><img src="https://avatars0.githubusercontent.com/u/7844510?v=4" width="100px;" alt="Madison (Pfaff) Edgar"/><br /><sub><b>Madison (Pfaff) Edgar</b></sub></a><br /><a href="#projectManagement-madiedgar" title="Project Management">📆</a></td>
-    <td align="center"><a href="https://github.com/fernandasj"><img src="https://avatars2.githubusercontent.com/u/19349745?v=4" width="100px;" alt="Fernanda Vieira"/><br /><sub><b>Fernanda Vieira</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=fernandasj" title="Documentation">📖</a> <a href="#marketing-fernandasj" title="Marketing - People who help in marketing the repo/project">💌</a></td>
-    <td align="center"><a href="https://github.com/ZeroOne010101"><img src="https://avatars2.githubusercontent.com/u/43586679?v=4" width="100px;" alt="zeroone010101"/><br /><sub><b>zeroone010101</b></sub></a><br /><a href="#translation-ZeroOne010101" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://lolei.github.io/"><img src="https://avatars3.githubusercontent.com/u/9076894?v=4" width="100px;" alt="Lorenz Leitner"/><br /><sub><b>Lorenz Leitner</b></sub></a><br /><a href="#translation-LoLei" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/wang-ories"><img src="https://avatars1.githubusercontent.com/u/52870180?v=4" width="100px;" alt="WANG - YANG"/><br /><sub><b>WANG - YANG</b></sub></a><br /><a href="#translation-wang-ories" title="Translation">🌍</a> <a href="https://github.com/madiedgar/legesher-translations/commits?author=wang-ories" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/tomekp97"><img src="https://avatars3.githubusercontent.com/u/28924907?v=4" width="100px;" alt="tomekp97"/><br /><sub><b>tomekp97</b></sub></a><br /><a href="#translation-tomekp97" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/katherinefernandes"><img src="https://avatars3.githubusercontent.com/u/39100068?v=4" width="100px;" alt="Katherine Fernandes"/><br /><sub><b>Katherine Fernandes</b></sub></a><br /><a href="#translation-katherinefernandes" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://withmadi.co"><img src="https://avatars0.githubusercontent.com/u/7844510?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Madison (Pfaff) Edgar</b></sub></a><br /><a href="#projectManagement-madiedgar" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/fernandasj"><img src="https://avatars2.githubusercontent.com/u/19349745?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fernanda Vieira</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=fernandasj" title="Documentation">📖</a> <a href="#marketing-fernandasj" title="Marketing - People who help in marketing the repo/project">💌</a></td>
+    <td align="center"><a href="https://github.com/ZeroOne010101"><img src="https://avatars2.githubusercontent.com/u/43586679?v=4?s=100" width="100px;" alt=""/><br /><sub><b>zeroone010101</b></sub></a><br /><a href="#translation-ZeroOne010101" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://lolei.github.io/"><img src="https://avatars3.githubusercontent.com/u/9076894?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lorenz Leitner</b></sub></a><br /><a href="#translation-LoLei" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/wang-ories"><img src="https://avatars1.githubusercontent.com/u/52870180?v=4?s=100" width="100px;" alt=""/><br /><sub><b>WANG - YANG</b></sub></a><br /><a href="#translation-wang-ories" title="Translation">🌍</a> <a href="https://github.com/madiedgar/legesher-translations/commits?author=wang-ories" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/tomekp97"><img src="https://avatars3.githubusercontent.com/u/28924907?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tomekp97</b></sub></a><br /><a href="#translation-tomekp97" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/katherinefernandes"><img src="https://avatars3.githubusercontent.com/u/39100068?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Katherine Fernandes</b></sub></a><br /><a href="#translation-katherinefernandes" title="Translation">🌍</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ninoCan"><img src="https://avatars1.githubusercontent.com/u/22853343?v=4" width="100px;" alt="Antonino Cangialosi"/><br /><sub><b>Antonino Cangialosi</b></sub></a><br /><a href="#translation-ninoCan" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/Jam-Iko"><img src="https://avatars2.githubusercontent.com/u/44161368?v=4" width="100px;" alt="jam-iko"/><br /><sub><b>jam-iko</b></sub></a><br /><a href="#translation-Jam-Iko" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/JekRock"><img src="https://avatars2.githubusercontent.com/u/5882133?v=4" width="100px;" alt="Yevhen Badorov"/><br /><sub><b>Yevhen Badorov</b></sub></a><br /><a href="#translation-JekRock" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/zoomstereo"><img src="https://avatars2.githubusercontent.com/u/10217353?v=4" width="100px;" alt="Johan Pimentel"/><br /><sub><b>Johan Pimentel</b></sub></a><br /><a href="#translation-zoomstereo" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/charberg"><img src="https://avatars2.githubusercontent.com/u/7586930?v=4" width="100px;" alt="Charles Bergeron"/><br /><sub><b>Charles Bergeron</b></sub></a><br /><a href="#translation-charberg" title="Translation">🌍</a></td>
-    <td align="center"><a href="http://ariel.sperduti.com.ar"><img src="https://avatars2.githubusercontent.com/u/8466918?v=4" width="100px;" alt="Ariel Sperduti"/><br /><sub><b>Ariel Sperduti</b></sub></a><br /><a href="#translation-asperduti" title="Translation">🌍</a></td>
-    <td align="center"><a href="http://giacomo.online"><img src="https://avatars0.githubusercontent.com/u/34923063?v=4" width="100px;" alt="Pigna"/><br /><sub><b>Pigna</b></sub></a><br /><a href="#translation-GiacomoPignoni" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/ninoCan"><img src="https://avatars1.githubusercontent.com/u/22853343?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Antonino Cangialosi</b></sub></a><br /><a href="#translation-ninoCan" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Jam-Iko"><img src="https://avatars2.githubusercontent.com/u/44161368?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jam-iko</b></sub></a><br /><a href="#translation-Jam-Iko" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/JekRock"><img src="https://avatars2.githubusercontent.com/u/5882133?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yevhen Badorov</b></sub></a><br /><a href="#translation-JekRock" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/zoomstereo"><img src="https://avatars2.githubusercontent.com/u/10217353?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Johan Pimentel</b></sub></a><br /><a href="#translation-zoomstereo" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/charberg"><img src="https://avatars2.githubusercontent.com/u/7586930?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Charles Bergeron</b></sub></a><br /><a href="#translation-charberg" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://ariel.sperduti.com.ar"><img src="https://avatars2.githubusercontent.com/u/8466918?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ariel Sperduti</b></sub></a><br /><a href="#translation-asperduti" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://giacomo.online"><img src="https://avatars0.githubusercontent.com/u/34923063?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pigna</b></sub></a><br /><a href="#translation-GiacomoPignoni" title="Translation">🌍</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/KChantal"><img src="https://avatars1.githubusercontent.com/u/44471099?v=4" width="100px;" alt="Kim"/><br /><sub><b>Kim</b></sub></a><br /><a href="#translation-KChantal" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/marcuscastelo"><img src="https://avatars1.githubusercontent.com/u/27441558?v=4" width="100px;" alt="Marcus Vinicius Castelo Branco Martins"/><br /><sub><b>Marcus Vinicius Castelo Branco Martins</b></sub></a><br /><a href="#translation-marcuscastelo" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/geraldo-braz-402361138/"><img src="https://avatars2.githubusercontent.com/u/26909405?v=4" width="100px;" alt="Geraldo Braz"/><br /><sub><b>Geraldo Braz</b></sub></a><br /><a href="#translation-geraldobraz" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/Fayhen"><img src="https://avatars0.githubusercontent.com/u/45882000?v=4" width="100px;" alt="Diego Souza"/><br /><sub><b>Diego Souza</b></sub></a><br /><a href="#translation-Fayhen" title="Translation">🌍</a></td>
-    <td align="center"><a href="http://www.jonnyfluckey.com"><img src="https://avatars2.githubusercontent.com/u/46408080?v=4" width="100px;" alt="Jonny Fluckey"/><br /><sub><b>Jonny Fluckey</b></sub></a><br /><a href="#translation-jonnyfluckey" title="Translation">🌍</a> <a href="#maintenance-jonnyfluckey" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/cos1715"><img src="https://avatars0.githubusercontent.com/u/32968019?v=4" width="100px;" alt="Taras Samoilenko"/><br /><sub><b>Taras Samoilenko</b></sub></a><br /><a href="#translation-cos1715" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/bartekprzadka"><img src="https://avatars1.githubusercontent.com/u/43320509?v=4" width="100px;" alt="bartekprzadka"/><br /><sub><b>bartekprzadka</b></sub></a><br /><a href="#translation-bartekprzadka" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/KChantal"><img src="https://avatars1.githubusercontent.com/u/44471099?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kim</b></sub></a><br /><a href="#translation-KChantal" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/marcuscastelo"><img src="https://avatars1.githubusercontent.com/u/27441558?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marcus Vinicius Castelo Branco Martins</b></sub></a><br /><a href="#translation-marcuscastelo" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/geraldo-braz-402361138/"><img src="https://avatars2.githubusercontent.com/u/26909405?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Geraldo Braz</b></sub></a><br /><a href="#translation-geraldobraz" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Fayhen"><img src="https://avatars0.githubusercontent.com/u/45882000?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Diego Souza</b></sub></a><br /><a href="#translation-Fayhen" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://www.jonnyfluckey.com"><img src="https://avatars2.githubusercontent.com/u/46408080?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jonny Fluckey</b></sub></a><br /><a href="#translation-jonnyfluckey" title="Translation">🌍</a> <a href="#maintenance-jonnyfluckey" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/cos1715"><img src="https://avatars0.githubusercontent.com/u/32968019?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Taras Samoilenko</b></sub></a><br /><a href="#translation-cos1715" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/bartekprzadka"><img src="https://avatars1.githubusercontent.com/u/43320509?v=4?s=100" width="100px;" alt=""/><br /><sub><b>bartekprzadka</b></sub></a><br /><a href="#translation-bartekprzadka" title="Translation">🌍</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/GhalyahF"><img src="https://avatars0.githubusercontent.com/u/10036755?v=4" width="100px;" alt="Ghalyah Al-Ansari"/><br /><sub><b>Ghalyah Al-Ansari</b></sub></a><br /><a href="#translation-GhalyahF" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/Raamyy"><img src="https://avatars3.githubusercontent.com/u/29176293?v=4" width="100px;" alt="Ramy Gamal"/><br /><sub><b>Ramy Gamal</b></sub></a><br /><a href="#translation-Raamyy" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/otherpaco"><img src="https://avatars1.githubusercontent.com/u/27810032?v=4" width="100px;" alt="otherpaco"/><br /><sub><b>otherpaco</b></sub></a><br /><a href="#translation-otherpaco" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://twitter.com/nausicaea"><img src="https://avatars1.githubusercontent.com/u/20278686?v=4" width="100px;" alt="Eleanore Young"/><br /><sub><b>Eleanore Young</b></sub></a><br /><a href="#translation-nausicaea" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/kartoniks"><img src="https://avatars0.githubusercontent.com/u/14161766?v=4" width="100px;" alt="kartoniks"/><br /><sub><b>kartoniks</b></sub></a><br /><a href="#translation-kartoniks" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/karimelazzouni"><img src="https://avatars2.githubusercontent.com/u/7556912?v=4" width="100px;" alt="Karim El Azzouni"/><br /><sub><b>Karim El Azzouni</b></sub></a><br /><a href="#translation-karimelazzouni" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/Pervicorn"><img src="https://avatars1.githubusercontent.com/u/56754355?v=4" width="100px;" alt="pervicorn"/><br /><sub><b>pervicorn</b></sub></a><br /><a href="#translation-Pervicorn" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/GhalyahF"><img src="https://avatars0.githubusercontent.com/u/10036755?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ghalyah Al-Ansari</b></sub></a><br /><a href="#translation-GhalyahF" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Raamyy"><img src="https://avatars3.githubusercontent.com/u/29176293?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ramy Gamal</b></sub></a><br /><a href="#translation-Raamyy" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/otherpaco"><img src="https://avatars1.githubusercontent.com/u/27810032?v=4?s=100" width="100px;" alt=""/><br /><sub><b>otherpaco</b></sub></a><br /><a href="#translation-otherpaco" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://twitter.com/nausicaea"><img src="https://avatars1.githubusercontent.com/u/20278686?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eleanore Young</b></sub></a><br /><a href="#translation-nausicaea" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/kartoniks"><img src="https://avatars0.githubusercontent.com/u/14161766?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kartoniks</b></sub></a><br /><a href="#translation-kartoniks" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/karimelazzouni"><img src="https://avatars2.githubusercontent.com/u/7556912?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Karim El Azzouni</b></sub></a><br /><a href="#translation-karimelazzouni" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Pervicorn"><img src="https://avatars1.githubusercontent.com/u/56754355?v=4?s=100" width="100px;" alt=""/><br /><sub><b>pervicorn</b></sub></a><br /><a href="#translation-Pervicorn" title="Translation">🌍</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://rigoramirez.com"><img src="https://avatars1.githubusercontent.com/u/9856345?v=4" width="100px;" alt="Rigo Ramírez"/><br /><sub><b>Rigo Ramírez</b></sub></a><br /><a href="#translation-reegoram" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/kararade"><img src="https://avatars1.githubusercontent.com/u/6010411?v=4" width="100px;" alt="Carlos Almeida"/><br /><sub><b>Carlos Almeida</b></sub></a><br /><a href="#translation-kararade" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/kcmvillarino"><img src="https://avatars2.githubusercontent.com/u/17331323?v=4" width="100px;" alt="Charlie Villarino"/><br /><sub><b>Charlie Villarino</b></sub></a><br /><a href="#translation-kcmvillarino" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/anna-hayhurst-98aa58140/"><img src="https://avatars3.githubusercontent.com/u/31887817?v=4" width="100px;" alt="Anna"/><br /><sub><b>Anna</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=annahayhurst" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/sime1"><img src="https://avatars2.githubusercontent.com/u/8495723?v=4" width="100px;" alt="sime1"/><br /><sub><b>sime1</b></sub></a><br /><a href="#translation-sime1" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/jayehernandez/"><img src="https://avatars1.githubusercontent.com/u/13959651?v=4" width="100px;" alt="Jaye Hernandez"/><br /><sub><b>Jaye Hernandez</b></sub></a><br /><a href="#translation-jayehernandez" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/zolumasoft"><img src="https://avatars3.githubusercontent.com/u/6179125?v=4" width="100px;" alt="Gift M"/><br /><sub><b>Gift M</b></sub></a><br /><a href="#translation-zolumasoft" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://rigoramirez.com"><img src="https://avatars1.githubusercontent.com/u/9856345?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rigo Ramírez</b></sub></a><br /><a href="#translation-reegoram" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/kararade"><img src="https://avatars1.githubusercontent.com/u/6010411?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carlos Almeida</b></sub></a><br /><a href="#translation-kararade" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/kcmvillarino"><img src="https://avatars2.githubusercontent.com/u/17331323?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Charlie Villarino</b></sub></a><br /><a href="#translation-kcmvillarino" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/anna-hayhurst-98aa58140/"><img src="https://avatars3.githubusercontent.com/u/31887817?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anna</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=annahayhurst" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/sime1"><img src="https://avatars2.githubusercontent.com/u/8495723?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sime1</b></sub></a><br /><a href="#translation-sime1" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/jayehernandez/"><img src="https://avatars1.githubusercontent.com/u/13959651?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jaye Hernandez</b></sub></a><br /><a href="#translation-jayehernandez" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/zolumasoft"><img src="https://avatars3.githubusercontent.com/u/6179125?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gift M</b></sub></a><br /><a href="#translation-zolumasoft" title="Translation">🌍</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ajrichards"><img src="https://avatars3.githubusercontent.com/u/364593?v=4" width="100px;" alt="Adam J Richards"/><br /><sub><b>Adam J Richards</b></sub></a><br /><a href="#translation-ajrichards" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/JohannaHillebrand"><img src="https://avatars2.githubusercontent.com/u/32872683?v=4" width="100px;" alt="Johanna"/><br /><sub><b>Johanna</b></sub></a><br /><a href="#translation-JohannaHillebrand" title="Translation">🌍</a></td>
-    <td align="center"><a href="http://br.linkedin.com/in/lucianorc"><img src="https://avatars3.githubusercontent.com/u/15809447?v=4" width="100px;" alt="Luciano Costa"/><br /><sub><b>Luciano Costa</b></sub></a><br /><a href="#translation-lucianorc" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/merelyAnna"><img src="https://avatars3.githubusercontent.com/u/8435581?v=4" width="100px;" alt="merelyanna"/><br /><sub><b>merelyanna</b></sub></a><br /><a href="#translation-merelyAnna" title="Translation">🌍</a></td>
-    <td align="center"><a href="http://mpaulcodes.com"><img src="https://avatars1.githubusercontent.com/u/7773134?v=4" width="100px;" alt="Mary Paul"/><br /><sub><b>Mary Paul</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=chauxvive" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://silive.in"><img src="https://avatars3.githubusercontent.com/u/30745619?v=4" width="100px;" alt="bvishal8510"/><br /><sub><b>bvishal8510</b></sub></a><br /><a href="#translation-bvishal8510" title="Translation">🌍</a></td>
-    <td align="center"><a href="http://mercode.org"><img src="https://avatars1.githubusercontent.com/u/40173707?v=4" width="100px;" alt="Tan Siret G. AKINCI"/><br /><sub><b>Tan Siret G. AKINCI</b></sub></a><br /><a href="#translation-Yutyo" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/ajrichards"><img src="https://avatars3.githubusercontent.com/u/364593?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Adam J Richards</b></sub></a><br /><a href="#translation-ajrichards" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/JohannaHillebrand"><img src="https://avatars2.githubusercontent.com/u/32872683?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Johanna</b></sub></a><br /><a href="#translation-JohannaHillebrand" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://br.linkedin.com/in/lucianorc"><img src="https://avatars3.githubusercontent.com/u/15809447?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Luciano Costa</b></sub></a><br /><a href="#translation-lucianorc" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/merelyAnna"><img src="https://avatars3.githubusercontent.com/u/8435581?v=4?s=100" width="100px;" alt=""/><br /><sub><b>merelyanna</b></sub></a><br /><a href="#translation-merelyAnna" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://mpaulcodes.com"><img src="https://avatars1.githubusercontent.com/u/7773134?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mary Paul</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=chauxvive" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://silive.in"><img src="https://avatars3.githubusercontent.com/u/30745619?v=4?s=100" width="100px;" alt=""/><br /><sub><b>bvishal8510</b></sub></a><br /><a href="#translation-bvishal8510" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://mercode.org"><img src="https://avatars1.githubusercontent.com/u/40173707?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tan Siret G. AKINCI</b></sub></a><br /><a href="#translation-Yutyo" title="Translation">🌍</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/diana48"><img src="https://avatars1.githubusercontent.com/u/4687354?v=4" width="100px;" alt="diana48"/><br /><sub><b>diana48</b></sub></a><br /><a href="#translation-diana48" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/twille00"><img src="https://avatars0.githubusercontent.com/u/51475681?v=4" width="100px;" alt="twille00"/><br /><sub><b>twille00</b></sub></a><br /><a href="#translation-twille00" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/startonmonday"><img src="https://avatars2.githubusercontent.com/u/43269631?v=4" width="100px;" alt="startonmonday"/><br /><sub><b>startonmonday</b></sub></a><br /><a href="#translation-startonmonday" title="Translation">🌍</a></td>
-    <td align="center"><a href="http://bit.do/parammittal16"><img src="https://avatars1.githubusercontent.com/u/31361983?v=4" width="100px;" alt="PARAM MITTAL"/><br /><sub><b>PARAM MITTAL</b></sub></a><br /><a href="#translation-parammittal16" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/diana48"><img src="https://avatars1.githubusercontent.com/u/4687354?v=4?s=100" width="100px;" alt=""/><br /><sub><b>diana48</b></sub></a><br /><a href="#translation-diana48" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/twille00"><img src="https://avatars0.githubusercontent.com/u/51475681?v=4?s=100" width="100px;" alt=""/><br /><sub><b>twille00</b></sub></a><br /><a href="#translation-twille00" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/startonmonday"><img src="https://avatars2.githubusercontent.com/u/43269631?v=4?s=100" width="100px;" alt=""/><br /><sub><b>startonmonday</b></sub></a><br /><a href="#translation-startonmonday" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://bit.do/parammittal16"><img src="https://avatars1.githubusercontent.com/u/31361983?v=4?s=100" width="100px;" alt=""/><br /><sub><b>PARAM MITTAL</b></sub></a><br /><a href="#translation-parammittal16" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/sshiv5768"><img src="https://avatars3.githubusercontent.com/u/40575397?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shivlal Sharma</b></sub></a><br /><a href="#translation-sshiv5768" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Ectalite"><img src="https://avatars2.githubusercontent.com/u/31344054?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ectalite</b></sub></a><br /><a href="#translation-Ectalite" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/aliciacisnerosm"><img src="https://avatars1.githubusercontent.com/u/21281205?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alicia Cisneros</b></sub></a><br /><a href="#translation-aliciacisnerosm" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/naderalfakesh"><img src="https://avatars3.githubusercontent.com/u/48882168?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nadir Alfakesh</b></sub></a><br /><a href="#translation-naderalfakesh" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://adarwall.github.io/Adarwall"><img src="https://avatars1.githubusercontent.com/u/42234958?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Adar Wallerstein</b></sub></a><br /><a href="#translation-Adarwall" title="Translation">🌍</a> <a href="https://github.com/madiedgar/legesher-translations/commits?author=Adarwall" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/nagendrady"><img src="https://avatars1.githubusercontent.com/u/31478127?v=4?s=100" width="100px;" alt=""/><br /><sub><b>nagendrady</b></sub></a><br /><a href="#translation-nagendrady" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/fernandakawasaki"><img src="https://avatars2.githubusercontent.com/u/50497814?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fernanda Kawasaki</b></sub></a><br /><a href="#translation-fernandakawasaki" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/ypresion"><img src="https://avatars1.githubusercontent.com/u/45670033?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ypresion</b></sub></a><br /><a href="#translation-ypresion" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/iam-agf"><img src="https://avatars2.githubusercontent.com/u/61362029?v=4?s=100" width="100px;" alt=""/><br /><sub><b>agf-nohchil</b></sub></a><br /><a href="#translation-iam-agf" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/alxnull"><img src="https://avatars1.githubusercontent.com/u/26907770?v=4?s=100" width="100px;" alt=""/><br /><sub><b>alxnull</b></sub></a><br /><a href="#translation-alxnull" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/SvA1"><img src="https://avatars1.githubusercontent.com/u/41849274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Svetlana A.</b></sub></a><br /><a href="#translation-SvA1" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/syauqy"><img src="https://avatars3.githubusercontent.com/u/3627108?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Syauqy Nurul Aziz</b></sub></a><br /><a href="#translation-syauqy" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/JJgar2725"><img src="https://avatars3.githubusercontent.com/u/40704782?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jaime Garcia, Jr.</b></sub></a><br /><a href="#translation-JJgar2725" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/iofall"><img src="https://avatars2.githubusercontent.com/u/50991099?v=4?s=100" width="100px;" alt=""/><br /><sub><b>iofall</b></sub></a><br /><a href="#translation-iofall" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/marsnone"><img src="https://avatars3.githubusercontent.com/u/34975034?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Martin O'Neill</b></sub></a><br /><a href="#translation-marsnone" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/arjunshekhawat5"><img src="https://avatars2.githubusercontent.com/u/42422394?v=4?s=100" width="100px;" alt=""/><br /><sub><b>arjunshekhawat5</b></sub></a><br /><a href="#content-arjunshekhawat5" title="Content">🖋</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
