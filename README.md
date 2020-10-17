@@ -93,7 +93,7 @@ _📢 If your native language is not available in the Legesher translation repos
 
 ❤️Legesher relies on the passionate members of its community (both developer and non-developer alike) to keep delivering impactful tools to people all over the world.
 
-Before contributing, be sure to consult Legesher's [contribution guidelines](https://github.com/legesher/legesher/blob/master/CONTRIBUTING.md) and [language conventions](https://github.com/legesher/legesher/blob/master/LANGUAGE_CONVENTIONS.md). As a member of our community, you must abide by our [Code Of Conduct](https://github.com/legesher/legesher/blob/master/CODE_OF_CONDUCT.md).
+Before contributing, be sure to consult Legesher's [contribution guidelines](https://docs.legesher.io/the-official-things/contributing-guidelines) and [language conventions](https://docs.legesher.io/legesher-translations/translation-conventions). As a member of our community, you must abide by our [Code Of Conduct](https://docs.legesher.io/the-official-things/code-of-conduct).
 
 ## Installation
 
@@ -109,13 +109,10 @@ Navigate to the location on your computer where you want to host your code. Once
 git clone git@github.com:your-username/legesher-translations.git
 ```
 
-**3️⃣ Bootstrapping the repository**  
-You'll then want to navigate within the folder that was just created that contains all of the content of the forked repository. There you'll want to run the installation script to get the updated version of all the dependencies.
+**3️⃣ Switch to the language's branch**
+For translating, any changes will be first made in the language specific branch, `LANGUAGE-translation`. _Please make translation PR's for a new or reviewed language to the designated branch and not to `master`._
 
-```
-cd legesher-translations
-cd guide
-```
+More details on translation PR expectations are found in the [Translation Guide](https://docs.legesher.io/legesher-translations/translation-guide).
 
 ## Development
 
@@ -146,7 +143,7 @@ A message from our [founder, Madi](https://www.instagram.com/withmadico/):
 
 > It is truly a blessing to be surrounded by a community of passionate, driven individuals who love sharing their gifts to creating better products together. Your contribution means the world to me, and keeps me motivated to continue creating. This wouldn't be possible without you. From the bottom of my heart, 💛 THANK YOU!
 
-Meet our [community](https://github.com/legesher/legesher/tree/master/community) (full of contributors, backers, sponsors, and supporters) that give a little piece of their heart to this project. Thank you so much. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
+Meet our [community](https://legesher.io/community) (full of contributors, backers, sponsors, and supporters) that give a little piece of their heart to this project. Thank you so much. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
