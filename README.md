@@ -230,6 +230,9 @@ Meet our [community](https://legesher.io/community) (full of contributors, backe
     <td align="center"><a href="https://github.com/arjunshekhawat5"><img src="https://avatars2.githubusercontent.com/u/42422394?v=4?s=100" width="100px;" alt=""/><br /><sub><b>arjunshekhawat5</b></sub></a><br /><a href="#content-arjunshekhawat5" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/sshekhar1996"><img src="https://avatars2.githubusercontent.com/u/20168925?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sshekhar1996</b></sub></a><br /><a href="#translation-sshekhar1996" title="Translation">🌍</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/rouskuli"><img src="https://avatars3.githubusercontent.com/u/73099623?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rouskuli</b></sub></a><br /><a href="#translation-rouskuli" title="Translation">🌍</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
