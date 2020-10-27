@@ -24,7 +24,7 @@
     <!-- <a href="https://github.com/legesher/legesher-translations/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/legesher/legesher-translations?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
-        <img src="https://img.shields.io/badge/all_contributors-62-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/all_contributors-64-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://github.com/sponsors/madiedgar" alt="Sponsors on Github">
         <img src="https://img.shields.io/badge/sponsor-@madiedgar-black?style=flat-square&color=f58977&labelColor=black" /></a>
 
@@ -67,9 +67,12 @@ We are actively working on adding as many written languages as we can for versio
 
 - [Afar (aa)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Afar")
 - [Arabic (ar)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Arabic")
+- [Dutch (nl)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Dutch")
+- [Finnish (fi)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Finnish")
 - [French (fr)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+French")
 - [Gaelic (ga)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Gaelic")
 - [German (de)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+German")
+- [Greek (el)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Greek")
 - [Gujarati (gu)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Gujarati")
 - [Hebrew (he)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Hebrew")
 - [Hindi (hi)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Hindi")
