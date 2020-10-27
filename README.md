@@ -228,6 +228,7 @@ Meet our [community](https://legesher.io/community) (full of contributors, backe
     <td align="center"><a href="https://github.com/iofall"><img src="https://avatars2.githubusercontent.com/u/50991099?v=4?s=100" width="100px;" alt=""/><br /><sub><b>iofall</b></sub></a><br /><a href="#translation-iofall" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/marsnone"><img src="https://avatars3.githubusercontent.com/u/34975034?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Martin O'Neill</b></sub></a><br /><a href="#translation-marsnone" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/arjunshekhawat5"><img src="https://avatars2.githubusercontent.com/u/42422394?v=4?s=100" width="100px;" alt=""/><br /><sub><b>arjunshekhawat5</b></sub></a><br /><a href="#content-arjunshekhawat5" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/sshekhar1996"><img src="https://avatars2.githubusercontent.com/u/20168925?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sshekhar1996</b></sub></a><br /><a href="#translation-sshekhar1996" title="Translation">🌍</a></td>
   </tr>
 </table>
 
