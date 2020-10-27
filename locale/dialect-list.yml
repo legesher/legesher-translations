@@ -16,232 +16,235 @@ Akan:
   abbreviation: "ak"
   localName: "Akana"
 Amharic:
-  abbreviation: "am" 
+  abbreviation: "am"
   localName:  "አማርኛ"
 Aragonese:
   abbreviation: "an"
   localName: "Aragonés"
 Arabic:
-  abbreviation:  "ar" 
+  abbreviation:  "ar"
   localName: "العربية"
 Assamese:
-  abbreviation: "as" 
+  abbreviation: "as"
   localName: "অসমীয়া"
 Avar:
-  abbreviation: "av" 
+  abbreviation: "av"
   localName: "Авар"
 Aymara:
-  abbreviation: "ay" 
+  abbreviation: "ay"
   localName: "Aymar"
 Azerbaijani:
-  abbreviation: "az"  
+  abbreviation: "az"
   localName: "آذربايجان"
 Bashkir:
-  abbreviation: "ba" 
+  abbreviation: "ba"
   localName: "Башҡорт"
 Belarusian:
-  abbreviation: "be" 
+  abbreviation: "be"
   localName: "Беларуская"
 Bulgarian:
-  abbreviation: "bg"  
+  abbreviation: "bg"
   localName: "Български"
 Bihari:
-  abbreviation: "bh" 
+  abbreviation: "bh"
   localName: "भोजपुरी"
 Bislama:
-  abbreviation: "bi" 
+  abbreviation: "bi"
   localName: "Bislama"
 Bambara:
-  abbreviation: "bm" 
+  abbreviation: "bm"
   localName: "Bamanankan"
 Bengali:
-  abbreviation: "bn" 
+  abbreviation: "bn"
   localName: "বাংলা"
 Tibetan:
-  abbreviation: "bo" 
+  abbreviation: "bo"
   localName: "བོད་ཡིག"
 Breton:
-  abbreviation: "br" 
+  abbreviation: "br"
   localName: "Brezhoneg"
 Bosnian:
   abbreviation: "bs"
   localName: "Bosanski"
 Catalan:
-  abbreviation: "ca" 
+  abbreviation: "ca"
   localName: "Català"
 Chechen:
-  abbreviation: "ce" 
+  abbreviation: "ce"
   localName: "Нохчийн"
 Chamorro:
-  abbreviation: "ch" 
+  abbreviation: "ch"
   localName: "Chamoru"
 Corsican:
-  abbreviation: "co" 
+  abbreviation: "co"
   localName: "Corsu"
 Cree:
-  abbreviation: "cr" 
+  abbreviation: "cr"
   localName: "Nehiyaw"
 Czech:
-  abbreviation: "cs" 
+  abbreviation: "cs"
   localName: "Česky"
 Old Church Slavonic / Old Bulgarian:
-  abbreviation: "cu" 
+  abbreviation: "cu"
   localName: "словѣньскъ"
 Chuvash:
-  abbreviation: "cv" 
+  abbreviation: "cv"
   localName: "Чăваш"
 Welsh:
-  abbreviation: "cy" 
+  abbreviation: "cy"
   localName: "Cymraeg"
 Danish:
-  abbreviation: "da" 
+  abbreviation: "da"
   localName: "Dansk"
 German:
-  abbreviation: "de" 
+  abbreviation: "de"
   localName: "Deutsch"
 Gujarati:
-  abbreviation: "gu" 
+  abbreviation: "gu"
   localName: "ગુજરાતી"
 Divehi:
-  abbreviation: "dv" 
+  abbreviation: "dv"
   localName: "ދިވެހިބަސް"
 Dzongkha:
-  abbreviation: "dz" 
+  abbreviation: "dz"
   localName: "ཇོང་ཁ"
 Ewe:
-  abbreviation: "ee" 
+  abbreviation: "ee"
   localName: "Ɛʋɛ"
+Greek:
+  abbreviation: "el"
+  localName: "Ελληνικά"
 English:
-  abbreviation: "en" 
+  abbreviation: "en"
   localName: "English"
 Esperanto:
-  abbreviation: "eo" 
+  abbreviation: "eo"
   localName: "Esperanto"
 Spanish:
-  abbreviation: "es" 
+  abbreviation: "es"
   localName: "Español"
 Estonian:
-  abbreviation: "et" 
+  abbreviation: "et"
   localName: "Eesti"
 Basque:
-  abbreviation: "eu" 
+  abbreviation: "eu"
   localName: "Euskara"
 Peul:
-  abbreviation: "ff" 
+  abbreviation: "ff"
   localName: "Fulfulde"
 Finnish:
-  abbreviation: "fi" 
+  abbreviation: "fi"
   localName: "Suomi"
 Fijian:
-  abbreviation: "fj" 
+  abbreviation: "fj"
   localName: "Na Vosa Vakaviti"
 Faroese:
-  abbreviation: "fo" 
+  abbreviation: "fo"
   localName: "Føroyskt"
 French:
-  abbreviation: "fr" 
+  abbreviation: "fr"
   localName: "Français"
 West Frisian:
-  abbreviation: "fy" 
+  abbreviation: "fy"
   localName: "Frysk"
 Irish:
-  abbreviation: "ga" 
+  abbreviation: "ga"
   localName: "Gaeilge"
 Galician:
-  abbreviation: "gl" 
+  abbreviation: "gl"
   localName: "Galego"
 Guarani:
-  abbreviation: "gn" 
+  abbreviation: "gn"
   localName: "Avañe'ẽ"
 Manx:
-  abbreviation: "gv" 
+  abbreviation: "gv"
   localName: "Gaelg"
 Hausa:
-  abbreviation: "ha"  
+  abbreviation: "ha"
   localName: "هَوُس"َ
 Hebrew:
   abbreviation: "he"
   localName: "עברית"
 Hindi:
-  abbreviation: "hi"  
+  abbreviation: "hi"
   localName: "हिन्दी"
 Hiri Motu:
-  abbreviation: "ho" 
+  abbreviation: "ho"
   localName: "Hiri Motu"
 Haitian:
-  abbreviation: "ht" 
+  abbreviation: "ht"
   localName: "Krèyol ayisyen"
 Hungarian:
-  abbreviation: "hu" 
+  abbreviation: "hu"
   localName: "Magyar"
 Armenian:
-  abbreviation: "hy" 
+  abbreviation: "hy"
   localName: "հայերեն"
 Croatian:
-  abbreviation: "hr" 
+  abbreviation: "hr"
   localName: "Hrvatski"
 Herero:
-  abbreviation: "hz" 
+  abbreviation: "hz"
   localName: "Otsiherero"
 Interlingua:
-  abbreviation: "ia" 
+  abbreviation: "ia"
   localName: "Interlingua"
 Indonesian:
-  abbreviation: "id" 
+  abbreviation: "id"
   localName: "Bahasa Indonesia"
 Interlingue:
-  abbreviation: "ie" 
+  abbreviation: "ie"
   localName: "Interlingue"
 Igbo:
-  abbreviation: "ig" 
+  abbreviation: "ig"
   localName: "Igbo"
 Sichuan Yi:
-  abbreviation: "ii" 
+  abbreviation: "ii"
   localName: "ꆇꉙ"
 Inupiak:
-  abbreviation: "ik" 
+  abbreviation: "ik"
   localName: "Iñupiak"
 Ido:
-  abbreviation: "io" 
+  abbreviation: "io"
   localName: "Ido"
 Icelandic:
-  abbreviation: "is"  
+  abbreviation: "is"
   localName: "Íslenska"
 Italian:
-  abbreviation: "it" 
+  abbreviation: "it"
   localName: "Italiano"
 Inuktitut:
-  abbreviation: "iu" 
+  abbreviation: "iu"
   localName: "ᐃᓄᒃᑎᑐᑦ"
 Japanese:
-  abbreviation: "ja" 
+  abbreviation: "ja"
   localName: "日本語"
 Javanese:
   abbreviation: "jv"
   localName: "Basa Jawa"
 Georgian:
-  abbreviation: "ka"  
+  abbreviation: "ka"
   localName: "ქართული"
 Kongo:
-  abbreviation: "kg" 
+  abbreviation: "kg"
   localName: "KiKongo"
 Kikuyu:
-  abbreviation: "ki" 
+  abbreviation: "ki"
   localName: "Gĩkũyũ"
 Kuanyama:
-  abbreviation: "kj" 
+  abbreviation: "kj"
   localName: "Kuanyama"
 Kazakh:
-  abbreviation: "kk"  
+  abbreviation: "kk"
   localName: "Қазақша"
 Greenlandic:
-  abbreviation: "kl" 
+  abbreviation: "kl"
   localName: "Kalaallisut"
 Cambodian:
-  abbreviation: "km" 
+  abbreviation: "km"
   localName: "ភាសាខ្មែរ"
 Kannada:
-  abbreviation: "kn" 
+  abbreviation: "kn"
   localName: "ಕನ್ನಡ"
 Korean:
   abbreviation: "ko"
@@ -250,286 +253,286 @@ Kanuri:
   abbreviation: "kr"
   localName: "Kanuri"
 Kashmiri:
-  abbreviation: "ks" 
+  abbreviation: "ks"
   localName: "كشميري"
 Kurdish:
-  abbreviation: "ku" 
+  abbreviation: "ku"
   localName:  "كوردی"
 Komi:
-  abbreviation: "kv" 
+  abbreviation: "kv"
   localName: "Коми"
 Cornish:
-  abbreviation: "kw" 
+  abbreviation: "kw"
   localName: "Kernewek"
 Kirghiz:
-  abbreviation: "ky" 
+  abbreviation: "ky"
   localName: "Кыргызча"
 Latin:
-  abbreviation: "la" 
+  abbreviation: "la"
   localName: "Latina"
 Luxembourgish:
-  abbreviation: "lb" 
+  abbreviation: "lb"
   localName: "Lëtzebuergesch"
 Ganda:
-  abbreviation: "lg"  
+  abbreviation: "lg"
   localName: "Luganda"
 Limburgian:
-  abbreviation: "li" 
+  abbreviation: "li"
   localName: "Limburgs"
 Lingala:
-  abbreviation: "ln" 
+  abbreviation: "ln"
   localName: "Lingála"
 Laotian:
-  abbreviation: "lo" 
+  abbreviation: "lo"
   localName: "ລາວ"
 Lithuanian:
-  abbreviation: "lt" 
+  abbreviation: "lt"
   localName: "Lietuvių"
 Latvian:
-  abbreviation: "lv"  
+  abbreviation: "lv"
   localName: "Latviešu"
 Malagasy:
-  abbreviation: "mg"   
+  abbreviation: "mg"
   localName: "Malagasy"
 Marshallese:
-  abbreviation: "mh" 
+  abbreviation: "mh"
   localName: "Kajin Majel"
 Maori:
-  abbreviation: "mi" 
+  abbreviation: "mi"
   localName: "Māori"
 Malayalam:
-  abbreviation: "ml" 
+  abbreviation: "ml"
   localName: "മലയാളം"
 Mongolian:
-  abbreviation: "mn" 
+  abbreviation: "mn"
   localName: "Монгол"
 Moldovan:
   abbreviation: "mo"
   localName: "Moldovenească"
 Marathi:
-  abbreviation: "mr"  
+  abbreviation: "mr"
   localName:  "मराठी"
 Malay:
-  abbreviation: "ms" 
+  abbreviation: "ms"
   localName: "Bahasa Melayu"
 Maltese:
-  abbreviation: "mt" 
+  abbreviation: "mt"
   localName: "bil-Malti"
 Burmese:
-  abbreviation: "my" 
+  abbreviation: "my"
   localName: "Myanmasa"
 Nauruan:
-  abbreviation: "na"  
+  abbreviation: "na"
   localName: "Dorerin Naoero"
 North Ndebele:
-  abbreviation: "nd" 
+  abbreviation: "nd"
   localName: "Sindebele"
 Nepali:
-  abbreviation: "ne" 
+  abbreviation: "ne"
   localName: "नेपाली"
 Ndonga:
-  abbreviation: "ng" 
+  abbreviation: "ng"
   localName: "Oshiwambo"
 Dutch:
-  abbreviation: "nl" 
+  abbreviation: "nl"
   localName: "Nederlands"
 Norwegian Nynorsk:
-  abbreviation:  "nn" 	
+  abbreviation:  "nn"
   localName: "Norsk (nynorsk)"
 Norwegian:
-  abbreviation: "no" 
+  abbreviation: "no"
   localName: "Norsk"
 South Ndebele:
-  abbreviation: "nr" 
+  abbreviation: "nr"
   localName: "isiNdebele"
 Navajo:
-  abbreviation: "nv"  
+  abbreviation: "nv"
   localName: "Diné bizaad"
 Chichewa:
-  abbreviation: "ny" 
+  abbreviation: "ny"
   localName: "Chi-Chewa"
 Occitan:
-  abbreviation: "oc" 
+  abbreviation: "oc"
   localName: "Occitan"
 Ojibwa:
-  abbreviation:  "oj" 
+  abbreviation:  "oj"
   localName: "ᐊᓂᔑᓈᐯᒧᐎᓐ"
 Oromo:
-  abbreviation:  "om" 
+  abbreviation:  "om"
   localName: "Oromoo"
 Oriya:
-  abbreviation: "or" 
+  abbreviation: "or"
   localName: "ଓଡ଼ିଆ"
 Ossetian / Ossetic:
-  abbreviation: "os" 
+  abbreviation: "os"
   localName: "Иронау"
 Panjabi / Punjab:
-  abbreviation: "pa" 
+  abbreviation: "pa"
   localName: "ਪੰਜਾਬੀ"
 Pali:
-  abbreviation: "pi"  
+  abbreviation: "pi"
   localName: "Pāli"
 Polish:
-  abbreviation: "pl" 
+  abbreviation: "pl"
   localName: "Polski"
 Pashto:
-  abbreviation: "ps" 
+  abbreviation: "ps"
   localName: "پښتو"
 Portuguese:
-  abbreviation: "pt"  
+  abbreviation: "pt"
   localName: "Português"
 Quechua:
-  abbreviation: "qu" 
+  abbreviation: "qu"
   localName: "Runa Simi"
 Raeto Romance:
-  abbreviation: "rm" 
+  abbreviation: "rm"
   localName: "Rumantsch"
 Kirundi:
-  abbreviation: "rn" 
+  abbreviation: "rn"
   localName: "Kirundi"
 Romanian:
-  abbreviation: "ro" 
+  abbreviation: "ro"
   localName: "Română"
 Russian:
-  abbreviation: "ru" 
+  abbreviation: "ru"
   localName: "Русский"
 Rwandi:
-  abbreviation:  "rw" 
+  abbreviation:  "rw"
   localName: "Kinyarwandi"
 Sanskrit:
-  abbreviation: "sa" 
+  abbreviation: "sa"
   localName: "संस्कृतम्"
 Sardinian:
-  abbreviation: "sc" 
+  abbreviation: "sc"
   localName: "Sardu"
 Sindhi:
-  abbreviation: "sd" 
+  abbreviation: "sd"
   localName: "सिनधि"
 Northern Sami:
-  abbreviation: "se" 
+  abbreviation: "se"
   localName: "Davvisámegiella"
 Sango:
-  abbreviation: "sg" 
+  abbreviation: "sg"
   localName: "Sängö"
 Serbo-Croatian:
-  abbreviation: "sh" 
+  abbreviation: "sh"
   localName: "Srpskohrvatski"
 Sinhalese:
-  abbreviation: "si" 
+  abbreviation: "si"
   localName: "සිංහල"
 Slovak:
-  abbreviation: "sk" 
+  abbreviation: "sk"
   localName: "Slovenčina"
 Slovenian:
-  abbreviation: "sl" 
+  abbreviation: "sl"
   localName: "Slovenščina"
 Samoan:
-  abbreviation: "sm" 
+  abbreviation: "sm"
   localName: "Gagana Samoa"
 Shona:
-  abbreviation: "sn"  
+  abbreviation: "sn"
   localName: "chiShona"
 Somalia:
-  abbreviation: "so" 
+  abbreviation: "so"
   localName: "Soomaaliga"
 Albanian:
-  abbreviation: "sq" 
+  abbreviation: "sq"
   localName: "Shqip"
 Serbian:
-  abbreviation: "sr" 
+  abbreviation: "sr"
   localName: "Српски"
 Swati:
-  abbreviation: "ss" 
+  abbreviation: "ss"
   localName: "SiSwati"
 Southern Sotho:
-  abbreviation: "st" 
+  abbreviation: "st"
   localName: "Sesotho"
 Sundanese:
-  abbreviation: "su" 
+  abbreviation: "su"
   localName: "Basa Sunda"
 Swedish:
-  abbreviation: "sv" 
+  abbreviation: "sv"
   localName: "Svenska"
 Swahili:
-  abbreviation: "sw" 
+  abbreviation: "sw"
   localName: "Kiswahili"
 Tamil:
-  abbreviation: "ta" 
+  abbreviation: "ta"
   localName: "தமிழ்"
 Telugu:
-  abbreviation: "te" 
+  abbreviation: "te"
   localName: "తెలుగు"
 Tajik:
-  abbreviation: "tg" 
+  abbreviation: "tg"
   localName: "Тоҷикӣ"
 Thai:
-  abbreviation: "th" 
+  abbreviation: "th"
   localName: "ไทย"
 Tigrinya:
-  abbreviation: "ti" 
+  abbreviation: "ti"
   localName: "ትግርኛ"
 Turkmen:
-  abbreviation: "tk" 
+  abbreviation: "tk"
   localName: "Туркмен"
 Tagalog:
-  abbreviation: "tl" 
+  abbreviation: "tl"
   localName: "Tagalog"
 Tswana:
-  abbreviation: "tn" 
+  abbreviation: "tn"
   localName: "Setswana"
 Tonga:
-  abbreviation: "to" 
+  abbreviation: "to"
   localName: "Lea Faka-Tonga"
 Turkish:
-  abbreviation: "tr" 
+  abbreviation: "tr"
   localName: "Türkçe"
 Tsonga:
-  abbreviation: "ts" 
+  abbreviation: "ts"
   localName: "Xitsonga"
 Tatar:
-  abbreviation: "tt" 
+  abbreviation: "tt"
   localName: "Tatarça"
 Twi:
-  abbreviation: "tw" 
+  abbreviation: "tw"
   localName: "Twi"
 Tahitian:
-  abbreviation: "ty" 
+  abbreviation: "ty"
   localName: "Reo Mā`ohi"
 Uyghur:
-  abbreviation: "ug" 
+  abbreviation: "ug"
   localName: "Uyƣurqə"
 Ukrainian:
-  abbreviation: "uk" 
+  abbreviation: "uk"
   localName: "Українська"
 Urdu:
-  abbreviation: "ur" 
+  abbreviation: "ur"
   localName: "اردو"
 Uzbek:
-  abbreviation: "uz" 
+  abbreviation: "uz"
   localName: "Ўзбек"
 Venda:
-  abbreviation: "ve" 
+  abbreviation: "ve"
   localName: "Tshivenḓa"
 Vietnamese:
-  abbreviation: "vi" 
+  abbreviation: "vi"
   localName: "Việtnam"
 Wolof:
-  abbreviation: "wo" 
+  abbreviation: "wo"
   localName: "Wollof"
 Xhosa:
-  abbreviation: "xh" 
+  abbreviation: "xh"
   localName: "isiXhosa"
 Yiddish:
-  abbreviation: "yi" 
+  abbreviation: "yi"
   localName: "ייִדיש"
 Yoruba:
-  abbreviation: "yo" 
+  abbreviation: "yo"
   localName: "Yorùbá"
 Zhuang:
-  abbreviation: "za" 
+  abbreviation: "za"
   localName: "Cuengh"
 Chinese:
-  abbreviation: "zh" 
+  abbreviation: "zh"
   localName: "中文"
 
 production:

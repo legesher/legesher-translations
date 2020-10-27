@@ -24,7 +24,7 @@
     <!-- <a href="https://github.com/legesher/legesher-translations/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/legesher/legesher-translations?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
-        <img src="https://img.shields.io/badge/all_contributors-62-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/all_contributors-64-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://github.com/sponsors/madiedgar" alt="Sponsors on Github">
         <img src="https://img.shields.io/badge/sponsor-@madiedgar-black?style=flat-square&color=f58977&labelColor=black" /></a>
 
@@ -67,9 +67,12 @@ We are actively working on adding as many written languages as we can for versio
 
 - [Afar (aa)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Afar")
 - [Arabic (ar)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Arabic")
+- [Dutch (nl)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Dutch")
+- [Finnish (fi)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Finnish")
 - [French (fr)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+French")
 - [Gaelic (ga)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Gaelic")
 - [German (de)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+German")
+- [Greek (el)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Greek")
 - [Gujarati (gu)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Gujarati")
 - [Hebrew (he)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Hebrew")
 - [Hindi (hi)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Hindi")
@@ -228,6 +231,10 @@ Meet our [community](https://legesher.io/community) (full of contributors, backe
     <td align="center"><a href="https://github.com/iofall"><img src="https://avatars2.githubusercontent.com/u/50991099?v=4?s=100" width="100px;" alt=""/><br /><sub><b>iofall</b></sub></a><br /><a href="#translation-iofall" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/marsnone"><img src="https://avatars3.githubusercontent.com/u/34975034?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Martin O'Neill</b></sub></a><br /><a href="#translation-marsnone" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/arjunshekhawat5"><img src="https://avatars2.githubusercontent.com/u/42422394?v=4?s=100" width="100px;" alt=""/><br /><sub><b>arjunshekhawat5</b></sub></a><br /><a href="#content-arjunshekhawat5" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/sshekhar1996"><img src="https://avatars2.githubusercontent.com/u/20168925?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sshekhar1996</b></sub></a><br /><a href="#translation-sshekhar1996" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/rouskuli"><img src="https://avatars3.githubusercontent.com/u/73099623?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rouskuli</b></sub></a><br /><a href="#translation-rouskuli" title="Translation">🌍</a></td>
   </tr>
 </table>
 
