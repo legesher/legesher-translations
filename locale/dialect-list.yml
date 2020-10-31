@@ -35,7 +35,7 @@ Aymara:
   localName: "Aymar"
 Azerbaijani:
   abbreviation: "az"
-  localName: "آذربايجان"
+  localName: "Azərbaycanca"
 Bashkir:
   abbreviation: "ba"
   localName: "Башҡорт"
@@ -57,9 +57,6 @@ Bambara:
 Bengali:
   abbreviation: "bn"
   localName: "বাংলা"
-Tibetan:
-  abbreviation: "bo"
-  localName: "བོད་ཡིག"
 Breton:
   abbreviation: "br"
   localName: "Brezhoneg"
@@ -75,6 +72,9 @@ Chechen:
 Chamorro:
   abbreviation: "ch"
   localName: "Chamoru"
+Chinese:
+  abbreviation: "zh"
+  localName: "中文"  
 Corsican:
   abbreviation: "co"
   localName: "Corsu"
@@ -90,9 +90,6 @@ Old Church Slavonic / Old Bulgarian:
 Chuvash:
   abbreviation: "cv"
   localName: "Чăваш"
-Welsh:
-  abbreviation: "cy"
-  localName: "Cymraeg"
 Danish:
   abbreviation: "da"
   localName: "Dansk"
@@ -153,6 +150,9 @@ Irish:
 Galician:
   abbreviation: "gl"
   localName: "Galego"
+German:
+   abbreviation: "de"
+   localName: "Deutsch"
 Guarani:
   abbreviation: "gn"
   localName: "Avañe'ẽ"
@@ -477,6 +477,9 @@ Turkmen:
 Tagalog:
   abbreviation: "tl"
   localName: "Tagalog"
+Tibetan:
+  abbreviation: "bo"
+  localName: "བོད་ཡིག"  
 Tswana:
   abbreviation: "tn"
   localName: "Setswana"
@@ -516,6 +519,9 @@ Venda:
 Vietnamese:
   abbreviation: "vi"
   localName: "Việtnam"
+Welsh:
+  abbreviation: "cy"
+  localName: "Cymraeg"  
 Wolof:
   abbreviation: "wo"
   localName: "Wollof"
@@ -531,9 +537,7 @@ Yoruba:
 Zhuang:
   abbreviation: "za"
   localName: "Cuengh"
-Chinese:
-  abbreviation: "zh"
-  localName: "中文"
+
 
 production:
   <<: *defaults
