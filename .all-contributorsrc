@@ -604,6 +604,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "davidsennekool",
+      "name": "David Sennekool",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5947194?v=4",
+      "profile": "https://github.com/davidsennekool",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7
