@@ -239,6 +239,7 @@ Meet our [community](https://legesher.io/community) (full of contributors, backe
     <td align="center"><a href="https://github.com/davidsennekool"><img src="https://avatars2.githubusercontent.com/u/5947194?v=4?s=100" width="100px;" alt=""/><br /><sub><b>David Sennekool</b></sub></a><br /><a href="#translation-davidsennekool" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Nigar6001"><img src="https://avatars2.githubusercontent.com/u/52638265?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nigar6001</b></sub></a><br /><a href="#translation-Nigar6001" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/minna-xD"><img src="https://avatars2.githubusercontent.com/u/44906587?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Minna N.</b></sub></a><br /><a href="#translation-minna-xD" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/begeistert"><img src="https://avatars1.githubusercontent.com/u/36460223?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Iván Montiel Cardona</b></sub></a><br /><a href="#translation-begeistert" title="Translation">🌍</a></td>
   </tr>
 </table>
 
