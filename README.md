@@ -24,7 +24,7 @@
     <!-- <a href="https://github.com/legesher/legesher-translations/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/legesher/legesher-translations?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
-        <img src="https://img.shields.io/badge/all_contributors-64-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/all_contributors-69-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://github.com/sponsors/madiedgar" alt="Sponsors on Github">
         <img src="https://img.shields.io/badge/sponsor-@madiedgar-black?style=flat-square&color=f58977&labelColor=black" /></a>
 
@@ -235,6 +235,11 @@ Meet our [community](https://legesher.io/community) (full of contributors, backe
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/rouskuli"><img src="https://avatars3.githubusercontent.com/u/73099623?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rouskuli</b></sub></a><br /><a href="#translation-rouskuli" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/ioannouE"><img src="https://avatars1.githubusercontent.com/u/34252208?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ioannouE</b></sub></a><br /><a href="#translation-ioannouE" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/davidsennekool"><img src="https://avatars2.githubusercontent.com/u/5947194?v=4?s=100" width="100px;" alt=""/><br /><sub><b>David Sennekool</b></sub></a><br /><a href="#translation-davidsennekool" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Nigar6001"><img src="https://avatars2.githubusercontent.com/u/52638265?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nigar6001</b></sub></a><br /><a href="#translation-Nigar6001" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/minna-xD"><img src="https://avatars2.githubusercontent.com/u/44906587?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Minna N.</b></sub></a><br /><a href="#translation-minna-xD" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/begeistert"><img src="https://avatars1.githubusercontent.com/u/36460223?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Iván Montiel Cardona</b></sub></a><br /><a href="#translation-begeistert" title="Translation">🌍</a></td>
   </tr>
 </table>
 
