@@ -235,6 +235,7 @@ Meet our [community](https://legesher.io/community) (full of contributors, backe
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/rouskuli"><img src="https://avatars3.githubusercontent.com/u/73099623?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rouskuli</b></sub></a><br /><a href="#translation-rouskuli" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/ioannouE"><img src="https://avatars1.githubusercontent.com/u/34252208?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ioannouE</b></sub></a><br /><a href="#translation-ioannouE" title="Translation">🌍</a></td>
   </tr>
 </table>
 
