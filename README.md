@@ -67,6 +67,8 @@ We are actively working on adding as many written languages as we can for versio
 
 - [Afar (aa)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Afar")
 - [Arabic (ar)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Arabic")
+- [Azerbaijani (az)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Azerbaijani")
+- [Danish (da)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Danish")
 - [Dutch (nl)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Dutch")
 - [Finnish (fi)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Finnish")
 - [French (fr)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+French")
