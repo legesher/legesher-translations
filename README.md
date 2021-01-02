@@ -24,7 +24,7 @@
     <!-- <a href="https://github.com/legesher/legesher-translations/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/legesher/legesher-translations?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
-        <img src="https://img.shields.io/badge/all_contributors-69-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/all_contributors-71-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://github.com/sponsors/madiedgar" alt="Sponsors on Github">
         <img src="https://img.shields.io/badge/sponsor-@madiedgar-black?style=flat-square&color=f58977&labelColor=black" /></a>
 
@@ -85,6 +85,7 @@ We are actively working on adding as many written languages as we can for versio
 - [Romanian (ro)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Romanian")
 - [Russian (ru)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Russian")
 - [Spanish (es)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Spanish")
+- [Swahili (sw)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Swahili")
 - [Tagalog (tl)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Tagalog")
 - [Telugu (te)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Telugu")
 - [Turkish (tr)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Turkish")
@@ -243,6 +244,9 @@ Meet our [community](https://legesher.io/community) (full of contributors, backe
     <td align="center"><a href="https://github.com/minna-xD"><img src="https://avatars2.githubusercontent.com/u/44906587?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Minna N.</b></sub></a><br /><a href="#translation-minna-xD" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/begeistert"><img src="https://avatars1.githubusercontent.com/u/36460223?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Iván Montiel Cardona</b></sub></a><br /><a href="#translation-begeistert" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/justin-lourie-cole"><img src="https://avatars1.githubusercontent.com/u/69779682?v=4?s=100" width="100px;" alt=""/><br /><sub><b>justin-cole</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=justin-lourie-cole" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/wambugucoder"><img src="https://avatars3.githubusercontent.com/u/35865592?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JosWambugu</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=wambugucoder" title="Documentation">📖</a></td>
   </tr>
 </table>
 
