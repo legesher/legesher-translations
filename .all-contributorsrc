@@ -640,6 +640,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "justin-lourie-cole",
+      "name": "justin-cole",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/69779682?v=4",
+      "profile": "https://github.com/justin-lourie-cole",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
