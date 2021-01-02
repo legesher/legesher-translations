@@ -85,6 +85,7 @@ We are actively working on adding as many written languages as we can for versio
 - [Romanian (ro)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Romanian")
 - [Russian (ru)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Russian")
 - [Spanish (es)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Spanish")
+- [Swahili (sw)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Swahili")
 - [Tagalog (tl)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Tagalog")
 - [Telugu (te)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Telugu")
 - [Turkish (tr)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Turkish")
