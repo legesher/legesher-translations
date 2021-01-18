@@ -1286,23 +1286,23 @@ yield: "ઉપજ" # ✅
 
 # << Built-In Functions >>
 
-abs: "એબીએસ" #
-all: "બધા" #
-any: "કોઈપણ" #
-ascii: "ascii" #
-bin: "ડબ્બા" #
-bool: "બુલ" #
-breakpoint: "બ્રેકપોઇન્ટ" #
-bytearray: "બાયટ્રે" #
-bytes: "બાઇટ્સ" #
-callable: "બોલાવવા યોગ્ય" #
-chr: "chr" #
-classmethod: "વર્ગમૂળ" #
-compile: "સંકલન" #
-complex: "જટિલ" #
-delattr: "delattr" #
-dict: "ડિક" #
-dir: "dir" #
+abs: "એબીએસ" # ❓ I think "સંપૂર્ણ" fits better for abs, which returns absolute value.
+all: "બધા" # ✅
+any: "કોઈપણ" # ✅
+ascii: "ascii" # ✅
+bin: "ડબ્બા" # ❓ I think "દ્વિસંગી" is perfect for bin because "ડબ્બા" represents boxes, which is not meaningful.
+bool: "બુલ" # ✅
+breakpoint: "બ્રેકપોઇન્ટ" # ❓ I think "વિરામ બિંદુ" suits better than "બ્રેકપોઇન્ટ".
+bytearray: "બાયટ્રે" # ✅
+bytes: "બાઇટ્સ" # ✅
+callable: "બોલાવવા યોગ્ય" # ✅
+chr: "chr" # ✅
+classmethod: "વર્ગમૂળ" # ✅
+compile: "સંકલન" # ✅
+complex: "જટિલ" # ✅
+delattr: "delattr" # ❓ I think phonetic translation will not work here, "લક્ષણ હટાવવા" fits better.
+dict: "ડિક" # ❓ "કોશ" or "શબ્દકોશ" is perfect translation, because we use it as dictionary.
+dir: "dir" # 
 divmod: "divmod" #
 enumerate: "ગણતરી કરવી" #
 eval: "ઇવલ" #
