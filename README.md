@@ -248,7 +248,7 @@ Meet our [community](https://legesher.io/community) (full of contributors, backe
     <td align="center"><a href="https://github.com/justin-lourie-cole"><img src="https://avatars1.githubusercontent.com/u/69779682?v=4?s=100" width="100px;" alt=""/><br /><sub><b>justin-cole</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=justin-lourie-cole" title="Documentation">📖</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/wambugucoder"><img src="https://avatars3.githubusercontent.com/u/35865592?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JosWambugu</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=wambugucoder" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/wambugucoder"><img src="https://avatars3.githubusercontent.com/u/35865592?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JosWambugu</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=wambugucoder" title="Documentation">📖</a> <a href="#translation-wambugucoder" title="Translation">🌍</a></td>
   </tr>
 </table>
 
