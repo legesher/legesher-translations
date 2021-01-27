@@ -24,7 +24,7 @@
     <!-- <a href="https://github.com/legesher/legesher-translations/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/legesher/legesher-translations?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
-        <img src="https://img.shields.io/badge/all_contributors-71-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/all_contributors-73-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://github.com/sponsors/madiedgar" alt="Sponsors on Github">
         <img src="https://img.shields.io/badge/sponsor-@madiedgar-black?style=flat-square&color=f58977&labelColor=black" /></a>
 
@@ -80,6 +80,8 @@ We are actively working on adding as many written languages as we can for versio
 - [Hindi (hi)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Hindi")
 - [Indonesian (id)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Indonesian")
 - [Italian (it)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Italian")
+- [Kabyle (kab)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Kabyle")
+- [Nepali (ne)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Nepali")
 - [Polish (pl) ](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Polish")
 - [Portuguese (pt)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Portugese")
 - [Romanian (ro)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Romanian")
@@ -246,7 +248,9 @@ Meet our [community](https://legesher.io/community) (full of contributors, backe
     <td align="center"><a href="https://github.com/justin-lourie-cole"><img src="https://avatars1.githubusercontent.com/u/69779682?v=4?s=100" width="100px;" alt=""/><br /><sub><b>justin-cole</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=justin-lourie-cole" title="Documentation">📖</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/wambugucoder"><img src="https://avatars3.githubusercontent.com/u/35865592?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JosWambugu</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=wambugucoder" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/wambugucoder"><img src="https://avatars3.githubusercontent.com/u/35865592?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JosWambugu</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=wambugucoder" title="Documentation">📖</a> <a href="#translation-wambugucoder" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/belkacemm"><img src="https://avatars.githubusercontent.com/u/36551090?v=4?s=100" width="100px;" alt=""/><br /><sub><b>belkacemm</b></sub></a><br /><a href="#translation-belkacemm" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://shrill-shrestha-portfolio.herokuapp.com/"><img src="https://avatars.githubusercontent.com/u/43284212?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shrill Shrestha</b></sub></a><br /><a href="#translation-ShrillShrestha" title="Translation">🌍</a></td>
   </tr>
 </table>
 

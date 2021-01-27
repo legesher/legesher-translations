@@ -656,7 +656,26 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/35865592?v=4",
       "profile": "https://github.com/wambugucoder",
       "contributions": [
-        "doc"
+        "doc",
+        "translation"
+      ]
+    },
+    {
+      "login": "belkacemm",
+      "name": "belkacemm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36551090?v=4",
+      "profile": "https://github.com/belkacemm",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "ShrillShrestha",
+      "name": "Shrill Shrestha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43284212?v=4",
+      "profile": "https://shrill-shrestha-portfolio.herokuapp.com/",
+      "contributions": [
+        "translation"
       ]
     }
   ],
