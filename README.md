@@ -250,6 +250,7 @@ Meet our [community](https://legesher.io/community) (full of contributors, backe
   <tr>
     <td align="center"><a href="https://github.com/wambugucoder"><img src="https://avatars3.githubusercontent.com/u/35865592?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JosWambugu</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-translations/commits?author=wambugucoder" title="Documentation">📖</a> <a href="#translation-wambugucoder" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/belkacemm"><img src="https://avatars.githubusercontent.com/u/36551090?v=4?s=100" width="100px;" alt=""/><br /><sub><b>belkacemm</b></sub></a><br /><a href="#translation-belkacemm" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://shrill-shrestha-portfolio.herokuapp.com/"><img src="https://avatars.githubusercontent.com/u/43284212?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shrill Shrestha</b></sub></a><br /><a href="#translation-ShrillShrestha" title="Translation">🌍</a></td>
   </tr>
 </table>
 
