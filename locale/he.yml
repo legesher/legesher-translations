@@ -13,30 +13,30 @@ language-abbreviation: "he"
 # << Keywords >>
 # NOTE: All keywords are capitalized for Atom because it is used for
 # key information found in comments within the editor
-  NOTE: "הערה"
-  INFO: "מידע"
-  IDEA: "רעיון"
-  DEBUG: "מציאת_באגים"
-  REMOVE: "הסר"
-  OPTIMIZE: ""
-  REVIEW: ""
-  HACK: "האק"
-  UNDONE: "שחזר"
-  TODO: ""
-  REFACTOR: "לעשות_מחדש"
-  DEPRECATED: "הוצא_משימוש"
-  TASK: "מטלה"
-  CHGME: ""
-  NOTREACHED: ""
-  WTF: "וואט_דה_פאק"
-  BUG: "באג"
-  ERROR: "שגיאה"
-  OMG: "או_מיי_גאד"
-  ERR: "שגיאה"
-  OMFGRLY: ""
-  WARNING: "אזהרה"
-  WARN: "אזהרה"
-  BROKEN: "שבור"
+  NOTE: "הערה" # @Gal-Gilor :white_check_mark:
+  INFO: "מידע" # @Gal-Gilor :white_check_mark:
+  IDEA: "רעיון" # @Gal-Gilor :white_check_mark:
+  DEBUG: "מציאת_באגים" # @Gal-Gilor :white_check_mark:
+  REMOVE: "הסר" # @Gal-Gilor :white_check_mark:
+  OPTIMIZE: ""  # @Gal-Gilor :question: "ייעול"
+  REVIEW: "" # @Gal-Gilor :question: "סקירה"
+  HACK: "האק" # @Gal-Gilor :question: "פריצה או פרץ?"
+  UNDONE: "שחזר" # @Gal-Gilor :white_check_mark:
+  TODO: "" # @Gal-Gilor :question: "לעשות"
+  REFACTOR: "לעשות_מחדש" # @Gal-Gilor :question: "לשפר"
+  DEPRECATED: "הוצא_משימוש" # @Gal-Gilor :white_check_mark:
+  TASK: "מטלה" # @Gal-Gilor :white_check_mark:
+  CHGME: "" # @Gal-Gilor :thinking: "Requires elaboration on what this word does"
+  NOTREACHED: "" # @Gal-Gilor :thinking: "Requires elaboration on what this word does"
+  WTF: "וואט_דה_פאק" # @Gal-Gilor :white_check_mark:
+  BUG: "באג" # @Gal-Gilor :white_check_mark:
+  ERROR: "שגיאה" # @Gal-Gilor :white_check_mark:
+  OMG: "או_מיי_גאד" # @Gal-Gilor :question: "אלוהים_אדירים" ?
+  ERR: "שגיאה" # @Gal-Gilor :white_check_mark:
+  OMFGRLY: "" # @Gal-Gilor :thinking: "OMG REALLY isn't used much. Same as OMG (אלוהים_אדירים)"
+  WARNING: "אזהרה" # @Gal-Gilor :white_check_mark:
+  WARN: "אזהרה" # @Gal-Gilor :question: "להזהיר"?
+  BROKEN: "שבור" # @Gal-Gilor :white_check_mark:
 
 # ----------------------
 # |   LANGUAGE: AGDA   |
@@ -1248,41 +1248,41 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: "שקר"
-  None: "כלום"
-  True: "אמת"
-  and: "ו"
-  as: "כ"
-  assert: "הנח"
-  async: "בסנכרון"
-  await: "המתן"
-  break: "לשבור"
-  class: "מחלקה"
-  continue: "המשך"
-  def: "פעולה"
-  del: "מחק"
-  elif: "אחרת_אז"
-  else: "אחרת"
-  except: "בשגיאה"
-  finally: "לבסוף"
-  for: "לכל"
-  from: "מ"
-  global: "גלובלי"
-  if: "אם"
-  import: "ייבא"
-  in: "ב"
-  is: "הוא"
-  lambda: "פעולונת"
-  nonlocal: "לא_מקומי"
-  not: "לא"
-  or: "או"
-  pass: "קוד_עתידי"
-  raise: "העלה"
-  return: "החזר"
-  try: "נסה"
-  while: "כל_עוד"
-  with: "עם"
-  yield: "הוצא"
+  False: "שקר" # @Gal-Gilor :white_check_mark:
+  None: "כלום" # @Gal-Gilor :question: "ריק" Python's "None" is equivalent to other language's null
+  True: "אמת" # @Gal-Gilor :white_check_mark:
+  and: "ו" # @Gal-Gilor :white_check_mark: Although 100% correct. I'm hesistant to use a single character
+  as: "כ" # @Gal-Gilor :white_check_mark: Although 100% correct. I'm hesistant to use a single character
+  assert: "הנח" # @Gal-Gilor :question: In Python, I could aruge I can replace "assert" with "insist" I suggest "לדרוש  or להתעקש"
+  async: "בסנכרון" # @Gal-Gilor :question: 'אסינכרוני' The opposite of Sync
+  await: "המתן" # @Gal-Gilor :white_check_mark:
+  break: "לשבור" # @Gal-Gilor :white_check_mark:
+  class: "מחלקה" # @Gal-Gilor :white_check_mark: I agree. However, thoughts on "אובייקט" (I understand they are not the same)?
+  continue: "המשך" # @Gal-Gilor :white_check_mark:
+  def: "פעולה" # @Gal-Gilor :white_check_mark:
+  del: "מחק" # @Gal-Gilor :white_check_mark:
+  elif: "אחרת_אז" # @Gal-Gilor :white_check_mark:
+  else: "אחרת" # @Gal-Gilor :white_check_mark:
+  except: "בשגיאה" # @Gal-Gilor :white_check_mark:
+  finally: "לבסוף" # @Gal-Gilor :white_check_mark:
+  for: "לכל" # @Gal-Gilor :white_check_mark:
+  from: "מ" # @Gal-Gilor :question: Although 100% correct. I'm hesistant to use a single character
+  global: "גלובלי" # @Gal-Gilor :white_check_mark:
+  if: "אם" # @Gal-Gilor :white_check_mark:
+  import: "ייבא" # @Gal-Gilor :white_check_mark:
+  in: "ב" # @Gal-Gilor :white_check_mark: Although 100% correct. I'm hesistant to use a single character. how about "בתוך" 
+  is: "הוא" # @Gal-Gilor :white_check_mark:
+  lambda: "פעולונת" # @Gal-Gilor :white_check_mark: clever!
+  nonlocal: "לא_מקומי" # @Gal-Gilor :white_check_mark:
+  not: "לא" # @Gal-Gilor :white_check_mark:
+  or: "או" # @Gal-Gilor :white_check_mark:
+  pass: "קוד_עתידי" # @Gal-Gilor :question: Since "pass" is a null statement, how about "הצהרת_בטל"
+  raise: "העלה" # @Gal-Gilor :white_check_mark:
+  return: "החזר" # @Gal-Gilor :white_check_mark:
+  try: "נסה" # @Gal-Gilor :white_check_mark:
+  while: "כל_עוד" # @Gal-Gilor :white_check_mark:
+  with: "עם" # @Gal-Gilor :white_check_mark:
+  yield: "הוצא" # @Gal-Gilor :question: How about "חולל איטרטור"
 
 # << Built-In Functions >>
 
