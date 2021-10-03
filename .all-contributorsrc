@@ -677,6 +677,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "Gal-Gilor",
+      "name": "Gal Gilor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25570697?v=4",
+      "profile": "https://github.com/Gal-Gilor",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7
