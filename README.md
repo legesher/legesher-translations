@@ -253,6 +253,7 @@ Meet our [community](https://legesher.io/community) (full of contributors, backe
     <td align="center"><a href="https://shrill-shrestha-portfolio.herokuapp.com/"><img src="https://avatars.githubusercontent.com/u/43284212?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shrill Shrestha</b></sub></a><br /><a href="#translation-ShrillShrestha" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Gal-Gilor"><img src="https://avatars.githubusercontent.com/u/25570697?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gal Gilor</b></sub></a><br /><a href="#translation-Gal-Gilor" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Nidhir2k1"><img src="https://avatars.githubusercontent.com/u/85235804?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nidhir Bhatt</b></sub></a><br /><a href="#translation-Nidhir2k1" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/136tejas"><img src="https://avatars.githubusercontent.com/u/82590387?v=4?s=100" width="100px;" alt=""/><br /><sub><b>136tejas</b></sub></a><br /><a href="#translation-136tejas" title="Translation">🌍</a></td>
   </tr>
 </table>
 
