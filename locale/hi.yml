@@ -98,27 +98,27 @@ language-abbreviation: "hi"
 # NOTE: https://www.amibroker.com/guide/a_language.html
 
 # << Keywords >>
-do: "करना" # (part of do-while statement)
-while: "जबकि"
-for: "के लिये"
-if: "अगर" # (part of if-else statement)
-else: "और" # (part of if-else statement)
-switch: "बदलना"
-break: "विराम" # (part of the switch statement or for/while statements)
-case: "स्थिति" # (part of the switch statement)
-continue: "जारी रखें" # (part of for/while statements)
-default: "डिफ़ॉल्ट" # (part of switch statement)
-function: "कार्य"
-procedure: "प्रक्रिया"
-return: "वापसी"
-local: "स्थानीय"
-global: "वैश्विक"
-static: "स्थिर"
-typeof: "प्रकार का"
-NOT: "नहीं"
-AND: "तथा"
-OR: "या"
-Null: "अमान्य"
+do: "करना" # (part of do-while statement) ✅ @sshiv5768 "करना"
+while: "जबकि" # ❓ @sshiv5768 this one looks more programmatic "जब तक"
+for: "के लिये" # ❓ @sshiv5768 for looping structure "दुहराओ" will be perfect
+if: "अगर" # (part of if-else statement) ✅ @sshiv5768 "अगर"
+else: "और" # (part of if-else statement) ❓ @sshiv5768 "अन्यथा"
+switch: "बदलना" # ✅ @sshiv5768 "बदलना"
+break: "विराम" # (part of the switch statement or for/while statements) ✅ @sshiv5768 "विराम"
+case: "स्थिति" # (part of the switch statement) ✅ @sshiv5768 "स्थिति"
+continue: "जारी रखें" # (part of for/while statements) ✅ @sshiv5768 "जारी रखें"
+default: "डिफ़ॉल्ट" # (part of switch statement) ✅ @sshiv5768 "डिफ़ॉल्ट"
+function: "कार्य" # ❓ @sshiv5768 "रचना"
+procedure: "प्रक्रिया" # ✅ @sshiv5768 "प्रक्रिया"
+return: "वापसी" # ✅ @sshiv5768 "वापस जाओ" will be more suitable
+local: "स्थानीय" # ✅ @sshiv5768 "स्थानीय"
+global: "वैश्विक" # ✅ @sshiv5768 "वैश्विक"
+static: "स्थिर" # ✅ @sshiv5768 "स्थिर"
+typeof: "प्रकार का" # ✅ @sshiv5768 "का प्रकार"
+NOT: "नहीं" # ✅ @sshiv5768 "नहीं"
+AND: "तथा" # ✅ @sshiv5768 we can also use "और" it is more local.
+OR: "या" # ✅ @sshiv5768 "या"
+Null: "अमान्य" # ✅ @sshiv5768 "अमान्य"
 # << Error Messages >>
 
 # ----------------------
