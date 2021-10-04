@@ -1248,113 +1248,113 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: خطأ‫"‬" #✅
-  None: "متغير لا يحمل أي قيمة" #✅
-  True: "صحيح" #✅
-  and: "و" #✅
-  as: " كلمة مفتاحية بمعنى كاف التشبية تستخدم لاعطاء اسم بديل للموديل عند تضمينها" #🤔 
-  assert: "تصريح تأكيد صحة قيمة" #❓ assert: "تأكيد"
+  False: خطأ‫"‬" #✅✅
+  None: "متغير لا يحمل أي قيمة" #✅, @OussamaSALAHOUELHADJ ❓ "بلا قيمة" is more abstract, what was suggested is "a none 'variable'" and what i suggested is only "none" ".
+  True: "صحيح" #✅✅
+  and: "و" #✅✅
+  as: " كلمة مفتاحية بمعنى كاف التشبية تستخدم لاعطاء اسم بديل للموديل عند تضمينها" #🤔, @OussamaSALAHOUELHADJ ❓ we can use "بدل" or "بإسم".
+  assert: "تصريح تأكيد صحة قيمة" #❓ assert: "تأكيد", @OussamaSALAHOUELHADJ ❓ "أكد"
   async: "تشغيل كتلتين أو أكثر بشكل متوازي بدلا من متسلسل" #❓ async: "غير متزامن"
-  await: "انتظار" #✅
-  break: "خروج من الحلقة" #✅
-  class: "ظبقة" #❓ class: "ظبقة"
-  continue: ‫"‬استمر‫"‬ #✅
-  def: "تعريف" #✅
-  del: "حذف" #✅
+  await: "انتظار" #✅, @OussamaSALAHOUELHADJ ❓ "ترقب" is more efficiant, (used as a verb describing the act of waiting for something).
+  break: "خروج من الحلقة" #✅, @OussamaSALAHOUELHADJ ❓ "قطع" describes the process of altering better.
+  class: "ظبقة" #❓ class: "ظبقة", @OussamaSALAHOUELHADJ ❓ "فئة" or "صنف".
+  continue: ‫"‬استمر‫"‬ #✅✅
+  def: "تعريف" #✅✅
+  del: "حذف" #✅✅
   elif: "في حال ‫(‬الشرط‫)‬" #❓ elif: "وإلا إذا"
   else: "في حال أي شيء آخر" #❓ else: "وإلا"
-  except: "اسثناء" #✅
-  finally: ‫"‬أخيرا‫"‬ #✅
-  for: "بداية بيان تسلسل حلقي" #❓ for: "حلقة for"
-  from: "من " #✅
+  except: "اسثناء" #✅✅
+  finally: ‫"‬أخيرا‫"‬ #✅✅
+  for: "بداية بيان تسلسل حلقي" #❓ for: "حلقة for", @OussamaSALAHOUELHADJ ❓ "لأجل" is the best fit for "for".
+  from: "من " #✅✅
   global:  "عمومي" #❓ global: "عام"
-  if: "إذا" #✅
-  import: "استيراد" #✅
-  in: "في" #✅
-  is: "هو" #✅
-  lambda: " تصريح لانشاء كائنات دالة جذيدة " #🤔
-  nonlocal: "غير محلي " #✅
-  not: "ليس" #✅
-  or: "أو" #✅
+  if: "إذا" #✅✅
+  import: "استيراد" #✅✅
+  in: "في" #✅✅
+  is: "هو" #✅✅
+  lambda: " تصريح لانشاء كائنات دالة جذيدة " #🤔, @OussamaSALAHOUELHADJ 🤔 The direct translation would be: "لامدا".
+  nonlocal: "غير محلي " #✅✅
+  not: "ليس" #✅✅
+  or: "أو" #✅✅
   pass: "بيان اشارة االى كتلة فارغة من البيانات" #❓ pass: "تجاوز"
-  raise: "كلمة مفتاحية لإنشاءأو إرجاع استثناء" #❓ raise: "إرجاع استثناء"
+  raise: "كلمة مفتاحية لإنشاءأو إرجاع استثناء" #❓ raise: "إرجاع استثناء", @OussamaSALAHOUELHADJ ❓ raise: "إثارة " or "رفع" is more abstract, "استثناء" means an exception which if it is used with raise, the keyword raise will be in a specific context.
   return: "إرجاع قيمة معينة" #❓ return: "إرجاع"
   try: " حاول، غالبا ما تستخدم في بداية كتلة استثناءات " #❓ try: "حاول"
-  while: "بيان تدوير" #❓ while: "حلقة while"
-  with: "مع" #✅
-  yield: "إرجاع كائن مولًد لا يحفظ في الذاكرة" #🤔❓ yield: "إرجاع"
+  while: "بيان تدوير" #❓ while: "حلقة while", @OussamaSALAHOUELHADJ ❓ "بينما" or "طالما" are two great suggestions with the same meaning as "while".
+  with: "مع" #✅✅
+  yield: "إرجاع كائن مولًد لا يحفظ في الذاكرة" #🤔❓ yield: "إرجاع", @OussamaSALAHOUELHADJ 🤔 yield: "تحقيق" is like fulfillment/execution it describes the act of finishing from something and it's ready to be out(in the case of books for example: ready to be published).
 
 # << Built-In Functions >>
 
-  abs: "قيمة مطلقة" #✅
-  all: "كل" #✅
-  any: "أي" #✅
-  ascii: "أسكي" #✅
-  bin: "ثنائي"  #✅
-  bool: "بوولي" #❓ bool: "منطقي"
-  breakpoint: "نقطة المقاطعة"  #✅
-  bytearray: "مجموعة من البايت" #❓ bytearray: "مصفوفة من البايت"
-  bytes: "قيم من البايت" #✅
+  abs: "قيمة مطلقة" #✅, @OussamaSALAHOUELHADJ ❓ "القيمة المطلقة" is the same suggestion but with the identifier.
+  all: "كل" #✅✅
+  any: "أي" #✅✅
+  ascii: "أسكي" #✅, @OussamaSALAHOUELHADJ 🤔 There is no clear translation for this abbreviation, "أسكي" is literal translation.
+  bin: "ثنائي"  #✅✅
+  bool: "بوولي" #❓ bool: "منطقي", @OussamaSALAHOUELHADJ 🤔 bool returns a logic value (true, false), but I'm not sure if we can use "منطقي" as a translation, "منطقي" means "logical".
+  breakpoint: "نقطة المقاطعة"  #✅, @OussamaSALAHOUELHADJ ❓ "نقطة قطع", There is a slight difference between the two words: "قطع" and "المقاطعة".
+  bytearray: "مجموعة من البايت" #❓ bytearray: "مصفوفة من البايت", @OussamaSALAHOUELHADJ 🤔 "مصفوفة" used also for matrices.
+  bytes: "قيم من البايت" #✅✅
   callable: "دالة يمكن استدعائها" #❓ callable: "يمكن استدعائه"
-  chr: "حرف" #❓ chr: "محرف"
-  classmethod: "دالة صنف" #✅
-  compile: "ترجم" #✅
-  complex: "الجزء المركب" #✅
-  delattr: "إزالة خاصية" #✅
-  dict: "قاموس" #✅
-  dir: "إظهار خواص الكائن" #🤔
-  divmod: "حساب ناتج وباقي القسمة" #✅
-  enumerate: "سرد" #❓ enumerate: "ترقيم"
-  eval: "قييم" #❓ eval: "تقييم"
-  exec: "نفذ" #✅
-  filter: "نقي" #❓ filter: "منقي"
-  float: "كسر" #❓
-  format: "تهيئة" #✅
-  frozenset: "مجموعة غير قابلة للتغيير" #✅
-  getattr: "إستحضار خاصية" #✅
-  globals: "القيم العمومية" #✅
-  hasattr: "لديه خاصية" #✅
-  hash: "تلبيد" #❓
-  help: "مساعدة" #✅
-  hex: "تحويل للنظام الستة عشري" #✅
-  id: "هوية" #✅
-  input: "إدخال" #✅
-  int: "عدد صحيح" #✅
+  chr: "حرف" #❓ chr: "محرف", @OussamaSALAHOUELHADJ ✅ "حرف" is correct.
+  classmethod: "دالة صنف" #✅, @OussamaSALAHOUELHADJ ❓ "نشاط صنف" or "نشاط فئة", the word "دالة" translates to "function" can be used but it doesn't describe a method (a function inside an object) it is just a general meaning of "function".
+  compile: "ترجم" #✅, @OussamaSALAHOUELHADJ ❓ "ترجم" means translate, "تجميع" means compile.
+  complex: "الجزء المركب" #✅✅
+  delattr: "إزالة خاصية" #✅, @OussamaSALAHOUELHADJ ❓ "إزالة صفة", attribute/"object variable": "صفة", mothod: "نشاط" or "دالة" which translates to "function", "خاصية" can be a method or an attribute or both, so "خواص" means the methods and the attributes of an Object/class together.
+  dict: "قاموس" #✅✅
+  dir: "إظهار خواص الكائن" #🤔🤔
+  divmod: "حساب ناتج وباقي القسمة" #✅✅
+  enumerate: "سرد" #❓ enumerate: "ترقيم", @OussamaSALAHOUELHADJ 🤔 "عد" and "إحصاء" translate to "count".
+  eval: "قييم" #❓ eval: "تقييم",  @OussamaSALAHOUELHADJ 🤔 not sure if "قييم" describes the function.
+  exec: "نفذ" #✅✅
+  filter: "نقي" #❓ filter: "منقي", @OussamaSALAHOUELHADJ ❓ filter: "ترشيح".
+  float: "كسر" #❓, @OussamaSALAHOUELHADJ ❓ "رقم عشري" means decimal number.
+  format: "تهيئة" #✅✅
+  frozenset: "مجموعة غير قابلة للتغيير" #✅, @OussamaSALAHOUELHADJ 🤔
+  getattr: "إستحضار خاصية" #✅, @OussamaSALAHOUELHADJ ❓ "إستحضار صفة".
+  globals: "القيم العمومية" #✅, @OussamaSALAHOUELHADJ ❓ "الرموز العامة" i used "الرموز" istead of "القيم" because in the definition of the function, "globals" returns "symbols".
+  hasattr: "لديه خاصية" #✅, @OussamaSALAHOUELHADJ ❓ "لديه صفة".
+  hash: "تلبيد" #❓, @OussamaSALAHOUELHADJ 🤔
+  help: "مساعدة" #✅✅
+  hex: "تحويل للنظام الستة عشري" #✅, @OussamaSALAHOUELHADJ ❓ "النظام السداسي عشري".
+  id: "هوية" #✅, @OussamaSALAHOUELHADJ ❓ "معرف" is commonly used to describe "id".
+  input: "إدخال" #✅✅
+  int: "عدد صحيح" #✅✅
   isinstance: "من نوع" #✅
-  issubclass: "يرث من" #✅
-  iter: "مكرر" #❓ iter: "حلقة iter"
-  len: "طول" #✅
-  list: "قائمة" #✅
-  locals: "القيم المحلية" #✅
-  map: "نفذ دالة على كل من" #❓
-  max: "أكبر" #❓ max: "الأكبر"
-  memoryview: "إظهار الذاكرة" #✅
-  min: "أصغر" #❓ min: "الأصغر"
-  next: "التالي" #✅
-  object: "الكائن" #✅
-  oct: "تحويل للنظام ثماني" #✅
-  open: "فتح" #✅
-  ord: "إستحضار قيمة اليونيكود" #❓ ord: "تحويل محرف لقيمته الرقمية"
-  pow: "أس" #✅
-  print: "طباعة" #✅
-  property: "خاصية" #✅
-  range: "مدى" #✅
+  issubclass: "يرث من" #✅, @OussamaSALAHOUELHADJ ❓ "فئة فرعية" or "صنف فرعي".
+  iter: "مكرر" #❓ iter: "حلقة iter", @OussamaSALAHOUELHADJ ❓ "كرر" or "عد".
+  len: "طول" #✅✅
+  list: "قائمة" #✅✅
+  locals: "القيم المحلية" #✅✅
+  map: "نفذ دالة على كل من" #❓, @OussamaSALAHOUELHADJ 🤔
+  max: "أكبر" #❓ max: "الأكبر", @OussamaSALAHOUELHADJ ❓ "الحد الأقصى".
+  memoryview: "إظهار الذاكرة" #✅✅
+  min: "أصغر" #❓ min: "الأصغر", @OussamaSALAHOUELHADJ ❓ "الحد الأدنى".
+  next: "التالي" #✅✅
+  object: "الكائن" #✅✅
+  oct: "تحويل للنظام ثماني" #✅, @OussamaSALAHOUELHADJ ❓ "النظام الثماني".
+  open: "فتح" #✅✅
+  ord: "إستحضار قيمة اليونيكود" #❓ ord: "تحويل محرف لقيمته الرقمية", @OussamaSALAHOUELHADJ 🤔
+  pow: "أس" #✅✅
+  print: "طباعة" #✅✅
+  property: "خاصية" #✅, @OussamaSALAHOUELHADJ ❓ "صفة".
+  range: "مدى" #✅✅
   repr: "إستحضار ممثل عن القيمة" #🤔
-  reversed: "معكوس" #✅
-  round: "تقريب" #✅
-  set: "مجموعة" #✅
-  setattr: "ضبط خاصية" #✅
+  reversed: "معكوس" #✅✅
+  round: "تقريب" #✅, @OussamaSALAHOUELHADJ ❓ "تدوير".
+  set: "مجموعة" #✅✅
+  setattr: "ضبط خاصية" #✅, @OussamaSALAHOUELHADJ ❓ "تحديد صفة".
   slice: "إستحضار جزء من" #❓ slice: "شريحة"
-  sorted: "مرتب" #✅
-  staticmethod: "دالة ثابتة" #✅
+  sorted: "مرتب" #✅✅
+  staticmethod: "دالة ثابتة" #✅✅
   str: "تحويل القيمة إلى سلسلة من الحروف" #❓ str: "تحويل الى نص"
-  sum: "إجمع " #✅
-  super: "إستحضار الضالة من الفئة العظيمة" #🤔
+  sum: "إجمع " #✅, @OussamaSALAHOUELHADJ ❓ "جمع".
+  super: "إستحضار الضالة من الفئة العظيمة" #🤔, @OussamaSALAHOUELHADJ 🤔 we can say "فئة علوية" or "صنف علوي".
   tuple: "زوج" #❓ tuple: "مجموعة غير قابلة للتغيير"
-  type: "نوع" #✅
-  vars: "إستحضار خواص الكائن" #✅
-  zip: "إستحضار مكرر من" #🤔
-  __import__: "إستيراد" #✅
+  type: "نوع" #✅✅
+  vars: "إستحضار خواص الكائن" #✅, @OussamaSALAHOUELHADJ ❓ "صفات".
+  zip: "إستحضار مكرر من" #🤔, @OussamaSALAHOUELHADJ 🤔
+  __import__: "إستيراد" #✅✅
 
 # << Error Messages >>
 
