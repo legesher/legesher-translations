@@ -13,81 +13,81 @@ language-abbreviation: "hi"
 # << Keywords >>
 # NOTE: All keywords are capitalized for Atom because it is used for
 # key information found in comments within the editor
-  NOTE: "टिप्पणी"
-  INFO: "जानकारी"
-  IDEA: "विचार"
-  DEBUG: "दोषमार्जन"
-  REMOVE: "हटाना"
-  OPTIMIZE: "अनुकूलन"
-  REVIEW: "समीक्षा"
-  HACK: "हैक"
-  UNDONE: "पूर्ववत"
-  TODO: "करने के लिए"
-  REFACTOR: "रेफेक्टर"
-  DEPRECATED: "बहिष्कृत किया गया"
-  TASK: "कार्य"
-  CHGME: "CHGME"
-  NOTREACHED: "नहीं पहुँचा"
-  WTF: "WTF"
-  BUG: "प्रोग्राम में त्रुटि, दोष"
-  ERROR: "त्रुटि"
-  OMG: "OMG"
-  ERR: "ERR"
-  OMFGRLY: "OMFGRLY"
-  WARNING: "चेतावनी"
-  WARN: "चेतावनी देना"
-  BROKEN: "टूटा हुआ"
+  NOTE: "टिप्पणी" ✅ @bhaveshgoyal182 
+  INFO: "जानकारी" ✅ @bhaveshgoyal182
+  IDEA: "विचार" ✅ @bhaveshgoyal182
+  DEBUG: "दोषमार्जन" ❓ @bhaveshgoyal182 "डीबग"
+  REMOVE: "हटाना" ✅ @bhaveshgoyal182 
+  OPTIMIZE: "अनुकूलन" ❓ @bhaveshgoyal182 "सुधारना"
+  REVIEW: "समीक्षा" ✅ @bhaveshgoyal182
+  HACK: "हैक" ❓ @bhaveshgoyal182 "आसान तरीका"
+  UNDONE: "पूर्ववत" ❓ @bhaveshgoyal182 "न किया हुआ"
+  TODO: "करने के लिए" ✅ @bhaveshgoyal182
+  REFACTOR: "रेफेक्टर" ✅ @bhaveshgoyal182
+  DEPRECATED: "बहिष्कृत किया गया" ✅ @bhaveshgoyal182
+  TASK: "कार्य" ✅ @bhaveshgoyal182
+  CHGME: "CHGME" ✅ @bhaveshgoyal182
+  NOTREACHED: "नहीं पहुँचा" ✅ @bhaveshgoyal182
+  WTF: "WTF" ❓ @bhaveshgoyal182 "बेहूदा"
+  BUG: "प्रोग्राम में त्रुटि, दोष" ✅ @bhaveshgoyal182
+  ERROR: "त्रुटि" ✅ @bhaveshgoyal182
+  OMG: "OMG" ❓ @bhaveshgoyal182 "हे भगवान"
+  ERR: "ERR" ❓ @bhaveshgoyal182 "त्रुटि"
+  OMFGRLY: "OMFGRLY" 🤔 @bhaveshgoyal182
+  WARNING: "चेतावनी" ✅ @bhaveshgoyal182
+  WARN: "चेतावनी देना" ✅ @bhaveshgoyal182
+  BROKEN: "टूटा हुआ" ✅ @bhaveshgoyal182
 
 # ----------------------
 # |   LANGUAGE: AGDA   |
 # ----------------------
 # NOTE: https://agda.readthedocs.io/en/v2.5.4.2/index.html
 # << Keywords >>
-  abstract: ""
-  codata: ""
-  coinductive: ""
-  constructor: ""
-  data: ""
-  do: ""
-  eta-equality: ""
-  field: ""
-  forall: ""
-  hiding: ""
-  import: ""
-  in: ""
-  inductive: ""
-  infix: ""
+  abstract: "सार" 
+  codata: "दत्त-सामग्री"
+  coinductive: "सहगामी"
+  constructor: "निर्माता"
+  data: "आंकड़े"
+  do: "करना"
+  eta-equality: "ईटा-समानता"
+  field: "क्षेत्र"
+  forall: "सबके लिए"
+  hiding: "छिपाना"
+  import: "आयात"
+  in: "अंदर"
+  inductive: "अधिष्ठापन का"
+  infix: "इन्फ़िक्स"
   infixl: ""
   infixr: ""
-  instance: ""
-  let: ""
-  macro: ""
-  module: ""
-  mutual: ""
+  instance: "दृष्टांत"
+  let: "सोचना"
+  macro: "मैक्रो"
+  module: "मापांक"
+  mutual: "आपस का"
   no-eta-equality: ""
-  open: ""
-  overlap: ""
-  pattern: ""
-  postulate: ""
-  primitive: ""
-  private: ""
-  public: ""
-  quote: ""
+  open: "खुला"
+  overlap: "अधिव्यापन"
+  pattern: "प्रतिरूप"
+  postulate: "मांगना"
+  primitive: "प्राचीन"
+  private: "निजी"
+  public: "सार्वजनिक"
+  quote: "उद्धरण"
   quoteContext: ""
   quoteGoal: ""
   quoteTerm: ""
-  record: ""
-  renaming: ""
-  rewrite: ""
+  record: "अभिलेख"
+  renaming: "नाम बदलने"
+  rewrite: "पुनर्लेखन"
   Set: "" # can appear with a number suffix, optionally suffixed, make sure we account for this
-  syntax: ""
-  tactic: ""
+  syntax: "वाक्यविन्यास"
+  tactic: "रणनीति"
   unquote: ""
   unquoteDecl: ""
   unquoteDef: ""
-  using: ""
-  where: ""
-  with: ""
+  using: "का उपयोग करते हुए"
+  where: "कहां"
+  with: "साथ"
 
 # << Error Messages >>
 
@@ -98,49 +98,49 @@ language-abbreviation: "hi"
 # NOTE: https://www.amibroker.com/guide/a_language.html
 
 # << Keywords >>
-do: "करना" # (part of do-while statement)
-while: "जबकि"
-for: "के लिये"
-if: "अगर" # (part of if-else statement)
-else: "और" # (part of if-else statement)
-switch: "बदलना"
-break: "विराम" # (part of the switch statement or for/while statements)
-case: "स्थिति" # (part of the switch statement)
-continue: "जारी रखें" # (part of for/while statements)
-default: "डिफ़ॉल्ट" # (part of switch statement)
-function: "कार्य"
-procedure: "प्रक्रिया"
-return: "वापसी"
-local: "स्थानीय"
-global: "वैश्विक"
-static: "स्थिर"
-typeof: "प्रकार का"
-NOT: "नहीं"
-AND: "तथा"
-OR: "या"
-Null: "अमान्य"
+do: "करना" # (part of do-while statement) ✅ @bhaveshgoyal182
+while: "जबकि" ✅ @bhaveshgoyal182
+for: "के लिये" ✅ @bhaveshgoyal182
+if: "अगर" # (part of if-else statement) ✅ @bhaveshgoyal182
+else: "और" # (part of if-else statement) ✅ @bhaveshgoyal182
+switch: "बदलना" ✅ @bhaveshgoyal182
+break: "विराम" # (part of the switch statement or for/while statements) ✅ @bhaveshgoyal182
+case: "स्थिति" # (part of the switch statement) ✅ @bhaveshgoyal182
+continue: "जारी रखें" # (part of for/while statements) ✅ @bhaveshgoyal182
+default: "डिफ़ॉल्ट" # (part of switch statement) ❓ @bhaveshgoyal182 "अभाव"
+function: "कार्य" ✅ @bhaveshgoyal182
+procedure: "प्रक्रिया" ✅ @bhaveshgoyal182
+return: "वापसी" ✅ @bhaveshgoyal182
+local: "स्थानीय" ✅ @bhaveshgoyal182
+global: "वैश्विक" ✅ @bhaveshgoyal182
+static: "स्थिर" ✅ @bhaveshgoyal182
+typeof: "प्रकार का" ✅ @bhaveshgoyal182
+NOT: "नहीं" ✅ @bhaveshgoyal182
+AND: "तथा" ❓ @bhaveshgoyal182 "और"
+OR: "या" ✅ @bhaveshgoyal182
+Null: "अमान्य" ✅ @bhaveshgoyal182
 # << Error Messages >>
 
 # ----------------------
 # |   LANGUAGE: BASH   |
 # ----------------------
 # << Keywords >>
-case: "मामला"
-do: "करना"
-done: "किया हुआ"
-elif: "और अगर"
-else: "और"
-esac: "esac"
-fi: "fi"
-for: "के लिये"
-function: "कार्य"
-if: "अगर"
-in: "में"
-select: "चयन"
-then: "फिर"
-time: "समय"
-until: "जब तक"
-while: "जबकि"
+case: "मामला" ✅ @bhaveshgoyal182
+do: "करना" ✅ @bhaveshgoyal182
+done: "किया हुआ" ✅ @bhaveshgoyal182
+elif: "और अगर" ✅ @bhaveshgoyal182
+else: "और" ✅ @bhaveshgoyal182
+esac: "esac" ✅ @bhaveshgoyal182
+fi: "fi" ✅ @bhaveshgoyal182
+for: "के लिये" ✅ @bhaveshgoyal182
+function: "कार्य" ✅ @bhaveshgoyal182
+if: "अगर" ✅ @bhaveshgoyal182
+in: "में" ✅ @bhaveshgoyal182
+select: "चयन" ✅ @bhaveshgoyal182
+then: "फिर" ✅ @bhaveshgoyal182
+time: "समय" ✅ @bhaveshgoyal182
+until: "जब तक" ✅ @bhaveshgoyal182
+while: "जबकि" ✅ @bhaveshgoyal182
 
 # << Error Messages >>
 
@@ -148,38 +148,38 @@ while: "जबकि"
 # |   LANGUAGE: C      |
 # ----------------------
 # << Keywords >>
-auto: "स्वत:"
-double: "दोहरा"
-int: "पूर्णांक"
-struct: "संरचना"
-break: "विराम"
-else: "अन्य, और"
-long: "लंबा"
-switch: "स्विच"
-case: "स्थिति"
-enum: "गणना, परिगणना"
-register: "सूची, दर्ज करना"
-typedef: "परिभाषा का प्रकार"
-char: "अक्षर"
-extern: "extern"
-return: "वापस"
-union: "संयोजन"
-const: "अचल"
-float: "फ्लोट"
-short: "शोर्ट, छोटा"
-unsigned: "अहस्ताक्षरित"
-continue: "चालू रखना, जारी रखें"
-for: "के लिये"
-signed: "साइंड, पर हस्ताक्षर किए"
-void: "शून्य, रिक्त"
-default: "डिफ़ॉल्ट"
-goto: "इस पर चलें"
-sizeof: "का आकार"
-volatile: "परिवर्तनशील"
-do: "करना"
-if: "अगर"
-static: "स्थिर"
-while: "जबकि"
+auto: "स्वत:" ✅ @bhaveshgoyal182
+double: "दोहरा" ✅ @bhaveshgoyal182
+int: "पूर्णांक" 🤔 @bhaveshgoyal182
+struct: "संरचना" ✅ @bhaveshgoyal182
+break: "विराम" ❓  @bhaveshgoyal182 "तोड़ना"
+else: "अन्य, और" ✅ @bhaveshgoyal182
+long: "लंबा" ✅ @bhaveshgoyal182
+switch: "स्विच" ❓ @bhaveshgoyal182 "बदलना"
+case: "स्थिति" ❓ @bhaveshgoyal182 "मामला"
+enum: "गणना, परिगणना" ✅ @bhaveshgoyal182
+register: "सूची, दर्ज करना" ✅ @bhaveshgoyal182
+typedef: "परिभाषा का प्रकार" ✅ @bhaveshgoyal182
+char: "अक्षर" ✅ @bhaveshgoyal182
+extern: "extern" ✅ @bhaveshgoyal182
+return: "वापस" ✅ @bhaveshgoyal182
+union: "संयोजन" ✅ @bhaveshgoyal182
+const: "अचल" ✅ @bhaveshgoyal182
+float: "फ्लोट" ✅ @bhaveshgoyal182
+short: "शोर्ट, छोटा" ✅ @bhaveshgoyal182
+unsigned: "अहस्ताक्षरित" ✅ @bhaveshgoyal182
+continue: "चालू रखना, जारी रखें" ✅ @bhaveshgoyal182
+for: "के लिये" ✅ @bhaveshgoyal182
+signed: "साइंड, पर हस्ताक्षर किए" ✅ @bhaveshgoyal182
+void: "शून्य, रिक्त" ✅ @bhaveshgoyal182
+default: "डिफ़ॉल्ट" ✅ @bhaveshgoyal182
+goto: "इस पर चलें" ✅ @bhaveshgoyal182
+sizeof: "का आकार" ✅ @bhaveshgoyal182
+volatile: "परिवर्तनशील" ✅ @bhaveshgoyal182
+do: "करना" ✅ @bhaveshgoyal182
+if: "अगर" ✅ @bhaveshgoyal182
+static: "स्थिर" ✅ @bhaveshgoyal182
+while: "जबकि" ✅ @bhaveshgoyal182
 
 # << Error Messages >>
 
@@ -188,113 +188,113 @@ while: "जबकि"
 # ----------------------
 # << Keywords >>
 
-#define: "परिभाषित"
-#defined: "परिभाषित"
-#else if: "और अगर"
-#else: "और, अन्य"
-#endif: "अगर अंत"
-#error: "त्रुटि"
-#if: "अगर"
-#ifdef: "अगर परिभाषित किया गया है"
-#ifndef: "यदि अपरिभाषित है"
-#include: "शामिल, मिला हुआ"
-#line: "लाइन"
-#pragma: "pragma"
-#undef: "अपरिभाषित"
-alignas: "के रूप में संरेखित करें"
-alignof: "के संरेखित करें"
-and: "तथा"
-and_eq: "और बराबर"
-asm: "asm"
-atomic_cancel: "atomic_cancel" 
-atomic_commit: "atomic_commit"
-atomic_noexcept: "atomic_noexcept" 
-auto: "स्वत:"
-bitand: "बिटएंड"
-bitor: "बिटोर"
-bool: "बूल"
-break: "विराम"
-case: "स्थित"
-catch: "पकड़ना"
-char: "चार"
+#define: "परिभाषित" ✅ @bhaveshgoyal182
+#defined: "परिभाषित" ✅ @bhaveshgoyal182
+#else if: "और अगर" ✅ @bhaveshgoyal182
+#else: "और, अन्य" ✅ @bhaveshgoyal182
+#endif: "अगर अंत" ✅ @bhaveshgoyal182
+#error: "त्रुटि" ✅ @bhaveshgoyal182
+#if: "अगर"✅ @bhaveshgoyal182
+#ifdef: "अगर परिभाषित किया गया है"✅ @bhaveshgoyal182
+#ifndef: "यदि अपरिभाषित है"✅ @bhaveshgoyal182
+#include: "शामिल, मिला हुआ"✅ @bhaveshgoyal182
+#line: "लाइन"✅ @bhaveshgoyal182
+#pragma: "pragma"✅ @bhaveshgoyal182
+#undef: "अपरिभाषित"✅ @bhaveshgoyal182
+alignas: "के रूप में संरेखित करें" ✅ @bhaveshgoyal182
+alignof: "के संरेखित करें" ✅ @bhaveshgoyal182
+and: "तथा" ✅ @bhaveshgoyal182
+and_eq: "और बराबर" ✅ @bhaveshgoyal182
+asm: "asm" ✅ @bhaveshgoyal182
+atomic_cancel: "atomic_cancel" ✅ @bhaveshgoyal182
+atomic_commit: "atomic_commit" ✅ @bhaveshgoyal182
+atomic_noexcept: "atomic_noexcept" ✅ @bhaveshgoyal182
+auto: "स्वत:" ✅ @bhaveshgoyal182
+bitand: "बिटएंड" ✅ @bhaveshgoyal182
+bitor: "बिटोर" ✅ @bhaveshgoyal182
+bool: "बूल" ✅ @bhaveshgoyal182
+break: "विराम"✅ @bhaveshgoyal182
+case: "स्थित" ✅ @bhaveshgoyal182
+catch: "पकड़ना" ✅ @bhaveshgoyal182
+char: "चार" ❓ @bhaveshgoyal182 "शब्द"
 char16_t: "char16_t"
 char32_t: "char32_t"
-class: "वर्ग, कक्षा"
-compl: "compl" 
-concept: "संकल्पना"
-const: "अचल, स्थिर"
-constexpr: "अचल अभिव्यक्ति"
-const_cast: "कंस्ट्कास्ट "
-continue: "जारी रखें"
-decltype: "घोषणा प्रकार"
-default: "डिफॉल्ट"
-delete: "मिटाना"
-do: "करना"
-double: "डबल"
-dynamic_cast: "डायनामिक कास्ट"
-else: "अन्य"
-enum: "परिगणना, गणना"
-explicit: "स्पष्ट, मुखर"
-export: "निर्यात"
-extern: "बाहरी"
-false: "असत्य"
-final: "अंतिम"
-float: "फ्लोट"
-for: "के लिये"
-friend: "मित्र"
-goto: ""
-if: ""
-inline: ""
+class: "वर्ग, कक्षा" ✅ @bhaveshgoyal182
+compl: "compl"  ✅ @bhaveshgoyal182
+concept: "संकल्पना" ✅ @bhaveshgoyal182
+const: "अचल, स्थिर" ✅ @bhaveshgoyal182
+constexpr: "अचल अभिव्यक्ति" ✅ @bhaveshgoyal182
+const_cast: "कंस्ट्कास्ट " ✅ @bhaveshgoyal182
+continue: "जारी रखें" ✅ @bhaveshgoyal182
+decltype: "घोषणा प्रकार" ✅ @bhaveshgoyal182
+default: "डिफॉल्ट" ❓ @bhaveshgoyal182 "अभाव" # not of anytype
+delete: "मिटाना" ✅ @bhaveshgoyal182
+do: "करना" ✅ @bhaveshgoyal182
+double: "डबल" ✅ @bhaveshgoyal182
+dynamic_cast: "डायनामिक कास्ट" ✅ @bhaveshgoyal182
+else: "अन्य" ✅ @bhaveshgoyal182
+enum: "परिगणना, गणना" ✅ @bhaveshgoyal182
+explicit: "स्पष्ट, मुखर" ✅ @bhaveshgoyal182
+export: "निर्यात" ✅ @bhaveshgoyal182
+extern: "बाहरी" ✅ @bhaveshgoyal182
+false: "असत्य" ✅ @bhaveshgoyal182
+final: "अंतिम" ✅ @bhaveshgoyal182
+float: "फ्लोट" ✅ @bhaveshgoyal182
+for: "के लिये" ✅ @bhaveshgoyal182
+friend: "मित्र" ✅ @bhaveshgoyal182
+goto: "इस पर चलें"
+if: "अगर"
+inline: "इनलाइन"
 int: ""
-import: ""
+import: "आयात"
 long: ""
-module: ""
-mutable: ""
-namespace: ""
-new: ""
+module: "मापांक"
+mutable: "परिवर्तनशील"
+namespace: "नाम स्थान"
+new: "नया"
 noexcept: ""
-not: ""
+not: "नहीं"
 not_eq: ""
 nullptr: ""
 operator: ""
-or: ""
+or: "या"
 or_eq: ""
-override: ""
-private: ""
-protected: ""
-public: ""
-register: ""
+override: "अवहेलना"
+private: "निजी"
+protected: "संरक्षित"
+public: "सार्वजनिक"
+register: "पंजी"
 reinterpret_cast: ""
-requires: ""
-return: ""
+requires: "आवश्यक है"
+return: "वापसी"
 short: ""
-signed: ""
-sizeof: ""
-static: ""
+signed: "पर हस्ताक्षर किए"
+sizeof: "का आकार"
+static: "स्थिर"
 static_assert: ""
 static_cast: ""
 struct: ""
-switch: ""
-synchronized: ""
-template: ""
-this: ""
+switch: "बदलना"
+synchronized: "बदलना"
+template: "नमूना"
+this: "यह"
 thread_local: ""
-throw: ""
-transaction_safe: ""
-transaction_safe_dynamic: ""
-true: ""
-try: ""
+throw: "फेंकना"
+transaction_safe: "लेन-देन सुरक्षित"
+transaction_safe_dynamic: "लेनदेन सुरक्षित गतिशील"
+true: "सच"
+try: "प्रयत्न"
 typedef: ""
 typeid: ""
 typename: ""
-union: ""
-unsigned: ""
-using: ""
-virtual: ""
-void: ""
-volatile: ""
+union: "संघ"
+unsigned: "अहस्ताक्षरित"
+using: "का उपयोग करते हुए"
+virtual: "आभासी"
+void: "शून्यता"
+volatile: "परिवर्तनशील"
 wchar_t: ""
-while: ""
+while: "जब तक"
 xor: ""
 xor_eq: ""
 
