@@ -13,30 +13,30 @@ language-abbreviation: "hi"
 # << Keywords >>
 # NOTE: All keywords are capitalized for Atom because it is used for
 # key information found in comments within the editor
-  NOTE: "टिप्पणी" ✅ @bhaveshgoyal182 
-  INFO: "जानकारी" ✅ @bhaveshgoyal182
-  IDEA: "विचार" ✅ @bhaveshgoyal182
-  DEBUG: "दोषमार्जन" ❓ @bhaveshgoyal182 "डीबग"
-  REMOVE: "हटाना" ✅ @bhaveshgoyal182 
-  OPTIMIZE: "अनुकूलन" ❓ @bhaveshgoyal182 "सुधारना"
-  REVIEW: "समीक्षा" ✅ @bhaveshgoyal182
-  HACK: "हैक" ❓ @bhaveshgoyal182 "आसान तरीका"
-  UNDONE: "पूर्ववत" ❓ @bhaveshgoyal182 "न किया हुआ"
-  TODO: "करने के लिए" ✅ @bhaveshgoyal182
-  REFACTOR: "रेफेक्टर" ✅ @bhaveshgoyal182
-  DEPRECATED: "बहिष्कृत किया गया" ✅ @bhaveshgoyal182
-  TASK: "कार्य" ✅ @bhaveshgoyal182
-  CHGME: "CHGME" ✅ @bhaveshgoyal182
-  NOTREACHED: "नहीं पहुँचा" ✅ @bhaveshgoyal182
-  WTF: "WTF" ❓ @bhaveshgoyal182 "बेहूदा"
-  BUG: "प्रोग्राम में त्रुटि, दोष" ✅ @bhaveshgoyal182
-  ERROR: "त्रुटि" ✅ @bhaveshgoyal182
-  OMG: "OMG" ❓ @bhaveshgoyal182 "हे भगवान"
-  ERR: "ERR" ❓ @bhaveshgoyal182 "त्रुटि"
-  OMFGRLY: "OMFGRLY" 🤔 @bhaveshgoyal182
-  WARNING: "चेतावनी" ✅ @bhaveshgoyal182
-  WARN: "चेतावनी देना" ✅ @bhaveshgoyal182
-  BROKEN: "टूटा हुआ" ✅ @bhaveshgoyal182
+  NOTE: "टिप्पणी" ✅ @bhaveshgoyal182 #✅ @sshiv5768 
+  INFO: "जानकारी" ✅ @bhaveshgoyal182 #✅ @sshiv5768 
+  IDEA: "विचार" ✅ @bhaveshgoyal182 # ✅ @sshiv5768 
+  DEBUG: "दोषमार्जन" ❓ @bhaveshgoyal182 "डीबग" # ❓ @sshiv5768 "डीबग करें"
+  REMOVE: "हटाना" ✅ @bhaveshgoyal182 # ✅ @sshiv5768 
+  OPTIMIZE: "अनुकूलन" ❓ @bhaveshgoyal182 "सुधारना" # ❓ @sshiv5768 "सुधारना"
+  REVIEW: "समीक्षा" ✅ @bhaveshgoyal182 # ✅ @sshiv5768
+  HACK: "हैक" ❓ @bhaveshgoyal182 "आसान तरीका" # ✅ @sshiv5768
+  UNDONE: "पूर्ववत" ❓ @bhaveshgoyal182 "न किया हुआ" # ❓ @sshiv5768 "असंपादित"
+  TODO: "करने के लिए" ✅ @bhaveshgoyal182 # ✅ @sshiv5768
+  REFACTOR: "रेफेक्टर" ✅ @bhaveshgoyal182 # ✅ @sshiv5768
+  DEPRECATED: "बहिष्कृत किया गया" ✅ @bhaveshgoyal182 #❓ @sshiv5768 "बहिष्कृत करना"
+  TASK: "कार्य" ✅ @bhaveshgoyal182 # ✅ @sshiv5768
+  CHGME: "CHGME" ✅ @bhaveshgoyal182 # ✅ @sshiv5768
+  NOTREACHED: "नहीं पहुँचा" ✅ @bhaveshgoyal182 #✅ @sshiv5768
+  WTF: "WTF" ❓ @bhaveshgoyal182 "बेहूदा" # ✅ @sshiv5768 Original word looks more programmic
+  BUG: "प्रोग्राम में त्रुटि, दोष" ✅ @bhaveshgoyal182 #✅ @sshiv5768 "प्रोग्राम में त्रुटि, दोष"
+  ERROR: "त्रुटि" ✅ @bhaveshgoyal182 # ✅ @sshiv5768
+  OMG: "OMG" ❓ @bhaveshgoyal182 "हे भगवान" #✅ @sshiv5768 Original word suits way better rather than full form tranlation of OMG word
+  ERR: "ERR" ❓ @bhaveshgoyal182 "त्रुटि" #❓ @sshiv5768 "त्रुटि"
+  OMFGRLY: "OMFGRLY" 🤔 @bhaveshgoyal182 # ✅ @sshiv5768 Original word looks more programmic
+  WARNING: "चेतावनी" ✅ @bhaveshgoyal182 #✅ @sshiv5768
+  WARN: "चेतावनी देना" ✅ @bhaveshgoyal182 #✅ @sshiv5768
+  BROKEN: "टूटा हुआ" ✅ @bhaveshgoyal182 # ❓ @sshiv5768 "टूटा"
 
 # ----------------------
 # |   LANGUAGE: AGDA   |
