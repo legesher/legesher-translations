@@ -1248,41 +1248,41 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: "తప్పు"
-  None: "ఏదీ లేదు"
-  True: "నిజం"
-  and: "మరియు"
-  as: "గా"
-  assert: "నొక్కి చెప్పండి"
+  False: "తప్పు" # ❓ May be a better translation is required. Although the translation is correct, when it comes to programming it might not be correct. అసత్యం can be considered.
+  None: "ఏదీ లేదు" # ✅
+  True: "నిజం" # ✅
+  and: "మరియు" # ✅
+  as: "గా" # ✅
+  assert: "నొక్కి చెప్పండి" # ❓ May be a better translation is required. కచ్చితంగా can be considered in programming perscpective.
   async: ""
-  await: "వేచిఉండు"
-  break: ""
-  class: "తరగతి"
-  continue: "కొనసాగించు"
-  def: "వివరణ"
-  del: "తొలగించు"
-  elif: "లేకుంటే"
-  else: "లేకపోతే"
-  except: "ఇది తప్ప"
-  finally: "చివరకు"
-  for: ""
-  from: "నుండి"
-  global:  "ప్రపంచ"
-  if: "అయితే"
-  import: "దిగుమతి"
-  in: "లో"
-  is: "ఉంది"
-  lambda: "లాంబ్డా"
+  await: "వేచిఉండు" # ✅
+  break: "బయటకి వచ్చుట" # ❓ May be considered as better translation in programming perscpective. 
+  class: "తరగతి" # ✅
+  continue: "కొనసాగించు" # ✅
+  def: "వివరణ" # ✅
+  del: "తొలగించు" # ✅
+  elif: "లేకుంటే" # ✅
+  else: "లేకపోతే" # ✅
+  except: "ఇది తప్ప" # ✅
+  finally: "చివరకు" # ✅
+  for: "దానికోసం" # ❓ May be considered as better translation in programming perscpective.
+  from: "నుండి" # ✅
+  global:  "ప్రపంచ" # ✅
+  if: "అయితే" # ✅
+  import: "దిగుమతి" # ✅
+  in: "లో" # ✅
+  is: "ఉంది" # ✅
+  lambda: "లాంబ్డా" # ✅ This is true translation of word; Although we cannot translate this word.
   nonlocal: ""
-  not: "లేదు"
-  or: "లేదా"
-  pass: "పాస్"
-  raise: "పెంచండి"
-  return: "తిరిగి వచ్చు"
-  try: "ప్రయత్నించండి"
-  while: "అయితే"
-  with: "తో"
-  yield: "లభించు"
+  not: "లేదు" # ✅
+  or: "లేదా" # ✅
+  pass: "పాస్" # ❓ Here true translation is written, there is an better alternative, that's అందించుట. 
+  raise: "పెంచండి" # ✅
+  return: "తిరిగి వచ్చు" # ❓ జవాబు ఇచ్చు, బయటకి వచ్చుట may be considered as better translations depending upon the usage(return some value or come out of the loop/if condition).
+  try: "ప్రయత్నించండి" # ✅
+  while: "అయితే" # ✅
+  with: "తో" # ✅
+  yield: "లభించు" # ❓ May be a better translation is required.
 
 # << Built-In Functions >>
 
