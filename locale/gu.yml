@@ -1248,41 +1248,41 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-False: "ખોટું" # ✅
-None: "કંઈ નહીં" # ✅
-True: "સાચું" # ✅
-and: "અને" # ✅
-as: "જેમ કે" # ❓ My suggestion: "તરીકે" 
-assert: "દાવો" # ✅
-async: "async" # ❓ My suggestion: "અસુમેળ"
-await: "રાહ જોવી" # ✅
-break: "વિરામ" # ❓ My suggestion: "તોડવું" is better for ending a loop
-class: "વર્ગ" # ✅
-continue: "ચાલુ રાખો" # ✅
-def: "Def" # ❓ My suggestion: "વ્યાખ્યા કરવી" is better for defining a function.
-del: "ડેલ" # ❓ My suggestion: "કાઢી નાખવું". "ડેલ is phonetic translation.
-elif: "એલિફ" # ❓ My suggestion: "અન્યથા જો"
-else: "બીજું" # 🤔 I think "નહિતો" looks perfect.
-except: "સિવાય" # ✅
-finally: "છેવટે" # ✅
-for: "માટે" # ✅
-from: "માંથી" # ✅
-global: "વૈશ્વિક" # ✅
-if: "જો" # ✅
-import: "આયાત કરો" # ✅
-in: "માં" # ✅
-is: "છે" # ✅
-lambda: "લેમ્બડા" # ✅
-nonlocal: "નોનલોકલ" # 🤔 I think "બિન સ્થાનિક" would be more suitable. "નોનલોકલ" is phonetic translation.
-not: "નથી" #  ✅
-or: "અથવા" #  ✅
-pass: "પસાર" # ❓ My suggestion: "પાસ"
-raise: "વધારો" # ❓ My suggestion: "ઊભું કરવું" is more suitable whenever we use try-except for error handling in Python. 
-return: "પાછા" #  ✅
-try: "પ્રયાસ કરો" #  ✅
-while: "જ્યારે" # ❓ My suggestion: "જ્યાં સુધી" is perfect because we use while as a loop.
-with: "સાથે" # ✅
-yield: "ઉપજ" # ✅
+False: "ખોટું" # ✅ # ✅ @136tejas
+None: "કંઈ નહીં" # ✅ # ✅ @136tejas
+True: "સાચું" # ✅ # ✅ @136tejas
+and: "અને" # ✅ # ✅ @136tejas
+as: "જેમ કે" # ❓ My suggestion: "તરીકે" # ✅ @136tejas "તરીકે" and "જેમ કે" both translations are true. 
+assert: "દાવો" # ✅ # ✅ @136tejas
+async: "async" # ❓ My suggestion: "અસુમેળ" # ❓ @136tejas "અસુમેળ" is better translation.
+await: "રાહ જોવી" # ✅ # ✅ @136tejas
+break: "વિરામ" # ❓ My suggestion: "તોડવું" is better for ending a loop # ❓ @136tejas "તોડવું"
+class: "વર્ગ" # ✅ # ✅ @136tejas 
+continue: "ચાલુ રાખો" # ✅ # ✅ @136tejas
+def: "Def" # ❓ My suggestion: "વ્યાખ્યા કરવી" is better for defining a function. # ❓ @136tejas "વ્યાખ્યાયીત કરવું" 
+del: "ડેલ" # ❓ My suggestion: "કાઢી નાખવું". "ડેલ is phonetic translation. # ❓ @136tejas "કાઢી નાખવું"
+elif: "એલિફ" # ❓ My suggestion: "અન્યથા જો" # ❓ @136tejas "બીજું જો" and "અન્યથા જો" both translations are true. 
+else: "બીજું" # 🤔 I think "નહિતો" looks perfect. # ❓ @136tejas "નહિતો"  
+except: "સિવાય" # ✅ # ✅ @136tejas 
+finally: "છેવટે" # ✅ # ✅ @136tejas
+for: "માટે" # ✅ # ✅ @136tejas
+from: "માંથી" # ✅ # ✅ @136tejas
+global: "વૈશ્વિક" # ✅ # ✅ @136tejas
+if: "જો" # ✅ # ✅ @136tejas
+import: "આયાત કરો" # ✅ # ✅ @136tejas
+in: "માં" # ✅ # ✅ @136tejas
+is: "છે" # ✅ # ✅ @136tejas
+lambda: "લેમ્બડા" # ✅ # ✅ @136tejas
+nonlocal: "નોનલોકલ" # 🤔 I think "બિન સ્થાનિક" would be more suitable. "નોનલોકલ" is phonetic translation. # ❓ @136tejas "સ્થાનિક નહીં" and "બિન સ્થાનિક" both are suitable for nonlocal.
+not: "નથી" #  ✅ # ❓ @136tejas "નહીં" is more suitable.  
+or: "અથવા" #  ✅ # ✅ @136tejas 
+pass: "પસાર" # ❓ My suggestion: "પાસ" # 🤔 @136tejas
+raise: "વધારો" # ❓ My suggestion: "ઊભું કરવું" is more suitable whenever we use try-except for error handling in Python. # 🤔 @136tejas 
+return: "પાછા" #  ✅ #  ✅ @136tejas 
+try: "પ્રયાસ કરો" #  ✅ #  ✅ @136tejas
+while: "જ્યારે" # ❓ My suggestion: "જ્યાં સુધી" is perfect because we use while as a loop. # ❓ @136tejas "જ્યાં સુધી"
+with: "સાથે" # ✅ # ✅ @136tejas 
+yield: "ઉપજ" # ✅ # ✅ @136tejas
 
 # << Built-In Functions >>
 
