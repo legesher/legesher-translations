@@ -43,7 +43,7 @@ language-abbreviation: "hi"
 # ----------------------
 # NOTE: https://agda.readthedocs.io/en/v2.5.4.2/index.html
 # << Keywords >>
-  abstract: "सार" 
+  abstract: "सार", # ✅ @sshiv5768 
   codata: "दत्त-सामग्री"
   coinductive: "सहगामी"
   constructor: "निर्माता"
