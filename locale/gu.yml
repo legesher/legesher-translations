@@ -13,37 +13,37 @@ language-abbreviation: "gu"
 # << Keywords >>
 # NOTE: All keywords are capitalized for Atom because it is used for
 # key information found in comments within the editor
-  NOTE: ""
-  INFO: ""
-  IDEA: ""
+  NOTE: "નોંધ"
+  INFO: "માહિતી"
+  IDEA: "વિચાર"
   DEBUG: ""
-  REMOVE: ""
+  REMOVE: "દૂર કરવું"
   OPTIMIZE: ""
-  REVIEW: ""
+  REVIEW: "સમીક્ષા"
   HACK: ""
-  UNDONE: ""
-  TODO: ""
+  UNDONE: "પૂર્ણ ના થવું"
+  TODO: "આ  કરવું"
   REFACTOR: ""
-  DEPRECATED: ""
-  TASK: ""
+  DEPRECATED: "નાપસંદ"
+  TASK: "કાર્ય"
   CHGME: ""
-  NOTREACHED: ""
-  WTF: ""
-  BUG: ""
-  ERROR: ""
-  OMG: ""
+  NOTREACHED: "સુધી પહોંચ્યું નથી"
+  WTF: "અશબ્દ"
+  BUG: "ભૂલ"
+  ERROR: "ભૂલ"
+  OMG: "હે રામ"
   ERR: ""
   OMFGRLY: ""
-  WARNING: ""
-  WARN: ""
-  BROKEN: ""
+  WARNING: "ચેતવણી"
+  WARN: "ચેતવણી આપવી"
+  BROKEN: "તૂટેલું"
 
 # ----------------------
 # |   LANGUAGE: AGDA   |
 # ----------------------
 # NOTE: https://agda.readthedocs.io/en/v2.5.4.2/index.html
 # << Keywords >>
-  abstract: ""
+  abstract: "સાર"
   codata: ""
   coinductive: ""
   constructor: ""
@@ -98,27 +98,27 @@ language-abbreviation: "gu"
 # NOTE: https://www.amibroker.com/guide/a_language.html
 
 # << Keywords >>
-do: "" # (part of do-while statement)
-while: ""
-for: ""
-if: "" # (part of if-else statement)
-else: "" # (part of if-else statement)
+do: "કરવું" # (part of do-while statement)
+while: "જ્યારે"
+for: "માટે"
+if: "જો" # (part of if-else statement)
+else: "નહિ તો" # (part of if-else statement)
 switch: ""
-break: "" # (part of the switch statement or for/while statements)
-case: "" # (part of the switch statement)
-continue: "" # (part of for/while statements)
-default: "" # (part of switch statement)
-function: ""
-procedure: ""
-return: ""
-local: ""
-global: ""
+break: "વિરામ" # (part of the switch statement or for/while statements)
+case: "બાબત" # (part of the switch statement)
+continue: "ચાલુ રાખવું" # (part of for/while statements)
+default: "મૂળભૂત" # (part of switch statement)
+function: "કાર્ય"
+procedure: "પ્રક્રિયા"
+return: "પાછું આપવું"
+local: "સ્થાનિક"
+global: "વૈશ્વિક"
 static: ""
-typeof: ""
-NOT: ""
-AND: ""
-OR: ""
-Null: ""
+typeof: "પ્રકાર"
+NOT: "નથી"
+AND: "અને"
+OR: "અથવા"
+Null: "ખાલી"
 # << Error Messages >>
 
 # ----------------------
