@@ -7,36 +7,37 @@
 # NOTE: "language-abbreviation"
 language-abbreviation: "uk"
 
+
 # ----------------------
 # |    SYSTEM: ATOM    |
 # ----------------------
 # << Keywords >>
 # NOTE: All keywords are capitalized for Atom because it is used for
 # key information found in comments within the editor
-  NOTE: "ПРИМІТКА"
-  INFO: "ІНФО"
-  IDEA: "ІДЕЯ"
-  DEBUG: "ВІДЛАГОДЖУВАТИ"
-  REMOVE: "ВИДАЛИТИ"
-  OPTIMIZE: "ОПТИМІЗУВАТИ"
-  REVIEW: "ОГЛЯД"
-  HACK: "ВЗЛАМАТИ"
-  UNDONE: "НЕВИКОНАНО"
-  TODO: "ВИКОНАТИ"
-  REFACTOR: "РЕФАКТОР"
-  DEPRECATED: "ВИВЕДЕНИЙЗЛАДУ"
-  TASK: "ЗАВДАННЯ"
-  CHGME: "CHGME"
-  NOTREACHED: "НЕДОСЯГАЙМИЙ"
-  WTF: "WTF"
-  BUG: "БАГ"
-  ERROR: "ПОМИЛКА"
-  OMG: "OMG"
-  ERR: "ПОМИЛКА"
-  OMFGRLY: "OMFGRLY"
-  WARNING: "УВАГА"
-  WARN: "ПОПЕРЕДИТИ"
-  BROKEN: "ЗЛАМАНИЙ"
+  NOTE: "ПРИМІТКА"✅ 
+  INFO: "ІНФО"❓[another possible translation: "ІНФОРМАЦІЯ"]
+  IDEA: "ІДЕЯ"✅ 
+  DEBUG: "ВІДЛАГОДЖУВАТИ"✅ 
+  REMOVE: "ВИДАЛИТИ"✅ 
+  OPTIMIZE: "ОПТИМІЗУВАТИ"✅ 
+  REVIEW: "ОГЛЯД"✅ 
+  HACK: "ВЗЛАМАТИ"✅ 
+  UNDONE: "НЕВИКОНАНО"✅ 
+  TODO: "ВИКОНАТИ"✅ 
+  REFACTOR: "РЕФАКТОР"✅ 
+  DEPRECATED: "ВИВЕДЕНИЙЗЛАДУ"❓[another possible translation: "ЗАСТАРІЛИЙ"]
+  TASK: "ЗАВДАННЯ"✅ 
+  CHGME: "CHGME"🤔
+  NOTREACHED: "НЕДОСЯГАЙМИЙ"❓[a more proper form of translation: "НЕДОСЯЖНИЙ"/"ПОЗА ВИДИМІСТЮ"]
+  WTF: "WTF"🤔
+  BUG: "БАГ"✅ 
+  ERROR: "ПОМИЛКА"✅ 
+  OMG: "OMG"🤔
+  ERR: "ПОМИЛКА"✅ 
+  OMFGRLY: "OMFGRLY"🤔
+  WARNING: "УВАГА"✅
+  WARN: "ПОПЕРЕДИТИ"✅ 
+  BROKEN: "ЗЛАМАНИЙ"✅ 
 # ----------------------
 # |   LANGUAGE: AGDA   |
 # ----------------------
