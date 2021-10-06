@@ -24,7 +24,7 @@
     <!-- <a href="https://github.com/legesher/legesher-translations/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/legesher/legesher-translations?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
-        <img src="https://img.shields.io/badge/all_contributors-76-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/all_contributors-81-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://github.com/sponsors/madiedgar" alt="Sponsors on Github">
         <img src="https://img.shields.io/badge/sponsor-@madiedgar-black?style=flat-square&color=f58977&labelColor=black" /></a>
 
@@ -253,13 +253,14 @@ Meet our [community](https://legesher.io/community) (full of contributors, backe
     <td align="center"><a href="https://shrill-shrestha-portfolio.herokuapp.com/"><img src="https://avatars.githubusercontent.com/u/43284212?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shrill Shrestha</b></sub></a><br /><a href="#translation-ShrillShrestha" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Gal-Gilor"><img src="https://avatars.githubusercontent.com/u/25570697?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gal Gilor</b></sub></a><br /><a href="#translation-Gal-Gilor" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Nidhir2k1"><img src="https://avatars.githubusercontent.com/u/85235804?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nidhir Bhatt</b></sub></a><br /><a href="#translation-Nidhir2k1" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/136tejas"><img src="https://avatars.githubusercontent.com/u/82590387?v=4?s=100" width="100px;" alt=""/><br /><sub><b>136tejas</b></sub></a><br /><a href="#translation-136tejas" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/136tejas"><img src="https://avatars.githubusercontent.com/u/82590387?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tejas Tank</b></sub></a><br /><a href="#translation-136tejas" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Takane42"><img src="https://avatars.githubusercontent.com/u/29156066?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alif Naufal Ilyas</b></sub></a><br /><a href="#translation-Takane42" title="Translation">🌍</a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/OussamaSALAHOUELHADJ"><img src="https://avatars.githubusercontent.com/u/55297866?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Oussama SALAHOUELHADJ</b></sub></a><br /><a href="#translation-OussamaSALAHOUELHADJ" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/bhaveshgoyal182"><img src="https://avatars.githubusercontent.com/u/60166991?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bhavesh Goyal</b></sub></a><br /><a href="#translation-bhaveshgoyal182" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/manojkrishnak"><img src="https://avatars.githubusercontent.com/u/28722629?v=4?s=100" width="100px;" alt=""/><br /><sub><b>manojkrishnak</b></sub></a><br /><a href="#translation-manojkrishnak" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/milafreckled"><img src="https://avatars.githubusercontent.com/u/60186181?v=4?s=100" width="100px;" alt=""/><br /><sub><b>milafreckled</b></sub></a><br /><a href="#translation-milafreckled" title="Translation">🌍</a></td>
   </tr>
 </table>
 
