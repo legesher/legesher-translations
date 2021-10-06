@@ -256,6 +256,9 @@ Meet our [community](https://legesher.io/community) (full of contributors, backe
     <td align="center"><a href="https://github.com/136tejas"><img src="https://avatars.githubusercontent.com/u/82590387?v=4?s=100" width="100px;" alt=""/><br /><sub><b>136tejas</b></sub></a><br /><a href="#translation-136tejas" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Takane42"><img src="https://avatars.githubusercontent.com/u/29156066?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alif Naufal Ilyas</b></sub></a><br /><a href="#translation-Takane42" title="Translation">🌍</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/OussamaSALAHOUELHADJ"><img src="https://avatars.githubusercontent.com/u/55297866?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Oussama SALAHOUELHADJ</b></sub></a><br /><a href="#translation-OussamaSALAHOUELHADJ" title="Translation">🌍</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
