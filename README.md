@@ -95,11 +95,11 @@ We are actively working on adding as many written languages as we can for versio
 - [Welsh (cy)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Welsh")
 - [Xhosa (xh)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Xhosa")
 
-_📢 If your native language is not available in the Legesher translation repository, we'd love your help to add it!!_
+_📢 If your native language is not available in the Legesher translation repository, we'd love your help to add it!! Create an issue using the "🌏 Add New Dialect" template._
 
 # Contributing
 
-❤️Legesher relies on the passionate members of its community (both developer and non-developer alike) to keep delivering impactful tools to people all over the world.
+❤️ Legesher relies on the passionate members of its community (both developer and non-developer alike) to keep delivering impactful tools to people all over the world.
 
 Before contributing, be sure to consult Legesher's [contribution guidelines](https://docs.legesher.io/the-official-things/contributing-guidelines) and [language conventions](https://docs.legesher.io/legesher-translations/translation-conventions). As a member of our community, you must abide by our [Code Of Conduct](https://docs.legesher.io/the-official-things/code-of-conduct).
 
@@ -261,6 +261,7 @@ Meet our [community](https://legesher.io/community) (full of contributors, backe
     <td align="center"><a href="https://github.com/bhaveshgoyal182"><img src="https://avatars.githubusercontent.com/u/60166991?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bhavesh Goyal</b></sub></a><br /><a href="#translation-bhaveshgoyal182" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/manojkrishnak"><img src="https://avatars.githubusercontent.com/u/28722629?v=4?s=100" width="100px;" alt=""/><br /><sub><b>manojkrishnak</b></sub></a><br /><a href="#translation-manojkrishnak" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/milafreckled"><img src="https://avatars.githubusercontent.com/u/60186181?v=4?s=100" width="100px;" alt=""/><br /><sub><b>milafreckled</b></sub></a><br /><a href="#translation-milafreckled" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/179priyasoni"><img src="https://avatars.githubusercontent.com/u/85613611?v=4?s=100" width="100px;" alt=""/><br /><sub><b>179priyasoni</b></sub></a><br /><a href="#translation-179priyasoni" title="Translation">🌍</a></td>
   </tr>
 </table>
 
