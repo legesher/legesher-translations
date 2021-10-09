@@ -1248,113 +1248,113 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: "Salah" # ✅ @Wrth1, ✅ @Takane42
-  None: "Kosong" # ✅ @Wrth1, ✅ @Takane42
-  True: "Benar" # ✅ @Wrth1, ✅ @Takane42
-  and: "dan" # ✅ @Wrth1, ✅ @Takane42
-  as: "sebagai" # ✅ @Wrth1, ✅ @Takane42
-  assert: "menyatakan" # ❓ @Wrth1 "pastikan", ✅@Takane42
-  async: "asinkron" # ✅ @Wrth1, ✅ @Takane42
-  await: "menunggu" # ❓ @Wrth1 "tunggu", ✅ @Takane42
-  break: "hentikan" # ❓ @Wrth1 "berhenti" atau "henti" karena terjemahan continue juga tidak memiliki 'kan', ❓@Takane42 Berhenti
-  class: "kelas" # ✅ @Wrth1, 🤔 @Takane42
-  continue: "lanjut" # ✅ @Wrth1, ✅ @Takane42
-  def: "menetapkan" # ❓ @Wrth1 "tetapkan", ❓ @Takane42 "tetapkan"
-  del: "hapus" # ✅ @Wrth1, ✅ @Takane42
-  elif: "lainnya jika" # ✅ @Wrth1, ✅ @Takane42
-  else: "lainnya" # ✅ @Wrth1, ✅ @Takane42
-  except: "kecuali" # ✅ @Wrth1, ✅ @Takane42
-  finally: "akhir" # ❓ @Wrth1 "akhirnya" ada ly nya, ❓ @Takane42 "Akhirnya" bener kata @Wrth1
-  for: "untuk" # ✅ @Wrth1, ✅ @Takane42
-  from: "dari" # ✅ @Wrth1, ✅ @Takane42
-  global:  "global" # ✅ @Wrth1, ✅ @Takane42
-  if: "jika" # ✅ @Wrth1, ✅ @Takane42
-  import: "impor" # ✅ @Wrth1, ✅ @Takane42
-  in: "dalam" # ✅ @Wrth1, ✅ @Takane42
-  is: "adalah" # ✅ @Wrth1, ✅ @Takane42
-  lambda: "lambda" # ✅ @Wrth1, ✅ @Takane42
-  nonlocal: "non lokal" # ✅ @Wrth1, ✅ @Takane42
-  not: "tidak" # ✅ @Wrth1, ✅ @Takane42
-  or: "atau" # ✅ @Wrth1, ✅ @Takane42
-  pass: "lewati" # ✅ @Wrth1, ❓ @Takane42 ini bisa "Lewati" atau "oke"
-  raise: "angkat" # ✅ @Wrth1, ✅ @Takane42
-  return: "kembali" # ✅ @Wrth1, ✅ @Takane42
-  try: "coba" # ✅ @Wrth1, ✅ @Takane42
-  while: "selama" # ✅ @Wrth1, ✅ @Takane42
-  with: "dengan" # ✅ @Wrth1, ✅ @Takane42
-  yield: "hasil" # ❓ @Wrth1 "hasilkan", ❓ @Takane42 "Menghasilkan"
+  False: "Salah" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  None: "Kosong" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  True: "Benar" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  and: "dan" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  as: "sebagai" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  assert: "menyatakan" # ❓ @Wrth1 "pastikan", ✅@Takane42, ✅ @mhmdbhsk
+  async: "asinkron" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  await: "menunggu" # ❓ @Wrth1 "tunggu", ✅ @Takane42, ✅ @mhmdbhsk
+  break: "hentikan" # ❓ @Wrth1 "berhenti" atau "henti" karena terjemahan continue juga tidak memiliki 'kan', ❓@Takane42 Berhenti, ❓@mhmdbhsk "Berhenti"
+  class: "kelas" # ✅ @Wrth1, 🤔 @Takane42,🤔 @mhmdbhsk
+  continue: "lanjut" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  def: "menetapkan" # ❓ @Wrth1 "tetapkan", ❓ @Takane42 "tetapkan",❓ @mhmdbhsk "tetapkan"
+  del: "hapus" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  elif: "lainnya jika" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  else: "lainnya" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  except: "kecuali" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  finally: "akhir" # ❓ @Wrth1 "akhirnya" ada ly nya, ❓ @Takane42 "Akhirnya" bener kata @Wrth1, ❓ @mhmdbhsk "Akhirnya"
+  for: "untuk" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  from: "dari" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  global:  "global" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  if: "jika" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  import: "impor" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  in: "dalam" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  is: "adalah" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  lambda: "lambda" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  nonlocal: "non lokal" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  not: "tidak" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  or: "atau" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  pass: "lewati" # ✅ @Wrth1, ❓ @Takane42 ini bisa "Lewati" atau "oke",❓ @mhmdbhsk "lewati" / "oke" / "sukses"
+  raise: "angkat" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  return: "kembali" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  try: "coba" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  while: "selama" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  with: "dengan" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  yield: "hasil" # ❓ @Wrth1 "hasilkan", ❓ @Takane42 "Menghasilkan",🤔 @mhmdbhsk
 
 # << Built-In Functions >>
 
-  abs: "mutlak" # ✅ @Wrth1, ✅ @Takane42
-  all: "semua" # ✅ @Wrth1, ✅ @Takane42
-  any: "apapun" # ✅ @Wrth1, ✅ @Takane42
-  ascii: "ascii" # ✅ @Wrth1, ✅ @Takane42
-  bin: "biner" # ✅ @Wrth1, ✅ @Takane42
-  bool: "bool" # ✅ @Wrth1, ✅ @Takane42
-  breakpoint: "titik henti" # ✅ @Wrth1, ✅ @Takane42
-  bytearray: "himpunan byte" # ✅ @Wrth1, ✅ @Takane42
-  bytes: "bytes" # ✅ @Wrth1, 🤔 @Takane42
-  callable: "dapat dipanggil" # ✅ @Wrth1, ✅ @Takane42
-  chr: "karakter" # ✅ @Wrth1, ✅ @Takane42
-  classmethod: "metode kelas" # ✅ @Wrth1, ❓ @Takane42 "Metode Class"
-  compile: "menyusun" # ❓ @Wrth1 "susun", ✅ @Takane42
-  complex: "kompleks" # ✅ @Wrth1, ✅ @Takane42
-  delattr: "hapus atribut" # ✅ @Wrth1, ✅ @Takane42
-  dict: "kamus" # ✅ @Wrth1, ✅ @Takane42
-  dir: "direktori" # ✅ @Wrth1, ✅ @Takane42
-  divmod: "pembagian dan modulus" # ✅ @Wrth1, ✅ @Takane42
-  enumerate: "menghitung" # ❓ @Wrth1 "enumerasi"
-  eval: "evaluasi" # ✅ @Wrth1, ✅ @Takane42
-  exec: "eksekusi" # ✅ @Wrth1, ✅ @Takane42
-  filter: "filter" # ✅ @Wrth1, ✅ @Takane42
-  float: "pecahan" # ✅ @Wrth1, ✅ @Takane42
-  format: "format" # ✅ @Wrth1, ✅ @Takane42
-  frozenset: "objek beku" # ✅ @Wrth1, ✅ @Takane42
-  getattr: "dapatkan atribut" # ✅ @Wrth1, ✅ @Takane42
-  globals: "global" # ✅ @Wrth1 tetapi terjemahannya jadi sama dengan keyword global, ✅ @Takane42
-  hasattr: "punya atribut" # ✅ @Wrth1, ✅ @Takane42
-  hash: "campuran" # ✅ @Wrth1, ✅ @Takane42
-  help: "bantuan" # ✅ @Wrth1, ✅ @Takane42
-  hex: "heksa" # ❓ @Wrth1 "heksadesimal", ❓ @Takane42 "heksadesimal" iya harusnya heksadesimal
-  id: "identitas" # ✅ @Wrth1, ✅ @Takane42
-  input: "masukan" # ✅ @Wrth1, ✅ @Takane42
-  int: "bilangan bulat" # ✅ @Wrth1, ✅ @Takane42
-  isinstance: "adalah contoh" # ❓ @Wrth1 "adalah hal"
-  issubclass: "adalah subkelas" # ✅ @Wrth1, ✅ @Takane42
-  iter: "iterasi" # ✅ @Wrth1, ✅ @Takane42
-  len: "panjang" # ✅ @Wrth1, ✅ @Takane42
-  list: "daftar" # ✅ @Wrth1, ✅ @Takane42
-  locals: "lokal" # ✅ @Wrth1, ✅ @Takane42
-  map: "petakan" # ✅ @Wrth1, ✅ @Takane42
-  max: "maksimal" # ✅ @Wrth1, ✅ @Takane42
-  memoryview: "tampilan memori" # ✅ @Takane42
-  min: "minimal" # ✅ @Wrth1, ✅ @Takane42
-  next: "berikutnya" # ✅ @Wrth1, ✅ @Takane42
-  object: "obyek" # ✅ @Wrth1, ✅ @Takane42
-  oct: "oktal" # ✅ @Wrth1, ✅ @Takane42
-  open: "buka" # ✅ @Wrth1, ✅ @Takane42
-  ord: "ord" # ✅ @Wrth1, 🤔 @Takane42
-  pow: "pangkat" # ✅ @Wrth1, ✅ @Takane42
-  print: "cetak" # ✅ @Wrth1, ✅ @Takane42
-  property: "properti" # ✅ @Wrth1, ✅ @Takane42
-  range: "jarak" # ❓ @Wrth1 "area" "wilayah" "radius", ❓ @Takane42 "Area"
-  repr: "representasi" # ✅ @Wrth1, ✅ @Takane42
-  reversed: "terbalik" # ✅ @Wrth1, ✅ @Takane42
-  round: "bulat" # ✅ @Wrth1, ✅ @Takane42
-  set: "set" # ✅ @Wrth1, ✅ @Takane42
-  setattr: "set atribut" # ✅ @Wrth1, ✅ @Takane42
-  slice: "irisan" # ✅ @Wrth1, ✅ @Takane42
-  sorted: "urutkan" # ❓ @Wrth1 "terurut",❓ @Takanae42 "Telah diurutkan"
-  staticmethod: "metode statis" # ✅ @Wrth1, ✅ @Takane42
-  str: "rangkaian" # ❓ @Wrth1 "teks" atau sesuatu yang lebih berkaitan ke rangkaian karakter
-  sum: "jumlah" # ✅ @Wrth1, ✅ @Takane42
-  super: "super" # ✅ @Wrth1, ✅ @Takane42
-  tuple: "tupel" # ✅ @Wrth1, ✅ @Takane42
-  type: "tipe" # ✅ @Wrth1, ✅ @Takane42
-  vars: "variabel" # ✅ @Wrth1, ✅ @Takane42
-  zip: "zip" # ✅ @Wrth1, ✅ @Takane42
-  __import__: "__impor__" # ✅ @Wrth1, ✅ @Takane42
+  abs: "mutlak" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  all: "semua" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  any: "apapun" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  ascii: "ascii" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  bin: "biner" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  bool: "bool" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  breakpoint: "titik henti" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  bytearray: "himpunan byte" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  bytes: "bytes" # ✅ @Wrth1, 🤔 @Takane42, ❓ @mhmdbhsk "byte" indonesia tidak ada jamak
+  callable: "dapat dipanggil" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  chr: "karakter" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  classmethod: "metode kelas" # ✅ @Wrth1, ❓ @Takane42 "Metode Class", ❓ @mhmdbhsk "Metode Class"
+  compile: "menyusun" # ❓ @Wrth1 "susun", ✅ @Takane42, ✅ @mhmdbhsk
+  complex: "kompleks" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  delattr: "hapus atribut" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  dict: "kamus" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  dir: "direktori" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  divmod: "pembagian dan modulus" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  enumerate: "menghitung" # ❓ @Wrth1 "enumerasi", 🤔 @mhmdbhsk
+  eval: "evaluasi" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  exec: "eksekusi" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  filter: "filter" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  float: "pecahan" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  format: "format" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  frozenset: "objek beku" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  getattr: "dapatkan atribut" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  globals: "global" # ✅ @Wrth1 tetapi terjemahannya jadi sama dengan keyword global, ✅ @Takane42, ✅ @mhmdbhsk
+  hasattr: "punya atribut" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  hash: "campuran" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  help: "bantuan" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  hex: "heksa" # ❓ @Wrth1 "heksadesimal", ❓ @Takane42 "heksadesimal" iya harusnya heksadesimal, ❓ @mhmdbhsk "heksadesimal"
+  id: "identitas" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  input: "masukan" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  int: "bilangan bulat" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  isinstance: "adalah contoh" # ❓ @Wrth1 "adalah hal", 🤔 @mhmdbhsk
+  issubclass: "adalah subkelas" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  iter: "iterasi" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  len: "panjang" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  list: "daftar" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  locals: "lokal" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  map: "petakan" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  max: "maksimal" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  memoryview: "tampilan memori" # ✅ @Takane42, ✅ @mhmdbhsk
+  min: "minimal" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  next: "berikutnya" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  object: "obyek" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  oct: "oktal" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  open: "buka" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  ord: "ord" # ✅ @Wrth1, 🤔 @Takane42, 🤔 @mhmdbhsk
+  pow: "pangkat" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  print: "cetak" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  property: "properti" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  range: "jarak" # ❓ @Wrth1 "area" "wilayah" "radius", ❓ @Takane42 "Area",❓ @mhmdbhsk "area" "radius"
+  repr: "representasi" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  reversed: "terbalik" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  round: "bulat" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  set: "set" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  setattr: "set atribut" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  slice: "irisan" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  sorted: "urutkan" # ❓ @Wrth1 "terurut",❓ @Takanae42 "Telah diurutkan", ❓ @mhmdbhsk "Telah diurutkan"
+  staticmethod: "metode statis" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  str: "rangkaian" # ❓ @Wrth1 "teks" atau sesuatu yang lebih berkaitan ke rangkaian karakter, 🤔 @mhmdbhsk
+  sum: "jumlah" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  super: "super" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  tuple: "tupel" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  type: "tipe" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  vars: "variabel" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  zip: "zip" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
+  __import__: "__impor__" # ✅ @Wrth1, ✅ @Takane42, ✅ @mhmdbhsk
 
 # << Error Messages >>
 
