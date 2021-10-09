@@ -1286,75 +1286,75 @@ yield: "ઉપજ" # ✅ # ✅ @136tejas
 
 # << Built-In Functions >>
 
-abs: "એબીએસ" # ❓ I think "સંપૂર્ણ" fits better for abs, which returns absolute value.
-all: "બધા" # ✅
-any: "કોઈપણ" # ✅
-ascii: "ascii" # ✅
-bin: "ડબ્બા" # ❓ I think "દ્વિસંગી" is perfect for bin because "ડબ્બા" represents boxes, which is not meaningful.
-bool: "બુલ" # ✅
-breakpoint: "બ્રેકપોઇન્ટ" # ❓ I think "વિરામ બિંદુ" suits better than "બ્રેકપોઇન્ટ".
-bytearray: "બાયટ્રે" # ✅
-bytes: "બાઇટ્સ" # ✅
-callable: "બોલાવવા યોગ્ય" # ✅
-chr: "chr" # ✅
-classmethod: "વર્ગમૂળ" # ✅
-compile: "સંકલન" # ✅
-complex: "જટિલ" # ✅
-delattr: "delattr" # ❓ I think phonetic translation will not work here, "લક્ષણ હટાવવા" fits better.
-dict: "ડિક" # ❓ "કોશ" or "શબ્દકોશ" is perfect translation, because we use it as dictionary.
-dir: "dir" # 🤔 Maybe "નિર્દેશિકા"
-divmod: "divmod" # 🤔 maybe "વિભાગ મોડ" 
-enumerate: "ગણતરી કરવી" # ✅
-eval: "ઇવલ" # ❓ "મૂલ્યાંકન" is better translation for eval.
-exec: "એક્ઝેક" # 🤔
-filter: "ફિલ્ટર" # ✅ 
-float: "ફ્લોટ" # ✅
-format: "બંધારણ" # ✅
-frozenset: "સ્થિર" # ❓ "સ્થિર સમૂહ" is better translation for frozenset. 
-getattr: "getattr" # 🤔 maybe "ગુણ પ્રાપ્ત કરવા"
-globals: "ગ્લોબલ્સ" # ❓ "વૈશ્વિક" is better translation for globals.
-hasattr: "ઉતાવળ કરવી" # ❓ "ગુણ હોવા" or "વિશેષતા હોવી" 
-hash: "હેશ" # ✅
-help: "મદદ" # ✅
-hex: "હેક્સ" # ✅
-id: "આઈડી" # ✅
-input: "ઇનપુટ" # ❓ maybe "દાખલ કરવું"
-int: "પૂર્ણાંક" # ✅
-isinstance: "isinstance" # ❓ "ઉદાહરણ તરીકે" is better translation for ininstance. 
-issubclass: "ઇસ્યુબક્લાસ" # ❓ "પેટા વર્ગ છે" is better translation for issubclass.
-iter: "તે" # 🤔
-len: "લેન" # ❓ "લંબાઈ" is better translation.
-list: "યાદી" # ✅
-locals: "સ્થાનિકો" # ✅
-map: "નકશો" # ✅
-max: "મહત્તમ" # ✅
-memoryview: "મેમરીવ્યુ" # 🤔 
-min: "મિનિટ" # ❓ "ન્યૂનતમ" is better translation for min.
-next: "આગળ" # ✅
-object: "objectબ્જેક્ટ" # ❓ "વસ્તુ" 
-oct: "ઓક્ટો" # ✅
-open: "ખુલ્લા" # ✅
-ord: "ઓર્ડર" # ✅ 
-pow: "પાવ" # ❓ "ઘાતાંક" or "વદી"
-print: "છાપો" # ✅
-property: "મિલકત" # ✅
-range: "શ્રેણી" # ✅
-repr: "repr" # 🤔
-reversed: ".લટું" # ❓ "ઉલટું" 
-round: "ગોળ" # ✅
-set: "સમૂહ" # ✅
-setattr: "setattr" # 🤔
-slice: "કટકા" # ✅
-sorted: "સortedર્ટ થયેલ" # ❓ "વર્ગીકૃત"
-staticmethod: "સ્થિર" # ✅ 
-str: "str" # ✅ I believe data types should be kept as it is just change them phonetically if needed
-sum: "સરવાળો" # ✅
-super: "સુપર" # ✅
-tuple: "tuple" # ✅ I believe data types should be kept as it is just change them phonetically if needed
-type: "પ્રકાર" # ✅
-vars: "યુદ્ધો" # ❓ "ચલ" 
-zip: "ઝિપ" # 🤔
-__import__: "__ મહત્વપૂર્ણ__" # ❓ "આયાત કરવું"
+abs: "એબીએસ" # ❓ I think "સંપૂર્ણ" fits better for abs, which returns absolute value. # @Nidhir2k1
+all: "બધા" # ✅ # ✅ @Nidhir2k1
+any: "કોઈપણ" # ✅ # ✅ @Nidhir2k1
+ascii: "ascii" # ✅ # ✅@Nidhir2k1
+bin: "ડબ્બા" # ❓ I think "દ્વિસંગી" is perfect for bin because "ડબ્બા" represents boxes, which is not meaningful. # ✅ @Nidhir2k1
+bool: "બુલ" # ✅ # ✅ @Nidhir2k1 
+breakpoint: "બ્રેકપોઇન્ટ" # ❓ I think "વિરામ બિંદુ" suits better than "બ્રેકપોઇન્ટ". #❓ I think અલ્પવિરામ is better @Nidhir2k1
+bytearray: "બાયટ્રે" # ✅ #🤔 Dont think there is a translation  @Nidhir2k1
+bytes: "બાઇટ્સ" # ✅ # ✅ @Nidhir2k1
+callable: "બોલાવવા યોગ્ય" # ✅ # ✅ @Nidhir2k1
+chr: "chr" # ✅ # ✅ @Nidhir2k1  
+classmethod: "વર્ગમૂળ" # ✅ # ✅@Nidhir2k1
+compile: "સંકલન" # ✅ # ✅ @Nidhir2k1
+complex: "જટિલ" # ✅ # ✅ @Nidhir2k1
+delattr: "delattr" # ❓ I think phonetic translation will not work here, "લક્ષણ હટાવવા" fits better. #  ❓ Agree with "લક્ષણ હટાવવા" @Nidhir2k1
+dict: "ડિક" # ❓ "કોશ" or "શબ્દકોશ" is perfect translation, because we use it as dictionary. #❓ "શબ્દકોશ" suits better  @Nidhir2k1
+dir: "dir" # 🤔 Maybe "નિર્દેશિકા" # ❓ નિર્દેશિક translates it well  @Nidhir2k1
+divmod: "divmod" # 🤔 maybe "વિભાગ મોડ"  #🤔 @Nidhir2k1
+enumerate: "ગણતરી કરવી" # ✅ # ✅ or you use ગણવું @Nidhir2k1
+eval: "ઇવલ" # ❓ "મૂલ્યાંકન" is better translation for eval. # ❓ "મૂલ્યાંકન" is better translation @Nidhir2k1
+exec: "એક્ઝેક" # 🤔 # 🤔 @Nidhir2k1
+filter: "ફિલ્ટર" # ✅  # @Nidhir2k1
+float: "ફ્લોટ" # ✅ # ✅ @Nidhir2k1
+format: "બંધારણ" # ✅ # ✅ @Nidhir2k1
+frozenset: "સ્થિર" # ❓ "સ્થિર સમૂહ" is better translation for frozenset. # ✅ @Nidhir2k1
+getattr: "getattr" # 🤔 maybe "ગુણ પ્રાપ્ત કરવા" # @Nidhir2k1
+globals: "ગ્લોબલ્સ" # ❓ "વૈશ્વિક" is better translation for globals. # 🤔 @Nidhir2k1
+hasattr: "ઉતાવળ કરવી" # ❓ "ગુણ હોવા" or "વિશેષતા હોવી" # 🤔 @Nidhir2k1
+hash: "હેશ" # ✅ # ✅ @Nidhir2k1
+help: "મદદ" # ✅ # ✅  @Nidhir2k1
+hex: "હેક્સ" # ✅ # ✅ @Nidhir2k1
+id: "આઈડી" # ✅ # ✅ @Nidhir2k1
+input: "ઇનપુટ" # ❓ maybe "દાખલ કરવું" #  ❓  "દાખલ કરવું" suits better  @Nidhir2k1
+int: "પૂર્ણાંક" # ✅ # ✅ @Nidhir2k1
+isinstance: "isinstance" # ❓ "ઉદાહરણ તરીકે" is better translation for ininstance. # 🤔 @Nidhir2k1
+issubclass: "ઇસ્યુબક્લાસ" # ❓ "પેટા વર્ગ છે" is better translation for issubclass. #❓ "પેટા વર્ગ છે"  @Nidhir2k1
+iter: "તે" # 🤔 # ❓ પુનરાવર્તન @Nidhir2k1
+len: "લેન" # ❓ "લંબાઈ" is better translation. # ❓ "લંબાઈ"  @Nidhir2k1
+list: "યાદી" # ✅ # ✅ @Nidhir2k1
+locals: "સ્થાનિકો" # ✅ # ✅ @Nidhir2k1
+map: "નકશો" # ✅ # ✅ @Nidhir2k1
+max: "મહત્તમ" # ✅ # ✅ @Nidhir2k1
+memoryview: "મેમરીવ્યુ" # 🤔 # 🤔 @Nidhir2k1
+min: "મિનિટ" # ❓ "ન્યૂનતમ" is better translation for min. # ❓ લઘુત્તમ is also a possible @Nidhir2k1
+next: "આગળ" # ✅ # ✅ @Nidhir2k1
+object: "objectબ્જેક્ટ" # ❓ "વસ્તુ" # ❓ "વસ્તુ" fits better @Nidhir2k1
+oct: "ઓક્ટો" # ✅ # ✅  @Nidhir2k1
+open: "ખુલ્લા" # ✅ #  ✅ @Nidhir2k1
+ord: "ઓર્ડર" # ✅  # ✅ @Nidhir2k1
+pow: "પાવ" # ❓ "ઘાતાંક" or "વદી" # ❓ "વદી" @Nidhir2k1
+print: "છાપો" # ✅ # ✅ or you can use લખો..though it changes the real translation but makes more sense for print function @Nidhir2k1
+property: "મિલકત" # ✅ # ✅ @Nidhir2k1
+range: "શ્રેણી" # ✅ # ✅ @Nidhir2k1
+repr: "repr" # 🤔 # @Nidhir2k1
+reversed: ".લટું" # ❓ "ઉલટું" # ❓ "ઉલટું" @Nidhir2k1 
+round: "ગોળ" # ✅ # ✅ @Nidhir2k1
+set: "સમૂહ" # ✅ # ✅ @Nidhir2k1
+setattr: "setattr" # 🤔 # ❓ લક્ષણ સેટ કરો @Nidhir2k1
+slice: "કટકા" # ✅ # ✅ @Nidhir2k1
+sorted: "સortedર્ટ થયેલ" # ❓ "વર્ગીકૃત" # @Nidhir2k1
+staticmethod: "સ્થિર" # ✅  # ❓ line 1313-- frozenst has the some translation @Nidhir2k1
+str: "str" # ✅ I believe data types should be kept as it is just change them phonetically if needed # ✅ @Nidhir2k1
+sum: "સરવાળો" # ✅ #  ✅ @Nidhir2k1
+super: "સુપર" # ✅ # ✅ @Nidhir2k1
+tuple: "tuple" # ✅ I believe data types should be kept as it is just change them phonetically if needed # @Nidhir2k1
+type: "પ્રકાર" # ✅ # ✅  @Nidhir2k1
+vars: "યુદ્ધો" # ❓ "ચલ"  # ❓ @Nidhir2k1
+zip: "ઝિપ" # 🤔 # 🤔 @Nidhir2k1
+__import__: "__ મહત્વપૂર્ણ__" # ❓ "આયાત કરવું" #  ❓ @Nidhir2k1
 
 # << Error Messages >>
 
