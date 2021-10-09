@@ -43,7 +43,7 @@ language-abbreviation: "hi"
 # ----------------------
 # NOTE: https://agda.readthedocs.io/en/v2.5.4.2/index.html
 # << Keywords >>
-  abstract: "सार" 
+  abstract: "सार", # ✅ @sshiv5768 
   codata: "दत्त-सामग्री"
   coinductive: "सहगामी"
   constructor: "निर्माता"
@@ -125,22 +125,22 @@ Null: "अमान्य" ✅ @bhaveshgoyal182
 # |   LANGUAGE: BASH   |
 # ----------------------
 # << Keywords >>
-case: "मामला" ✅ @bhaveshgoyal182
-do: "करना" ✅ @bhaveshgoyal182
-done: "किया हुआ" ✅ @bhaveshgoyal182
-elif: "और अगर" ✅ @bhaveshgoyal182
-else: "और" ✅ @bhaveshgoyal182
-esac: "esac" ✅ @bhaveshgoyal182
-fi: "fi" ✅ @bhaveshgoyal182
-for: "के लिये" ✅ @bhaveshgoyal182
-function: "कार्य" ✅ @bhaveshgoyal182
-if: "अगर" ✅ @bhaveshgoyal182
-in: "में" ✅ @bhaveshgoyal182
-select: "चयन" ✅ @bhaveshgoyal182
-then: "फिर" ✅ @bhaveshgoyal182
-time: "समय" ✅ @bhaveshgoyal182
-until: "जब तक" ✅ @bhaveshgoyal182
-while: "जबकि" ✅ @bhaveshgoyal182
+case: "मामला" ✅ @bhaveshgoyal182 # ❓ @sshiv5768 "स्थिति"
+do: "करना" ✅ @bhaveshgoyal182 # ✅ @sshiv5768 
+done: "किया हुआ" ✅ @bhaveshgoyal182 # ❓ @sshiv5768 "पूर्ण" 
+elif: "और अगर" ✅ @bhaveshgoyal182 # ✅ @sshiv5768 
+else: "और" ✅ @bhaveshgoyal182 # ✅ @sshiv5768
+esac: "esac" ✅ @bhaveshgoyal182 # ✅ @sshiv5768
+fi: "fi" ✅ @bhaveshgoyal182 # ✅ @sshiv5768
+for: "के लिये" ✅ @bhaveshgoyal182 # ❓ @sshiv5768 Hindi translation is perfect but for programming perspective "दुहराओ" suits better.
+function: "कार्य" ✅ @bhaveshgoyal182 # ❓ @sshiv5768 "रचना" suits better programmatically
+if: "अगर" ✅ @bhaveshgoyal182 # ✅ @sshiv5768 
+in: "में" ✅ @bhaveshgoyal182 # ✅ @sshiv5768
+select: "चयन" ✅ @bhaveshgoyal182 # ✅ @sshiv5768 "चुनना" can also be used
+then: "फिर" ✅ @bhaveshgoyal182 # ✅ @sshiv5768
+time: "समय" ✅ @bhaveshgoyal182 # ✅ @sshiv5768
+until: "जब तक" ✅ @bhaveshgoyal182 # ❓ @sshiv5768 "तब तक"
+while: "जबकि" ✅ @bhaveshgoyal182 # ❓ @sshiv5768 "जब तक" 
 
 # << Error Messages >>
 
