@@ -852,57 +852,57 @@ wbr: "" #	Defines a possible line-break
 # |   LANGUAGE: JAVA   |
 # ----------------------
 # << Keywords >>
-abstract: ""
-continue: ""
-for: ""
-new: ""
-switch: ""
-assert: ""
-default: ""
-goto: ""
-package: ""
-synchronized: ""
-boolean: ""
-do: ""
-if: ""
-private: ""
-this: ""
-break: ""
-double: ""
-implements: ""
-protected: ""
-throw: ""
-byte: ""
-else: ""
-import: ""
-public: ""
-throws: ""
-case: ""
-enum: ""
-instanceof: ""
-return: ""
-transient: ""
-catch: ""
-extends: ""
-int: ""
-short: ""
-try: ""
-char: ""
-final: ""
-interface: ""
-static: ""
-void: ""
-class: ""
-finally: ""
-long: ""
-strictfp: ""
-volatile: ""
-const: ""
-float: ""
-native: ""
-super: ""
-while: ""
-_: "" #_(underscore)
+abstract: "abstrakti"
+continue: "sivuuta" # @minna-xd: make sure final Python (etc.) translation is the same
+for: "kunnes"
+new: "uusi"
+switch: "valinta"
+assert: "edellytä" # @minna-xd: make sure final Python (etc.) translation is the same
+default: "oletus"
+goto: "siirry"
+package: "paketti"
+synchronized: "synkronoitu"
+boolean: "totuusarvo"
+do: "tee"
+if: "jos"
+private: "yksityinen"
+this: "tämä"
+break: "katkaise" # @minna-xd: make sure final Python (etc.) translation is the same
+double: "tarkkaliukuluku" # @minna-xd: ❓
+implements: "toteuttaa"
+protected: "suojattu"
+throw: "heitä" # @minna-xd: ❓ 'aiheuta'?
+byte: "tavu"
+else: "muuten" # @minna-xd: make sure final Python (etc.) translation is the same
+import: "tuo"
+public: "julkinen"
+throws: "heittää" # @minna-xd: ❓ 'aiheuttaa'?
+case: "tapaus"
+enum: "lueteltutyyppi" # @minna-xd: ❓
+instanceof: "onkoluokkaa" # @minna-xd: ❓
+return: "palauta" # @minna-xd: make sure final Python (etc.) translation is the same
+transient: "tilapäinen"
+catch: "sieppaa" # @minna-xd: ❓ 'havaitse'?
+extends: "perii" # @minna-xd: ❓ sananmukaisesti 'laajentaa'
+int: "kokonaisluku"
+short: "pienikokonaisluku"
+try: "kokeile" # @minna-xd: make sure final Python (etc.) translation is the same
+char: "merkki"
+final: "vakio" # @minna-xd: ❓ 'muuttumaton'
+interface: "rajapinta"
+static: "staattinen"
+void: "tyhjä" # @minna-xd: ❓
+class: "luokka"
+finally: "lopuksi" # @minna-xd: make sure final Python (etc.) translation is the same
+long: "isokokonaisluku"
+strictfp: "tarkkalaskenta" # @minna-xd: ❓
+volatile: "yhteinen" # @minna-xd: ❓
+const: "vakio" # @minna-xd: ❓ or perhaps this should be removed, final is used instead
+float: "liukuluku"
+native: "ulkoinen" # @minna-xd: ❓
+super: "yliluokka"
+while: "kun" # @minna-xd: make sure final Python (etc.) translation is the same
+_: "_" #_(underscore)
 
 # << Error Messages >>
 
@@ -1265,7 +1265,7 @@ __TRAIT__: ""
   else: "muuten" # @rouskuli: muutoin?; @minna-xd: ❓ itse tykkäisin "muutoin" mutta se voi olla tuntemattomampi sanana (vanhahtava?), "muuten" on merkitykseltään oikea
   except: "poikkeus" # @minna-xd: ✅
   finally: "lopuksi" # @minna-xd: ✅
-  for: "kunnes" # @rouskuli: ❓ varten ei käy, muuta?, kohde?, kohteelle?; @minna-xd: ❓ "muuttuja", "muuttujalle"?
+  for: "kunnes" # @rouskuli: ❓ varten ei käy, muuta?, kohde?, kohteelle?; @minna-xd: ❓ "muuttuja", "muuttujalle"? Note the somewhat different syntax in Python for 'for' loop
   from: "jostain" # @minna-xd: ❓ "lähde", "lähteestä"?
   global:  "yleinen" # @minna-xd: ✅ "yleinen" ok, tai "yhteinen"?
   if: "jos" # @minna-xd: ✅
