@@ -24,7 +24,7 @@
     <!-- <a href="https://github.com/legesher/legesher-translations/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/legesher/legesher-translations?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
-        <img src="https://img.shields.io/badge/all_contributors-82-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/all_contributors-83-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://github.com/sponsors/madiedgar" alt="Sponsors on Github">
         <img src="https://img.shields.io/badge/sponsor-@madiedgar-black?style=flat-square&color=f58977&labelColor=black" /></a>
 
@@ -262,6 +262,7 @@ Meet our [community](https://legesher.io/community) (full of contributors, backe
     <td align="center"><a href="https://github.com/manojkrishnak"><img src="https://avatars.githubusercontent.com/u/28722629?v=4?s=100" width="100px;" alt=""/><br /><sub><b>manojkrishnak</b></sub></a><br /><a href="#translation-manojkrishnak" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/milafreckled"><img src="https://avatars.githubusercontent.com/u/60186181?v=4?s=100" width="100px;" alt=""/><br /><sub><b>milafreckled</b></sub></a><br /><a href="#translation-milafreckled" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/179priyasoni"><img src="https://avatars.githubusercontent.com/u/85613611?v=4?s=100" width="100px;" alt=""/><br /><sub><b>179priyasoni</b></sub></a><br /><a href="#translation-179priyasoni" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://bhsk.my.id/"><img src="https://avatars.githubusercontent.com/u/34903088?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Muhammad Bhaska</b></sub></a><br /><a href="#translation-mhmdbhsk" title="Translation">🌍</a></td>
   </tr>
 </table>
 
