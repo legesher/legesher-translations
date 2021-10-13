@@ -109,7 +109,7 @@ Before contributing, be sure to consult Legesher's [contribution guidelines](htt
 Follow these instructions on [how to fork a repository](https://help.github.com/en/articles/fork-a-repo)
 
 **2️⃣ Cloning the repository**  
-Once you have set up your fork of the `legesher/legesher-translations` repository, you'll want to clone it to your local machine. This is so you can make and test all of your personal edits before adding it to the master version of `legesher/legesher-translations`.
+Once you have set up your fork of the `legesher/legesher-translations` repository, you'll want to clone it to your local machine. This is so you can make and test all of your personal edits before adding them to the master version of `legesher/legesher-translations`.
 
 Navigate to the location on your computer where you want to host your code. Once in the appropriate folder, run the following command to clone the repository to your local machine.
 
