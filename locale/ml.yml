@@ -5,7 +5,7 @@
 # THANK YOU FOR MAKING LEGESHER LARGER THAN US.
 
 
-language-abbreviation: "en"
+language-abbreviation: "ml"
 # ----------------------
 # |    SYSTEM: ATOM    |
 # ----------------------
@@ -599,7 +599,7 @@ yield: "yield"
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: "False"
+  False: "തെറ്റ്"
   None: "None"
   True: "True"
   and: "and"
