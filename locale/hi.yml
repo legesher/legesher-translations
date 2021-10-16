@@ -1350,7 +1350,7 @@ staticmethod: "स्थिर विधि # ❓ "स्थिर विधि"
 str: "str" # ✅ I believe data types should be kept as it is just change them phonetically if needed . # ✅
 sum: "जोड़" # ❓ "जोड" or "योगफल" # ✅ # ❓ as suggested in earlier comment "योगफल" seems better @Ln11211
 super: "उत्तम" # 🤔 "बढ़िया" or "उत्तम" is the correct translation but not sure if it should be used since the use of "super" keyword does not relate to its literal meaning. So keep it as "super" only # ❓ would recommend using "super" only @Ln11211
-tuple: "टपल" # ❓ Phonetic - "टपल" 
+tuple: "टपल" # ❓ Phonetic - "टपल" # ✅
 type: "प्रकार" # ✅ # ✅
 vars: "चर" # ❓ "जिसका" is wrong. Variables are called as "चर" in Hindi Mathematics. This fits the usage of "vars" since it returns a dictionary of variables in a class instance. So "चर" should be used. # ✅
 zip: "ज़िप" # 🤔 # 🤔 Would recommend using zip as it is a well known word and mostly in use. @Ln11211
