@@ -1248,113 +1248,113 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-False: "असत्य" # ✅
-None: "कुछ नहीं" # ❓ My suggestion : "कुछ नहीं" This seems better in the context of none as a datatype
-True: "सत्य" # ❓ My suggestion : "सत्य"
-and: "और" # ✅
-as: "के रूप में" # ✅
-assert: "दावा करना" # ❓ My suggestion : "दावा करना" This one aligns better with the meaning of assert used in Python which is to claim/ give a data type and not "जोर" which would mean force
-async: "अतुल्यकालिक" # ❓ Translation for asynchronous is "अतुल्यकालिक"
-await: "प्रतीक्षा करें" # ✅
-break: "तोड़ना" # ❓ My suggestion : "तोडना" or maybe "समाप्त करना" to better fit the context of ending a loop
-class: "वर्ग" # ✅
-continue: "जारी रखें" # ✅
-def: "परिभाषा करना" # ❓ My suggestion : "परिभाषा करना" since def stands for define
-del: "हटाना" # ❓ My suggestion : "हटाना" or "मिटाना". "डेल" is just the phonetic translation
-elif: "और अगर" # ❓ My suggestion : "अथवा अगर"
-else: "अन्य, अन्यथा" # ❓ My suggestion : "अन्यथा"
-except: "सिवाय" # ✅
-finally: "अंत में" # ✅
-for: "के लिए" # ✅
-from: "से" # ✅
-global:  "विश्वीय" # ❓ My suggestion : "विश्वीय"
-if: "यदि" # ✅
-import: "आयात" # ✅
-in: "में" # ✅
-is: "है" # ✅
-lambda: "लैम्ब्डा" # 🤔 "लैम्ब्डा" is just a phonetic translation
-nonlocal: "गैर स्थानीय" # ❓ My suggestion : "गैर स्थानीय". "नॉनलोकल" is just a phonetic translation of "nonlocal"
-not: "नहीं" # ✅
-or: "या" # ✅
-pass: "पास" # ✅
-raise: "उठाना" # ✅
-return: "प्रतिदान" # ❓ "प्रतिदान"
-try: "प्रयास करना" # ✅ "प्रयास करना"
-while: "जब तक" ❓ Better Alternative: "जब तक" This fits better to the while loop definition, since while follows while(condition). "जब तक" literally translates to "till when"
-with: "साथ" # ✅
-yield: "उपज" # ✅
+False: "असत्य" # ✅ # ✅
+None: "कुछ नहीं" # ❓ My suggestion : "कुछ नहीं" This seems better in the context of none as a datatype # ✅
+True: "सत्य" # ❓ My suggestion : "सत्य" # ✅
+and: "और" # ✅ # ✅
+as: "के रूप में" # ✅ # ✅
+assert: "दावा करना" # ❓ My suggestion : "दावा करना" This one aligns better with the meaning of assert used in Python which is to claim/ give a data type and not "जोर" which would mean force # ✅ I agree with "दावा करना" 
+async: "अतुल्यकालिक" # ❓ Translation for asynchronous is "अतुल्यकालिक" #✅ Contextually "अतुल्यकालिक" is apt, and is the only translation. 
+await: "प्रतीक्षा करें" # ✅ # ✅
+break: "तोड़ना" # ❓ My suggestion : "तोडना" or maybe "समाप्त करना" to better fit the context of ending a loop # ❓ My suggestion :"समाप्त" seems to be more accurate and apt to the context @Ln11211
+class: "वर्ग" # ✅ #✅
+continue: "जारी रखें" # ✅ # ❓ my suggestion : बने रहना, as it seems simple and to the point @Ln11211.
+def: "परिभाषा करना" # ❓ My suggestion : "परिभाषा करना" since def stands for define # ✅
+del: "हटाना" # ❓ My suggestion : "हटाना" or "मिटाना". "डेल" is just the phonetic translation # ✅ I agree with "मिटाना"
+elif: "और अगर" # ❓ My suggestion : "अथवा अगर" # ✅ "अथवा अगर" is better.
+else: "अन्य, अन्यथा" # ❓ My suggestion : "अन्यथा" # ✅
+except: "सिवाय" # ✅ # ✅
+finally: "अंत में" # ✅ # ✅
+for: "के लिए" # ✅ # ✅
+from: "से" # ✅ # ✅
+global:  "विश्वीय" # ❓ My suggestion : "विश्वीय" # ✅ "विश्वीय" makes sense.
+if: "यदि" # ✅ # ✅
+import: "आयात" # ✅ # ✅
+in: "में" # ✅ # ✅
+is: "है" # ✅ # ✅
+lambda: "लैम्ब्डा" # 🤔 "लैम्ब्डा" is just a phonetic translation # ✅ As it is named after a Greek letter, It can only be transalted as it is.@Ln11211
+nonlocal: "गैर स्थानीय" # ❓ My suggestion : "गैर स्थानीय". "नॉनलोकल" is just a phonetic translation of "nonlocal" # ✅
+not: "नहीं" # ✅ # ✅
+or: "या" # ✅ # ✅
+pass: "पास" # ✅ # ✅
+raise: "उठाना" # ✅ # ✅
+return: "प्रतिदान" # ❓ "प्रतिदान" # ❓ "प्रतिफल" as "प्रतिदान" means to trade or exchange while "प्रतिफल" means a return or a result... @Ln11211
+try: "प्रयास करना" # ✅ "प्रयास करना" # ✅
+while: "जब तक" ❓ Better Alternative: "जब तक" This fits better to the while loop definition, since while follows while(condition). "जब तक" literally translates to "till when" # ✅
+with: "साथ" # ✅ # ✅
+yield: "उपज" # ✅ # ✅
 
 # << Built-In Functions >>
 
-abs: "परम, पूर्ण" # ❓ "परम" I think "पूर्ण" fits better for abs, which returns absolute value. @sshiv5768 "पूर्ण" ✅
-all: "सब" # ❓ "सब" I am agree with "सब", because it sounds perfect hindi translation. @sshiv5768 "सब" ✅
-any: "कोई भी" # ✅
-ascii: "ascii" # ✅
-bin: "दोहरा" # ❓ "दोहरा" maybe because "bin" refers to binary or just use "bin". @sshiv5768 "दोहरा" ✅
-bool: "बूल" # ❓ Correct Spelling "बूल".@sshiv5768 "बूल" ✅
-breakpoint: "विराम बिंदु" # ❓ "विराम बिंदु" @sshiv5768 "विराम बिंदु" ✅
-bytearray: "बाइट अरे" # ❓ "बाइट अरे" or maybe "बाइट सरणी" @sshiv5768 "बाइट अरे" ✅
-bytes: "बाइट्स" # ✅
-callable: "कॉल करने योग्य" # ✅
-chr: "चर" # ❓ "अक्षर" I believe data types should be kept as it is just change them phonetically if needed @sshiv5768 "चर" ✅
-classmethod: "वर्ग विधि" # ❓ "वर्ग विधि" @sshiv5768 "वर्ग विधि" ✅
-compile: "संकलन" # ✅
-complex: "पेचीदा" # ❓ "पेचीदा" @sshiv5768 "पेचीदा" ✅
-delattr: "विशेषता हटाना" # ❓ "गुण हटाना" or "विशेषता हटाना" @sshiv5768 "विशेषता हटाना" ✅
-dict: "कोश" # 🤔 maybe "कोश" I think "कोश" suits better for dict @sshiv5768 "कोश" ✅
-dir: "निर्देशिका" # 🤔 maybe "निर्देशिका" @sshiv5768 "निर्देशिका" ✅
-divmod: "विभाजन शेष" # 🤔 maybe "विभाजन शेष" @sshiv5768 "विभाजन शेष" ✅
-enumerate: "गणना करें" # ❓ "गणना करना" @sshiv5768 "गणना करना" ✅
-eval: "मूल्यांकन करना" # ❓ "मूल्यांकन करना" @sshiv5768 "मूल्यांकन करना" ✅
-exec: "निष्पादित करना" # ❓ "निष्पादित करना" @sshiv5768  "निष्पादित करना" ✅
-filter: "फ़िल्टर" # ✅
-float: "फ्लोट" # ✅ I believe data types should be kept as it is just change them phonetically if needed
-format: "प्रारूप" # ✅
-frozenset: "फ्रोज़ेनसेट" # ❓ "जमा हुआ समूह" or "स्तम्भित समूह" frozenset is an abstract data-type so that I think it should be remail original or phoneticly translated @sshiv5768 "फ्रोज़ेनसेट" ✅ 
-getattr: "गुण प्राप्त करना" # ❓ "गुण लेना" or "गुण प्राप्त करना" or "विशेषता प्राप्त करना" @sshiv5768 "गुण प्राप्त करना" ✅
-globals: "वैश्विक" # ❓ "वैश्विक" or "विश्वीय"
-hasattr: "विशेषता होना" # ❓ "गुण होना" or "विशेषता होना"
-hash: "हैश" # ✅ or just use English versions
-help: "मदद" # ✅ or just use English versions
-hex: "हेक्स" # ✅ or just use English versions
-id: "आईडी" # ✅ or just use English versions
-input: "आगत" # 🤔 maybe "आगत"
-int: "पूर्णांक" # ✅
-isinstance: "उदाहरण है" # ❓ "उदाहरण है"
-issubclass: "उपवर्ग है" # ❓ "उपवर्ग है"
-iter: "पुनरावृति करना" # 🤔 "पुनरावृति करना" or "दुहराना" or "बार-बार करना"
-len: "लंबाई" # ❓ "लंबाई" or "विस्तार" is more appropriate in the context of "len" as used in Python
-list: "सूची" # ✅
-locals: "स्थानीय" # ✅
-map: "तलरूप-मिति करना" # ❓ "तलरूप-मिति करना" if you consider "map" in the verb form otherwise "नक्शा" seems correct
-max: "अधिकतम" # ✅
-memoryview: "स्मृति दर्शन" # ❓ "स्मृति दर्शन"
-min: "न्यूनतम" # ✅
-next: "अगला" # ✅
-object: "वस्तु" # ❓ "वस्तु"
-oct: "अष्ट" # ✅ or just use English versions
-open: "खुला" # ✅
-ord: "ऑर्ड" # ❓ "ऑर्ड"
-pow: "घातांक" # ❓ "घातांक"
-print: "प्रिंट,छापन "❓ "छापना" but "print" is used in everyday speak as well, not sure whether translation is required here
-property: "लक्षण, विशेषता" ❓ "स्वभाव" or maybe "लक्षण" or "विशेषता"
-range: "सीमा" # ❓ "सीमा"
-repr: "repr" # 🤔
-reversed: "औंधा" # ✅
-round: "गोल" # ✅
-set: "समूह" # ✅
-setattr: "विशेषता लगाना" # ❓ "गुण लगाना" or "गुण स्थापित करना" or "विशेषता लगाना" or "विशेषता स्थापित करना"
-slice: "टुकड़ा" # ✅
-sorted: "छाँटे गए" # ✅
-staticmethod: "स्थिर विधि # ❓ "स्थिर विधि"
-str: "str" # ✅ I believe data types should be kept as it is just change them phonetically if needed
-sum: "जोड़" # ❓ "जोड" or "योगफल"
-super: "उत्तम" # 🤔 "बढ़िया" or "उत्तम" is the correct translation but not sure if it should be used since the use of "super" keyword does not relate to its literal meaning. So keep it as "super" only
-tuple: "टपल" # ❓ Phonetic - "टपल"
-type: "प्रकार" # ✅
-vars: "चर" # ❓ "जिसका" is wrong. Variables are called as "चर" in Hindi Mathematics. This fits the usage of "vars" since it returns a dictionary of variables in a class instance. So "चर" should be used.
-zip: "ज़िप" # 🤔
-__import__: "__आयात__" # ✅
+abs: "परम, पूर्ण" # ❓ "परम" I think "पूर्ण" fits better for abs, which returns absolute value. @sshiv5768 "पूर्ण" ✅ # ❓ In Hindi, the Aboslute value goes by the name "निरपेक्ष मूल्य", using it would be better. @Ln11211
+all: "सब" # ❓ "सब" I am agree with "सब", because it sounds perfect hindi translation. @sshiv5768 "सब" ✅ # ✅
+any: "कोई भी" # ✅ # ❓ "सभी" is simple and better. @Ln11211
+ascii: "ascii" # ✅ # ✅
+bin: "दोहरा" # ❓ "दोहरा" maybe because "bin" refers to binary or just use "bin". @sshiv5768 "दोहरा" ✅ # ❓ would recommend using "बिन" as the bin() returns the binary .@Ln11211
+bool: "बूल" # ❓ Correct Spelling "बूल".@sshiv5768 "बूल" ✅ # ✅
+breakpoint: "विराम बिंदु" # ❓ "विराम बिंदु" @sshiv5768 "विराम बिंदु" ✅ # ✅
+bytearray: "बाइट अरे" # ❓ "बाइट अरे" or maybe "बाइट सरणी" @sshiv5768 "बाइट अरे" ✅ # ✅
+bytes: "बाइट्स" # ✅ # ✅
+callable: "कॉल करने योग्य" # ✅ # ✅
+chr: "चर" # ❓ "अक्षर" I believe data types should be kept as it is just change them phonetically if needed @sshiv5768 "चर" ✅ # ✅
+classmethod: "वर्ग विधि" # ❓ "वर्ग विधि" @sshiv5768 "वर्ग विधि" ✅ # ✅
+compile: "संकलन" # ✅ # ✅
+complex: "पेचीदा" # ❓ "पेचीदा" @sshiv5768 "पेचीदा" ✅ # ❓ Here "complex" refers to the function that returns a complex number,thus using "समिश्र" from "समिश्र संख्या"(menaing complex number)would be close and appropriate.@Ln11211
+delattr: "विशेषता हटाना" # ❓ "गुण हटाना" or "विशेषता हटाना" @sshiv5768 "विशेषता हटाना" ✅ # ❓ I think "गुण हटाना" is apt as in L1314 गुण is used too @Ln11211
+dict: "कोश" # 🤔 maybe "कोश" I think "कोश" suits better for dict @sshiv5768 "कोश" ✅ # ✅
+dir: "निर्देशिका" # 🤔 maybe "निर्देशिका" @sshiv5768 "निर्देशिका" ✅ # ✅
+divmod: "विभाजन शेष" # 🤔 maybe "विभाजन शेष" @sshiv5768 "विभाजन शेष" ✅ # ✅
+enumerate: "गणना करें" # ❓ "गणना करना" @sshiv5768 "गणना करना" ✅ # ✅
+eval: "मूल्यांकन करना" # ❓ "मूल्यांकन करना" @sshiv5768 "मूल्यांकन करना" ✅ # ✅
+exec: "निष्पादित करना" # ❓ "निष्पादित करना" @sshiv5768  "निष्पादित करना" ✅ # ✅
+filter: "फ़िल्टर" # ✅ # ✅
+float: "फ्लोट" # ✅ I believe data types should be kept as it is just change them phonetically if needed # ✅
+format: "प्रारूप" # ✅ # ✅
+frozenset: "फ्रोज़ेनसेट" # ❓ "जमा हुआ समूह" or "स्तम्भित समूह" frozenset is an abstract data-type so that I think it should be remail original or phoneticly translated @sshiv5768 "फ्रोज़ेनसेट" ✅ # ✅
+getattr: "गुण प्राप्त करना" # ❓ "गुण लेना" or "गुण प्राप्त करना" or "विशेषता प्राप्त करना" @sshiv5768 "गुण प्राप्त करना" ✅ # ✅
+globals: "वैश्विक" # ❓ "वैश्विक" or "विश्वीय" # ✅
+hasattr: "विशेषता होना" # ❓ "गुण होना" or "विशेषता होना" # ❓ "गुण होना" seems better. @Ln11211
+hash: "हैश" # ✅ or just use English versions  # ✅
+help: "मदद" # ✅ or just use English versions # ✅
+hex: "हेक्स" # ✅ or just use English versions  # ✅
+id: "आईडी" # ✅ or just use English versions # ✅
+input: "आगत" # 🤔 maybe "आगत" # ✅ "आगत" is correct
+int: "पूर्णांक" # ✅ # ✅
+isinstance: "उदाहरण है" # ❓ "उदाहरण है" # ❓ I think "अवस्था है" is better @Ln11211
+issubclass: "उपवर्ग है" # ❓ "उपवर्ग है" # ✅
+iter: "पुनरावृति करना" # 🤔 "पुनरावृति करना" or "दुहराना" or "बार-बार करना" # ❓ my suggestion: "बार-बार करने वाला" if referring to the iter() @Ln11211
+len: "लंबाई" # ❓ "लंबाई" or "विस्तार" is more appropriate in the context of "len" as used in Python # ✅ "लंबाई" means length and len() is usually used to get length, so seems apt @Ln11211
+list: "सूची" # ✅ # ✅
+locals: "स्थानीय" # ✅ # ✅
+map: "तलरूप-मिति करना" # ❓ "तलरूप-मिति करना" if you consider "map" in the verb form otherwise "नक्शा" seems correct # ❓ "नक्शा" is better @Ln11211
+max: "अधिकतम" # ✅ # ✅
+memoryview: "स्मृति दर्शन" # ❓ "स्मृति दर्शन" # 🤔 memoryview is used to expose Python buffer protocol, thus it should remain as it in english, and the literal(machine) translation "स्मृति दर्शन" seems inappropriate. @Ln11211
+min: "न्यूनतम" # ✅ # ✅
+next: "अगला" # ✅ # ✅
+object: "वस्तु" # ❓ "वस्तु"  # ❓ object is a fundamental concept in programming(specifically in OOP) and it in best left as it is or at the most translated as "ऑब्जेक्ट". @Ln11211
+oct: "अष्ट" # ✅ or just use English versions # ✅ similar to bin() method, the oct() returns octal form, thus the translation seems apt. @Ln11211 
+open: "खुला" # ✅ # ✅
+ord: "ऑर्ड" # ❓ "ऑर्ड" # ❓ ord() function returns unicode, thus leaving it as it is in english or using "ऑर्ड" is apt.
+pow: "घातांक" # ❓ "घातांक" # ✅ awesome translation
+print: "प्रिंट,छापन "❓ "छापना" but "print" is used in everyday speak as well, not sure whether translation is required here # ✅ "प्रिंट" is enough.
+property: "लक्षण, विशेषता" ❓ "स्वभाव" or maybe "लक्षण" or "विशेषता" ❓ "विशेषता" seems to suit well. @Ln11211.
+range: "सीमा" # ❓ "सीमा" # ❓ using "रेंज" would make better sense as it is often used as a looping structuer or to iterate. @Ln11211
+repr: "repr" # 🤔 # 🤔 repr() returns the string representation of passes values, so its recommended to use it as it is or to transalte it phonetically. @Ln11211
+reversed: "औंधा" # ✅ # ✅
+round: "गोल" # ✅ # ❓ using "पूर्णांकित" is better as round() is used to round off to nearest decimal,thus "पूर्णांकित" is derived from "पूर्णांकित करना"(round off). @Ln11211.
+set: "समूह" # ✅ # ❓ Just not sure about "समूह" @Ln11211
+setattr: "विशेषता लगाना" # ❓ "गुण लगाना" or "गुण स्थापित करना" or "विशेषता लगाना" or "विशेषता स्थापित करना" # ❓ I think "गुण स्थापित करन" is apt @Ln11211
+slice: "टुकड़ा" # ✅ # ✅
+sorted: "छाँटे गए" # ✅ # ✅
+staticmethod: "स्थिर विधि # ❓ "स्थिर विधि" # 🤔 I recommend translating it phonetically or letting it remain as it is in english @Ln11211
+str: "str" # ✅ I believe data types should be kept as it is just change them phonetically if needed . # ✅
+sum: "जोड़" # ❓ "जोड" or "योगफल" # ✅ # ❓ as suggested in earlier comment "योगफल" seems better @Ln11211
+super: "उत्तम" # 🤔 "बढ़िया" or "उत्तम" is the correct translation but not sure if it should be used since the use of "super" keyword does not relate to its literal meaning. So keep it as "super" only # ❓ would recommend using "super" only @Ln11211
+tuple: "टपल" # ❓ Phonetic - "टपल" # ✅
+type: "प्रकार" # ✅ # ✅
+vars: "चर" # ❓ "जिसका" is wrong. Variables are called as "चर" in Hindi Mathematics. This fits the usage of "vars" since it returns a dictionary of variables in a class instance. So "चर" should be used. # ✅
+zip: "ज़िप" # 🤔 # 🤔 Would recommend using zip as it is a well known word and mostly in use. @Ln11211
+__import__: "__आयात__" # ✅ # ✅
 
 # << Error Messages >>
 
