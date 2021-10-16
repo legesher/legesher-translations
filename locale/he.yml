@@ -1263,26 +1263,26 @@ __TRAIT__: ""
   del: "מחק" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   elif: "אחרת_אז" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   else: "אחרת" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
-  except: "בשגיאה" # @Gal-Gilor :white_check_mark:
+  except: "בשגיאה" # @Gal-Gilor :white_check_mark: @tomerpacific :question: This marks and exception, so it should be "חריגה"
   finally: "לבסוף" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   for: "לכל" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   from: "מ" # @Gal-Gilor :question: Although 100% correct. I'm hesistant to use a single character
   global: "גלובלי" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   if: "אם" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   import: "ייבא" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
-  in: "ב" # @Gal-Gilor :white_check_mark: Although 100% correct. I'm hesistant to use a single character. how about "בתוך" 
+  in: "ב" # @Gal-Gilor :white_check_mark: Although 100% correct. I'm hesistant to use a single character. how about "בתוך" @tomerpacific :question: I support "בתוך"
   is: "הוא" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
-  lambda: "פעולונת" # @Gal-Gilor :white_check_mark: clever!
+  lambda: "פעולונת" # @Gal-Gilor :white_check_mark: clever! @tomerpacific :white_check_mark:
   nonlocal: "לא_מקומי" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   not: "לא" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   or: "או" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
-  pass: "קוד_עתידי" # @Gal-Gilor :question: Since "pass" is a null statement, how about "הצהרת_בטל"
+  pass: "קוד_עתידי" # @Gal-Gilor :question: Since "pass" is a null statement, how about "הצהרת_בטל" @tomerpacific :white_check_mark:
   raise: "העלה" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   return: "החזר" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   try: "נסה" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   while: "כל_עוד" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   with: "עם" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
-  yield: "הוצא" # @Gal-Gilor :question: How about "חולל איטרטור"
+  yield: "הוצא" # @Gal-Gilor :question: How about "חולל איטרטור" @tomerpacific :question: How about "חולל גנרטור"
 
 # << Built-In Functions >>
 
