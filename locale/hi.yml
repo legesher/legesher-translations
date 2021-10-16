@@ -1272,7 +1272,7 @@ if: "यदि" # ✅ # ✅
 import: "आयात" # ✅ # ✅
 in: "में" # ✅ # ✅
 is: "है" # ✅ # ✅
-lambda: "लैम्ब्डा" # 🤔 "लैम्ब्डा" is just a phonetic translation # ✅ My suggestion : As it is named after a Greek letter, It can only be transalted as it is.@Ln11211
+lambda: "लैम्ब्डा" # 🤔 "लैम्ब्डा" is just a phonetic translation # ✅ As it is named after a Greek letter, It can only be transalted as it is.@Ln11211
 nonlocal: "गैर स्थानीय" # ❓ My suggestion : "गैर स्थानीय". "नॉनलोकल" is just a phonetic translation of "nonlocal" # ✅
 not: "नहीं" # ✅ # ✅
 or: "या" # ✅ # ✅
@@ -1318,7 +1318,7 @@ hash: "हैश" # ✅ or just use English versions  # ✅
 help: "मदद" # ✅ or just use English versions # ✅
 hex: "हेक्स" # ✅ or just use English versions  # ✅
 id: "आईडी" # ✅ or just use English versions # ✅
-input: "आगत" # 🤔 maybe "आगत" # ✅
+input: "आगत" # 🤔 maybe "आगत" # ✅ "आगत" is correct
 int: "पूर्णांक" # ✅ # ✅
 isinstance: "उदाहरण है" # ❓ "उदाहरण है" # ❓ I think "अवस्था है" is better @Ln11211
 issubclass: "उपवर्ग है" # ❓ "उपवर्ग है" # ✅
