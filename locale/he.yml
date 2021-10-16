@@ -1248,40 +1248,40 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: "שקר" # @Gal-Gilor :white_check_mark:
-  None: "כלום" # @Gal-Gilor :question: "ריק" Python's "None" is equivalent to other language's null
-  True: "אמת" # @Gal-Gilor :white_check_mark:
-  and: "ו" # @Gal-Gilor :white_check_mark: Although 100% correct. I'm hesistant to use a single character
-  as: "כ" # @Gal-Gilor :white_check_mark: Although 100% correct. I'm hesistant to use a single character
-  assert: "הנח" # @Gal-Gilor :question: In Python, I could aruge I can replace "assert" with "insist" I suggest "לדרוש  or להתעקש"
-  async: "בסנכרון" # @Gal-Gilor :question: 'אסינכרוני' The opposite of Sync
-  await: "המתן" # @Gal-Gilor :white_check_mark:
-  break: "לשבור" # @Gal-Gilor :white_check_mark:
-  class: "מחלקה" # @Gal-Gilor :white_check_mark: I agree. However, thoughts on "אובייקט" (I understand they are not the same)?
-  continue: "המשך" # @Gal-Gilor :white_check_mark:
-  def: "פעולה" # @Gal-Gilor :white_check_mark:
-  del: "מחק" # @Gal-Gilor :white_check_mark:
-  elif: "אחרת_אז" # @Gal-Gilor :white_check_mark:
-  else: "אחרת" # @Gal-Gilor :white_check_mark:
+  False: "שקר" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
+  None: "כלום" # @Gal-Gilor :question: "ריק" Python's "None" is equivalent to other language's null @tomerpacific :question: None is not equivalent to null of other languages. I think the current translation is fitting.
+  True: "אמת" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
+  and: "ו" # @Gal-Gilor :white_check_mark: Although 100% correct. I'm hesistant to use a single character @tomerpacific :question: Maybe should be renamed to "וגם"
+  as: "כ" # @Gal-Gilor :white_check_mark: Although 100% correct. I'm hesistant to use a single character  @tomerpacific :white_check_mark:
+  assert: "הנח" # @Gal-Gilor :question: In Python, I could aruge I can replace "assert" with "insist" I suggest "לדרוש  or להתעקש" @tomerpacific :question: When assert is used, it is to evaluate a certain condition. Therefore, I believe a better translation would be "בחן".
+  async: "בסנכרון" # @Gal-Gilor :question: 'אסינכרוני' The opposite of Sync  @tomerpacific :question: Should be renamed to "אסינכרוני"
+  await: "המתן" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
+  break: "לשבור" # @Gal-Gilor :white_check_mark: @tomerpacific :question: Should be "שבור"
+  class: "מחלקה" # @Gal-Gilor :white_check_mark: I agree. However, thoughts on "אובייקט" (I understand they are not the same)?  @tomerpacific :white_check_mark:
+  continue: "המשך" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
+  def: "פעולה" # @Gal-Gilor :white_check_mark: @tomerpacific :question: This keyword means definition so the translation should be "הגדר"
+  del: "מחק" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
+  elif: "אחרת_אז" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
+  else: "אחרת" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   except: "בשגיאה" # @Gal-Gilor :white_check_mark:
-  finally: "לבסוף" # @Gal-Gilor :white_check_mark:
-  for: "לכל" # @Gal-Gilor :white_check_mark:
+  finally: "לבסוף" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
+  for: "לכל" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   from: "מ" # @Gal-Gilor :question: Although 100% correct. I'm hesistant to use a single character
-  global: "גלובלי" # @Gal-Gilor :white_check_mark:
-  if: "אם" # @Gal-Gilor :white_check_mark:
-  import: "ייבא" # @Gal-Gilor :white_check_mark:
+  global: "גלובלי" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
+  if: "אם" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
+  import: "ייבא" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   in: "ב" # @Gal-Gilor :white_check_mark: Although 100% correct. I'm hesistant to use a single character. how about "בתוך" 
-  is: "הוא" # @Gal-Gilor :white_check_mark:
+  is: "הוא" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   lambda: "פעולונת" # @Gal-Gilor :white_check_mark: clever!
-  nonlocal: "לא_מקומי" # @Gal-Gilor :white_check_mark:
-  not: "לא" # @Gal-Gilor :white_check_mark:
-  or: "או" # @Gal-Gilor :white_check_mark:
+  nonlocal: "לא_מקומי" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
+  not: "לא" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
+  or: "או" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   pass: "קוד_עתידי" # @Gal-Gilor :question: Since "pass" is a null statement, how about "הצהרת_בטל"
-  raise: "העלה" # @Gal-Gilor :white_check_mark:
-  return: "החזר" # @Gal-Gilor :white_check_mark:
-  try: "נסה" # @Gal-Gilor :white_check_mark:
-  while: "כל_עוד" # @Gal-Gilor :white_check_mark:
-  with: "עם" # @Gal-Gilor :white_check_mark:
+  raise: "העלה" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
+  return: "החזר" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
+  try: "נסה" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
+  while: "כל_עוד" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
+  with: "עם" # @Gal-Gilor :white_check_mark: @tomerpacific :white_check_mark:
   yield: "הוצא" # @Gal-Gilor :question: How about "חולל איטרטור"
 
 # << Built-In Functions >>
