@@ -1290,7 +1290,7 @@ abs: "परम, पूर्ण" # ❓ "परम" I think "पूर्ण" fi
 all: "सब" # ❓ "सब" I am agree with "सब", because it sounds perfect hindi translation. @sshiv5768 "सब" ✅ # ✅
 any: "कोई भी" # ✅ # ❓ "सभी" is simple and better. @Ln11211
 ascii: "ascii" # ✅ # ✅
-bin: "दोहरा" # ❓ "दोहरा" maybe because "bin" refers to binary or just use "bin". @sshiv5768 "दोहरा" ✅ # ✅
+bin: "दोहरा" # ❓ "दोहरा" maybe because "bin" refers to binary or just use "bin". @sshiv5768 "दोहरा" ✅ # ❓ would recommend using "बिन" as the bin() returns the binary .@Ln11211
 bool: "बूल" # ❓ Correct Spelling "बूल".@sshiv5768 "बूल" ✅ # ✅
 breakpoint: "विराम बिंदु" # ❓ "विराम बिंदु" @sshiv5768 "विराम बिंदु" ✅ # ✅
 bytearray: "बाइट अरे" # ❓ "बाइट अरे" or maybe "बाइट सरणी" @sshiv5768 "बाइट अरे" ✅ # ✅
@@ -1322,39 +1322,39 @@ input: "आगत" # 🤔 maybe "आगत" # ✅
 int: "पूर्णांक" # ✅ # ✅
 isinstance: "उदाहरण है" # ❓ "उदाहरण है" # ❓ I think "अवस्था है" is better @Ln11211
 issubclass: "उपवर्ग है" # ❓ "उपवर्ग है" # ✅
-iter: "पुनरावृति करना" # 🤔 "पुनरावृति करना" or "दुहराना" or "बार-बार करना"
-len: "लंबाई" # ❓ "लंबाई" or "विस्तार" is more appropriate in the context of "len" as used in Python
-list: "सूची" # ✅
-locals: "स्थानीय" # ✅
-map: "तलरूप-मिति करना" # ❓ "तलरूप-मिति करना" if you consider "map" in the verb form otherwise "नक्शा" seems correct
-max: "अधिकतम" # ✅
-memoryview: "स्मृति दर्शन" # ❓ "स्मृति दर्शन"
-min: "न्यूनतम" # ✅
-next: "अगला" # ✅
-object: "वस्तु" # ❓ "वस्तु"
-oct: "अष्ट" # ✅ or just use English versions
-open: "खुला" # ✅
-ord: "ऑर्ड" # ❓ "ऑर्ड"
-pow: "घातांक" # ❓ "घातांक"
-print: "प्रिंट,छापन "❓ "छापना" but "print" is used in everyday speak as well, not sure whether translation is required here
-property: "लक्षण, विशेषता" ❓ "स्वभाव" or maybe "लक्षण" or "विशेषता"
-range: "सीमा" # ❓ "सीमा"
-repr: "repr" # 🤔
-reversed: "औंधा" # ✅
-round: "गोल" # ✅
-set: "समूह" # ✅
-setattr: "विशेषता लगाना" # ❓ "गुण लगाना" or "गुण स्थापित करना" or "विशेषता लगाना" or "विशेषता स्थापित करना"
-slice: "टुकड़ा" # ✅
-sorted: "छाँटे गए" # ✅
-staticmethod: "स्थिर विधि # ❓ "स्थिर विधि"
-str: "str" # ✅ I believe data types should be kept as it is just change them phonetically if needed
-sum: "जोड़" # ❓ "जोड" or "योगफल"
-super: "उत्तम" # 🤔 "बढ़िया" or "उत्तम" is the correct translation but not sure if it should be used since the use of "super" keyword does not relate to its literal meaning. So keep it as "super" only
-tuple: "टपल" # ❓ Phonetic - "टपल"
-type: "प्रकार" # ✅
-vars: "चर" # ❓ "जिसका" is wrong. Variables are called as "चर" in Hindi Mathematics. This fits the usage of "vars" since it returns a dictionary of variables in a class instance. So "चर" should be used.
-zip: "ज़िप" # 🤔
-__import__: "__आयात__" # ✅
+iter: "पुनरावृति करना" # 🤔 "पुनरावृति करना" or "दुहराना" or "बार-बार करना" # ❓ my suggestion: "बार-बार करने वाला" if referring to the iter() @Ln11211
+len: "लंबाई" # ❓ "लंबाई" or "विस्तार" is more appropriate in the context of "len" as used in Python # ✅ "लंबाई" means length and len() is usually used to get length, so seems apt @Ln11211
+list: "सूची" # ✅ # ✅
+locals: "स्थानीय" # ✅ # ✅
+map: "तलरूप-मिति करना" # ❓ "तलरूप-मिति करना" if you consider "map" in the verb form otherwise "नक्शा" seems correct # ❓ "नक्शा" is better @Ln11211
+max: "अधिकतम" # ✅ # ✅
+memoryview: "स्मृति दर्शन" # ❓ "स्मृति दर्शन" # 🤔 memoryview is used to expose Python buffer protocol, thus it should remain as it in english, and the literal(machine) translation "स्मृति दर्शन" seems inappropriate. @Ln11211
+min: "न्यूनतम" # ✅ # ✅
+next: "अगला" # ✅ # ✅
+object: "वस्तु" # ❓ "वस्तु"  # ❓ object is a fundamental concept in programming(specifically in OOP) and it in best left as it is or at the most translated as "ऑब्जेक्ट". @Ln11211
+oct: "अष्ट" # ✅ or just use English versions # ✅ similar to bin() method, the oct() returns octal form, thus the translation seems apt. @Ln11211 
+open: "खुला" # ✅ # ✅
+ord: "ऑर्ड" # ❓ "ऑर्ड" # ❓ ord() function returns unicode, thus leaving it as it is in english or using "ऑर्ड" is apt.
+pow: "घातांक" # ❓ "घातांक" # ✅ awesome translation
+print: "प्रिंट,छापन "❓ "छापना" but "print" is used in everyday speak as well, not sure whether translation is required here # ✅ "प्रिंट" is enough.
+property: "लक्षण, विशेषता" ❓ "स्वभाव" or maybe "लक्षण" or "विशेषता" ❓ "विशेषता" seems to suit well. @Ln11211.
+range: "सीमा" # ❓ "सीमा" # ❓ using "रेंज" would make better sense as it is often used as a looping structuer or to iterate. @Ln11211
+repr: "repr" # 🤔 # 🤔 repr() returns the string representation of passes values, so its recommended to use it as it is or to transalte it phonetically. @Ln11211
+reversed: "औंधा" # ✅ # ✅
+round: "गोल" # ✅ # ❓ using "पूर्णांकित" is better as round() is used to round off to nearest decimal,thus "पूर्णांकित" is derived from "पूर्णांकित करना"(round off). @Ln11211.
+set: "समूह" # ✅ # ❓ Just not sure about "समूह" @Ln11211
+setattr: "विशेषता लगाना" # ❓ "गुण लगाना" or "गुण स्थापित करना" or "विशेषता लगाना" or "विशेषता स्थापित करना" # ❓ I think "गुण स्थापित करन" is apt @Ln11211
+slice: "टुकड़ा" # ✅ # ✅
+sorted: "छाँटे गए" # ✅ # ✅
+staticmethod: "स्थिर विधि # ❓ "स्थिर विधि" # 🤔 I recommend translating it phonetically or letting it remain as it is in english @Ln11211
+str: "str" # ✅ I believe data types should be kept as it is just change them phonetically if needed . # ✅
+sum: "जोड़" # ❓ "जोड" or "योगफल" # ✅ # ❓ as suggested in earlier comment "योगफल" seems better @Ln11211
+super: "उत्तम" # 🤔 "बढ़िया" or "उत्तम" is the correct translation but not sure if it should be used since the use of "super" keyword does not relate to its literal meaning. So keep it as "super" only # ❓ would recommend using "super" only @Ln11211
+tuple: "टपल" # ❓ Phonetic - "टपल" 
+type: "प्रकार" # ✅ # ✅
+vars: "चर" # ❓ "जिसका" is wrong. Variables are called as "चर" in Hindi Mathematics. This fits the usage of "vars" since it returns a dictionary of variables in a class instance. So "चर" should be used. # ✅
+zip: "ज़िप" # 🤔 # 🤔 Would recommend using zip as it is a well known word and mostly in use. @Ln11211
+__import__: "__आयात__" # ✅ # ✅
 
 # << Error Messages >>
 
