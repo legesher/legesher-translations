@@ -1248,41 +1248,41 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-False: "असत्य" # ✅
-None: "कुछ नहीं" # ❓ My suggestion : "कुछ नहीं" This seems better in the context of none as a datatype
-True: "सत्य" # ❓ My suggestion : "सत्य"
-and: "और" # ✅
-as: "के रूप में" # ✅
-assert: "दावा करना" # ❓ My suggestion : "दावा करना" This one aligns better with the meaning of assert used in Python which is to claim/ give a data type and not "जोर" which would mean force
-async: "अतुल्यकालिक" # ❓ Translation for asynchronous is "अतुल्यकालिक"
-await: "प्रतीक्षा करें" # ✅
-break: "तोड़ना" # ❓ My suggestion : "तोडना" or maybe "समाप्त करना" to better fit the context of ending a loop
-class: "वर्ग" # ✅
-continue: "जारी रखें" # ✅
-def: "परिभाषा करना" # ❓ My suggestion : "परिभाषा करना" since def stands for define
-del: "हटाना" # ❓ My suggestion : "हटाना" or "मिटाना". "डेल" is just the phonetic translation
-elif: "और अगर" # ❓ My suggestion : "अथवा अगर"
-else: "अन्य, अन्यथा" # ❓ My suggestion : "अन्यथा"
-except: "सिवाय" # ✅
-finally: "अंत में" # ✅
-for: "के लिए" # ✅
-from: "से" # ✅
-global:  "विश्वीय" # ❓ My suggestion : "विश्वीय"
-if: "यदि" # ✅
-import: "आयात" # ✅
-in: "में" # ✅
-is: "है" # ✅
-lambda: "लैम्ब्डा" # 🤔 "लैम्ब्डा" is just a phonetic translation
-nonlocal: "गैर स्थानीय" # ❓ My suggestion : "गैर स्थानीय". "नॉनलोकल" is just a phonetic translation of "nonlocal"
-not: "नहीं" # ✅
-or: "या" # ✅
-pass: "पास" # ✅
-raise: "उठाना" # ✅
-return: "प्रतिदान" # ❓ "प्रतिदान"
-try: "प्रयास करना" # ✅ "प्रयास करना"
-while: "जब तक" ❓ Better Alternative: "जब तक" This fits better to the while loop definition, since while follows while(condition). "जब तक" literally translates to "till when"
-with: "साथ" # ✅
-yield: "उपज" # ✅
+False: "असत्य" # ✅ # ✅
+None: "कुछ नहीं" # ❓ My suggestion : "कुछ नहीं" This seems better in the context of none as a datatype # ✅
+True: "सत्य" # ❓ My suggestion : "सत्य" # ✅
+and: "और" # ✅ # ✅
+as: "के रूप में" # ✅ # ✅
+assert: "दावा करना" # ❓ My suggestion : "दावा करना" This one aligns better with the meaning of assert used in Python which is to claim/ give a data type and not "जोर" which would mean force # ✅ I agree with "दावा करना" 
+async: "अतुल्यकालिक" # ❓ Translation for asynchronous is "अतुल्यकालिक" #✅ Contextually "अतुल्यकालिक" is apt, and is the only translation. 
+await: "प्रतीक्षा करें" # ✅ # ✅
+break: "तोड़ना" # ❓ My suggestion : "तोडना" or maybe "समाप्त करना" to better fit the context of ending a loop # ❓ My suggestion :"समाप्त" seems to be more accurate and apt to the context @Ln11211
+class: "वर्ग" # ✅ #✅
+continue: "जारी रखें" # ✅ # ❓ my suggestion : बने रहना, as it seems simple and to the point @Ln11211.
+def: "परिभाषा करना" # ❓ My suggestion : "परिभाषा करना" since def stands for define # ✅
+del: "हटाना" # ❓ My suggestion : "हटाना" or "मिटाना". "डेल" is just the phonetic translation # ✅ I agree with "मिटाना"
+elif: "और अगर" # ❓ My suggestion : "अथवा अगर" # ✅ "अथवा अगर" is better.
+else: "अन्य, अन्यथा" # ❓ My suggestion : "अन्यथा" # ✅
+except: "सिवाय" # ✅ # ✅
+finally: "अंत में" # ✅ # ✅
+for: "के लिए" # ✅ # ✅
+from: "से" # ✅ # ✅
+global:  "विश्वीय" # ❓ My suggestion : "विश्वीय" # ✅ "विश्वीय" makes sense.
+if: "यदि" # ✅ # ✅
+import: "आयात" # ✅ # ✅
+in: "में" # ✅ # ✅
+is: "है" # ✅ # ✅
+lambda: "लैम्ब्डा" # 🤔 "लैम्ब्डा" is just a phonetic translation # ✅ My suggestion : As it is named after a Greek letter, It can only be transalted as it is.@Ln11211
+nonlocal: "गैर स्थानीय" # ❓ My suggestion : "गैर स्थानीय". "नॉनलोकल" is just a phonetic translation of "nonlocal" # ✅
+not: "नहीं" # ✅ # ✅
+or: "या" # ✅ # ✅
+pass: "पास" # ✅ # ✅
+raise: "उठाना" # ✅ # ✅
+return: "प्रतिदान" # ❓ "प्रतिदान" # ❓ "प्रतिफल" as "प्रतिदान" means to trade or exchange while "प्रतिदान" means a return or a result... @Ln11211
+try: "प्रयास करना" # ✅ "प्रयास करना" # ✅
+while: "जब तक" ❓ Better Alternative: "जब तक" This fits better to the while loop definition, since while follows while(condition). "जब तक" literally translates to "till when" # ✅
+with: "साथ" # ✅ # ✅
+yield: "उपज" # ✅ # ✅
 
 # << Built-In Functions >>
 
