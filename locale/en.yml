@@ -599,7 +599,7 @@ yield: "yield"
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: "Fasle"
+  False: "False"
   None: "None"
   True: "True"
   and: "and"

@@ -1249,40 +1249,75 @@ __TRAIT__: ""
 # ----------------------
 # << Keywords >>
   False: "തെറ്റ്"
+    # ✅ @sanjay-kv
   None: "ഒന്നുമില്ല"
+    # ✅ @sanjay-kv
   True: "സത്യം"
+    # ✅ @sanjay-kv
   and: "ഒപ്പം"
+    # ✅ @sanjay-kv
   as: "ആയി"
+    # ✅ @sanjay-kv
   assert: "ഉറപ്പിക്കുക"
-  async: "അസിങ്ക്" 
+    # ✅ @sanjay-kv
+  async: "അസിങ്ക്"
+    # ✅ @sanjay-kv
   await: "പതീക്ഷിച്ചിരിക്കുക"
+    # ✅ @sanjay-kv
   break: "ഇടവേള"
+    # ✅ @sanjay-kv
   class: "ക്ലാസ്"
+    # ✅ @sanjay-kv
   continue: "തുടരുക"
-  def: "ഡിഎഫ്" 
+    # ✅ @sanjay-kv
+  def: "ഡിഎഫ്"
+    # ✅ @sanjay-kv
   del: "ഇല്ലാതാക്കുക"
-  elif: "എലിഫ" 
+    # ✅ @sanjay-kv
+  elif: "എലിഫ"
+    # ✅ @sanjay-kv
   else: "വേറെ"
+    # ✅ @sanjay-kv
   except: "പ്രതീക്ഷിക്കുന്നു"
+    # ✅ @sanjay-kv
   finally: "ഒടുവിൽ"
+    # ✅ @sanjay-kv
   for: "വേണ്ടി"
+    # ✅ @sanjay-kv
   from: "മുതൽ"
-  global:  "ഗ്ലോബൽ " 
+    # ✅ @sanjay-kv
+  global:  "ഗ്ലോബൽ "
+    # ✅ @sanjay-kv
   if: "എങ്കിൽ"
+    # ✅ @sanjay-kv
   import: "ഇറക്കുമതി"
-  in: "ഇൻ" 
+    # ✅ @sanjay-kv
+  in: "ഇൻ"
+    # ✅ @sanjay-kv
   is: "ആണ്"
-  lambda: "ലാമ്പടാ" 
-  nonlocal: "നോൺലോക്കൽ" 
+    # ✅ @sanjay-kv
+  lambda: "ലാമ്പടാ"
+    # ✅ @sanjay-kv
+  nonlocal: "നോൺലോക്കൽ"
+    # ✅ @sanjay-kv
   not: "അല്ല"
+    # ✅ @sanjay-kv
   or: "അഥവാ"
-  pass: "പാസ്" 
+    # ✅ @sanjay-kv
+  pass: "പാസ്"
+    # ✅ @sanjay-kv
   raise: "ഉയർത്തുക"
+    # ✅ @sanjay-kv
   return: "മടക്കം"
+    # ✅ @sanjay-kv
   try: "ശ്രമിക്കുക"
+    # ✅ @sanjay-kv
   while: "അതേസമയം"
+    # ✅ @sanjay-kv
   with: "കൂടെ"
+    # ✅ @sanjay-kv
   yield: "വരുമാനം"
+    # ✅ @sanjay-kv
 
 # << Built-In Functions >>
 
