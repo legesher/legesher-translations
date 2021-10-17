@@ -1248,41 +1248,41 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-False: "असत्य" # ✅    #✅
-None: "कुछ नहीं" # ❓ My suggestion : "कुछ नहीं" This seems better in the context of none as a datatype  #✅
-True: "सत्य" # ❓ My suggestion : "सत्य"  #✅
-and: "और" # ✅  #✅
-as: "के रूप में" # ✅  #✅
-assert: "दावा करना" # ❓ My suggestion : "दावा करना" This one aligns better with the meaning of assert used in Python which is to claim/ give a data type and not "जोर" which would mean force  #✅
-async: "अतुल्यकालिक" # ❓ Translation for asynchronous is "अतुल्यकालिक"  #✅
-await: "प्रतीक्षा करें" # ✅  #✅
-break: "तोड़ना" # ❓ My suggestion : "तोडना" or maybe "समाप्त करना" to better fit the context of ending a loop  #✅
-class: "वर्ग" # ✅  #✅
-continue: "जारी रखें" # ✅  #✅
-def: "परिभाषा करना" # ❓ My suggestion : "परिभाषा करना" since def stands for define  #✅ 
-del: "हटाना" # ❓ My suggestion : "हटाना" or "मिटाना". "डेल" is just the phonetic translation  #✅
-elif: "और अगर" # ❓ My suggestion : "अथवा अगर"  #✅
-else: "अन्य, अन्यथा" # ❓ My suggestion : "अन्यथा"  #✅
-except: "सिवाय" # ✅  #✅
-finally: "अंत में" # ✅  #✅
-for: "के लिए" # ✅  #✅
-from: "से" # ✅   #✅
-global:  "विश्वीय" # ❓ My suggestion : "विश्वीय"  #✅
-if: "यदि" # ✅   #✅
-import: "आयात" # ✅  #✅
-in: "में" # ✅   #✅
-is: "है" # ✅   #✅
-lambda: "लैम्ब्डा" # 🤔 "लैम्ब्डा" is just a phonetic translation   #✅
-nonlocal: "गैर स्थानीय" # ❓ My suggestion : "गैर स्थानीय". "नॉनलोकल" is just a phonetic translation of "nonlocal"   #✅
-not: "नहीं" # ✅    #✅
-or: "या" # ✅      #❓    my suggestion is "अथवा" and  "या" are true
-pass: "पास" # ✅   #✅
-raise: "उठाना" # ✅    #✅
-return: "प्रतिदान" # ❓ "प्रतिदान"    #❓ my suggestion:"वापसी"
-try: "प्रयास करना" # ✅ "प्रयास करना"   #✅
-while: "जब तक" ❓ Better Alternative: "जब तक" This fits better to the while loop definition, since while follows while(condition). "जब तक" literally translates to "till when" #✅
-with: "साथ" # ✅  # ✅
-yield: "उपज" # ✅  #✅
+False: "असत्य" # ✅    #✅  @179priyasoni
+None: "कुछ नहीं" # ❓ My suggestion : "कुछ नहीं" This seems better in the context of none as a datatype  #✅ @179priyasoni
+True: "सत्य" # ❓ My suggestion : "सत्य"  #✅ @179priyasoni
+and: "और" # ✅  #✅ @179priyasoni
+as: "के रूप में" # ✅  #✅ @179priyasoni
+assert: "दावा करना" # ❓ My suggestion : "दावा करना" This one aligns better with the meaning of assert used in Python which is to claim/ give a data type and not "जोर" which would mean force  #✅ @179priyasoni
+async: "अतुल्यकालिक" # ❓ Translation for asynchronous is "अतुल्यकालिक"  #✅ @179priyasoni
+await: "प्रतीक्षा करें" # ✅  #✅ @179priyasoni
+break: "तोड़ना" # ❓ My suggestion : "तोडना" or maybe "समाप्त करना" to better fit the context of ending a loop  #✅ @179priyasoni
+class: "वर्ग" # ✅  #✅ @179priyasoni
+continue: "जारी रखें" # ✅  #✅ @179priyasoni
+def: "परिभाषा करना" # ❓ My suggestion : "परिभाषा करना" since def stands for define  #✅  @179priyasoni
+del: "हटाना" # ❓ My suggestion : "हटाना" or "मिटाना". "डेल" is just the phonetic translation  #✅ @179priyasoni
+elif: "और अगर" # ❓ My suggestion : "अथवा अगर"  #✅ @179priyasoni
+else: "अन्य, अन्यथा" # ❓ My suggestion : "अन्यथा"  #✅ @179priyasoni
+except: "सिवाय" # ✅  #✅ @179priyasoni
+finally: "अंत में" # ✅  #✅ @179priyasoni
+for: "के लिए" # ✅  #✅ @179priyasoni
+from: "से" # ✅   #✅ @179priyasoni
+global:  "विश्वीय" # ❓ My suggestion : "विश्वीय"  #✅ @179priyasoni
+if: "यदि" # ✅   #✅ @179priyasoni
+import: "आयात" # ✅  #✅ @179priyasoni
+in: "में" # ✅   #✅ @179priyasoni
+is: "है" # ✅   #✅ @179priyasoni
+lambda: "लैम्ब्डा" # 🤔 "लैम्ब्डा" is just a phonetic translation   #✅ @179priyasoni
+nonlocal: "गैर स्थानीय" # ❓ My suggestion : "गैर स्थानीय". "नॉनलोकल" is just a phonetic translation of "nonlocal"   #✅ @179priyasoni
+not: "नहीं" # ✅    #✅ @179priyasoni
+or: "या" # ✅      #❓ my suggestion is "अथवा" and  "या" are true  @179priyasoni
+pass: "पास" # ✅   #✅ @179priyasoni
+raise: "उठाना" # ✅    #✅ @179priyasoni
+return: "प्रतिदान" # ❓ "प्रतिदान"    #❓ my suggestion:"वापसी" @179priyasoni
+try: "प्रयास करना" # ✅ "प्रयास करना"   #✅ @179priyasoni
+while: "जब तक" ❓ Better Alternative: "जब तक" This fits better to the while loop definition, since while follows while(condition). "जब तक" literally translates to "till when" #✅ @179priyasoni
+with: "साथ" # ✅  # ✅  @179priyasoni
+yield: "उपज" # ✅  #✅ @179priyasoni
 
 # << Built-In Functions >>
 
