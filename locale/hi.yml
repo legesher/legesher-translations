@@ -2270,7 +2270,7 @@ print: "प्रिंट"
   # ✅ @parammittal16
   # ❓ @iofall "छापना" but "print" is used in everyday speak as well, not sure whether translation is required here
   # ❓ @sshiv5768 "प्रिंट,छापन"
-  #  @Ln11211 "प्रिंट" is enough
+  # ✅ @Ln11211 "प्रिंट" is enough
 property: "संपत्ति"
   # ✅ @parammittal16
   # ❓ @iofall "स्वभाव" or maybe "लक्षण" or "विशेषता"
@@ -2281,11 +2281,11 @@ range: "रेंज"
   # ❓ @iofall "सीमा"
   # ❓ @sshiv5768 "सीमा"
   # ❓ @Ln11211 using "रेंज" would make better sense as it is often used as a looping structuer or to iterate
-repr: "repr" # 🤔 # 🤔 repr() returns the string representation of passes values, so its recommended to use it as it is or to translate it phonetically. @Ln11211
+repr: "repr"
   # ✅ @parammittal16
-  #  @iofall
+  # 🤔 @iofall
   #   @sshiv5768
-  #  @Ln11211
+  # 🤔 @Ln11211 repr() returns the string representation of passes values, so its recommended to use it as it is or to translate it phonetically
 reversed: "औंधा"
   # ✅ @parammittal16
   # ✅ @iofall
@@ -2336,7 +2336,7 @@ super: "उत्तम"
   # 🤔 @iofall "बढ़िया" or "उत्तम" is the correct translation but not sure if it should be used since the use of "super" keyword does not relate to its literal meaning. So keep it as "super" only
   #   @sshiv5768
   # ❓ @Ln11211 would recommend using "super" only
-tuple: "tuple" # ❓ Phonetic - "टपल" # ✅
+tuple: "tuple"
   # ✅ @parammittal16
   # ❓ @iofall Phonetic - "टपल"
   # ❓ @sshiv5768 "टपल"
@@ -2351,11 +2351,11 @@ vars: "जिसका"
   # ❓ @iofall "जिसका" is wrong. Variables are called as "चर" in Hindi Mathematics. This fits the usage of "vars" since it returns a dictionary of variables in a class instance. So "चर" should be used.
   # ❓ @sshiv5768 "चर"
   # ❓ @Ln11211 "चर"
-zip: "ज़िप" # 🤔 # 🤔 Would recommend using zip as it is a well known word and mostly in use. @Ln11211
+zip: "ज़िप"
   # ✅ @parammittal16
-  #  @iofall
+  # 🤔 @iofall
   #   @sshiv5768
-  #  @Ln11211
+  # 🤔 @Ln11211 Would recommend using zip as it is a well known word and mostly in use.
 __import__: "__आयात__"
   # ✅ @parammittal16
   # ✅ @iofall
