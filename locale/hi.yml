@@ -263,51 +263,67 @@ Null: "अमान्य"
 case: "मामला"
   # ❓ @sshiv5768 "स्थिति"
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 do: "करना"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 done: "किया हुआ"
   # ❓ @sshiv5768 "पूर्ण"
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 elif: "और अगर"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 else: "और"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ❓ @179priyasoni "अन्यथा" is better
 esac: "esac"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  #   @179priyasoni
 fi: "fi"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  #   @179priyasoni
 for: "के लिये"
   # ❓ @sshiv5768 Hindi translation is perfect but for programming perspective "दुहराओ" suits better.
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 function: "कार्य"
   # ❓ @sshiv5768 "रचना" suits better programmatically
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 if: "अगर"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 in: "में"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 select: "चयन"
   # ✅ @sshiv5768 "चुनना" can also be used
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 then: "फिर"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 time: "समय"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 until: "जब तक"
   # ❓ @sshiv5768 "तब तक"
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 while: "जबकि"
   # ❓ @sshiv5768 "जब तक"
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 
 # << Error Messages >>
 
@@ -318,99 +334,131 @@ while: "जबकि"
 auto: "स्वत:"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 double: "दोहरा"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 int: "पूर्णांक"
   # ✅ @sshiv5768
   # 🤔 @bhaveshgoyal182
+  # ✅ @179priyasoni
 struct: "संरचना"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 break: "विराम"
   # ✅ @sshiv5768
   # ❓ @bhaveshgoyal182 "तोड़ना"
+  # ✅ @179priyasoni
 else: "अन्य, और"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ❓ @179priyasoni "अन्यथा"
 long: "लंबा"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 switch: "स्विच"
   # ✅ @sshiv5768
   #❓ @bhaveshgoyal182 "बदलना"
+  #   @179priyasoni
 case: "स्थिति"
   # ✅ @sshiv5768
   #❓ @bhaveshgoyal182 "मामला"
+  #   @179priyasoni
 enum: "गणना, परिगणना"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 register: "सूची, दर्ज करना"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 typedef: "परिभाषा का प्रकार"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 char: "अक्षर"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 extern: "extern"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 return: "वापस"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 union: "संयोजन"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 const: "अचल"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 float: "फ्लोट"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 short: "शोर्ट, छोटा"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 unsigned: "अहस्ताक्षरित"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 continue: "चालू रखना, जारी रखें"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 for: "के लिये"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 signed: "साइंड, पर हस्ताक्षर किए"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 void: "शून्य, रिक्त"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 default: "डिफ़ॉल्ट"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 goto: "इस पर चलें"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 sizeof: "का आकार"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 volatile: "परिवर्तनशील"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 do: "करना"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 if: "अगर"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 static: "स्थिर"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 while: "जबकि"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @179priyasoni
 
 # << Error Messages >>
 
