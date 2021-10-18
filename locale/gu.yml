@@ -1248,41 +1248,41 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-False: "ખોટું" # ✅ # ✅ @136tejas #✅ @179priyasoni
-None: "કંઈ નહીં" # ✅ # ✅ @136tejas #✅  @179priyasoni
-True: "સાચું" # ✅ # ✅ @136tejas     #✅  @179priyasoni
-and: "અને" # ✅ # ✅ @136tejas       #✅  @179priyasoni
-as: "જેમ કે" # ❓ My suggestion: "તરીકે" # ✅ @136tejas "તરીકે" and "જેમ કે" both translations are true. #✅  @179priyasoni
-assert: "દાવો" # ✅ # ✅ @136tejas    #✅  @179priyasoni
-async: "async" # ❓ My suggestion: "અસુમેળ" # ❓ @136tejas "અસુમેળ" is better translation.  #❓  my suggestion:"અસમન્વય" @179priyasoni
-await: "રાહ જોવી" # ✅ # ✅ @136tejas   # ✅  @179priyasoni
-break: "વિરામ" # ❓ My suggestion: "તોડવું" is better for ending a loop # ❓ @136tejas "તોડવું"   # ✅  @179priyasoni
-class: "વર્ગ" # ✅ # ✅ @136tejas   # ✅  @179priyasoni
-continue: "ચાલુ રાખો" # ✅ # ✅ @136tejas  # ✅  @179priyasoni
-def: "Def" # ❓ My suggestion: "વ્યાખ્યા કરવી" is better for defining a function. # ❓ @136tejas "વ્યાખ્યાયીત કરવું"  #❓ my suggestion :"વ્યાખ્યાયીત કરવું" @179priyasoni
-del: "ડેલ" # ❓ My suggestion: "કાઢી નાખવું". "ડેલ is phonetic translation. # ❓ @136tejas "કાઢી નાખવું"  #❓ my suggestion:"કાઢી નાખવું" @179priyasoni
-elif: "એલિફ" # ❓ My suggestion: "અન્યથા જો" # ❓ @136tejas "બીજું જો" and "અન્યથા જો" both translations are true.#   my suggestion:"બીજું જો" @179priyasoni
-else: "બીજું" # 🤔 I think "નહિતો" looks perfect. # ❓ @136tejas "નહિતો"  #🤔 my suggestion:"નહિતર" and "નહિતો" @179priyasoni
-except: "સિવાય" # ✅ # ✅ @136tejas #✅ @179priyasoni
-finally: "છેવટે" # ✅ # ✅ @136tejas #✅ @179priyasoni
-for: "માટે" # ✅ # ✅ @136tejas      #✅ @179priyasoni
-from: "માંથી" # ✅ # ✅ @136tejas    #✅ @179priyasoni
-global: "વૈશ્વિક" # ✅ # ✅ @136tejas  #✅ @179priyasoni
-if: "જો" # ✅ # ✅ @136tejas        #✅  @179priyasoni
-import: "આયાત કરો" # ✅ # ✅ @136tejas  #✅ @179priyasoni
-in: "માં" # ✅ # ✅ @136tejas  #✅ @179priyasoni
-is: "છે" # ✅ # ✅ @136tejas   #✅ @179priyasoni
-lambda: "લેમ્બડા" # ✅ # ✅ @136tejas  
-nonlocal: "નોનલોકલ" # 🤔 I think "બિન સ્થાનિક" would be more suitable. "નોનલોકલ" is phonetic translation. # ❓ @136tejas "સ્થાનિક નહીં" and "બિન સ્થાનિક" both are suitable for nonlocal. #
-not: "નથી" #  ✅ # ❓ @136tejas "નહીં" is more suitable.  #❓ my suggestion:"નથી" and "નહીં" both are right
-or: "અથવા" #  ✅ # ✅ @136tejas #✅ @179priyasoni
-pass: "પસાર" # ❓ My suggestion: "પાસ" # 🤔 @136tejas 
-raise: "વધારો" # ❓ My suggestion: "ઊભું કરવું" is more suitable whenever we use try-except for error handling in Python. # 🤔 @136tejas 
-return: "પાછા" #  ✅ #  ✅ @136tejas #✅ @179priyasoni
-try: "પ્રયાસ કરો" #  ✅ #  ✅ @136tejas  #✅ @179priyasoni
-while: "જ્યારે" # ❓ My suggestion: "જ્યાં સુધી" is perfect because we use while as a loop. # ❓ @136tejas "જ્યાં સુધી"  
-with: "સાથે" # ✅ # ✅ @136tejas #✅ @179priyasoni
-yield: "ઉપજ" # ✅ # ✅ @136tejas  #✅ @179priyasoni
+False: "ખોટું" # ✅ @nik132-eng # ✅ @136tejas #✅ @179priyasoni
+None: "કંઈ નહીં" # ✅ @nik132-eng # ✅ @136tejas #✅  @179priyasoni
+True: "સાચું" # ✅ @nik132-eng # ✅ @136tejas     #✅  @179priyasoni
+and: "અને" # ✅ @nik132-eng # ✅ @136tejas       #✅  @179priyasoni
+as: "જેમ કે" # ❓ My suggestion: "તરીકે" @nik132-eng both are true  # ✅ @136tejas "તરીકે" and "જેમ કે" both translations are true. #✅  @179priyasoni
+assert: "દાવો" # ✅ @nik132-eng # ✅ @136tejas    #✅  @179priyasoni
+async: "અસુમેળ" # ✅ "અસુમેળ" @nik132-eng is proper  # ❓ @136tejas "અસુમેળ" is better translation.  #❓  my suggestion:"અસમન્વય" @179priyasoni
+await: "રાહ જોવી" # ✅ @nik132-eng # ✅ @136tejas   # ✅  @179priyasoni
+break: "વિરામ" # ❓ My suggestion: "તોડવું" is better for ending a loop # ✅ @nik132-eng # ❓ @136tejas "તોડવું"   # ✅  @179priyasoni
+class: "વર્ગ" # ✅ @nik132-eng # ✅ @136tejas   # ✅  @179priyasoni
+continue: "ચાલુ રાખો" # ✅ @nik132-eng # ✅ @136tejas  # ✅  @179priyasoni
+def: "વ્યાખ્યાયીત કરવું"  # ✅ @nik132-eng # ❓ My suggestion: "વ્યાખ્યા કરવી" is better for defining a function. # ❓ @136tejas "વ્યાખ્યાયીત કરવું"  #❓ my suggestion :"વ્યાખ્યાયીત કરવું" @179priyasoni
+del: "કાઢી નાખવું" # ❓ My suggestion: "કાઢી નાખવું". "ડેલ is phonetic translation. # ✅ @nik132-eng "કાઢી નાખવું"  # ❓ @136tejas "કાઢી નાખવું"  #❓ my suggestion:"કાઢી નાખવું" @179priyasoni
+elif: "અન્યથા જો" # ❓ My suggestion: "અન્યથા જો" #my suggestion is "અન્યથા જો" # ❓ @136tejas "બીજું જો" and "અન્યથા જો" both translations are true.#   my suggestion:"બીજું જો" @179priyasoni
+else: "બીજું" # 🤔 I think "નહિતો" looks perfect. # @nik132-eng "નહિતો" # ❓ @136tejas "નહિતો"  #🤔 my suggestion:"નહિતર" and "નહિતો" @179priyasoni
+except: "સિવાય" # ✅@nik132-eng # ✅ @136tejas #✅ @179priyasoni
+finally: "છેવટે" # ✅ @nik132-eng # ✅ @136tejas #✅ @179priyasoni
+for: "માટે" # ✅ @nik132-eng # ✅ @136tejas      #✅ @179priyasoni
+from: "માંથી" # ✅ @nik132-eng # ✅ @136tejas    #✅ @179priyasoni
+global: "વૈશ્વિક" # ✅ @nik132-eng # ✅ @136tejas  #✅ @179priyasoni
+if: "જો" # ✅ @nik132-eng # ✅ @136tejas        #✅  @179priyasoni
+import: "આયાત કરો" # ✅ @nik132-eng # ✅ @136tejas  #✅ @179priyasoni
+in: "માં" # ✅ @nik132-eng # ✅ @136tejas  #✅ @179priyasoni
+is: "છે" # ✅ @nik132-eng # ✅ @136tejas   #✅ @179priyasoni
+lambda: "લેમ્બડા" # ✅ @nik132-eng # ✅ @136tejas  
+nonlocal: "નોનલોકલ" # 🤔 I think "બિન સ્થાનિક" would be more suitable. "નોનલોકલ" is phonetic translation. # ❓ @nik132-eng "બિન સ્થાનિક" # ❓ @136tejas "સ્થાનિક નહીં" and "બિન સ્થાનિક" both are suitable for nonlocal. #
+not: "નથી" #  ✅ @nik132-eng # ❓ @136tejas "નહીં" is more suitable.  #❓ my suggestion:"નથી" and "નહીં" both are right
+or: "અથવા" #  ✅ @nik132-eng # ✅ @136tejas #✅ @179priyasoni
+pass: "પસાર" # ❓ My suggestion: "પાસ" # ✅ @nik132-eng "પસાર" is better # 🤔 @136tejas 
+raise: "વધારો" # ❓ My suggestion: "ઊભું કરવું" is more suitable whenever we use try-except for error handling in Python. # 🤔 @nik132-eng # 🤔 @136tejas 
+return: "પાછા" #  ✅ @nik132-eng #  ✅ @136tejas #✅ @179priyasoni
+try: "પ્રયાસ કરો" #  ✅ @nik132-eng #  ✅ @136tejas  #✅ @179priyasoni
+while: "જ્યારે" # ❓ My suggestion: "જ્યાં સુધી" is perfect because we use while as a loop. # ❓ @nik132-eng "જ્યાં સુધી" # ❓ @136tejas "જ્યાં સુધી"  
+with: "સાથે" # ✅ @nik132-eng # ✅ @136tejas #✅ @179priyasoni
+yield: "ઉપજ" # ✅ @nik132-eng # ✅ @136tejas  #✅ @179priyasoni
 
 # << Built-In Functions >>
 
