@@ -911,53 +911,53 @@ _: "_" #_(underscore)
 # ----------------------------
 # << Keywords >>
 arguments: "ארגומנטים"
-await: "המתן"
-break: "לשבור"
-case: "מקרה"
-catch: "תפוס"
-class: "מחלקה"
-const: "קבוע"
-continue: "המשך"
+await: "המתן" ✅ @tomerpacific
+break: "לשבור" ❓ @tomerpacific - Should be "שבור" as this is the action taken
+case: "מקרה" ✅ @tomerpacific
+catch: "תפוס" ✅ @tomerpacific
+class: "מחלקה" ✅ @tomerpacific
+const: "קבוע" ✅ @tomerpacific
+continue: "המשך" ✅ @tomerpacific
 debugger: "דיבאגר"
-default: "ברירת_מחדל"
-delete: "מחק"
-do: "תעשה"
-else: "אחרת"
-enum: ""
+default: "ברירת_מחדל" ✅ @tomerpacific
+delete: "מחק" ✅ @tomerpacific
+do: "תעשה" ✅ @tomerpacific
+else: "אחרת" ✅ @tomerpacific
+enum: "" 🤔 @tomerpacific - There are no enums in JavaScript
 eval: "שערך"
-export: "יצוא"
-extends: "הרחב"
-false: "שקר"
-finally: "לבסוף"
-for: "לכל"
-from: "מ"
-function: "פעולה"
-if: "אם"
+export: "יצוא" ✅ @tomerpacific
+extends: "הרחב" ✅ @tomerpacific
+false: "שקר" ✅ @tomerpacific
+finally: "לבסוף" ✅ @tomerpacific
+for: "לכל" ✅ @tomerpacific
+from: "מ" ✅ @tomerpacific
+function: "פעולה" ✅ @tomerpacific
+if: "אם" ✅ @tomerpacific
 implements: "מממש"
-import: "ייבוא"
-in: "ב"
-instanceof: "מופע של"
+import: "ייבוא" ✅ @tomerpacific
+in: "ב" ❓ @tomerpacific - Consider using "בתוך"
+instanceof: "מופע_של"
 interface: "ממשק"
 let: "משתנה"
-new: "חדש"
-null: "כלום"
-package: "חבילה"
-private: "פרטי"
-protected: "מוגן"
-public: "ציבורי"
-return: "החזר"
-static: "סטטי"
+new: "חדש" ✅ @tomerpacific
+null: "כלום" ✅ @tomerpacific
+package: "חבילה" ✅ @tomerpacific
+private: "פרטי" ✅ @tomerpacific
+protected: "מוגן" ✅ @tomerpacific
+public: "ציבורי" ✅ @tomerpacific
+return: "החזר" ✅ @tomerpacific
+static: "סטטי" ✅ @tomerpacific
 super: "קריאה_למחלקת_אם"
 switch: "סנן"
-this: "זה"
-throw: "זרוק"
-true: "אמת"
-try: "נסה"
+this: "זה" ✅ @tomerpacific
+throw: "זרוק" ✅ @tomerpacific
+true: "אמת" ✅ @tomerpacific
+try: "נסה" ✅ @tomerpacific
 typeof: "פורמט"
-var: "משתנה_כללי"
-void: "ריק"
-while: "כל_עוד"
-with: "עם"
+var: "משתנה_כללי" ✅ @tomerpacific
+void: "ריק" ✅ @tomerpacific
+while: "כל_עוד" ✅ @tomerpacific
+with: "עם" ✅ @tomerpacific
 yield: "השהה"
 # << Error Messages >>
 
