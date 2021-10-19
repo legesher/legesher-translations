@@ -1248,41 +1248,146 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: "తప్పు" # ❓ May be a better translation is required. Although the translation is correct, when it comes to programming it might not be correct. అసత్యం can be considered. # ✅ seems alright. @Ln11211
-  None: "ఏదీ లేదు" # ✅ # ✅
-  True: "నిజం" # ✅ # ✅
-  and: "మరియు" # ✅ # ✅
-  as: "గా" # ✅ # ✅
-  assert: "నొక్కి చెప్పండి" # ❓ May be a better translation is required. కచ్చితంగా can be considered in programming perscpective. # ✅
-  async: "" #🤔 A translation is difficult for this, but "అసమకాలిక" is the translation for "Asynchronous" and can be used @Ln11211.
-  await: "వేచిఉండు" # ✅ # ✅
-  break: "బయటకి వచ్చుట" # ❓ May be considered as better translation in programming perscpective. # ✅
-  class: "తరగతి" # ✅ # ✅
-  continue: "కొనసాగించు" # ✅ # ✅
-  def: "వివరణ" # ✅ # ✅
-  del: "తొలగించు" # ✅ # ✅
-  elif: "లేకుంటే" # ✅ # ✅
-  else: "లేకపోతే" # ✅ # ✅
-  except: "ఇది తప్ప" # ✅ # ✅
-  finally: "చివరకు" # ✅# ✅
+  False: "తప్పు"
+    # ✅ @nagendrady
+    # ❓ @manojkrishnak May be a better translation is required. Although the translation is correct, when it comes to programming it might not be correct. అసత్యం can be considered.
+    # ✅ @Ln11211 seems alright
+  None: "ఏదీ లేదు"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  True: "నిజం"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  and: "మరియు"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  as: "గా"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  assert: "నొక్కి చెప్పండి"
+    # ✅ @nagendrady
+    # ❓ @manojkrishnak May be a better translation is required. కచ్చితంగా can be considered in programming perscpective.
+    # ✅ @Ln11211
+  async: ""
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 🤔 @Ln11211 A translation is difficult for this, but "అసమకాలిక" is the translation for "Asynchronous" and can be used
+  await: "వేచిఉండు"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  break: "బయటకి వచ్చుట"
+    # ✅ @nagendrady
+    # ❓ @manojkrishnak May be considered as better translation in programming perscpective.
+    # ✅ @Ln11211
+  class: "తరగతి"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  continue: "కొనసాగించు"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  def: "వివరణ"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  del: "తొలగించు"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  elif: "లేకుంటే"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  else: "లేకపోతే"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  except: "ఇది తప్ప"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  finally: "చివరకు"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
   for: "దానికోసం" # ❓ May be considered as better translation in programming perscpective. # ❓ Maybe "కోఱకు" seems apt. @Ln11211
-  from: "నుండి" # ✅ # ✅
-  global:  "ప్రపంచ" # ✅ # ✅
-  if: "అయితే" # ✅ # ✅
-  import: "దిగుమతి" # ✅ # ✅
-  in: "లో" # ✅ # ✅
-  is: "ఉంది" # ✅ # ✅
-  lambda: "లాంబ్డా" # ✅ This is true translation of word; Although we cannot translate this word. # ✅
-  nonlocal: "" #🤔 A translation is difficult for this, but "నాన్ లోకల్" seems ok. @Ln11211.
-  not: "లేదు" # ✅ # ✅
-  or: "లేదా" # ✅ # ✅
-  pass: "పాస్" # ❓ Here true translation is written, there is an better alternative, that's అందించుట. # ✅
-  raise: "పెంచండి" # ✅ # ✅
-  return: "తిరిగి వచ్చు" # ❓ జవాబు ఇచ్చు, బయటకి వచ్చుట may be considered as better translations depending upon the usage(return some value or come out of the loop/if condition). # ❓ "తిరిగిఇచ్చుట" seems apt for the "return" keyword @Ln11211.
-  try: "ప్రయత్నించండి" # ✅ #❓ "ప్రత్నించు" is better translation for "try" @Ln11211
-  while: "అయితే" # ✅ # ✅
-  with: "తో" # ✅ # ✅
-  yield: "లభించు" # ❓ May be a better translation is required.  # ❓ Would recommend using "లబించుట", "లభించు" is also fine. @Ln11211 
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  from: "నుండి"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  global:  "ప్రపంచ"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  if: "అయితే"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  import: "దిగుమతి"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  in: "లో"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  is: "ఉంది"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  lambda: "లాంబ్డా"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak This is true translation of word; Although we cannot translate this word
+    # ✅ @Ln11211
+  nonlocal: ""
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 🤔 @Ln11211 A translation is difficult for this, but "నాన్ లోకల్" seems ok.
+  not: "లేదు"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  or: "లేదా"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  pass: "పాస్"
+    # ✅ @nagendrady
+    # ❓ @manojkrishnak Here true translation is written, there is an better alternative, that's అందించుట.
+    # ✅ @Ln11211
+  raise: "పెంచండి"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  return: "తిరిగి వచ్చు"
+    # ✅ @nagendrady
+    # ❓ @manojkrishnak జవాబు ఇచ్చు, బయటకి వచ్చుట may be considered as better translations depending upon the usage(return some value or come out of the loop/if condition).
+    # ❓ @Ln11211 "తిరిగిఇచ్చుట" seems apt for the "return" keyword
+  try: "ప్రయత్నించండి"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ❓ @Ln11211 "ప్రత్నించు" is better translation for "try"
+  while: "అయితే"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  with: "తో"
+    # ✅ @nagendrady
+    # ✅ @manojkrishnak
+    # ✅ @Ln11211
+  yield: "లభించు"
+    # ✅ @nagendrady
+    # ❓ @manojkrishnak May be a better translation is required.
+    # ❓ @Ln11211 Would recommend using "లబించుట", "లభించు" is also fine.
 
 # << Built-In Functions >>
 
