@@ -14,36 +14,60 @@ language-abbreviation: "gu"
 # NOTE: All keywords are capitalized for Atom because it is used for
 # key information found in comments within the editor
   NOTE: "નોંધ"
+    # ✅ @179priyasoni
   INFO: "માહિતી"
+    # ✅ @179priyasoni
   IDEA: "વિચાર"
+    # ✅ @179priyasoni
   DEBUG: ""
+    # 👀 @179priyasoni
   REMOVE: "દૂર કરવું"
+    # ✅ @179priyasoni
   OPTIMIZE: ""
+    # 👀 @179priyasoni
   REVIEW: "સમીક્ષા"
+    # ✅ @179priyasoni
   HACK: ""
+    # 👀 @179priyasoni
   UNDONE: "પૂર્ણ ના થવું"
+    # ✅ @179priyasoni
   TODO: "આ  કરવું"
+    # ✅ @179priyasoni
   REFACTOR: ""
+    # 👀 @179priyasoni
   DEPRECATED: "નાપસંદ"
+    # ✅ @179priyasoni
   TASK: "કાર્ય"
+    # ✅ @179priyasoni
   CHGME: ""
+    # 👀 @179priyasoni
   NOTREACHED: "સુધી પહોંચ્યું નથી"
+    # ✅ @179priyasoni
   WTF: "અશબ્દ"
+    # ✅ @179priyasoni
   BUG: "ભૂલ"
+    # ✅ @179priyasoni
   ERROR: "ભૂલ"
+    # ✅ @179priyasoni
   OMG: "હે રામ"
+    # ✅ @179priyasoni
   ERR: ""
+    # 👀 @179priyasoni
   OMFGRLY: ""
+    # 👀 @179priyasoni
   WARNING: "ચેતવણી"
+    # ✅ @179priyasoni
   WARN: "ચેતવણી આપવી"
+    # ✅ @179priyasoni
   BROKEN: "તૂટેલું"
+    # ✅ @179priyasoni
 
 # ----------------------
 # |   LANGUAGE: AGDA   |
 # ----------------------
 # NOTE: https://agda.readthedocs.io/en/v2.5.4.2/index.html
 # << Keywords >>
-  abstract: "સાર"
+  abstract: ""
   codata: ""
   coinductive: ""
   constructor: ""
@@ -99,26 +123,47 @@ language-abbreviation: "gu"
 
 # << Keywords >>
 do: "કરવું" # (part of do-while statement)
+  # ✅ @179priyasoni
 while: "જ્યારે"
+  # ✅ @179priyasoni
 for: "માટે"
+  # ✅ @179priyasoni
 if: "જો" # (part of if-else statement)
+  # ✅ @179priyasoni
 else: "નહિ તો" # (part of if-else statement)
+  # ✅ @179priyasoni
 switch: ""
+  # 👀 @179priyasoni
 break: "વિરામ" # (part of the switch statement or for/while statements)
+  # ✅ @179priyasoni
 case: "બાબત" # (part of the switch statement)
+  # ✅ @179priyasoni
 continue: "ચાલુ રાખવું" # (part of for/while statements)
+  # ✅ @179priyasoni
 default: "મૂળભૂત" # (part of switch statement)
+  # ✅ @179priyasoni
 function: "કાર્ય"
+  # ✅ @179priyasoni
 procedure: "પ્રક્રિયા"
+  # ✅ @179priyasoni
 return: "પાછું આપવું"
+  # ✅ @179priyasoni
 local: "સ્થાનિક"
+  # ✅ @179priyasoni
 global: "વૈશ્વિક"
+  # ✅ @179priyasoni
 static: ""
+  # 👀 @179priyasoni
 typeof: "પ્રકાર"
+  # ✅ @179priyasoni
 NOT: "નથી"
+  # ✅ @179priyasoni
 AND: "અને"
+  # ✅ @179priyasoni
 OR: "અથવા"
+  # ✅ @179priyasoni
 Null: "ખાલી"
+  # ✅ @179priyasoni
 # << Error Messages >>
 
 # ----------------------
@@ -126,21 +171,37 @@ Null: "ખાલી"
 # ----------------------
 # << Keywords >>
 case: "મુકદ્દમો"
+  # ✅ @179priyasoni
 do: "કરવું"
+  # ✅ @179priyasoni
 done: "થઈ ગયું"
+  # ✅ @179priyasoni
 elif: "એલિફ"
+  # ✅ @179priyasoni
 else: "નહિતો"
+  # ✅ @179priyasoni
 esac: ""
+  # 👀 @179priyasoni
 fi: ""
+  # 👀 @179priyasoni
 for: "માટે"
+  # ✅ @179priyasoni
 function: "કાર્ય"
+  # ✅ @179priyasoni
 if: "જો"
+  # ✅ @179priyasoni
 in: "ની અંદર"
+  # ✅ @179priyasoni
 select: "પસંદ કરવું"
+  # ✅ @179priyasoni
 then: "પછી"
+  # ✅ @179priyasoni
 time: "સમય"
+  # ✅ @179priyasoni
 until: "ત્યાં સુધી"
+  # ✅ @179priyasoni
 while: "જ્યારે"
+  # ✅ @179priyasoni
 
 # << Error Messages >>
 
@@ -149,37 +210,69 @@ while: "જ્યારે"
 # ----------------------
 # << Keywords >>
 auto: "સ્વયં"
+  # ✅ @179priyasoni
 double: "બમણું"
+  # ✅ @179priyasoni
 int: "પૂર્ણાંક"
+  # ✅ @179priyasoni
 struct: "માળખું"
+  # ✅ @179priyasoni
 break: "વિરામ"
+  # ✅ @179priyasoni
 else: "નહિતો"
+  # ✅ @179priyasoni
 long: "લાંબુ"
+  # ✅ @179priyasoni
 switch: "સ્વિચ"
+  # ✅ @179priyasoni
 case: "મુકદ્દમો"
+  # ✅ @179priyasoni
 enum: "ઇ સંખ્યા"
+  # ✅ @179priyasoni
 register: "નોંધણી"
+  # ✅ @179priyasoni
 typedef: ""
+  # 👀 @179priyasoni
 char: "મૂળાક્ષર"
+  # ✅ @179priyasoni
 extern: "બાહ્ય"
+  # ✅ @179priyasoni
 return: "પાછું આપવું"
+  # ✅ @179priyasoni
 union: "સંઘ"
+  # ✅ @179priyasoni
 const: "અચળ"
+  # ✅ @179priyasoni
 float: "અપૂર્ણાંક"
+  # ✅ @179priyasoni
 short: "ટુંકું"
+  # ✅ @179priyasoni
 unsigned: "સહી વગરનું"
+  # ✅ @179priyasoni
 continue: "ચાલુ રાખવું"
+  # ✅ @179priyasoni
 for: "માટે"
+  # ✅ @179priyasoni
 signed: "હસ્તાક્ષર કર્યા"
+  # ✅ @179priyasoni
 void: "શૂન્ય"
+  # ✅ @179priyasoni
 default: "મૂળભૂત"
+  # ✅ @179priyasoni
 goto: "પર જાઓ"
+  # ✅ @179priyasoni
 sizeof: "નું કદ"
+  # ✅ @179priyasoni
 volatile: "અસ્થિર"
+  # ✅ @179priyasoni
 do: "કરવું"
+  # ✅ @179priyasoni
 if: "જો"
+  # ✅ @179priyasoni
 static: "સ્થિર"
+  # ✅ @179priyasoni
 while: "જ્યારે"
+  # ✅ @179priyasoni
 
 # << Error Messages >>
 
@@ -1248,113 +1341,564 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-False: "ખોટું" # ✅ # ✅ @136tejas #✅ @179priyasoni
-None: "કંઈ નહીં" # ✅ # ✅ @136tejas #✅  @179priyasoni
-True: "સાચું" # ✅ # ✅ @136tejas     #✅  @179priyasoni
-and: "અને" # ✅ # ✅ @136tejas       #✅  @179priyasoni
-as: "જેમ કે" # ❓ My suggestion: "તરીકે" # ✅ @136tejas "તરીકે" and "જેમ કે" both translations are true. #✅  @179priyasoni
-assert: "દાવો" # ✅ # ✅ @136tejas    #✅  @179priyasoni
-async: "async" # ❓ My suggestion: "અસુમેળ" # ❓ @136tejas "અસુમેળ" is better translation.  #❓  my suggestion:"અસમન્વય" @179priyasoni
-await: "રાહ જોવી" # ✅ # ✅ @136tejas   # ✅  @179priyasoni
-break: "વિરામ" # ❓ My suggestion: "તોડવું" is better for ending a loop # ❓ @136tejas "તોડવું"   # ✅  @179priyasoni
-class: "વર્ગ" # ✅ # ✅ @136tejas   # ✅  @179priyasoni
-continue: "ચાલુ રાખો" # ✅ # ✅ @136tejas  # ✅  @179priyasoni
-def: "Def" # ❓ My suggestion: "વ્યાખ્યા કરવી" is better for defining a function. # ❓ @136tejas "વ્યાખ્યાયીત કરવું"  #❓ my suggestion :"વ્યાખ્યાયીત કરવું" @179priyasoni
-del: "ડેલ" # ❓ My suggestion: "કાઢી નાખવું". "ડેલ is phonetic translation. # ❓ @136tejas "કાઢી નાખવું"  #❓ my suggestion:"કાઢી નાખવું" @179priyasoni
-elif: "એલિફ" # ❓ My suggestion: "અન્યથા જો" # ❓ @136tejas "બીજું જો" and "અન્યથા જો" both translations are true.#   my suggestion:"બીજું જો" @179priyasoni
-else: "બીજું" # 🤔 I think "નહિતો" looks perfect. # ❓ @136tejas "નહિતો"  #🤔 my suggestion:"નહિતર" and "નહિતો" @179priyasoni
-except: "સિવાય" # ✅ # ✅ @136tejas #✅ @179priyasoni
-finally: "છેવટે" # ✅ # ✅ @136tejas #✅ @179priyasoni
-for: "માટે" # ✅ # ✅ @136tejas      #✅ @179priyasoni
-from: "માંથી" # ✅ # ✅ @136tejas    #✅ @179priyasoni
-global: "વૈશ્વિક" # ✅ # ✅ @136tejas  #✅ @179priyasoni
-if: "જો" # ✅ # ✅ @136tejas        #✅  @179priyasoni
-import: "આયાત કરો" # ✅ # ✅ @136tejas  #✅ @179priyasoni
-in: "માં" # ✅ # ✅ @136tejas  #✅ @179priyasoni
-is: "છે" # ✅ # ✅ @136tejas   #✅ @179priyasoni
-lambda: "લેમ્બડા" # ✅ # ✅ @136tejas  
-nonlocal: "નોનલોકલ" # 🤔 I think "બિન સ્થાનિક" would be more suitable. "નોનલોકલ" is phonetic translation. # ❓ @136tejas "સ્થાનિક નહીં" and "બિન સ્થાનિક" both are suitable for nonlocal. #
-not: "નથી" #  ✅ # ❓ @136tejas "નહીં" is more suitable.  #❓ my suggestion:"નથી" and "નહીં" both are right
-or: "અથવા" #  ✅ # ✅ @136tejas #✅ @179priyasoni
-pass: "પસાર" # ❓ My suggestion: "પાસ" # 🤔 @136tejas 
-raise: "વધારો" # ❓ My suggestion: "ઊભું કરવું" is more suitable whenever we use try-except for error handling in Python. # 🤔 @136tejas 
-return: "પાછા" #  ✅ #  ✅ @136tejas #✅ @179priyasoni
-try: "પ્રયાસ કરો" #  ✅ #  ✅ @136tejas  #✅ @179priyasoni
-while: "જ્યારે" # ❓ My suggestion: "જ્યાં સુધી" is perfect because we use while as a loop. # ❓ @136tejas "જ્યાં સુધી"  
-with: "સાથે" # ✅ # ✅ @136tejas #✅ @179priyasoni
-yield: "ઉપજ" # ✅ # ✅ @136tejas  #✅ @179priyasoni
+False: "ખોટું"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+None: "કંઈ નહીં"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+True: "સાચું"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+and: "અને"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+as: "જેમ કે"
+  # ✅ @bvishal8510
+  # ❓ @sshiv5768 "તરીકે"
+  # ✅ @136tejas "તરીકે" and "જેમ કે" both translations are true
+  # ✅ @179priyasoni
+  # 👀 both are true
+assert: "દાવો"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+async: "async"
+  # ✅ @bvishal8510
+  # ❓ @sshiv5768 "અસુમેળ"
+  # ❓ @136tejas "અસુમેળ" is better translation
+  # ❓ @179priyasoni "અસમન્વય"
+  # ✅ @nik132-eng "અસુમેળ" is proper
+await: "રાહ જોવી"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+break: "વિરામ"
+  # ✅ @bvishal8510
+  # ❓ @sshiv5768 "તોડવું" is better for ending a loop
+  # ❓ @136tejas "તોડવું"
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+class: "વર્ગ"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+continue: "ચાલુ રાખો"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+def: "def"
+  # ✅ @bvishal8510
+  # ❓ @sshiv5768 "વ્યાખ્યા કરવી" is better for defining a function.
+  # ❓ @136tejas "વ્યાખ્યાયીત કરવું"
+  # ❓ @179priyasoni "વ્યાખ્યાયીત કરવું"
+  # ✅ @nik132-eng "વ્યાખ્યાયીત કરવું"
+del: "ડેલ"
+  # ✅ @bvishal8510
+  # ❓ @sshiv5768 "કાઢી નાખવું". "ડેલ is phonetic translation.
+  # ❓ @136tejas "કાઢી નાખવું"
+  # ❓ @179priyasoni "કાઢી નાખવું"
+  # ✅ @nik132-eng "કાઢી નાખવું"
+elif: "એલિફ"
+  # ✅ @bvishal8510
+  # ❓ @sshiv5768 "અન્યથા જો"
+  # ❓ @136tejas "બીજું જો" and "અન્યથા જો" both translations are true
+  # ❓ @179priyasoni "બીજું જો"
+  # ❓ @nik132-eng "અન્યથા જો"
+else: "બીજું"
+  # ✅ @bvishal8510
+  # 🤔 @sshiv5768 I think "નહિતો" looks perfect.
+  # ❓ @136tejas "નહિતો"
+  # 🤔 @179priyasoni "નહિતર" and "નહિતો"
+  # 👀 @nik132-eng "નહિતો"
+except: "સિવાય"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+finally: "છેવટે"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+for: "માટે"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+from: "માંથી"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+global: "વૈશ્વિક"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+if: "જો"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+import: "આયાત કરો"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+in: "માં"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+is: "છે"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+lambda: "લેમ્બડા"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # 👀 @179priyasoni
+  # ✅ @nik132-eng
+nonlocal: "નોનલોકલ"
+  # ✅ @bvishal8510
+  # 🤔 @sshiv5768 I think "બિન સ્થાનિક" would be more suitable. "નોનલોકલ" is phonetic translation.
+  # ❓ @136tejas "સ્થાનિક નહીં" and "બિન સ્થાનિક" both are suitable for nonlocal.
+  # 👀 @179priyasoni
+  # ❓ @nik132-eng "બિન સ્થાનિક"
+not: "નથી"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ❓ @136tejas "નહીં" is more suitable
+  # ❓ @179priyasoni "નથી" and "નહીં" both are right
+  # ✅ @nik132-eng
+or: "અથવા"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+pass: "પસાર"
+  # ✅ @bvishal8510
+  # ❓ @sshiv5768 "પાસ"
+  # 🤔 @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng "પસાર" is better
+raise: "વધારો"
+  # ✅ @bvishal8510
+  # ❓ @sshiv5768 "ઊભું કરવું" is more suitable whenever we use try-except for error handling in Python.
+  # 🤔 @136tejas
+  # ✅ @179priyasoni
+  # 🤔 @nik132-eng
+return: "પાછા"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+try: "પ્રયાસ કરો"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+while: "જ્યારે"
+  # ✅ @bvishal8510
+  # ❓ @sshiv5768 "જ્યાં સુધી" is perfect because we use while as a loop
+  # ❓ @136tejas "જ્યાં સુધી"
+  # 👀 @179priyasoni
+  # ❓ @nik132-eng "જ્યાં સુધી"
+with: "સાથે"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
+yield: "ઉપજ"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # ✅ @136tejas
+  # ✅ @179priyasoni
+  # ✅ @nik132-eng
 
 # << Built-In Functions >>
 
-abs: "એબીએસ" # ❓ I think "સંપૂર્ણ" fits better for abs, which returns absolute value. # @Nidhir2k1
-all: "બધા" # ✅ # ✅ @Nidhir2k1
-any: "કોઈપણ" # ✅ # ✅ @Nidhir2k1
-ascii: "ascii" # ✅ # ✅@Nidhir2k1
-bin: "ડબ્બા" # ❓ I think "દ્વિસંગી" is perfect for bin because "ડબ્બા" represents boxes, which is not meaningful. # ✅ @Nidhir2k1
-bool: "બુલ" # ✅ # ✅ @Nidhir2k1 
-breakpoint: "બ્રેકપોઇન્ટ" # ❓ I think "વિરામ બિંદુ" suits better than "બ્રેકપોઇન્ટ". #❓ I think અલ્પવિરામ is better @Nidhir2k1
-bytearray: "બાયટ્રે" # ✅ #🤔 Dont think there is a translation  @Nidhir2k1
-bytes: "બાઇટ્સ" # ✅ # ✅ @Nidhir2k1
-callable: "બોલાવવા યોગ્ય" # ✅ # ✅ @Nidhir2k1
-chr: "chr" # ✅ # ✅ @Nidhir2k1  
-classmethod: "વર્ગમૂળ" # ✅ # ✅@Nidhir2k1
-compile: "સંકલન" # ✅ # ✅ @Nidhir2k1
-complex: "જટિલ" # ✅ # ✅ @Nidhir2k1
-delattr: "delattr" # ❓ I think phonetic translation will not work here, "લક્ષણ હટાવવા" fits better. #  ❓ Agree with "લક્ષણ હટાવવા" @Nidhir2k1
-dict: "ડિક" # ❓ "કોશ" or "શબ્દકોશ" is perfect translation, because we use it as dictionary. #❓ "શબ્દકોશ" suits better  @Nidhir2k1
-dir: "dir" # 🤔 Maybe "નિર્દેશિકા" # ❓ નિર્દેશિક translates it well  @Nidhir2k1
-divmod: "divmod" # 🤔 maybe "વિભાગ મોડ"  #🤔 @Nidhir2k1
-enumerate: "ગણતરી કરવી" # ✅ # ✅ or you use ગણવું @Nidhir2k1
-eval: "ઇવલ" # ❓ "મૂલ્યાંકન" is better translation for eval. # ❓ "મૂલ્યાંકન" is better translation @Nidhir2k1
-exec: "એક્ઝેક" # 🤔 # 🤔 @Nidhir2k1
-filter: "ફિલ્ટર" # ✅  # @Nidhir2k1
-float: "ફ્લોટ" # ✅ # ✅ @Nidhir2k1
-format: "બંધારણ" # ✅ # ✅ @Nidhir2k1
-frozenset: "સ્થિર" # ❓ "સ્થિર સમૂહ" is better translation for frozenset. # ✅ @Nidhir2k1
-getattr: "getattr" # 🤔 maybe "ગુણ પ્રાપ્ત કરવા" # @Nidhir2k1
-globals: "ગ્લોબલ્સ" # ❓ "વૈશ્વિક" is better translation for globals. # 🤔 @Nidhir2k1
-hasattr: "ઉતાવળ કરવી" # ❓ "ગુણ હોવા" or "વિશેષતા હોવી" # 🤔 @Nidhir2k1
-hash: "હેશ" # ✅ # ✅ @Nidhir2k1
-help: "મદદ" # ✅ # ✅  @Nidhir2k1
-hex: "હેક્સ" # ✅ # ✅ @Nidhir2k1
-id: "આઈડી" # ✅ # ✅ @Nidhir2k1
-input: "ઇનપુટ" # ❓ maybe "દાખલ કરવું" #  ❓  "દાખલ કરવું" suits better  @Nidhir2k1
-int: "પૂર્ણાંક" # ✅ # ✅ @Nidhir2k1
-isinstance: "isinstance" # ❓ "ઉદાહરણ તરીકે" is better translation for ininstance. # 🤔 @Nidhir2k1
-issubclass: "ઇસ્યુબક્લાસ" # ❓ "પેટા વર્ગ છે" is better translation for issubclass. #❓ "પેટા વર્ગ છે"  @Nidhir2k1
-iter: "તે" # 🤔 # ❓ પુનરાવર્તન @Nidhir2k1
-len: "લેન" # ❓ "લંબાઈ" is better translation. # ❓ "લંબાઈ"  @Nidhir2k1
-list: "યાદી" # ✅ # ✅ @Nidhir2k1
-locals: "સ્થાનિકો" # ✅ # ✅ @Nidhir2k1
-map: "નકશો" # ✅ # ✅ @Nidhir2k1
-max: "મહત્તમ" # ✅ # ✅ @Nidhir2k1
-memoryview: "મેમરીવ્યુ" # 🤔 # 🤔 @Nidhir2k1
-min: "મિનિટ" # ❓ "ન્યૂનતમ" is better translation for min. # ❓ લઘુત્તમ is also a possible @Nidhir2k1
-next: "આગળ" # ✅ # ✅ @Nidhir2k1
-object: "objectબ્જેક્ટ" # ❓ "વસ્તુ" # ❓ "વસ્તુ" fits better @Nidhir2k1
-oct: "ઓક્ટો" # ✅ # ✅  @Nidhir2k1
-open: "ખુલ્લા" # ✅ #  ✅ @Nidhir2k1
-ord: "ઓર્ડર" # ✅  # ✅ @Nidhir2k1
-pow: "પાવ" # ❓ "ઘાતાંક" or "વદી" # ❓ "વદી" @Nidhir2k1
-print: "છાપો" # ✅ # ✅ or you can use લખો..though it changes the real translation but makes more sense for print function @Nidhir2k1
-property: "મિલકત" # ✅ # ✅ @Nidhir2k1
-range: "શ્રેણી" # ✅ # ✅ @Nidhir2k1
-repr: "repr" # 🤔 # @Nidhir2k1
-reversed: ".લટું" # ❓ "ઉલટું" # ❓ "ઉલટું" @Nidhir2k1 
-round: "ગોળ" # ✅ # ✅ @Nidhir2k1
-set: "સમૂહ" # ✅ # ✅ @Nidhir2k1
-setattr: "setattr" # 🤔 # ❓ લક્ષણ સેટ કરો @Nidhir2k1
-slice: "કટકા" # ✅ # ✅ @Nidhir2k1
-sorted: "સortedર્ટ થયેલ" # ❓ "વર્ગીકૃત" # @Nidhir2k1
-staticmethod: "સ્થિર" # ✅  # ❓ line 1313-- frozenst has the some translation @Nidhir2k1
-str: "str" # ✅ I believe data types should be kept as it is just change them phonetically if needed # ✅ @Nidhir2k1
-sum: "સરવાળો" # ✅ #  ✅ @Nidhir2k1
-super: "સુપર" # ✅ # ✅ @Nidhir2k1
-tuple: "tuple" # ✅ I believe data types should be kept as it is just change them phonetically if needed # @Nidhir2k1
-type: "પ્રકાર" # ✅ # ✅  @Nidhir2k1
-vars: "યુદ્ધો" # ❓ "ચલ"  # ❓ @Nidhir2k1
-zip: "ઝિપ" # 🤔 # 🤔 @Nidhir2k1
-__import__: "__ મહત્વપૂર્ણ__" # ❓ "આયાત કરવું" #  ❓ @Nidhir2k1
+abs: "એબીએસ"
+  # ✅ @bvishal8510
+  # ❓ @sshiv5768 I think "સંપૂર્ણ" fits better for abs, which returns absolute value.
+  # 👀 @136tejas
+  # 👀 @Nidhir2k1
+all: "બધા"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # 👀 @136tejas
+  # ✅ @Nidhir2k1
+any: "કોઈપણ"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # 👀 @136tejas
+  # ✅ @Nidhir2k1
+ascii: "ascii"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # 👀 @136tejas
+  # ✅ @Nidhir2k1
+bin: "ડબ્બા"
+  # ✅ @bvishal8510
+  # ❓ @sshiv5768 I think "દ્વિસંગી" is perfect for bin because "ડબ્બા" represents boxes, which is not meaningful.
+  # 👀 @136tejas
+  # ✅ @Nidhir2k1
+bool: "બુલ"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # 👀 @136tejas
+  # ✅ @Nidhir2k1
+breakpoint: "બ્રેકપોઇન્ટ"
+  # ✅ @bvishal8510
+  # ❓ @sshiv5768 I think "વિરામ બિંદુ" suits better than "બ્રેકપોઇન્ટ"
+  # 👀 @136tejas
+  # ❓ @Nidhir2k1 I think અલ્પવિરામ is better
+bytearray: "બાયટ્રે"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # 👀 @136tejas
+  # 🤔 @Nidhir2k1 Dont think there is a translation
+bytes: "બાઇટ્સ"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # 👀 @136tejas
+  # ✅ @Nidhir2k1
+callable: "બોલાવવા યોગ્ય"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # 👀 @136tejas
+  # ✅ @Nidhir2k1
+chr: "chr"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # 👀 @136tejas
+  # ✅ @Nidhir2k1
+classmethod: "વર્ગમૂળ"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # 👀 @136tejas
+  # ✅ @Nidhir2k1
+compile: "સંકલન"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # 👀 @136tejas
+  # ✅ @Nidhir2k1
+complex: "જટિલ"
+  # ✅ @bvishal8510
+  # ✅ @sshiv5768
+  # 👀 @136tejas
+  # ✅ @Nidhir2k1
+delattr: "delattr"
+  # ✅ @bvishal8510
+  # ❓ @sshiv5768 I think phonetic translation will not work here, "લક્ષણ હટાવવા" fits better
+  # 👀 @136tejas
+  # ❓ @Nidhir2k1 Agree with "લક્ષણ હટાવવા"
+dict: "ડિક"
+  # ✅ @bvishal8510
+  # ❓ @sshiv5768 "કોશ" or "શબ્દકોશ" is perfect translation, because we use it as dictionary
+  # 👀 @136tejas
+  # ❓ @Nidhir2k1 "શબ્દકોશ" suits better
+dir: "dir"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # 🤔 @136tejas Maybe "નિર્દેશિકા"
+  # ❓ @Nidhir2k1 નિર્દેશિક translates it well
+divmod: "divmod"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # 🤔 @136tejas maybe "વિભાગ મોડ"
+  # 🤔 @Nidhir2k1
+enumerate: "ગણતરી કરવી"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1 or you use ગણવું
+eval: "ઇવલ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ❓ @136tejas "મૂલ્યાંકન" is better translation for eval.
+  # ❓ @Nidhir2k1 "મૂલ્યાંકન" is better translation
+exec: "એક્ઝેક"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # 🤔 @136tejas
+  # 🤔 @Nidhir2k1
+filter: "ફિલ્ટર"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # 👀 @Nidhir2k1
+float: "ફ્લોટ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+format: "બંધારણ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+frozenset: "સ્થિર"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ❓ @136tejas "સ્થિર સમૂહ" is better translation for frozenset.
+  # ✅ @Nidhir2k1
+getattr: "getattr"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # 🤔 @136tejas
+  # 👀 @Nidhir2k1
+globals: "ગ્લોબલ્સ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ❓ @136tejas "વૈશ્વિક" is better translation for globals.
+  # 🤔 @Nidhir2k1
+hasattr: "ઉતાવળ કરવી"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ❓ @136tejas  "ગુણ હોવા" or "વિશેષતા હોવી"
+  # 🤔 @Nidhir2k1
+hash: "હેશ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+help: "મદદ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+hex: "હેક્સ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+id: "આઈડી"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+input: "ઇનપુટ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ❓ @136tejas maybe "દાખલ કરવું"
+  # ❓ @Nidhir2k1 "દાખલ કરવું" suits better
+int: "પૂર્ણાંક"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+isinstance: "isinstance"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ❓ @136tejas "ઉદાહરણ તરીકે" is better translation for ininstance.
+  # 🤔 @Nidhir2k1
+issubclass: "ઇસ્યુબક્લાસ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ❓ @136tejas "પેટા વર્ગ છે" is better translation for issubclass.
+  # ❓ @Nidhir2k1 "પેટા વર્ગ છે"
+iter: "તે"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # 🤔 @136tejas
+  # ❓ @Nidhir2k1 પુનરાવર્તન
+len: "લેન"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ❓ @136tejas "લંબાઈ" is better translation
+  # ❓ @Nidhir2k1 "લંબાઈ"
+list: "યાદી"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+locals: "સ્થાનિકો"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+map: "નકશો"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+max: "મહત્તમ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+memoryview: "મેમરીવ્યુ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # 🤔 @136tejas
+  # 🤔 @Nidhir2k1
+min: "મિનિટ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ❓ @136tejas "ન્યૂનતમ" is better translation for min
+  # ❓ @Nidhir2k1 લઘુત્તમ is also a possible
+next: "આગળ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+object: "objectબ્જેક્ટ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ❓ @136tejas  "વસ્તુ"
+  # ❓ @Nidhir2k1 "વસ્તુ" fits better
+oct: "ઓક્ટો"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+open: "ખુલ્લા"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+ord: "ઓર્ડર"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+pow: "પાવ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ❓ @136tejas "ઘાતાંક" or "વદી"
+  # ❓ @Nidhir2k1 "વદી"
+print: "છાપો"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1 or you can use લખો..though it changes the real translation but makes more sense for print function
+property: "મિલકત"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+range: "શ્રેણી"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+repr: "repr"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # 🤔 @136tejas
+  # 👀 @Nidhir2k1
+reversed: ".લટું"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ❓ @136tejas "ઉલટું"
+  # ❓ @Nidhir2k1 "ઉલટું"
+round: "ગોળ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+set: "સમૂહ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+setattr: "setattr"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # 🤔 @136tejas
+  # ❓ @Nidhir2k1 લક્ષણ સેટ કરો
+slice: "કટકા"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+sorted: "સortedર્ટ થયેલ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ❓ @136tejas "વર્ગીકૃત"
+  # 👀 @Nidhir2k1
+staticmethod: "સ્થિર"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ❓ @Nidhir2k1 frozenst has the some translation
+str: "str"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas I believe data types should be kept as it is just change them phonetically if needed
+  # ✅ @Nidhir2k1
+sum: "સરવાળો"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+super: "સુપર"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+tuple: "tuple"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas I believe data types should be kept as it is just change them phonetically if needed
+  # 👀 @Nidhir2k1
+type: "પ્રકાર"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ✅ @136tejas
+  # ✅ @Nidhir2k1
+vars: "યુદ્ધો"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ❓ @136tejas "ચલ"
+  # ❓ @Nidhir2k1
+zip: "ઝિપ"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # 🤔 @136tejas
+  # 🤔 @Nidhir2k1
+__import__: "__ મહત્વપૂર્ણ__"
+  # ✅ @bvishal8510
+  # 👀 @sshiv5768
+  # ❓ @136tejas "આયાત કરવું"
+  # ❓ @Nidhir2k1
 
 # << Error Messages >>
 
@@ -1398,41 +1942,77 @@ helper: "" # (Not currently supported by ASP.NET Core)
 # ----------------------
 # << Keywords >>
 alias: "ઉપનામ"
+  # ✅ @136tejas
 and: "અને"
+  # ✅ @136tejas
 begin: "શરૂઆત"
+  # ✅ @136tejas
 break: "વિરામ"
+  # ✅ @136tejas
 case: "કેસ"
+  # ✅ @136tejas
 class: "વર્ગ"
+  # ✅ @136tejas
 def: "વ્યાખ્યા કરવી"
+  # ✅ @136tejas
 defined?: "વ્યાખ્યાયિત?"
+  # ✅ @136tejas
 do: "કરવું"
+  # ✅ @136tejas
 else: "નહિતો"
+  # ✅ @136tejas
 elsif: "અન્યથા જો"
+  # ✅ @136tejas
 end: "અંત"
+  # ✅ @136tejas
 ensure: "ખાતરી કરો"
+  # ✅ @136tejas
 false: "ખોટું"
+  # ✅ @136tejas
 for: "માટે"
+  # ✅ @136tejas
 if: "જો"
+  # ✅ @136tejas
 in: "માં"
+  # ✅ @136tejas
 module: "મોડ્યુલ"
+  # ✅ @136tejas
 next: "આગળ"
+  # ✅ @136tejas
 nil: "ખાલી"
+  # ✅ @136tejas
 not: "નથી"
+  # ✅ @136tejas
 or: "અથવા"
+  # ✅ @136tejas
 redo: "બીજી વખત કરવું"
+  # ✅ @136tejas
 rescue: "બચાવ"
+  # ✅ @136tejas
 retry: "બીજી વખત પ્રયાસ"
+  # ✅ @136tejas
 return: "પરત"
+  # ✅ @136tejas
 self: "સ્વ(પોતે)"
+  # ✅ @136tejas
 super: "સુપર"
+  # ✅ @136tejas
 then: "પછી"
+  # ✅ @136tejas
 true: "સાચું"
+  # ✅ @136tejas
 undef: "અવ્યાખ્યાયિત"
+  # ✅ @136tejas
 unless: "સિવાય કે"
+  # ✅ @136tejas
 until: "ત્યાં સુધી"
+  # ✅ @136tejas
 when: "ક્યારે(ત્યારે)"
+  # ✅ @136tejas
 while: "જ્યારે"
+  # ✅ @136tejas
 yield: "યિલ્ડ(ઉપજ)"
+  # ✅ @136tejas
 
 # << Error Messages >>
 
