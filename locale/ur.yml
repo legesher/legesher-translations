@@ -1249,112 +1249,216 @@ __TRAIT__: ""
 # ----------------------
 # << Keywords >>
   False: "غلط"
+    # ✅ @nooras
   None: "کُچھ نہیں"
+    # ✅ @nooras
   True: "صحیح"
+    # ✅ @nooras
   and: "اور"
+    # ✅ @nooras
   as: "جیسا کہ"
+    # ✅ @nooras
   assert: "دعویٰ"
+    # ✅ @nooras
   async: "غیر متزلزل"
+    # ✅ @nooras
   await: "انتظار"
+    # ✅ @nooras
   break: "توڑ"
+    # ✅ @nooras
   class: "کلاس"
+    # ✅ @nooras
   continue: "جاری رہے"
+    # ✅ @nooras
   def: "واضح"
+    # ✅ @nooras
   del: "مٹانا"
+    # ✅ @nooras
   elif: "ورنہ اگر"
+    # ✅ @nooras
   else: "ورنہ"
+    # ✅ @nooras
   except: "سوائے"
+    # ✅ @nooras
   finally: "آخر"
+    # ✅ @nooras
   for: "کے لیے"
+    # ✅ @nooras
   from: "سے"
+    # ✅ @nooras
   global:  "عالم"
+    # ✅ @nooras
   if: "اگر"
+    # ✅ @nooras
   import: "درآمد"
+    # ✅ @nooras
   in: "اندر"
+    # ✅ @nooras
   is: "ہے"
+    # ✅ @nooras
   lambda: "لیمبڈا"
+    # ✅ @nooras
   nonlocal: "غیر مقامی"
+    # ✅ @nooras
   not: "نہیں"
+    # ✅ @nooras
   or: "یا"
+    # ✅ @nooras
   pass: "پاس"
+    # ✅ @nooras
   raise: "اُٹھانا"
+    # ✅ @nooras
   return: "واپس"
+    # ✅ @nooras
   try: "کوشش"
+    # ✅ @nooras
   while: "جبکہ"
+    # ✅ @nooras
   with: "کے ساتھ"
+    # ✅ @nooras
   yield: "پیدا"
+    # ✅ @nooras
 
 # << Built-In Functions >>
 
   abs: "مطلق"
+    # ✅ @nooras
   all: "سب"
+    # ✅ @nooras
   any: "کوئی"
-  ascii: "ascii"      # ❓ Fullform of ascii in URDU is "امریکی معیاری رمز براۓ اطلاعاتی تبادلہ"
+    # ✅ @nooras
+  ascii: "ascii"
+    # ❓ @nooras Fullform of ascii in URDU is "امریکی معیاری رمز براۓ اطلاعاتی تبادلہ"
   bin: "بائنری"
+    # ✅ @nooras
   bool: "بولین"
+    # ✅ @nooras
   breakpoint: "بریک پوائنٹ"
+    # ✅ @nooras
   bytearray: "بائٹ ایرے"
+    # ✅ @nooras
   bytes: "بائٹس"
+    # ✅ @nooras
   callable: "قابل طلب"
+    # ✅ @nooras
   chr: "حروف"
-  classmethod: "کلاس کا طریقہ"      # ❓ another option could be "کلاس ترتیب"
+    # ✅ @nooras
+  classmethod: "کلاس کا طریقہ"
+    # ❓ @nooras another option could be "کلاس ترتیب"
   compile: "تالیف کرنا"
+    # ✅ @nooras
   complex: "پیچیدہ"
-  delattr: "صفعت مٹانا"     # ❓ another option could be "خاصیت مٹانا"
+    # ✅ @nooras
+  delattr: "صفعت مٹانا"
+    # ❓ @nooras another option could be "خاصیت مٹانا"
   dict: "لغت"
+    # ✅ @nooras
   dir: "ڈائریکٹری"
+    # ✅ @nooras
   divmod: "تقسیم ذریب"
+    # ✅ @nooras
   enumerate: "گننا"
+    # ✅ @nooras
   eval: "حساب"
+    # ✅ @nooras
   exec: "عمل میں لانا"
-  filter: "تَقطیر"     # ❓ another option could be "فلٹر"
+    # ✅ @nooras
+  filter: "تَقطیر"
+    # ❓ @nooras another option could be "فلٹر"
   float: "فلوٹ"
+    # ✅ @nooras
   format: "فارمیٹ"
+    # ✅ @nooras
   frozenset: "فروزن سیٹ"
+    # ✅ @nooras
   getattr: "صفعت حاصل کرنا"
+    # ✅ @nooras
   globals: "عالمی"
+    # ✅ @nooras
   hasattr: "صفعت ہے"
+    # ✅ @nooras
   hash: "ہیش"
+    # ✅ @nooras
   help: "مدد"
+    # ✅ @nooras
   hex: "ہیکس"
+    # ✅ @nooras
   id: "آئی ڈی"
+    # ✅ @nooras
   input: "ان پٹ"
+    # ✅ @nooras
   int: "اِنٹ"
+    # ✅ @nooras
   isinstance: "مثال ہے"
+    # ✅ @nooras
   issubclass: " سب کلاس ہے"
+    # ✅ @nooras
   iter: "دہرانا"
+    # ✅ @nooras
   len: "لمبائی"
+    # ✅ @nooras
   list: "فہرست"
+    # ✅ @nooras
   locals: "مقامی"
+    # ✅ @nooras
   map: "نقشہ"
-  max: "اعلیٰ"     # ❓ another option could be "زیادہ سے زیادہ"
+    # ✅ @nooras
+  max: "اعلیٰ"
+    # ❓ @nooras another option could be "زیادہ سے زیادہ"
   memoryview: "میموری ویو"
-  min: "ادنیٰ"     # ❓ another option could be "کم از کم"
+    # ✅ @nooras
+  min: "ادنیٰ"
+    # ❓ @nooras another option could be "کم از کم"
   next: "اگلا"
+    # ✅ @nooras
   object: "اوبجکٹ"
+    # ✅ @nooras
   oct: "آکٹل"
+    # ✅ @nooras
   open: "کھلا"
-  ord: "آرد"      # ❓ another option could be "ord"
+    # ✅ @nooras
+  ord: "آرد"
+    # ❓ @nooras another option could be "ord"
   pow: "پاؤ"
+    # ✅ @nooras
   print: "پرنٹ"
+    # ✅ @nooras
   property: "صفت"
+    # ✅ @nooras
   range: "حد"
+    # ✅ @nooras
   repr: "repr"
+    # ✅ @nooras
   reversed: "الٹا"
+    # ✅ @nooras
   round: "گول"
+    # ✅ @nooras
   set: "سیٹ"
+    # ✅ @nooras
   setattr: "صفعت مقدرکرنا"
+    # ✅ @nooras
   slice: "ٹکڑا"
+    # ✅ @nooras
   sorted: "ترتیب وار"
+    # ✅ @nooras
   staticmethod: "سٹیٹک طریقہ"
+    # ✅ @nooras
   str: "سٹرنگ"
+    # ✅ @nooras
   sum: "کُل"
+    # ✅ @nooras
   super: "سُپر"
+    # ✅ @nooras
   tuple: "ٹپل"
+    # ✅ @nooras
   type: "قسم"
+    # ✅ @nooras
   vars: "متغیر"
+    # ✅ @nooras
   zip: "زپ"
+    # ✅ @nooras
   __import__: "__درآمد__"
+    # ✅ @nooras
 
 # << Error Messages >>
 
