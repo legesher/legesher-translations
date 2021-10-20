@@ -938,7 +938,7 @@ import: "ייבוא" ✅ @tomerpacific
 in: "ב" ❓ @tomerpacific - Consider using "בתוך"
 instanceof: "מופע_של"
 interface: "ממשק"
-let: "משתנה"
+let: "משתנה" ❓ @tomerpacific - Let is used to define a blocked scoped variable so maybe use the term "משתנה_לוקאלי"? 
 new: "חדש" ✅ @tomerpacific
 null: "כלום" ✅ @tomerpacific
 package: "חבילה" ✅ @tomerpacific
@@ -948,12 +948,12 @@ public: "ציבורי" ✅ @tomerpacific
 return: "החזר" ✅ @tomerpacific
 static: "סטטי" ✅ @tomerpacific
 super: "קריאה_למחלקת_אם"
-switch: "סנן"
+switch: "סנן" ❓ @tomerpacific - Switch statements are used to break down values of a variable so the current term is less fitting in my opinion. Maybe consider "בורר_מקרים"?
 this: "זה" ✅ @tomerpacific
 throw: "זרוק" ✅ @tomerpacific
 true: "אמת" ✅ @tomerpacific
 try: "נסה" ✅ @tomerpacific
-typeof: "פורמט"
+typeof: "פורמט" ❓ @tomerpacific - Typeof is used to find the type of a variable so I suggest using "סוג_של"
 var: "משתנה_כללי" ✅ @tomerpacific
 void: "ריק" ✅ @tomerpacific
 while: "כל_עוד" ✅ @tomerpacific
