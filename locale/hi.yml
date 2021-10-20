@@ -120,9 +120,9 @@ language-abbreviation: "hi"
   infix: "इन्फ़िक्स"
     # ✅ @bhaveshgoyal182
   infixl: ""
-    # ❓ @bhaveshgoyal182
+    # 👀 @bhaveshgoyal182
   infixr: ""
-    # ❓ @bhaveshgoyal182
+    # 👀 @bhaveshgoyal182
   instance: "दृष्टांत"
     # ✅ @bhaveshgoyal182
   let: "सोचना"
@@ -134,7 +134,7 @@ language-abbreviation: "hi"
   mutual: "आपस का"
     # ✅ @bhaveshgoyal182
   no-eta-equality: ""
-    # ❓ @bhaveshgoyal182
+    # 👀 @bhaveshgoyal182
   open: "खुला"
     # ✅ @bhaveshgoyal182
   overlap: "अधिव्यापन"
@@ -152,11 +152,11 @@ language-abbreviation: "hi"
   quote: "उद्धरण"
     # ✅ @bhaveshgoyal182
   quoteContext: ""
-    # ❓ @bhaveshgoyal182
+    # 👀 @bhaveshgoyal182
   quoteGoal: ""
-    # ❓ @bhaveshgoyal182
+    # 👀 @bhaveshgoyal182
   quoteTerm: ""
-    # ❓ @bhaveshgoyal182
+    # 👀 @bhaveshgoyal182
   record: "अभिलेख"
     # ✅ @bhaveshgoyal182
   renaming: "नाम बदलने"
@@ -164,17 +164,17 @@ language-abbreviation: "hi"
   rewrite: "पुनर्लेखन"
     # ✅ @bhaveshgoyal182
   Set: ""
-    # ❓ @bhaveshgoyal182 can appear with a number suffix, optionally suffixed, make sure we account for this
+    # 👀 @bhaveshgoyal182 can appear with a number suffix, optionally suffixed, make sure we account for this
   syntax: "वाक्यविन्यास"
     # ✅ @bhaveshgoyal182
   tactic: "रणनीति"
     # ✅ @bhaveshgoyal182
   unquote: ""
-    # ❓ @bhaveshgoyal182
+    # 👀 @bhaveshgoyal182
   unquoteDecl: ""
-    # ❓ @bhaveshgoyal182
+    # 👀 @bhaveshgoyal182
   unquoteDef: ""
-    # ❓ @bhaveshgoyal182
+    # 👀 @bhaveshgoyal182
   using: "का उपयोग करते हुए"
     # ✅ @bhaveshgoyal182
   where: "कहां"
@@ -283,11 +283,11 @@ else: "और"
 esac: "esac"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
-  #   @179priyasoni
+  # 👀 @179priyasoni
 fi: "fi"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
-  #   @179priyasoni
+  # 👀 @179priyasoni
 for: "के लिये"
   # ❓ @sshiv5768 Hindi translation is perfect but for programming perspective "दुहराओ" suits better.
   # ✅ @bhaveshgoyal182
@@ -361,12 +361,12 @@ long: "लंबा"
   # ✅ @179priyasoni
 switch: "स्विच"
   # ✅ @sshiv5768
-  #❓ @bhaveshgoyal182 "बदलना"
-  #   @179priyasoni
+  # ❓ @bhaveshgoyal182 "बदलना"
+  # 👀 @179priyasoni
 case: "स्थिति"
   # ✅ @sshiv5768
-  #❓ @bhaveshgoyal182 "मामला"
-  #   @179priyasoni
+  # ❓ @bhaveshgoyal182 "मामला"
+  # 👀 @179priyasoni
 enum: "गणना, परिगणना"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
@@ -630,96 +630,170 @@ friend: "मित्र"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
 goto: "इस पर चलें"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 if: "अगर"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 inline: "इनलाइन"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 int: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 import: "आयात"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 long: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 module: "मापांक"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 mutable: "परिवर्तनशील"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 namespace: "नाम स्थान"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 new: "नया"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 noexcept: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 not: "नहीं"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 not_eq: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 nullptr: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 operator: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 or: "या"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 or_eq: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 override: "अवहेलना"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 private: "निजी"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 protected: "संरक्षित"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 public: "सार्वजनिक"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 register: "पंजी"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 reinterpret_cast: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 requires: "आवश्यक है"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 return: "वापसी"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 short: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 signed: "पर हस्ताक्षर किए"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 sizeof: "का आकार"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 static: "स्थिर"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 static_assert: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 static_cast: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 struct: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 switch: "बदलना"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 synchronized: "बदलना"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 template: "नमूना"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 this: "यह"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 thread_local: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 throw: "फेंकना"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 transaction_safe: "लेन-देन सुरक्षित"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 transaction_safe_dynamic: "लेनदेन सुरक्षित गतिशील"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 true: "सच"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 try: "प्रयत्न"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 typedef: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 typeid: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 typename: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 union: "संघ"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 unsigned: "अहस्ताक्षरित"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 using: "का उपयोग करते हुए"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 virtual: "आभासी"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 void: "शून्यता"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 volatile: "परिवर्तनशील"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 wchar_t: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 while: "जब तक"
+  # 👀 @sshiv5768
   # ✅ @bhaveshgoyal182
 xor: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 xor_eq: ""
+  # 👀 @sshiv5768
+  # 👀 @bhaveshgoyal182
 
 # << Error Messages >>
 
@@ -1393,8 +1467,8 @@ _: "" #_(underscore)
 # ----------------------------
 # << Keywords >>
 arguments: "पैरामीटर"
- # ✅ @sshekhar1996
- # ❓ @Nidhir2k1
+  # ✅ @sshekhar1996
+  # ❓ @Nidhir2k1
 await: "इंतजार"
   # ✅ @sshekhar1996
   # ✅ @Nidhir2k1
@@ -1403,7 +1477,7 @@ break: "विराम"
   # ✅ @Nidhir2k1
 case: "स्थिति"
   # ✅ @sshekhar1996
- # ❓ @Nidhir2k1 "मामला"
+  # ❓ @Nidhir2k1 "मामला"
 catch: "पकड़ना"
   # ✅ @sshekhar1996
   # ✅ @Nidhir2k1
@@ -1841,179 +1915,213 @@ __TRAIT__: ""
 False: "असत्य"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 None: "कोई नहीं"
   # ✅ @parammittal16
   # ❓ @iofall "कुछ नहीं" This seems better in the context of none as a datatype
   # ❓ @sshiv5768 "कुछ नहीं"
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 True: "सच"
   # ✅ @parammittal16
   # ❓ @iofall "सत्य"
   # ❓ @sshiv5768 "सत्य"
   # ✅ @Ln11211
+  # ❓ @nik132-eng "सत्य" is better
 and: "और"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 as: "के रूप में"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 assert: "जोर"
   # ✅ @parammittal16
   # ❓ @iofall "दावा करना" This one aligns better with the meaning of assert used in Python which is to claim/ give a data type and not "जोर" which would mean force
   # ❓ @sshiv5768 "दावा करना"
   # ❓ @Ln11211 I agree with "दावा करना"
+  # ❓ @nik132-eng "दावा करना"
 async: "async"
   # ✅ @parammittal16
   # ❓ @iofall Translation for asynchronous is "अतुल्यकालिक"
   # ❓ @sshiv5768 "अतुल्यकालिक"
   # ❓ @Ln11211 Contextually "अतुल्यकालिक" is apt, and is the only translation.
+  # ❓ @nik132-eng "अतुल्यकालिक" is better
 await: "प्रतीक्षा करें"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 break: "टूटना"
   # ✅ @parammittal16
   # ❓ @iofall "तोडना" or maybe "समाप्त करना" to better fit the context of ending a loop
   # ❓ @sshiv5768 "तोड़ना"
   # ❓ @Ln11211 "समाप्त" seems to be more accurate and apt to the context
+  # ❓ @nik132-eng "तोड़ना" is better
 class: "वर्ग"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 continue: "जारी रखें"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ❓ @Ln11211 "बने रहना", as it seems simple and to the point
+  # ✅ @nik132-eng
 def: "def"
   # ✅ @parammittal16
   # ❓ @iofall "परिभाषा करना" since def stands for define
   # ❓ @sshiv5768 "परिभाषा करना"
-  # ❓ "परिभाषा करना"
+  # ❓ @Ln11211 "परिभाषा करना"
+  # ❓ @nik132-eng "परिभाषा करना" is good to define
 del: "डेल"
   # ✅ @parammittal16
   # ❓ @iofall "हटाना" or "मिटाना". "डेल" is just the phonetic translation
   # ❓ @sshiv5768 "हटाना"
-  # ❓ I agree with "मिटाना"
+  # ❓ @Ln11211 I agree with "मिटाना"
+  # ❓ @nik132-eng "हटाना" or "मिटाना" with both
 elif: "एलिफ"
   # ✅ @parammittal16
   # ❓ @iofall "अथवा अगर"
   # ❓ @sshiv5768 "और अगर"
-  # ❓ "अथवा अगर" is better.
+  # ❓ @Ln11211 "अथवा अगर" is better.
+  # ❓ @nik132-eng "अथवा अगर" is better.
 else: "अन्य"
   # ✅ @parammittal16
   # ❓ @iofall "अन्यथा"
   # ❓ @sshiv5768 "अन्य, अन्यथा"
-  # ❓ "अन्य, अन्यथा"
+  # ❓ @Ln11211 "अन्य, अन्यथा"
+  # ❓ @nik132-eng "अन्य, अन्यथा" both are good
 except: "सिवाय"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 finally: "अंत में"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 for: "के लिए"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 from: "से"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 global: "वैश्विक"
   # ✅ @parammittal16
   # ❓ @iofall "विश्वीय"
   # ❓ @sshiv5768 "विश्वीय"
-  # ❓ "विश्वीय" makes sense.
+  # ❓ @Ln11211 "विश्वीय" makes sense.
+  # ✅ @nik132-eng
 if: "यदि"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 import: "आयात"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 in: "में"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 is: "है"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 lambda: "लैम्ब्डा"
   # ✅ @parammittal16
   # 🤔 @iofall "लैम्ब्डा" is just a phonetic translation
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211 As it is named after a Greek letter, It can only be transalted as it is
+  # ✅ @nik132-eng "लैम्ब्डा" is greek letter so it shuold be trasalate as it is
 nonlocal: "नॉनलोकल"
   # ✅ @parammittal16
   # ❓ @iofall "गैर स्थानीय". "नॉनलोकल" is just a phonetic translation of "nonlocal"
   # ❓ @sshiv5768 "गैर स्थानीय"
   # ❓ @Ln11211 "गैर स्थानीय"
+  # ❓ @nik132-eng "गैर स्थानीय"
 not: "नहीं"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 or: "या"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 pass: "पास"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 raise: "उठाना"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 return: "वापसी"
   # ✅ @parammittal16
   # ❓ @iofall "प्रतिदान"
   # ❓ @sshiv5768 प्रतिदान
   # ❓ @Ln11211 "प्रतिफल" as "प्रतिदान" means to trade or exchange while "प्रतिफल" means a return or a result.
+  # ✅ @nik132-eng
 try: "प्रयास करें"
   # ✅ @parammittal16
   # ❓ @iofall "प्रयास करना"
   # ❓ @sshiv5768 "प्रयास करना"
   # ❓ @Ln11211 "प्रयास करना"
+  # ❓ @nik132-eng "प्रयास करना"
 while: "जबकि"
   # ✅ @parammittal16
   # ❓ @iofall Better Alternative: "जब तक" This fits better to the while loop definition, since while follows while(condition). "जब तक" literally translates to "till when"
   # ❓ @sshiv5768 "जब तक"
-  # ❓ "जब तक"
+  # ❓ @Ln11211 "जब तक"
+  # ❓ @nik132-eng "जब तक"
 with: "साथ"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 yield: "उपज"
   # ✅ @parammittal16
   # ✅ @iofall
-  #    @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
-
+  # ✅ @nik132-eng
 # << Built-In Functions >>
 
 abs: "एब्स"
@@ -2021,346 +2129,415 @@ abs: "एब्स"
   # ❓ @iofall "परम" I think "पूर्ण" fits better for abs, which returns absolute value.
   # ❓ @sshiv5768 "पूर्ण"
   # ❓ @Ln11211 In Hindi, the Aboslute value goes by the name "निरपेक्ष मूल्य", using it would be better
+  # ❓ @nik132-eng "पूर्ण" is better
 all: "सभी"
   # ✅ @parammittal16
   # ❓ @iofall "सब"
   # ❓ @sshiv5768 I agree with "सब", because it sounds perfect hindi translation
   # ❓ @Ln11211 "सब"
+  # ❓ @nik132-eng "सब"
 any: "कोई भी"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ❓ @Ln11211 "सभी" is simple and better
+  # ✅ @nik132-eng
 ascii: "ascii"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 bin: "बॉक्स"
   # ✅ @parammittal16
   # ❓ @iofall "दोहरा" maybe because "bin" refers to binary or just use "bin".
   # ✅ @sshiv5768 "दोहरा"
   # ❓ @Ln11211 would recommend using "बिन" as the bin() returns the binary
+  # ✅ @nik132-eng
 bool: "बुल"
   # ✅ @parammittal16
   # ✅ @iofall Correct Spelling "बूल"
   # ✅ @sshiv5768 "बूल"
   # ✅ @Ln11211 "बूल"
+  # ✅ @nik132-eng
 breakpoint: "ब्रेकपॉइंट"
   # ✅ @parammittal16
   # ❓ @iofall "विराम बिंदु"
   # ❓ @sshiv5768 "विराम बिंदु"
   # ❓ @Ln11211 "विराम बिंदु"
+  # ❓ @nik132-eng "विराम बिंदु"
 bytearray: "बाइट"
   # ✅ @parammittal16
   # ❓ @iofall "बाइट अरे" or maybe "बाइट सरणी"
   # ❓ @sshiv5768 "बाइट अरे"
   # ❓ @Ln11211 "बाइट अरे"
+  # ❓ @nik132-eng "बाइट अरे" is better
 bytes: "बाइट्स"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 callable: "कॉल करने योग्य"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 chr: "chr"
   # ✅ @parammittal16
   # ❓ @iofall "अक्षर" I believe data types should be kept as it is just change them phonetically if needed
   # ❓ @sshiv5768 "चर"
   # ❓ @Ln11211 "चर"
+  # ✅ @nik132-eng
 classmethod: "वर्गमूल"
   # ✅ @parammittal16
   # ❓ @iofall "वर्ग विधि"
   # ❓ @sshiv5768 "वर्ग विधि"
   # ❓ @Ln11211 "वर्ग विधि"
+  # ✅ @nik132-eng
 compile: "संकलन"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 complex: "जटिल"
   # ✅ @parammittal16
   # ❓ @iofall "पेचीदा"
   # ❓ @sshiv5768 "पेचीदा"
   # ❓ @Ln11211 Here "complex" refers to the function that returns a complex number,thus using "समिश्र" from "समिश्र संख्या"(menaing complex number)would be close and appropriate
+  # ✅ @nik132-eng
 delattr: "delattr"
   # ✅ @parammittal16
   # ❓ @iofall "गुण हटाना" or "विशेषता हटाना"
   # ❓ @sshiv5768 "विशेषता हटाना"
   # ❓ @Ln11211 I think "गुण हटाना" is apt as in L1314 गुण is used too
+  # ❓ @nik132-eng "विशेषता हटाना"
 dict: "परिभाषा"
   # ✅ @parammittal16
   # 🤔 @iofall maybe "कोश" I think "कोश" suits better for dict
-  #   @sshiv5768 "कोश"
+  # 👀 @sshiv5768 "कोश"
   # ✅ @Ln11211 "कोश"
+  # ✅ @nik132-eng
 dir: "dir"
   # ✅ @parammittal16
   # 🤔 @iofall maybe "निर्देशिका"
   # ❓ @sshiv5768 "निर्देशिका"
   # ❓ @Ln11211 "निर्देशिका"
+  # ❓ @nik132-eng "निर्देशिका"
 divmod: "विभाजन शेष"
   # ✅ @parammittal16
   # 🤔 @iofall maybe "विभाजन शेष"
   # ❓ @sshiv5768 "विभाजन शेष"
   # ❓ @Ln11211 "विभाजन शेष"
+  # ❓ @nik132-eng "निर्देशिका"
 enumerate: "गणना करें"
   # ✅ @parammittal16
   # ❓ @iofall "गणना करना"
   # ❓ @sshiv5768 "गणना करना"
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 eval: "eval"
   # ✅ @parammittal16
   # ❓ @iofall "मूल्यांकन करना"
   # ❓ @sshiv5768 "मूल्यांकन करना"
   # ❓ @Ln11211 "मूल्यांकन करना"
+  # ❓ @nik132-eng "मूल्यांकन करना"
 exec: "निष्पादित करें"
   # ✅ @parammittal16
   # ❓ @iofall "निष्पादित करना"
   # ❓ @sshiv5768 "निष्पादित करना"
   # ❓ @Ln11211 "निष्पादित करना"
+  # ❓ @nik132-eng "मूल्यांकन करना"
 filter: "फ़िल्टर"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 float: "फ्लोट"
   # ✅ @parammittal16
   # ✅ @iofall I believe data types should be kept as it is just change them phonetically if needed
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 format: "प्रारूप"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 frozenset: "फ्रोजन"
   # ✅ @parammittal16
   # ❓ @iofall "जमा हुआ समूह" or "स्तम्भित समूह" frozenset is an abstract data-type so that I think it should be remail original or phoneticly translated
   # ❓ @sshiv5768 "फ्रोज़ेनसेट"
   # ❓ @Ln11211 "फ्रोज़ेनसेट"
+  # ❓ @nik132-eng "फ्रोज़ेनसेट"
 getattr: "getattr"
   # ✅ @parammittal16
   # ❓ @iofall "गुण लेना" or "गुण प्राप्त करना" or "विशेषता प्राप्त करना"
   # ❓ @sshiv5768 "गुण प्राप्त करना"
   # ❓ @Ln11211 "गुण प्राप्त करना"
+  # ❓ @nik132-eng "गुण प्राप्त करना"
 globals: "ग्लोबल्स"
   # ✅ @parammittal16
   # ❓ @iofall "वैश्विक" or "विश्वीय"
   # ❓ @sshiv5768 "वैश्विक"
   # ❓ @Ln11211 "वैश्विक"
+  # ❓ @nik132-eng "वैश्विक"
 hasattr: "hasattr"
   # ✅ @parammittal16
   # ❓ @iofall "गुण होना" or "विशेषता होना"
   # ❓ @sshiv5768 "विशेषता होना"
   # ❓ @Ln11211 "गुण होना" seems better
+  # ❓ @nik132-eng "विशेषता होना"
 hash: "हैश"
   # ✅ @parammittal16
   # ✅ @iofall or just use English versions
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 help: "मदद"
   # ✅ @parammittal16
   # ✅ @iofall or just use English versions
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
-hex: "हेक्स"
+  # ✅ @nik132-eng
+hx: "हेक्स"
   # ✅ @parammittal16
   # ✅ @iofall or just use English versions
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 id: "आईडी"
   # ✅ @parammittal16
   # ✅ @iofall or just use English versions
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 input: "इनपुट"
   # ✅ @parammittal16
-  # 🤔 maybe "आगत"
+  # 🤔 @iofall maybe "आगत"
   # ❓ @sshiv5768 आगत
-  # ❓ "आगत" is correct
+  # ❓ @Ln11211 "आगत" is correct
+  # ❓ @nik132-eng "आगत"
 int: "पूर्णांक"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 isinstance: "isinstance"
   # ✅ @parammittal16
   # ❓ @iofall "उदाहरण है"
   # ❓ @sshiv5768 "उदाहरण है"
   # ❓ @Ln11211 I think "अवस्था है" is better
+  # ❓ @nik132-eng "उदाहरण है"
 issubclass: "इसस्क्क्लास"
   # ✅ @parammittal16
   # ❓ @iofall "उपवर्ग है"
   # ❓ @sshiv5768 "उपवर्ग है"
   # ❓ @Ln11211 "उपवर्ग है"
+  # ❓ @nik132-eng "उपवर्ग है"
 iter: "पुनरावृति करना"
   # ✅ @parammittal16
   # 🤔 @iofall "पुनरावृति करना" or "दुहराना" or "बार-बार करना"
   # ❓ @sshiv5768 "पुनरावृति करना"
   # ❓ @Ln11211 "बार-बार करने वाला" if referring to the iter()
+  # ❓ @nik132-eng "पुनरावृति करना"
 len: "लंबाई"
   # ✅ @parammittal16
   # ❓ @iofall "लंबाई" or "विस्तार" is more appropriate in the context of "len" as used in Python
   # ❓ @sshiv5768 "लंबाई"
   # ❓ @Ln11211 "लंबाई" means length and len() is usually used to get length, so seems apt
+  # ✅ @nik132-eng
 list: "सूची"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 locals: "स्थानीय"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 map: "नक्शा"
   # ✅ @parammittal16
   # ❓ @iofall "तलरूप-मिति करना" if you consider "map" in the verb form otherwise "नक्शा" seems correct
   # ❓ @sshiv5768 "तलरूप-मिति करना"
   # ❓ @Ln11211 "नक्शा" is better
+  # ✅ @nik132-eng
 max: "अधिकतम"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 memoryview: "मेमोरीव्यू"
   # ✅ @parammittal16
   # ❓ @iofall "स्मृति दर्शन"
   # ❓ @sshiv5768 "स्मृति दर्शन"
   # 🤔 @Ln11211 memoryview is used to expose Python buffer protocol, thus it should remain as it in english, and the literal(machine) translation "स्मृति दर्शन" seems inappropriate
+  # ✅ @nik132-eng
 min: "न्यूनतम"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 next: "अगला"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 object: "ऑब्जेक्ट"
   # ✅ @parammittal16
   # ❓ @iofall "वस्तु"
   # ❓ @sshiv5768 "वस्तु"
   # ❓ @Ln11211 object is a fundamental concept in programming(specifically in OOP) and it in best left as it is or at the most translated as "ऑब्जेक्ट".
+  # ✅ @nik132-eng
 oct: "अष्ट"
   # ✅ @parammittal16
   # ✅ @iofall or just use English versions
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211 similar to bin() method, the oct() returns octal form, thus the translation seems apt.
+  # ✅ @nik132-eng
 open: "खुला"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 ord: "ऑर्डर"
   # ✅ @parammittal16
   # ❓ @iofall "ऑर्ड"
   # ❓ @sshiv5768 "ऑर्ड"
   # ❓ @Ln11211 ord() function returns unicode, thus leaving it as it is in english or using "ऑर्ड" is apt.
+  # ✅ @nik132-eng
 pow: "पाउ"
   # ✅ @parammittal16
   # ❓ @iofall "घातांक"
   # ❓ @sshiv5768 "घातांक"
   # ❓ @Ln11211 "घातांक" is an awesome translation
+  # ❓ @nik132-eng "घातांक"
 print: "प्रिंट"
   # ✅ @parammittal16
   # ❓ @iofall "छापना" but "print" is used in everyday speak as well, not sure whether translation is required here
   # ❓ @sshiv5768 "प्रिंट,छापन"
   # ✅ @Ln11211 "प्रिंट" is enough
+  # ❓ @nik132-eng "छापना"
 property: "संपत्ति"
   # ✅ @parammittal16
   # ❓ @iofall "स्वभाव" or maybe "लक्षण" or "विशेषता"
   # ❓ @sshiv5768 "लक्षण, विशेषता"
   # ❓ @Ln11211 "विशेषता" seems to suit well
+  # ✅ @nik132-eng
 range: "रेंज"
   # ✅ @parammittal16
   # ❓ @iofall "सीमा"
   # ❓ @sshiv5768 "सीमा"
   # ❓ @Ln11211 using "रेंज" would make better sense as it is often used as a looping structuer or to iterate
+  # ❓ @nik132-eng "सीमा"
 repr: "repr"
   # ✅ @parammittal16
   # 🤔 @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # 🤔 @Ln11211 repr() returns the string representation of passes values, so its recommended to use it as it is or to translate it phonetically
+  # 🤔 @nik132-eng
 reversed: "औंधा"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 round: "गोल"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ❓ @Ln11211 using "पूर्णांकित" is better as round() is used to round off to nearest decimal,thus "पूर्णांकित" is derived from "पूर्णांकित करना"(round off)
+  # ✅ @nik132-eng
 set: "समूह"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ❓ @Ln11211 Just not sure about "समूह"
+  # ✅ @nik132-eng
 setattr: "setattr"
   # ✅ @parammittal16
   # ❓ @iofall "गुण लगाना" or "गुण स्थापित करना" or "विशेषता लगाना" or "विशेषता स्थापित करना"
   # ❓ @sshiv5768 "विशेषता लगाना"
   # ❓ @Ln11211 I think "गुण स्थापित करन" is apt
+  # ❓ @nik132-eng "विशेषता लगाना"
 slice: "टुकड़ा"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 sorted: "छाँटे गए"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 staticmethod: "स्थिर"
   # ✅ @parammittal16
   # ❓ @iofall "स्थिर विधि"
   # ❓ @sshiv5768 "स्थिर विधि"
   # 🤔 @Ln11211 I recommend translating it phonetically or letting it remain as it is in english
+  # ❓ @nik132-eng "स्थिर विधि"
 str: "str"
   # ✅ @parammittal16
   # ✅ @iofall I believe data types should be kept as it is just change them phonetically if needed
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 sum: "योग"
   # ✅ @parammittal16
   # ❓ @iofall "जोड" or "योगफल"
   # ❓ @sshiv5768 "जोड़"
   # ❓ @Ln11211 as suggested in earlier comment "योगफल" seems better
+  # ❓ @nik132-eng "जोड़"
 super: "उत्तम"
   # ✅ @parammittal16
   # 🤔 @iofall "बढ़िया" or "उत्तम" is the correct translation but not sure if it should be used since the use of "super" keyword does not relate to its literal meaning. So keep it as "super" only
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ❓ @Ln11211 would recommend using "super" only
+  # ✅ @nik132-eng
 tuple: "tuple"
   # ✅ @parammittal16
   # ❓ @iofall Phonetic - "टपल"
   # ❓ @sshiv5768 "टपल"
   # ❓ @Ln11211 "टपल"
+  # ❓ @nik132-eng "टपल"
 type: "प्रकार"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 vars: "जिसका"
   # ✅ @parammittal16
   # ❓ @iofall "जिसका" is wrong. Variables are called as "चर" in Hindi Mathematics. This fits the usage of "vars" since it returns a dictionary of variables in a class instance. So "चर" should be used.
   # ❓ @sshiv5768 "चर"
   # ❓ @Ln11211 "चर"
+  # ❓ @nik132-eng "चर"
 zip: "ज़िप"
   # ✅ @parammittal16
   # 🤔 @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # 🤔 @Ln11211 Would recommend using zip as it is a well known word and mostly in use.
+  # ✅ @nik132-eng
 __import__: "__आयात__"
   # ✅ @parammittal16
   # ✅ @iofall
-  #   @sshiv5768
+  # 👀 @sshiv5768
   # ✅ @Ln11211
+  # ✅ @nik132-eng
 
 # << Error Messages >>
 
