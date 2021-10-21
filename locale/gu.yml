@@ -945,57 +945,108 @@ wbr: "" #	Defines a possible line-break
 # |   LANGUAGE: JAVA   |
 # ----------------------
 # << Keywords >>
-abstract: ""
-continue: ""
-for: ""
-new: ""
-switch: ""
-assert: ""
-default: ""
-goto: ""
-package: ""
-synchronized: ""
-boolean: ""
-do: ""
-if: ""
-private: ""
-this: ""
-break: ""
-double: ""
-implements: ""
-protected: ""
-throw: ""
-byte: ""
-else: ""
-import: ""
-public: ""
-throws: ""
-case: ""
-enum: ""
-instanceof: ""
-return: ""
-transient: ""
-catch: ""
-extends: ""
-int: ""
-short: ""
-try: ""
-char: ""
-final: ""
-interface: ""
-static: ""
-void: ""
-class: ""
-finally: ""
-long: ""
-strictfp: ""
-volatile: ""
-const: ""
-float: ""
-native: ""
-super: ""
-while: ""
-_: "" #_(underscore)
+abstract: "અમૂર્ત"
+  # ✅  @nik132-eng
+continue: "ચાલુ રાખો"
+  # ✅  @nik132-eng
+for: "માટે"
+  # ✅  @nik132-eng
+new: "નવું"
+  # ✅  @nik132-eng
+switch: "સ્વિચ"
+  # ✅  @nik132-eng
+assert: "દાવો કરવો"
+  # ✅  @nik132-eng
+default: "મૂળભૂત"
+  # ✅  @nik132-eng
+goto: "પર જાઓ"
+  # ✅  @nik132-eng
+package: "પેકેજ"
+  # ✅  @nik132-eng
+synchronized: "સમન્વયિત"
+  # ✅  @nik132-eng
+boolean: "બુલિયન"
+  # ✅  @nik132-eng
+do: "કરવું"
+  # ✅  @nik132-eng
+if: "જો"
+  # ✅  @nik132-eng
+private: "ખાનગી"
+  # ✅  @nik132-eng
+this: "આ"
+  # ✅  @nik132-eng
+break: "વિરામ"
+  # ✅  @nik132-eng
+double: "ડબલ"
+  # ✅  @nik132-eng
+implements: "સાધનો"
+  # ✅  @nik132-eng
+protected: "સુરક્ષિત"
+  # ✅  @nik132-eng
+throw: "ફેંકવું"
+  # ✅  @nik132-eng
+byte: "બાઇટ"
+  # ✅  @nik132-eng
+else: "બીજું"
+  # ✅  @nik132-eng
+import: "આયાત"
+  # ✅  @nik132-eng
+public: "જાહેર"
+  # ✅  @nik132-eng
+throws: "ફેંકી દે છે"
+  # ✅  @nik132-eng
+case: "કેસ"
+  # ✅  @nik132-eng
+enum: "enum"
+  # ✅  @nik132-eng
+instanceof: "ઉદાહરણ તરીકે"
+  # ✅  @nik132-eng
+return: "પરત"
+  # ✅  @nik132-eng
+transient: "ક્ષણિક"
+  # ✅  @nik132-eng
+catch: "પકડો"
+  # ✅  @nik132-eng
+extends: "વિસ્તરે છે"
+  # ✅  @nik132-eng
+int: "પૂર્ણાંક"
+  # ✅  @nik132-eng
+short: "ટૂંકા"
+  # ✅  @nik132-eng
+try: "પ્રયત્ન કરો"
+  # ✅  @nik132-eng
+char: "ચાર"
+  # ✅  @nik132-eng
+final: "અંતિમ"
+  # ✅  @nik132-eng
+interface: "ઈન્ટરફેસ"
+  # ✅  @nik132-eng
+q: "q"
+  # ✅  @nik132-eng
+void: "રદબાતલ"
+  # ✅  @nik132-eng
+class: "વર્ગ"
+  # ✅  @nik132-eng
+finally: "છેલ્લે"
+  # ✅  @nik132-eng
+long: "લાંબી"
+  # ✅  @nik132-eng
+strictfp: "hardfp"
+  # ✅  @nik132-eng
+volatile: "અસ્થિર"
+  # ✅  @nik132-eng
+C: "સી"
+  # ✅  @nik132-eng
+float: "તરવું"
+  # ✅  @nik132-eng
+native: "મૂળ"
+  # ✅  @nik132-eng
+super: "સુપર"
+  # ✅  @nik132-eng
+while: "જ્યારે"
+  # ✅  @nik132-eng
+_: "underscore" #_(underscore)
+  # ✅  @nik132-eng
 
 # << Error Messages >>
 
