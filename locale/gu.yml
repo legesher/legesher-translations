@@ -1045,7 +1045,8 @@ super: "સુપર"
   # ✅  @nik132-eng
 while: "જ્યારે"
   # ✅  @nik132-eng
-_: "" #_(underscore)
+_: "underscore" #_(underscore)
+  # ✅  @nik132-eng
 
 # << Error Messages >>
 
