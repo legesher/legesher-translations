@@ -1133,14 +1133,16 @@ _: "_" #_(underscore)
 # |   LANGUAGE: JAVASCRIPT   |
 # ----------------------------
 # << Keywords >>
-arguments: "ארגומנטים"
-await: "המתן" 
+arguments: ""
+  # 👀 @Adarwall
+  # ✅ @tomerpacific "ארגומנטים"
+await: "המתן"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-break: "לשבור" 
+break: "לשבור"
   # ✅ @Adarwall
   # ❓ @tomerpacific - Should be "שבור" as this is the action taken
-case: "מקרה" 
+case: "מקרה"
   # ✅ @Adarwall
   # ✅ @tomerpacific
 catch: "תפוס"
@@ -1155,114 +1157,129 @@ const: "קבוע"
 continue: "המשך"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-debugger: "דיבאגר"
-default: "ברירת_מחדל" 
+debugger: ""
+  # 👀 @Adarwall
+  # ✅ @tomerpacific "דיבאגר"
+default: "ברירת_מחדל"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-delete: "מחק" 
+delete: "מחק"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-do: "תעשה" 
+do: "תעשה"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-else: "אחרת" 
+else: "אחרת"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-enum: "" 
+enum: ""
+  # 👀 @Adarwall
   # 🤔 @tomerpacific - There are no enums in JavaScript
-eval: "שערך"
-export: "יצוא" 
+eval: ""
+  # 👀 @Adarwall
+  # ✅ @tomerpacific "שערך"
+export: "יצוא"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-extends: "הרחב" 
+extends: "הרחב"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-false: "שקר" 
+false: "שקר"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-finally: "לבסוף" 
+finally: "לבסוף"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-for: "לכל" 
+for: "לכל"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-from: "מ" 
+from: "מ"
   # ✅ @Adarwall
   # ✅ @tomerpacific
 function: "פעולה"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-if: "אם" 
+if: "אם"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-implements: "מממש"
-import: "ייבוא" 
+implements: ""
+  # 👀 @Adarwall
+  # ✅ @tomerpacific "מממש"
+import: "ייבוא"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-in: "ב" 
+in: "ב"
   # ✅ @Adarwall
   # ❓ @tomerpacific - Consider using "בתוך"
-instanceof: "מופע_של"
-interface: "ממשק"
-let: "משתנה" 
+instanceof: ""
+  # 👀 @Adarwall
+  # ✅ @tomerpacific "מופע_של"
+interface: ""
+  # 👀 @Adarwall
+  # ✅ @tomerpacific "ממשק"
+let: "משתנה"
   # ✅ @Adarwall
-  # ❓ @tomerpacific - Let is used to define a blocked scoped variable so maybe use the term "משתנה_לוקאלי"? 
-new: "חדש" 
+  # ❓ @tomerpacific - Let is used to define a blocked scoped variable so maybe use the term "משתנה_לוקאלי"?
+new: "חדש"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-null: "כלום" 
+null: "כלום"
   # ✅ @Adarwall
   # ✅ @tomerpacific
 package: "חבילה"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-private: "פרטי" 
+private: "פרטי"
   # ✅ @Adarwall
   # ✅ @tomerpacific
 protected: "מוגן"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-public: "ציבורי" 
+public: "ציבורי"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-return: "החזר" 
+return: "החזר"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-static: "סטטי" 
+static: "סטטי"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-super: "קריאה_למחלקת_אם"
+super: ""
+  # 👀 @Adarwall
+  # ✅ @tomerpacific "קריאה_למחלקת_אם"
 switch: "סנן"
   # ✅ @Adarwall
   # ❓ @tomerpacific - Switch statements are used to break down values of a variable so the current term is less fitting in my opinion. Maybe consider "בורר_מקרים"?
-this: "זה" 
+this: "זה"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-throw: "זרוק" 
+throw: "זרוק"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-true: "אמת" 
+true: "אמת"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-try: "נסה" 
+try: "נסה"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-typeof: "פורמט" 
+typeof: "פורמט"
   # ✅ @Adarwall
   # ❓ @tomerpacific - Typeof is used to find the type of a variable so I suggest using "סוג_של"
 var: "משתנה_כללי"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-void: "ריק" 
+void: "ריק"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-while: "כל_עוד" 
+while: "כל_עוד"
   # ✅ @Adarwall
   # ✅ @tomerpacific
-with: "עם" 
+with: "עם"
   # ✅ @Adarwall
   # ✅ @tomerpacific
 yield: "השהה"
+  # 👀 @Adarwall
+  # ✅ @tomerpacific "השהה"
 # << Error Messages >>
 
 # ----------------------
