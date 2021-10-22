@@ -1304,7 +1304,8 @@ __TRAIT__: ""
   ascii: "ascii" # ✅✅✅
   bin: "binario" # ✅✅✅
   bool: "booleano" # ✅✅✅
-  breakpoint: "puntodirottura" # ❓✅ This is a more literal translation but it sounds good to me
+  breakpoint: "rompise" # ❓✅❓ This is a more literal translation but it sounds good to me
+  # I would suggest 'puntodirottura'
   bytearray: "byteschiera" # ❓🤔❓ I would translate it with 'sequenza di byte', but I think it sounds good as it is
   # I'm not sure we should translate this, it does not sound natural
   # I would suggest 'listadibyte' or 'sequenzadibyte''
