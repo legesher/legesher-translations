@@ -23,20 +23,20 @@ language-abbreviation: "gu"
     # ✅ @179priyasoni
     # ✅ @aadii0408
   DEBUG: "સુધારવુ"
-    # ✅ @aadii0408
     # 👀 @179priyasoni
+    # ✅ @aadii0408
   REMOVE: "દૂર કરવું"
     # ✅ @179priyasoni
     # ✅ @aadii0408
   OPTIMIZE: "શક્ય ઍટલુ સારુ કરવુ"
-    # ✅ @aadii0408
     # 👀 @179priyasoni
+    # ✅ @aadii0408
   REVIEW: "સમીક્ષા"
     # ✅ @179priyasoni
     # ✅ @aadii0408
   HACK: ""
     # 👀 @179priyasoni
-    # 👀 @aadii0408
+    # 🤔 @aadii0408
   UNDONE: "પૂર્ણ ના થવું"
     # ✅ @179priyasoni
     # ✅ @aadii0408
@@ -45,7 +45,7 @@ language-abbreviation: "gu"
     # ✅ @aadii0408
   REFACTOR: ""
     # 👀 @179priyasoni
-    # 👀 @aadii0408
+    # 🤔  @aadii0408
   DEPRECATED: "નાપસંદ"
     # ✅ @179priyasoni
     # ✅ @aadii0408
@@ -54,7 +54,7 @@ language-abbreviation: "gu"
     # ✅ @aadii0408
   CHGME: ""
     # 👀 @179priyasoni
-    # 👀 @aadii0408
+    # 🤔  @aadii0408
   NOTREACHED: "સુધી પહોંચ્યું નથી"
     # ✅ @179priyasoni
     # ✅ @aadii0408
@@ -72,10 +72,10 @@ language-abbreviation: "gu"
     # ✅ @aadii0408
   ERR: ""
     # 👀 @179priyasoni
-    # 👀 @aadii0408
+    # 🤔  @aadii0408
   OMFGRLY: ""
     # 👀 @179priyasoni
-    # 👀 @aadii0408
+    # 🤔  @aadii0408
   WARNING: "ચેતવણી"
     # ✅ @179priyasoni
     # ✅ @aadii0408
@@ -163,7 +163,7 @@ else: "નહિ તો" # (part of if-else statement)
   # ✅ @aadii0408
 switch: ""
   # 👀 @179priyasoni
-  # 👀 @aadii0408
+  # 🤔  @aadii0408
 break: "વિરામ" # (part of the switch statement or for/while statements)
   # ✅ @179priyasoni
   # ✅ @aadii0408
@@ -193,7 +193,7 @@ global: "વૈશ્વિક"
   # ✅ @aadii0408
 static: ""
   # 👀 @179priyasoni
-  # 👀 @aadii0408
+  # 🤔  @aadii0408
 typeof: "પ્રકાર"
   # ✅ @179priyasoni
   # ✅ @aadii0408
