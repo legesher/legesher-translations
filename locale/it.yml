@@ -1267,7 +1267,8 @@ __TRAIT__: ""
   elif: "altrose" # ❓❓❓ I would translate it with 'altrimenti se'
   # 'altrimentise' makes more sense than 'altrose'
   # 'altrimentise' sounds better
-  else: "altrimenti" # ✅✅✅
+  else: "altrimenti" # ❓❓✅ I would translate it with 'altrimenti'
+  # I think 'altrimenti' is the right translation
   except: "eccetto" # ✅✅✅
   finally: "finalmente" # ❓❓✅ I would translate it with 'infine'
   # I agree with 'infine'
