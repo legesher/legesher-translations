@@ -92,6 +92,7 @@ We are actively working on adding as many written languages as we can for versio
 - [Telugu (te)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Telugu")
 - [Turkish (tr)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Turkish")
 - [Ukrainian (uk)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Ukranian")
+- [Urdu (ur)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Urdu")
 - [Welsh (cy)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Welsh")
 - [Xhosa (xh)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Xhosa")
 
