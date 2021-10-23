@@ -11,32 +11,56 @@ language-abbreviation: "it"
 # |    SISTEMA: ATOM    |
 # ----------------------
 # << PAROLE CHIAVE  >>
-# NOTA: Tutte le parole chiave sono scritte in maiuscolo per Atom perché è utilizzato per 
+# NOTA: Tutte le parole chiave sono scritte in maiuscolo per Atom perché è utilizzato per
 # le informazioni chiave locate nei commenti all'interno dell'editor.
   NOTE: "NOTA"
+    # ✅ @ninoCan
   INFO: "INFORMAZIONE"
+    # ✅ @ninoCan
   IDEA: "IDEA"
+    # ✅ @ninoCan
   DEBUG: "CORREZIONE"
+    # ✅ @ninoCan
   REMOVE: "RIMUOVI"
+    # ✅ @ninoCan
   OPTIMIZE: "OTTIMIZZA"
+    # ✅ @ninoCan
   REVIEW: "REVISIONA"
+    # ✅ @ninoCan
   HACK: "TRUCCO"
+    # ✅ @ninoCan
   UNDONE: "INCOMPLETO"
+    # ✅ @ninoCan
   TODO: "DAFARE"
+    # ✅ @ninoCan
   REFACTOR: "RIFATTORIZZA"
+    # ✅ @ninoCan
   DEPRECATED: "DEPRECATO"
+    # ✅ @ninoCan
   TASK: "COMPITO"
+    # ✅ @ninoCan
   CHGME: "CAMBIAMI"
+    # ✅ @ninoCan
   NOTREACHED: "IRRAGIUNTO"
+    # ✅ @ninoCan
   WTF: "CHECAZ20"
+    # ✅ @ninoCan
   BUG: "BACO"
+    # ✅ @ninoCan
   ERROR: "ERROR"
+    # ✅ @ninoCan
   OMG: "OHMIODIO"
+    # ✅ @ninoCan
   ERR: "EHM"
+    # ✅ @ninoCan
   OMFGRLY: "OMMIODDIOVERAMENTE"
+    # ✅ @ninoCan
   WARNING: "CAUZIONE"
+    # ✅ @ninoCan
   WARN: "ATTENZIONE"
+    # ✅ @ninoCan
   BROKEN: "ROTTO"
+    # ✅ @ninoCan
 
 # ----------------------
 # |   LINGUAGGIO: AGDA   |
@@ -44,50 +68,95 @@ language-abbreviation: "it"
 # NOTE: https://agda.readthedocs.io/en/v2.5.4.2/index.html
 # << Keywords >>
   abstract: "riassunto"
+    # ✅ @ninoCan
   codata: "codato"
+    # ✅ @ninoCan
   coinductive: "coinduttivo"
+    # ✅ @ninoCan
   constructor: "construtto"
+    # ✅ @ninoCan
   data: "dato"
+    # ✅ @ninoCan
   do: "fai"
+    # ✅ @ninoCan
   eta-equality: "eta-uguaglianza"
+    # ✅ @ninoCan
   field: "campo"
+    # ✅ @ninoCan
   forall: "pertutti"
+    # ✅ @ninoCan
   hiding: "nascosto"
+    # ✅ @ninoCan
   import: "importa"
+    # ✅ @ninoCan
   in: "in"
+    # ✅ @ninoCan
   inductive: "induttivo"
+    # ✅ @ninoCan
   infix: "infisso"
+    # ✅ @ninoCan
   infixl: "infissol"
+    # ✅ @ninoCan
   infixr: "infissor"
+    # ✅ @ninoCan
   instance: "istanza"
+    # ✅ @ninoCan
   let: "sia"
+    # ✅ @ninoCan
   macro: "macro"
+    # ✅ @ninoCan
   module: "modulo"
+    # ✅ @ninoCan
   mutual: "mutuo"
+    # ✅ @ninoCan
   no-eta-equality: "non-eta-uguaglianza"
+    # ✅ @ninoCan
   open: "apri"
+    # ✅ @ninoCan
   overlap: "sovrapponi"
+    # ✅ @ninoCan
   pattern: "motivo"
+    # ✅ @ninoCan
   postulate: "postula"
+    # ✅ @ninoCan
   primitive: "primitiva"
+    # ✅ @ninoCan
   private: "privato"
+    # ✅ @ninoCan
   public: "pubblico"
+    # ✅ @ninoCan
   quote: "virgoletta"
+    # ✅ @ninoCan
   quoteContext: "citaContesto"
+    # ✅ @ninoCan
   quoteGoal: "citaObbiettivo"
+    # ✅ @ninoCan
   quoteTerm: "citaTermine"
+    # ✅ @ninoCan
   record: "registro"
+    # ✅ @ninoCan
   renaming: "rinomina"
+    # ✅ @ninoCan
   rewrite: "riscrivi"
-  Set: "Instituisci" # can appear with a number suffix, optionally suffixed, make sure we account for this
+    # ✅ @ninoCan
+  Set: "Instituisci"
+    # ✅ @ninoCan can appear with a number suffix, optionally suffixed, make sure we account for this
   syntax: "sintassi"
+    # ✅ @ninoCan
   tactic: "tattica"
+    # ✅ @ninoCan
   unquote: "chiudiVirgoletta"
+    # ✅ @ninoCan
   unquoteDecl: "chiudiDich"
+    # ✅ @ninoCan
   unquoteDef: "chiudiDef"
+    # ✅ @ninoCan
   using: "usando"
+    # ✅ @ninoCan
   where: "dove"
+    # ✅ @ninoCan
   with: "con"
+    # ✅ @ninoCan
 
 # << Messaggi d'errore >>
 
@@ -99,26 +168,47 @@ language-abbreviation: "it"
 
 # << parole chiave >>
 do: "fai" # (part of do-while statement)
+  # ✅ @ninoCan
 while: "mentre"
+  # ✅ @ninoCan
 for: "per"
+  # ✅ @ninoCan
 if: "se" # (part of if-else statement)
+  # ✅ @ninoCan
 else: "altrimenti" # (part of if-else statement)
+  # ✅ @ninoCan
 switch: "cambia"
+  # ✅ @ninoCan
 break: "interrompi" # (part of the switch statement or for/while statements)
+  # ✅ @ninoCan
 case: "caso" # (part of the switch statement)
+  # ✅ @ninoCan
 continue: "continua" # (part of for/while statements)
+  # ✅ @ninoCan
 default: "default" # (part of switch statement)
+  # ✅ @ninoCan
 function: "funzione"
+  # ✅ @ninoCan
 procedure: "procedura"
+  # ✅ @ninoCan
 return: "restituiscia"
+  # ✅ @ninoCan
 local: "locale"
+  # ✅ @ninoCan
 global: "globale"
+  # ✅ @ninoCan
 static: "statico"
+  # ✅ @ninoCan
 typeof: "tipodi"
+  # ✅ @ninoCan
 NOT: "NON"
+  # ✅ @ninoCan
 AND: "ED"
+  # ✅ @ninoCan
 OR: "OD"
+  # ✅ @ninoCan
 Null: "Zero"
+  # ✅ @ninoCan
 # << Messaggi d'errore>>
 
 # ----------------------
@@ -126,60 +216,108 @@ Null: "Zero"
 # ----------------------
 # << Parole chiave >>
 case: "caso"
+  # ✅ @ninoCan
 do: "fai"
+  # ✅ @ninoCan
 done: "fatto"
+  # ✅ @ninoCan
 elif: "altrose"
+  # ✅ @ninoCan
 else: "altrimenti"
+  # ✅ @ninoCan
 esac: "osac"
+  # ✅ @ninoCan
 fi: "es"
+  # ✅ @ninoCan
 for: "per"
+  # ✅ @ninoCan
 function: "funzione"
+  # ✅ @ninoCan
 if: "se"
+  # ✅ @ninoCan
 in: "in"
+  # ✅ @ninoCan
 select: "seleziona"
+  # ✅ @ninoCan
 then: "allora"
+  # ✅ @ninoCan
 time: "tempo"
+  # ✅ @ninoCan
 until: "finanche"
+  # ✅ @ninoCan
 while: "mentre"
- 
+  # ✅ @ninoCan
+
 # << Messaggi d'errore >>
- 
+
 # ----------------------
 # |   LINGUAGGIO : C      |
 # ----------------------
 # << Parole chiave >>
 auto: "auto"
+  # ✅ @ninoCan
 double: "doppio"
+  # ✅ @ninoCan
 int: "intero"
+  # ✅ @ninoCan
 struct: "struttura"
+  # ✅ @ninoCan
 break: "interrompi"
+  # ✅ @ninoCan
 else: "altrimenti"
+  # ✅ @ninoCan
 long: "lungo"
+  # ✅ @ninoCan
 switch: "cambia"
+  # ✅ @ninoCan
 case: "caso"
+  # ✅ @ninoCan
 enum: "enumera"
+  # ✅ @ninoCan
 register: "registro"
+  # ✅ @ninoCan
 typedef: "definiscitipo"
+  # ✅ @ninoCan
 char: "carattere"
+  # ✅ @ninoCan
 extern: "esterno"
+  # ✅ @ninoCan
 return: "restituisci"
+  # ✅ @ninoCan
 union: "unione"
+  # ✅ @ninoCan
 const: "costante"
+  # ✅ @ninoCan
 float: "mobile"
+  # ✅ @ninoCan
 short: "corto"
+  # ✅ @ninoCan
 unsigned: "anonimo"
+  # ✅ @ninoCan
 continue: "continua"
+  # ✅ @ninoCan
 for: "per"
+  # ✅ @ninoCan
 signed: "firmato"
+  # ✅ @ninoCan
 void: "vuoto"
+  # ✅ @ninoCan
 default: "default"
+  # ✅ @ninoCan
 goto: "vaiad"
+  # ✅ @ninoCan
 sizeof: "dimensionedi"
+  # ✅ @ninoCan
 volatile: "volatile"
+  # ✅ @ninoCan
 do: "fai"
+  # ✅ @ninoCan
 if: "se"
+  # ✅ @ninoCan
 static: "statico"
+  # ✅ @ninoCan
 while: "mentre"
+  # ✅ @ninoCan
 
 # << Messaggi d'errore >>
 
@@ -189,114 +327,223 @@ while: "mentre"
 # << Parole chiave >>
 
 #define: "definisci"
+  # ✅ @ninoCan
 #defined: "definito"
+  # ✅ @ninoCan
 #elif: "altrose"
+  # ✅ @ninoCan
 #else: "altrimenti"
+  # ✅ @ninoCan
 #endif: "finese"
+  # ✅ @ninoCan
 #error: "errore"
+  # ✅ @ninoCan
 #if: "se"
+  # ✅ @ninoCan
 #ifdef: "sedefinisci"
+  # ✅ @ninoCan
 #ifndef: "senondefinisci"
+  # ✅ @ninoCan
 #include: "includi"
+  # ✅ @ninoCan
 #line: "linea"
+  # ✅ @ninoCan
 #pragma: "pragma"
+  # ✅ @ninoCan
 #undef: "libera"
+  # ✅ @ninoCan
 alignas: ""
+  # 👀 @ninoCan
 alignof: ""
+  # 👀 @ninoCan
 and: ""
+  # 👀 @ninoCan
 and_eq: ""
+  # 👀 @ninoCan
 asm: ""
+  # 👀 @ninoCan
 atomic_cancel: ""
+  # 👀 @ninoCan
 atomic_commit: ""
+  # 👀 @ninoCan
 atomic_noexcept: ""
+  # 👀 @ninoCan
 auto: "auto"
+  # ✅ @ninoCan
 bitand: "ebinario"
+  # ✅ @ninoCan
 bitor: "obinario"
+  # ✅ @ninoCan
 bool: "boleano"
+  # ✅ @ninoCan
 break: "interrompi"
+  # ✅ @ninoCan
 case: "caso"
+  # ✅ @ninoCan
 catch: "prendi"
+  # ✅ @ninoCan
 char: "carattere"
+  # ✅ @ninoCan
 char16_t: "carattere_16_t"
+  # ✅ @ninoCan
 char32_t: "carattere32_t"
+  # ✅ @ninoCan
 class: "classe"
+  # ✅ @ninoCan
 compl: "complemento"
+  # ✅ @ninoCan
 concept: "concetto"
+  # ✅ @ninoCan
 const: "costante"
+  # ✅ @ninoCan
 constexpr: "espressionecostante"
+  # ✅ @ninoCan
 const_cast: "chiamata_costante"
+  # ✅ @ninoCan
 continue: "continua"
+  # ✅ @ninoCan
 decltype: "dichiaratipo"
+  # ✅ @ninoCan
 default: "default"
+  # ✅ @ninoCan
 delete: "cancella"
+  # ✅ @ninoCan
 do: "fai"
+  # ✅ @ninoCan
 double: "doppio"
+  # ✅ @ninoCan
 dynamic_cast: "chiamata_dinamica"
+  # ✅ @ninoCan
 else: "altrimenti"
+  # ✅ @ninoCan
 enum: "enumera"
+  # ✅ @ninoCan
 explicit: "esplicito"
+  # ✅ @ninoCan
 export: "esporta"
+  # ✅ @ninoCan
 extern: "esterno"
+  # ✅ @ninoCan
 false: "falso"
+  # ✅ @ninoCan
 final: "finale"
+  # ✅ @ninoCan
 float: "mobile"
+  # ✅ @ninoCan
 for: "per"
+  # ✅ @ninoCan
 friend: "amico"
+  # ✅ @ninoCan
 goto: "vaiad"
+  # ✅ @ninoCan
 if: "se"
+  # ✅ @ninoCan
 inline: "allalinea"
+  # ✅ @ninoCan
 int: "intero"
+  # ✅ @ninoCan
 import: "importa"
+  # ✅ @ninoCan
 long: "lungo"
+  # ✅ @ninoCan
 module: "modulo"
+  # ✅ @ninoCan
 mutable: "cambiabile"
+  # ✅ @ninoCan
 namespace: "casellanome"
+  # ✅ @ninoCan
 new: "nuovo"
+  # ✅ @ninoCan
 noexcept: "noeccezione"
+  # ✅ @ninoCan
 not: "non"
+  # ✅ @ninoCan
 not_eq: "non_uguale"
+  # ✅ @ninoCan
 nullptr: "puntatorenullo"
+  # ✅ @ninoCan
 operator: "operatore"
+  # ✅ @ninoCan
 or: "od"
+  # ✅ @ninoCan
 or_eq: "od_uguale"
+  # ✅ @ninoCan
 override: ""
+  # 👀 @ninoCan
 private: "privato"
+  # ✅ @ninoCan
 protected: "protetto"
+  # ✅ @ninoCan
 public: "pubblico"
+  # ✅ @ninoCan
 register: "registro"
+  # ✅ @ninoCan
 reinterpret_cast: "reinterpreta_chiamata"
+  # ✅ @ninoCan
 requires: "richiedi"
+  # ✅ @ninoCan
 return: "restituisci"
+  # ✅ @ninoCan
 short: "corto"
+  # ✅ @ninoCan
 signed: "firmato"
+  # ✅ @ninoCan
 sizeof: "dimensionedi"
+  # ✅ @ninoCan
 static: "statico"
+  # ✅ @ninoCan
 static_assert: "afferamazione_statica"
+  # ✅ @ninoCan
 static_cast: "chiamata_statica"
+  # ✅ @ninoCan
 struct: "construtto"
+  # ✅ @ninoCan
 switch: "cambia"
+  # ✅ @ninoCan
 synchronized: "sincronizzato"
+  # ✅ @ninoCan
 template: "modello"
+  # ✅ @ninoCan
 this: "questo"
+  # ✅ @ninoCan
 thread_local: "filo_locale"
+  # ✅ @ninoCan
 throw: "lancia"
+  # ✅ @ninoCan
 transaction_safe: "transazione_sicura"
+  # ✅ @ninoCan
 transaction_safe_dynamic: "transizione_dinamica"
+  # ✅ @ninoCan
 true: "vero"
+  # ✅ @ninoCan
 try: "prova"
+  # ✅ @ninoCan
 typedef: "definiscitipo"
+  # ✅ @ninoCan
 typeid: "definisciid"
+  # ✅ @ninoCan
 typename: "tipodinome"
+  # ✅ @ninoCan
 union: "unione"
+  # ✅ @ninoCan
 unsigned: "anonimo"
+  # ✅ @ninoCan
 using: "usando"
+  # ✅ @ninoCan
 virtual: "virtuale"
+  # ✅ @ninoCan
 void: "vuoto"
+  # ✅ @ninoCan
 volatile: "volatile"
+  # ✅ @ninoCan
 wchar_t: "parola_t"
+  # ✅ @ninoCan
 while: "mentre"
+  # ✅ @ninoCan
 xor: "or_esclusivo"
+  # ✅ @ninoCan
 xor_eq: "uguale_esclusivo"
+  # ✅ @ninoCan
 
 # << Messaggi D'errore>>
 
@@ -305,105 +552,205 @@ xor_eq: "uguale_esclusivo"
 # ----------------------
 # << Keywords >>
 abstract: "riassunto"
+  # ✅ @ninoCan
 add: "aggiungi"
+  # ✅ @ninoCan
 alias: "alias"
+  # ✅ @ninoCan
 as: "come"
+  # ✅ @ninoCan
 ascending: "crescendo"
+  # ✅ @ninoCan
 async: "asincrono"
+  # ✅ @ninoCan
 await: "aspetta"
+  # ✅ @ninoCan
 base: "base"
+  # ✅ @ninoCan
 bool: "boleano"
+  # ✅ @ninoCan
 break: "interrompi"
+  # ✅ @ninoCan
 byte: "byte"
+  # ✅ @ninoCan
 case: "caso"
+  # ✅ @ninoCan
 catch: "cattura"
+  # ✅ @ninoCan
 char: "carattere"
+  # ✅ @ninoCan
 checked: "controllato"
+  # ✅ @ninoCan
 class: "classe"
+  # ✅ @ninoCan
 const: "costante"
+  # ✅ @ninoCan
 continue: "continua"
+  # ✅ @ninoCan
 decimal: "decimale"
+  # ✅ @ninoCan
 default: "default"
+  # ✅ @ninoCan
 delegate: "delega"
+  # ✅ @ninoCan
 descending: "scendendo"
+  # ✅ @ninoCan
 do: "fai"
+  # ✅ @ninoCan
 double: "doppio"
+  # ✅ @ninoCan
 dynamic: "dinamico"
+  # ✅ @ninoCan
 else: "altrimenti"
+  # ✅ @ninoCan
 enum: "enumera"
+  # ✅ @ninoCan
 event: "evento"
+  # ✅ @ninoCan
 explicit: "esplicito"
+  # ✅ @ninoCan
 extern: "esterno"
+  # ✅ @ninoCan
 false: "falso"
+  # ✅ @ninoCan
 finally: "infine"
+  # ✅ @ninoCan
 fixed: "fisso"
+  # ✅ @ninoCan
 float: "mobile"
+  # ✅ @ninoCan
 for: "per"
+  # ✅ @ninoCan
 foreach: "perogni"
+  # ✅ @ninoCan
 from: "da"
+  # ✅ @ninoCan
 get: "prendi"
+  # ✅ @ninoCan
 global: "globale"
+  # ✅ @ninoCan
 goto: "vaiad"
+  # ✅ @ninoCan
 group: "gruppo"
+  # ✅ @ninoCan
 if: "se"
+  # ✅ @ninoCan
 implicit: "implicito"
+  # ✅ @ninoCan
 in: "in"
+  # ✅ @ninoCan
 int: "intero"
+  # ✅ @ninoCan
 interface: "interfaccia"
+  # ✅ @ninoCan
 internal: "interno"
+  # ✅ @ninoCan
 into: "dentro"
+  # ✅ @ninoCan
 is: "essere"
+  # ✅ @ninoCan
 join: "unisci"
+  # ✅ @ninoCan
 let: "sia"
+  # ✅ @ninoCan
 lock: "blocca"
+  # ✅ @ninoCan
 long: "lungo"
+  # ✅ @ninoCan
 namespace: "casellanome"
+  # ✅ @ninoCan
 new: "nuovo"
+  # ✅ @ninoCan
 null: "nullo"
+  # ✅ @ninoCan
 object: "oggetto"
+  # ✅ @ninoCan
 operator: "operatore"
+  # ✅ @ninoCan
 orderby: "ordinaper"
+  # ✅ @ninoCan
 out: "fuori"
+  # ✅ @ninoCan
 override: "scavalca"
+  # ✅ @ninoCan
 params: "parametri"
+  # ✅ @ninoCan
 partial: "parziale"
+  # ✅ @ninoCan
 private: "privato"
+  # ✅ @ninoCan
 protected: "protetto"
+  # ✅ @ninoCan
 public: "pubblico"
+  # ✅ @ninoCan
 readonly: "solalettura"
+  # ✅ @ninoCan
 ref: "riferisciad"
+  # ✅ @ninoCan
 remove: "rimuovi"
+  # ✅ @ninoCan
 return: "restituisci"
+  # ✅ @ninoCan
 sbyte: "sbyte"
+  # ✅ @ninoCan
 sealed: "chiuso"
+  # ✅ @ninoCan
 select: "seleziona"
+  # ✅ @ninoCan
 set: "imposta"
+  # ✅ @ninoCan
 short: "corto"
+  # ✅ @ninoCan
 sizeof: "dimensionedi"
+  # ✅ @ninoCan
 stackalloc: "allocastack"
+  # ✅ @ninoCan
 static: "statico"
+  # ✅ @ninoCan
 string: "stringa"
+  # ✅ @ninoCan
 struct: "construtto"
+  # ✅ @ninoCan
 switch: "cambia"
+  # ✅ @ninoCan
 this: "questo"
+  # ✅ @ninoCan
 throw: "getta"
+  # ✅ @ninoCan
 true: "vero"
+  # ✅ @ninoCan
 try: "prova"
+  # ✅ @ninoCan
 typeof: "tipodi"
+  # ✅ @ninoCan
 uint: "uintero"
+  # ✅ @ninoCan
 ulong: "ulungo"
+  # ✅ @ninoCan
 unchecked: "scoperto"
+  # ✅ @ninoCan
 unsafe: "insicuro"
+  # ✅ @ninoCan
 ushort: "ucorto"
+  # ✅ @ninoCan
 using: "usando"
+  # ✅ @ninoCan
 value: "valore"
+  # ✅ @ninoCan
 var: "variabile"
+  # ✅ @ninoCan
 virtual: "virtuale"
+  # ✅ @ninoCan
 void: "vuoto"
+  # ✅ @ninoCan
 volatile: "volatile"
+  # ✅ @ninoCan
 where: "dove"
+  # ✅ @ninoCan
 while: "mentre"
+  # ✅ @ninoCan
 yield: "comporta"
+  # ✅ @ninoCan
 
 # << Error Messages >>
 
@@ -1248,135 +1595,530 @@ __TRAIT__: ""
 # |  LINGUAGGIO: PYTHON  |
 # ----------------------
 # << Parole chiave >>
-  False: "Falso" # ✅ ✅
-  None: "Nessuno" # ✅✅
-  True: "Vero" # ✅✅
-  and: "ed" # ❓❓ The right traduction is 'e' we use 'ed' before the words that start with a vowel
-  # this should indeed be 'e'. Using 'e' before words that start with a vowel is
-  # common, using 'ed' before words that start with a consonant is not.
-  as: "come" # ✅✅
-  assert: "asserisci" # ❓✅ The traduction is right, but for me it doesn't mean the same thing, I think it's better to not traduce it
-  async: "asincrono" # ✅✅
-  await: "attendi" # ✅✅
-  break: "interrompi" # ✅✅
-  class: "classe" # ✅✅
-  continue: "continua" # ✅✅
-  def: "def" # ✅✅
-  del: "canc" # ✅✅
-  elif: "altrose" # ❓❓ I would translate it with 'altrimenti se'
-  # 'altrimentise' makes more sense than 'altrose'
-  else: "self" # ❓❓ I would translate it with 'altrimenti'
-  # I think 'altrimenti' is the right translation
-  except: "eccetto" # ✅✅
-  finally: "finalmente" # ❓❓ I would translate it with 'infine'
-  # I agree with 'infine'
-  for: "per" # ✅✅
-  from: "da" # ✅✅
-  global:  "globale" # ✅✅
-  if: "se" # ✅✅
-  import: "importa" # ✅✅
-  in: "in" # ✅✅
-  is: "esiste" # ❓❓ I would translate it with 'é'
-  # 'è' makes more sense
-  lambda: "lambda" # ✅✅
-  nonlocal: "nonlocale" # ✅✅
-  not: "non" # ✅✅
-  or: "od" # ❓❓ The right traduction is 'o' we use 'od' before the words that start with a vowel
-  # same thing as the 'ed'/'e'
-  pass: "salta" # ✅✅
-  raise: "alza" # ✅❓
-  # I think when talking about exceptions we mostly use "solleva" instead of
-  # "alza"; they are synonims tho, so maybe "alza" is ok
-  return: "restituisci" # ✅✅
-  try: "prova" # ✅✅
-  while: "mentre" # ✅✅
-  with: "con" # ✅✅
-  yield: "" # 🤔❓ I think we could use 'cedi' or 'produci'
+  False: "Falso"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  None: "Nessuno"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  True: "Vero"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  and: "ed"
+    # ✅ @ninoCan
+    # ❓ @GiacomoPignoni The right traduction is 'e' we use 'ed' before the words that start with a vowel
+    # ❓ @sime1 this should indeed be 'e'. Using 'e' before words that start with a vowel is common, using 'ed' before words that start with a consonant is not.
+    # ❓ @Girgetto Another possible translation could be 'anche'
+  as: "come"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  assert: "asserisci"
+    # ✅ @ninoCan
+    # ❓ @GiacomoPignoni The traduction is right, but for me it doesn't mean the same thing, I think it's better to not traduce it
+    # ✅ @sime1
+    # ✅ @Girgetto
+  async: "asincrono"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  await: "attendi"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  break: "interrompi"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  class: "classe"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  continue: "continua"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  def: "def"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  del: "canc"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  elif: "altrose"
+    # ✅ @ninoCan
+    # ❓ @GiacomoPignoni I would translate it with 'altrimenti se'
+    # ❓ @sime1 'altrimentise' makes more sense than 'altrose'
+    # ❓ @Girgetto 'altrimentise' sounds better
+  else: "altrimenti"
+    # ✅ @ninoCan
+    # ❓ @GiacomoPignoni I would translate it with 'altrimenti'
+    # ❓ @sime1 I think 'altrimenti' is the right translation
+    # ✅ @Girgetto
+  except: "eccetto"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  finally: "finalmente"
+    # ✅ @ninoCan
+    # ❓ @GiacomoPignoni I0 would translate it with 'infine'
+    # ❓ @sime1 I agree with 'infine'
+    # ✅ @Girgetto
+  for: "per"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  from: "da"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  global:  "globale"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  if: "se"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  import: "importa"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  in: "in"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  is: "esiste"
+    # ✅ @ninoCan
+    # ❓ @GiacomoPignoni I would translate it with 'é'
+    # ❓ @sime1 'è' makes more sense
+    # ✅ @Girgetto
+  lambda: "lambda"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅
+  nonlocal: "nonlocale"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  not: "non"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  or: "od"
+    # ✅ @ninoCan
+    # ❓ @GiacomoPignoni The right traduction is 'o' we use 'od' before the words that start with a vowel
+    # ❓ @sime1 same thing as the 'ed'/'e'
+    # ❓ @Girgetto Another possible translation could be 'oppure'
+  pass: "salta"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  raise: "alza"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ❓ @sime1 I think when talking about exceptions we mostly use "solleva" instead of "alza"; they are synonims tho, so maybe "alza" is ok
+    # ✅ @Girgetto
+  return: "restituisci"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  try: "prova"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  while: "mentre"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  with: "con"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  yield: ""
+    # 👀 @ninoCan
+    # 🤔 @GiacomoPignoni
+    # ❓ @sime1 I think we could use 'cedi' or 'produci'
+    # ❓ @Girgetto 'produci' could be a good translation
 
 # << Built-In Functions >>
 
-  abs: "modulo" # ✅✅
-  all: "tutti" # ✅✅
-  any: "ogni" # ✅✅
-  ascii: "ascii" # ✅✅
-  bin: "binario" # ✅✅
-  bool: "boleano" # ✅❓ this would be 'booleano', I think it's just a typo
-  breakpoint: "rompise" # ❓🤔 I would translate it with 'interruzione'
-  # I would not translate this
-  bytearray: "byteschiera" # ❓🤔 I would translate it with 'sequenza di byte', but I think it sounds good as it is
-  # I'm not sure we should translate this, it does not sound natural
-  bytes: "bytes" # ✅✅
-  callable: "chiamabile" # ✅✅
-  chr: "car" # ✅✅
-  classmethod: "metodoclasse" # ✅✅
-  compile: "compila" # ✅✅
-  complex: "complesso" # ✅✅
-  delattr: "cancattr" # ❓✅ It's right but it doesn't sound good in Italian
+  abs: "modulo"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  all: "tutti"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  any: "ogni"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  ascii: "ascii"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  bin: "binario"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  bool: "booleano"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1 (updated spelling) this would be 'booleano', I think 'boleano' just a typo
+    # ✅ @Girgetto
+  breakpoint: "rompise"
+    # ✅ @ninoCan
+    # ❓ @GiacomoPignoni I would translate it with 'interruzione'
+    # ✅ @sime1 I would not translate this
+    # ❓ @Girgetto This is a more literal translation but it sounds good to me I would suggest 'puntodirottura'
+  bytearray: "byteschiera"
+    # ✅ @ninoCan
+    # ❓ @GiacomoPignoni I would translate it with 'sequenza di byte', but I think it sounds good as it is
+    # 🤔 @sime1 I'm not sure we should translate this, it does not sound natural
+    # ❓ @Girgetto I would suggest 'listadibyte' or 'sequenzadibyte''
+  bytes: "bytes"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  callable: "chiamabile"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  chr: "car"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  classmethod: "metodoclasse"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  compile: "compila"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  complex: "complesso"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  delattr: "cancattr"
   # I think cancattr is fine
-  dict: "dizionario" # ✅✅
-  dir: "cartella" # ✅✅
-  divmod: "quozienteresto" # ✅✅
-  enumerate: "enumera" # ✅✅
-  eval: "valuta" # ✅✅
-  exec: "esegui" # ✅✅
-  filter: "filra" # ❓❓ It's written wrong, it's 'filtra'
-  # filtra
-  float: "mobile" # 🤔🤔 # we could use "virgolamobile" but I think it's best not
-  # to translate this
-  format: "formato" # ❓❓ I think 'formatta' it's better
-  # agree with 'formatta'
-  frozenset: "insiemecongelato" # ✅✅
-  getattr: "ottieniattr" # ✅✅
-  globals: "globali" # ✅✅
-  hasattr: "possiedeattr" # ✅✅
-  hash: "hash" # ✅✅
-  help: "aiuto" # ✅✅
-  hex: "esa" # ❓✅ I think 'esadecimale' it's better
-  # I think 'esadecimale' is too long compared to 'hex', maybe 'esadec'
-  id: "id" # ✅✅
-  input: "input" # ✅✅
-  int: "intero" # ✅🤔 'int' is short for 'integer', but works for 'intero' as
-  # well so maybe we should not translate it
-  isinstance: "esisteinistanza" # ✅✅
-  issubclass: "inclasse" # ✅✅
-  iter: "itera" # ✅✅
-  len: "lunghezza" # ✅✅
-  list: "lista" # ✅✅
-  locals: "locali" # ✅✅
-  map: "mappa" # ✅✅
-  max: "massimo" # ✅✅
-  memoryview: "inmemoria" # ✅🤔 not sure we should translate this
-  min: "minimo" # ✅✅
-  next: "seguente" # ✅✅
-  object: "oggetto" # ✅✅
-  oct: "ottava" # ✅❓ should be 'ottale', 'ottava' does not mean the same thing
-  open: "apri" # ✅✅
-  ord: "ordine" # ✅✅
-  pow: "potenza" # ✅✅
-  print: "stampa" # ✅✅
-  property: "proprieta" # ✅❓ should be 'proprietà'
-  range: "catena" # 🤔❓ the closest translation is "intervallo"
-  repr: "rappresenta" # ✅✅
-  reversed: "invertito" # ✅✅
-  round: "arrotonda" # ✅✅
-  set: "insieme" # ❓🤔 We aslo use 'set' in Italian, but the traduction is right
-  # I would not translate this
-  setattr: "impostaattr" # ✅✅
-  slice: "affetta" # ❓❓ I think 'spezza' it's better
-  # maybe 'taglia'
-  sorted: "ordinato" # ✅✅
-  staticmethod: "metodostatico" # ✅✅
-  str: "stringa" # ✅🤔 same as 'int', I would leave 'str'
-  sum: "somma" # ✅✅
-  super: "contiene" # 🤔❓ 'contiene' does not mean the same thing, I would
-  # maybe use 'superiore' or leave it 'super'
-  tuple: "tupla" # ✅✅
-  type: "tipo" # ✅✅
-  vars: "variabili" # ✅✅
-  zip: "comprimi" # ✅❓ The best translation I can think of is 'cerniera'. I
-  # think 'comprimi' is misleading, so I would rather leave 'zip' as is
-  __import__: "__importa__" ✅
-
+    # ✅ @ninoCan
+    # ❓ @GiacomoPignoni It's right but it doesn't sound good in Italian
+    # ✅ @sime1
+    # ✅ @Girgetto
+  dict: "dizionario"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  dir: "cartella"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  divmod: "quozienteresto"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  enumerate: "enumera"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  eval: "valuta"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  exec: "esegui"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  filter: "filtra"
+    # ✅ @ninoCan "filra"
+    # ✅ @GiacomoPignoni (update spelling) It's written wrong, it's 'filtra'
+    # ✅ @sime1
+    # ✅ @Girgetto
+  float: "mobile"
+    # ✅ @ninoCan
+    # 🤔 @GiacomoPignoni
+    # 🤔 @sime1 we could use "virgolamobile" but I think it's best not to translate this
+    # ❓ @Girgetto 'flotante' or 'virgolamobile' sounds better
+  format: "formato"
+    # ✅ @ninoCan
+    # ❓ @GiacomoPignoni I think 'formatta' it's better
+    # ❓ @sime1 agree with 'formatta'
+    # ❓ @Girgetto
+  frozenset: "insiemecongelato"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  getattr: "ottieniattr"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  globals: "globali"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  hasattr: "possiedeattr"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  hash: "hash"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  help: "aiuto"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  hex: "esa"
+    # ✅ @ninoCan
+    # ❓ @GiacomoPignoni I think 'esadecimale' it's better
+    # ✅ @sime1 I think 'esadecimale' is too long compared to 'hex', maybe 'esadec'
+    # ✅ @Girgetto
+  id: "id"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  input: "input"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  int: "intero"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # 🤔 @sime1 'int' is short for 'integer', but works for 'intero' as well so maybe we should not translate it
+    # ✅ @Girgetto
+  isinstance: "esisteinistanza"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  issubclass: "inclasse"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  iter: "itera"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  len: "lunghezza"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  list: "lista"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  locals: "locali"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  map: "mappa"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  max: "massimo"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  memoryview: "inmemoria"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # 🤔 @sime1 not sure we should translate this
+    # ✅ @Girgetto
+  min: "minimo"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  next: "seguente"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  object: "oggetto"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  oct: "ottava"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ❓ @sime1 should be 'ottale', 'ottava' does not mean the same thing
+    # 👀 @Girgetto
+  open: "apri"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  ord: "ordine"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  pow: "potenza"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  print: "stampa"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  property: "proprieta"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ❓ @sime1 should be 'proprietà'
+    # ✅ @Girgetto
+  range: "catena"
+    # ✅ @ninoCan
+    # 🤔 @GiacomoPignoni
+    # ❓ @sime1 the closest translation is "intervallo"
+    # ❓ @Girgetto should be 'intervallo'
+  repr: "rappresenta"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  reversed: "invertito"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  round: "arrotonda"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  set: "insieme"
+    # ✅ @ninoCan
+    # ❓ @GiacomoPignoni We aslo use 'set' in Italian, but the traduction is right
+    # 🤔 @sime1 I would not translate this
+    # ✅ @Girgetto
+  setattr: "impostaattr"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  slice: "affetta"
+    # ✅ @ninoCan
+    # ❓ @GiacomoPignoni I think 'spezza' it's better
+    # ❓ @sime1 maybe 'taglia'
+    # ✅ @Girgetto
+  sorted: "ordinato"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  staticmethod: "metodostatico"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  str: "stringa"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # 🤔 @sime1 same as 'int', I would leave 'str'
+    # ✅ @Girgetto
+  sum: "somma"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  super: "contiene"
+    # ✅ @ninoCan
+    # 🤔 @GiacomoPignoni
+    # ❓ @sime1 'contiene' does not mean the same thing, I would maybe use 'superiore' or leave it 'super'
+    # ❓ @Girgetto Conceptually is correct, but is not a literal translation, I would leave 'super'
+  tuple: "tupla"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  type: "tipo"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  vars: "variabili"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ✅ @sime1
+    # ✅ @Girgetto
+  zip: "comprimi"
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # ❓ @sime1 The best translation I can think of is 'cerniera'. I think 'comprimi' is misleading, so I would rather leave 'zip' as is
+    # ❓ @Girgetto Conceptually is correct, but is not a literal translation, I would leave 'zip'
+  __import__: "__importa__" ✅✅
+    # ✅ @ninoCan
+    # ✅ @GiacomoPignoni
+    # 👀 @sime1
+    # ✅ @Girgetto
 # << Messaggi d'errore >>
 
 
