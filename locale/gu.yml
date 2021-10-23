@@ -15,52 +15,76 @@ language-abbreviation: "gu"
 # key information found in comments within the editor
   NOTE: "નોંધ"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   INFO: "માહિતી"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   IDEA: "વિચાર"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   DEBUG: ""
     # 👀 @179priyasoni
+    #  ❓ @aadii0408 - it would be more effective - "સુધારવુ"
   REMOVE: "દૂર કરવું"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   OPTIMIZE: ""
     # 👀 @179priyasoni
+    #  ❓ @aadii0408 - it would be more effective - "શક્ય ઍટલુ સારુ કરવુ"
   REVIEW: "સમીક્ષા"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   HACK: ""
     # 👀 @179priyasoni
+    # 🤔 @aadii0408
   UNDONE: "પૂર્ણ ના થવું"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   TODO: "આ  કરવું"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   REFACTOR: ""
     # 👀 @179priyasoni
+    # 🤔  @aadii0408
   DEPRECATED: "નાપસંદ"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   TASK: "કાર્ય"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   CHGME: ""
     # 👀 @179priyasoni
+    # 🤔  @aadii0408
   NOTREACHED: "સુધી પહોંચ્યું નથી"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   WTF: "અશબ્દ"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   BUG: "ભૂલ"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   ERROR: "ભૂલ"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   OMG: "હે રામ"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   ERR: ""
     # 👀 @179priyasoni
+    # 🤔  @aadii0408
   OMFGRLY: ""
     # 👀 @179priyasoni
+    # 🤔  @aadii0408
   WARNING: "ચેતવણી"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   WARN: "ચેતવણી આપવી"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
   BROKEN: "તૂટેલું"
     # ✅ @179priyasoni
+    # ✅ @aadii0408
 
 # ----------------------
 # |   LANGUAGE: AGDA   |
@@ -124,46 +148,67 @@ language-abbreviation: "gu"
 # << Keywords >>
 do: "કરવું" # (part of do-while statement)
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 while: "જ્યારે"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 for: "માટે"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 if: "જો" # (part of if-else statement)
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 else: "નહિ તો" # (part of if-else statement)
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 switch: ""
   # 👀 @179priyasoni
+  # 🤔  @aadii0408
 break: "વિરામ" # (part of the switch statement or for/while statements)
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 case: "બાબત" # (part of the switch statement)
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 continue: "ચાલુ રાખવું" # (part of for/while statements)
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 default: "મૂળભૂત" # (part of switch statement)
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 function: "કાર્ય"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 procedure: "પ્રક્રિયા"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 return: "પાછું આપવું"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 local: "સ્થાનિક"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 global: "વૈશ્વિક"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 static: ""
   # 👀 @179priyasoni
+  # 🤔  @aadii0408
 typeof: "પ્રકાર"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 NOT: "નથી"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 AND: "અને"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 OR: "અથવા"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 Null: "ખાલી"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 # << Error Messages >>
 
 # ----------------------
@@ -172,36 +217,50 @@ Null: "ખાલી"
 # << Keywords >>
 case: "મુકદ્દમો"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 do: "કરવું"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 done: "થઈ ગયું"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 elif: "એલિફ"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 else: "નહિતો"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 esac: ""
   # 👀 @179priyasoni
 fi: ""
   # 👀 @179priyasoni
 for: "માટે"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 function: "કાર્ય"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 if: "જો"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 in: "ની અંદર"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 select: "પસંદ કરવું"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 then: "પછી"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 time: "સમય"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 until: "ત્યાં સુધી"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 while: "જ્યારે"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 
 # << Error Messages >>
 
@@ -211,68 +270,99 @@ while: "જ્યારે"
 # << Keywords >>
 auto: "સ્વયં"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 double: "બમણું"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 int: "પૂર્ણાંક"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 struct: "માળખું"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 break: "વિરામ"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 else: "નહિતો"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 long: "લાંબુ"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 switch: "સ્વિચ"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 case: "મુકદ્દમો"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 enum: "ઇ સંખ્યા"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 register: "નોંધણી"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 typedef: ""
   # 👀 @179priyasoni
 char: "મૂળાક્ષર"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 extern: "બાહ્ય"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 return: "પાછું આપવું"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 union: "સંઘ"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 const: "અચળ"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 float: "અપૂર્ણાંક"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 short: "ટુંકું"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 unsigned: "સહી વગરનું"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 continue: "ચાલુ રાખવું"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 for: "માટે"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 signed: "હસ્તાક્ષર કર્યા"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 void: "શૂન્ય"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 default: "મૂળભૂત"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 goto: "પર જાઓ"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 sizeof: "નું કદ"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 volatile: "અસ્થિર"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 do: "કરવું"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 if: "જો"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 static: "સ્થિર"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 while: "જ્યારે"
   # ✅ @179priyasoni
+  # ✅ @aadii0408 
 
 # << Error Messages >>
 
@@ -1994,76 +2084,112 @@ helper: "" # (Not currently supported by ASP.NET Core)
 # << Keywords >>
 alias: "ઉપનામ"
   # ✅ @136tejas
+  # ✅ @aadii0408
 and: "અને"
   # ✅ @136tejas
+  # ✅ @aadii0408
 begin: "શરૂઆત"
   # ✅ @136tejas
+  # ✅ @aadii0408
 break: "વિરામ"
   # ✅ @136tejas
+  # ✅ @aadii0408
 case: "કેસ"
   # ✅ @136tejas
+  # ✅ @aadii0408
 class: "વર્ગ"
   # ✅ @136tejas
+  # ✅ @aadii0408
 def: "વ્યાખ્યા કરવી"
   # ✅ @136tejas
+  # ✅ @aadii0408
 defined?: "વ્યાખ્યાયિત?"
   # ✅ @136tejas
+  # ✅ @aadii0408
 do: "કરવું"
   # ✅ @136tejas
+  # ✅ @aadii0408
 else: "નહિતો"
   # ✅ @136tejas
+  # ✅ @aadii0408
 elsif: "અન્યથા જો"
   # ✅ @136tejas
+  # ✅ @aadii0408
 end: "અંત"
   # ✅ @136tejas
+  # ✅ @aadii0408
 ensure: "ખાતરી કરો"
   # ✅ @136tejas
+  # ✅ @aadii0408
 false: "ખોટું"
   # ✅ @136tejas
+  # ✅ @aadii0408
 for: "માટે"
   # ✅ @136tejas
+  # ✅ @aadii0408
 if: "જો"
   # ✅ @136tejas
+  # ✅ @aadii0408
 in: "માં"
   # ✅ @136tejas
+  # ✅ @aadii0408
 module: "મોડ્યુલ"
   # ✅ @136tejas
+  # ❓ @aadii0408 (I think this should better) - "અલ્પ માત્રા"
 next: "આગળ"
   # ✅ @136tejas
+  # ✅ @aadii0408
 nil: "ખાલી"
   # ✅ @136tejas
+  # ✅ @aadii0408
 not: "નથી"
   # ✅ @136tejas
+  # ✅ @aadii0408
 or: "અથવા"
   # ✅ @136tejas
+  # ✅ @aadii0408
 redo: "બીજી વખત કરવું"
   # ✅ @136tejas
+  # ✅ @aadii0408
 rescue: "બચાવ"
   # ✅ @136tejas
+  # ✅ @aadii0408
 retry: "બીજી વખત પ્રયાસ"
+  # ✅ @aadii0408
   # ✅ @136tejas
 return: "પરત"
   # ✅ @136tejas
+  # ✅ @aadii0408
 self: "સ્વ(પોતે)"
   # ✅ @136tejas
+  # ✅ @aadii0408
 super: "સુપર"
   # ✅ @136tejas
+  # ✅ @aadii0408(I think this should be better) -"ઉત્તમ"
 then: "પછી"
   # ✅ @136tejas
+  # ✅ @aadii0408
 true: "સાચું"
   # ✅ @136tejas
+  # ✅ @aadii0408
 undef: "અવ્યાખ્યાયિત"
   # ✅ @136tejas
+  # ✅ @aadii0408
 unless: "સિવાય કે"
   # ✅ @136tejas
+  # ✅ @aadii0408
 until: "ત્યાં સુધી"
   # ✅ @136tejas
+  # ✅ @aadii0408
 when: "ક્યારે(ત્યારે)"
   # ✅ @136tejas
+  # ✅ @aadii0408
 while: "જ્યારે"
   # ✅ @136tejas
+  # ✅ @aadii0408
 yield: "યિલ્ડ(ઉપજ)"
   # ✅ @136tejas
+  # ✅ @aadii0408
 
 # << Error Messages >>
 
