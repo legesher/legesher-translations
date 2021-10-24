@@ -1277,122 +1277,152 @@ __TRAIT__: ""
     # ✅ @nagendrady
     # ❓ @manojkrishnak May be a better translation is required. కచ్చితంగా can be considered in programming perscpective.
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   async: ""
     # 👀 @nagendrady
     # 👀 @manojkrishnak
     # 🤔 @Ln11211 A translation is difficult for this, but "అసమకాలిక" is the translation for "Asynchronous" and can be used
+    # ✅ @KarthikMothiki
   await: "వేచిఉండు"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ❓ @KarthikMothiki await can also be written as నిరీక్షించు
   break: "బయటకి వచ్చుట"
     # ✅ @nagendrady
     # ❓ @manojkrishnak May be considered as better translation in programming perscpective.
     # ✅ @Ln11211
+    # ❓ @KarthikMothiki another word for break can be written as విరమించు
   class: "తరగతి"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   continue: "కొనసాగించు"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   def: "వివరణ"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ❓ @KarthikMothiki def key will be better with నిర్వచన
   del: "తొలగించు"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   elif: "లేకుంటే"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   else: "లేకపోతే"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   except: "ఇది తప్ప"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   finally: "చివరకు"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   for: "దానికోసం" # ❓ May be considered as better translation in programming perscpective. # ❓ Maybe "కోఱకు" seems apt. @Ln11211
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   from: "నుండి"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   global:  "ప్రపంచ"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   if: "అయితే"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   import: "దిగుమతి"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   in: "లో"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ❓ @KarthikMothiki లో or లోపల is fine they both gives the same sense
   is: "ఉంది"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   lambda: "లాంబ్డా"
     # ✅ @nagendrady
     # ✅ @manojkrishnak This is true translation of word; Although we cannot translate this word
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   nonlocal: ""
     # 👀 @nagendrady
     # 👀 @manojkrishnak
     # 🤔 @Ln11211 A translation is difficult for this, but "నాన్ లోకల్" seems ok.
+    # 🤔 @KarthikMothiki స్థానికేతర is the exact word for non-local but many people would prefer hard-translation itself.
   not: "లేదు"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   or: "లేదా"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki 
   pass: "పాస్"
     # ✅ @nagendrady
     # ❓ @manojkrishnak Here true translation is written, there is an better alternative, that's అందించుట.
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   raise: "పెంచండి"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ❓ @KarthikMothiki when it comes to hard translation of the context ఎత్తుట will work good
   return: "తిరిగి వచ్చు"
     # ✅ @nagendrady
     # ❓ @manojkrishnak జవాబు ఇచ్చు, బయటకి వచ్చుట may be considered as better translations depending upon the usage(return some value or come out of the loop/if condition).
     # ❓ @Ln11211 "తిరిగిఇచ్చుట" seems apt for the "return" keyword
+    # ✅ @KarthikMothiki
   try: "ప్రయత్నించండి"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ❓ @Ln11211 "ప్రత్నించు" is better translation for "try"
+    # ✅ @KarthikMothiki
   while: "అయితే"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   with: "తో"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   yield: "లభించు"
     # ✅ @nagendrady
     # ❓ @manojkrishnak May be a better translation is required.
     # ❓ @Ln11211 Would recommend using "లబించుట", "లభించు" is also fine.
+    # ✅ @KarthikMothiki
 
 # << Built-In Functions >>
 
