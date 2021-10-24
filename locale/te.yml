@@ -1252,22 +1252,27 @@ __TRAIT__: ""
     # ✅ @nagendrady
     # ❓ @manojkrishnak May be a better translation is required. Although the translation is correct, when it comes to programming it might not be correct. అసత్యం can be considered.
     # ✅ @Ln11211 seems alright
+    # ✅ @KarthikMothiki
   None: "ఏదీ లేదు"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ❓ @KarthikMothiki none can be used on situation based in telugu. It can also be  ఏమీ కాదు
   True: "నిజం"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   and: "మరియు"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   as: "గా"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
+    # ✅ @KarthikMothiki
   assert: "నొక్కి చెప్పండి"
     # ✅ @nagendrady
     # ❓ @manojkrishnak May be a better translation is required. కచ్చితంగా can be considered in programming perscpective.
