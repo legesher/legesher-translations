@@ -1600,176 +1600,211 @@ __TRAIT__: ""
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   None: "Nessuno"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   True: "Vero"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   and: "ed"
     # ✅ @ninoCan
     # ❓ @GiacomoPignoni The right traduction is 'e' we use 'ed' before the words that start with a vowel
     # ❓ @sime1 this should indeed be 'e'. Using 'e' before words that start with a vowel is common, using 'ed' before words that start with a consonant is not.
     # ❓ @Girgetto Another possible translation could be 'anche'
+    # ❓ @ffex I think the correct word is 'e'. 'ed' it is used when the follow word start with vowel.
   as: "come"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   assert: "asserisci"
     # ✅ @ninoCan
     # ❓ @GiacomoPignoni The traduction is right, but for me it doesn't mean the same thing, I think it's better to not traduce it
     # ✅ @sime1
     # ✅ @Girgetto
+    # ❓ @ffex In italian this it is not clear with the meaning of "assert". maybe we can prove with "afferma" or no traducted 
   async: "asincrono"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   await: "attendi"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   break: "interrompi"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   class: "classe"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   continue: "continua"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   def: "def"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   del: "canc"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   elif: "altrose"
     # ✅ @ninoCan
     # ❓ @GiacomoPignoni I would translate it with 'altrimenti se'
     # ❓ @sime1 'altrimentise' makes more sense than 'altrose'
     # ❓ @Girgetto 'altrimentise' sounds better
+    # ❓ @ffex 'altrimentise' it is better
   else: "altrimenti"
     # ✅ @ninoCan
     # ❓ @GiacomoPignoni I would translate it with 'altrimenti'
     # ❓ @sime1 I think 'altrimenti' is the right translation
     # ✅ @Girgetto
+    # ✅ @ffex
   except: "eccetto"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   finally: "finalmente"
     # ✅ @ninoCan
     # ❓ @GiacomoPignoni I0 would translate it with 'infine'
     # ❓ @sime1 I agree with 'infine'
     # ✅ @Girgetto
+    # ❓ @ffex I agree with 'infine'
   for: "per"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   from: "da"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   global:  "globale"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   if: "se"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   import: "importa"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   in: "in"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   is: "esiste"
     # ✅ @ninoCan
     # ❓ @GiacomoPignoni I would translate it with 'é'
     # ❓ @sime1 'è' makes more sense
     # ✅ @Girgetto
+    # ❓ @ffex it's better "è"
   lambda: "lambda"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
-    # ✅
+    # ✅ @Girgetto
+    # ✅ @ffex
   nonlocal: "nonlocale"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   not: "non"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   or: "od"
     # ✅ @ninoCan
     # ❓ @GiacomoPignoni The right traduction is 'o' we use 'od' before the words that start with a vowel
     # ❓ @sime1 same thing as the 'ed'/'e'
     # ❓ @Girgetto Another possible translation could be 'oppure'
+    # ❓ @ffex it is better 'o'. it's like "e/ed"
   pass: "salta"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   raise: "alza"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ❓ @sime1 I think when talking about exceptions we mostly use "solleva" instead of "alza"; they are synonims tho, so maybe "alza" is ok
     # ✅ @Girgetto
+    # ❓ @ffex The traslation is correct but I think that in the context of Python the meaning is 'raise an exception', I traduct it with 'lancia una eccezione'. So maybe 'lancia' is better?
   return: "restituisci"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   try: "prova"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   while: "mentre"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   with: "con"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   yield: ""
     # 👀 @ninoCan
     # 🤔 @GiacomoPignoni
     # ❓ @sime1 I think we could use 'cedi' or 'produci'
     # ❓ @Girgetto 'produci' could be a good translation
+    # ❓ @ffex 'produci' sound's good
 
 # << Built-In Functions >>
 
@@ -1778,347 +1813,416 @@ __TRAIT__: ""
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   all: "tutti"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   any: "ogni"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   ascii: "ascii"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   bin: "binario"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   bool: "booleano"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1 (updated spelling) this would be 'booleano', I think 'boleano' just a typo
     # ✅ @Girgetto
+    # ✅ @ffex
   breakpoint: "rompise"
     # ✅ @ninoCan
     # ❓ @GiacomoPignoni I would translate it with 'interruzione'
     # ✅ @sime1 I would not translate this
     # ❓ @Girgetto This is a more literal translation but it sounds good to me I would suggest 'puntodirottura'
+    # ❓ @ffex it is better without translation or maybe with 'puntodiinterruzione'
   bytearray: "byteschiera"
     # ✅ @ninoCan
     # ❓ @GiacomoPignoni I would translate it with 'sequenza di byte', but I think it sounds good as it is
     # 🤔 @sime1 I'm not sure we should translate this, it does not sound natural
     # ❓ @Girgetto I would suggest 'listadibyte' or 'sequenzadibyte''
+    # ❓ @ffex it is better without translation or maybe with 'vettoredibyte'
   bytes: "bytes"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   callable: "chiamabile"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   chr: "car"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   classmethod: "metodoclasse"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   compile: "compila"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   complex: "complesso"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   delattr: "cancattr"
   # I think cancattr is fine
     # ✅ @ninoCan
     # ❓ @GiacomoPignoni It's right but it doesn't sound good in Italian
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   dict: "dizionario"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   dir: "cartella"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   divmod: "quozienteresto"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   enumerate: "enumera"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   eval: "valuta"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   exec: "esegui"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   filter: "filtra"
     # ✅ @ninoCan "filra"
     # ✅ @GiacomoPignoni (update spelling) It's written wrong, it's 'filtra'
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   float: "mobile"
     # ✅ @ninoCan
     # 🤔 @GiacomoPignoni
     # 🤔 @sime1 we could use "virgolamobile" but I think it's best not to translate this
     # ❓ @Girgetto 'flotante' or 'virgolamobile' sounds better
+    # ❓ @ffex 'virgolamobile' sounds better
   format: "formato"
     # ✅ @ninoCan
     # ❓ @GiacomoPignoni I think 'formatta' it's better
     # ❓ @sime1 agree with 'formatta'
     # ❓ @Girgetto
+    # ❓ @ffex agree with 'formatta'
   frozenset: "insiemecongelato"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   getattr: "ottieniattr"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   globals: "globali"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   hasattr: "possiedeattr"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   hash: "hash"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   help: "aiuto"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   hex: "esa"
     # ✅ @ninoCan
     # ❓ @GiacomoPignoni I think 'esadecimale' it's better
     # ✅ @sime1 I think 'esadecimale' is too long compared to 'hex', maybe 'esadec'
     # ✅ @Girgetto
+    # ✅ @ffex
   id: "id"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   input: "input"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   int: "intero"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # 🤔 @sime1 'int' is short for 'integer', but works for 'intero' as well so maybe we should not translate it
     # ✅ @Girgetto
+    # ✅ @ffex
   isinstance: "esisteinistanza"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   issubclass: "inclasse"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   iter: "itera"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   len: "lunghezza"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   list: "lista"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   locals: "locali"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   map: "mappa"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   max: "massimo"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   memoryview: "inmemoria"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # 🤔 @sime1 not sure we should translate this
     # ✅ @Girgetto
+    # ✅ @ffex
   min: "minimo"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   next: "seguente"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   object: "oggetto"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   oct: "ottava"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ❓ @sime1 should be 'ottale', 'ottava' does not mean the same thing
     # 👀 @Girgetto
+    # ❓ @ffex agree with "ottale"
   open: "apri"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   ord: "ordine"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   pow: "potenza"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   print: "stampa"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   property: "proprieta"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ❓ @sime1 should be 'proprietà'
     # ✅ @Girgetto
+    # ✅ @ffex
   range: "catena"
     # ✅ @ninoCan
     # 🤔 @GiacomoPignoni
     # ❓ @sime1 the closest translation is "intervallo"
     # ❓ @Girgetto should be 'intervallo'
+    # ❓ @ffex agree with 'intervallo'
   repr: "rappresenta"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   reversed: "invertito"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   round: "arrotonda"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   set: "insieme"
     # ✅ @ninoCan
     # ❓ @GiacomoPignoni We aslo use 'set' in Italian, but the traduction is right
     # 🤔 @sime1 I would not translate this
     # ✅ @Girgetto
+    # ❓ @ffex it is 'imposta' when the meaning is 'set a variable' for example. it is 'insieme' when the meaning is 'a data set' for example. Agree with not traslate it.
   setattr: "impostaattr"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   slice: "affetta"
     # ✅ @ninoCan
     # ❓ @GiacomoPignoni I think 'spezza' it's better
     # ❓ @sime1 maybe 'taglia'
     # ✅ @Girgetto
+    # ❓ @ffex agree with 'taglia'
   sorted: "ordinato"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   staticmethod: "metodostatico"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   str: "stringa"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # 🤔 @sime1 same as 'int', I would leave 'str'
     # ✅ @Girgetto
+    # ✅ @ffex
   sum: "somma"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   super: "contiene"
     # ✅ @ninoCan
     # 🤔 @GiacomoPignoni
     # ❓ @sime1 'contiene' does not mean the same thing, I would maybe use 'superiore' or leave it 'super'
     # ❓ @Girgetto Conceptually is correct, but is not a literal translation, I would leave 'super'
+    # ❓ @ffex better not traslate. 'super' is used in italian
   tuple: "tupla"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   type: "tipo"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   vars: "variabili"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ✅ @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
   zip: "comprimi"
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # ❓ @sime1 The best translation I can think of is 'cerniera'. I think 'comprimi' is misleading, so I would rather leave 'zip' as is
     # ❓ @Girgetto Conceptually is correct, but is not a literal translation, I would leave 'zip'
+    # ✅ @ffex
   __import__: "__importa__" ✅✅
     # ✅ @ninoCan
     # ✅ @GiacomoPignoni
     # 👀 @sime1
     # ✅ @Girgetto
+    # ✅ @ffex
 # << Messaggi d'errore >>
 
 
