@@ -1248,113 +1248,944 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: "Falso" # ✅✅✅✅✅✅✅
-  None: "Ninguno" # ✅✅✅✅✅✅✅
-  True: "Verdadero" # ✅✅✅✅✅✅✅
-  and: "Y" # ✅✅✅✅✅✅✅
-  as: "como" # ✅✅✅✅✅✅
-  assert: "afirmar" # ✅❓ What about "asegurar"? ✅ I agree with "afirmar" ✅ ✅ I also agree with "afirmar"✅✅ I agree with "afirmar"
-  async: "asíncrono" # ✅✅✅✅✅✅✅
-  await: "esperar" # ✅✅✅✅✅✅✅
-  break: "interrumpir" # ✅✅✅✅✅Also "romper"✅ Yes, it also could be "romper"
-  class: "clase" # ✅✅✅✅✅✅✅
-  continue: "continuar" # ✅✅✅✅✅✅✅
-  def: "define" # ✅ def it's a short for define, in the traslated version isn't shorted ❓What about using "define" as imperative, because you're defining something? ✅ I agree with "define" ✅✅ I also agree with "define"✅✅
-  del: "eliminar" # ✅✅ same as def ✅ I agree with "eliminar" ✅ could be left as del, but eliminar is good as well✅✅✅Also "borrar"
-  elif: "si no, si" # ✅❓ I added a comma here, it's something like, if this does not satisfy let's try this other ✅ I agree with the comment, it is better having the comma ✅ I agree that having the comma may be beneficial, but it might also be a bit too long (maybe something like no, si is fine, similar to else if)✅✅✅✅
-  else: "si no" # ✅✅✅✅✅✅
-  except: "excepto" # ✅✅✅✅✅✅✅
-  finally: "finalmente" # ✅✅✅✅✅✅✅
-  for: "para" # ✅✅✅✅✅✅
-  from: "desde" # ✅✅✅✅✅✅✅
-  global:  "global" # ✅✅✅✅✅✅✅
-  if: "si" # ✅✅ same in the else keyword, in this context means "si" ✅✅✅✅✅
-  import: "importar" # ✅✅✅✅✅✅✅
-  in: "en" # ✅✅✅✅✅✅✅✅
-  is: "es" # ✅✅✅✅✅✅✅
-  lambda: "función anónima" # there isn't translation for this word to spanish, 🤔 What about using the same word? 🤔 I agree with the second comment, in this case is better to keep the same word "lambda" 🤔 I agree with keeping the word lamba, 'función anónima' may be a bit too much 🤔 I also agree with the second comment 🤔 The word should stay as lambda, since it's a greek word, and in Spanish is the same.🤔 I agree with the second comment 
-  nonlocal: "no local" # ✅✅✅✅✅✅✅
-  not: "no" # ✅✅✅✅✅✅✅
-  or: "o" # ✅✅✅✅✅✅✅
-  pass: "pasar" # ✅✅✅✅✅✅✅
-  raise: "genera excepción" ✅❓ # maybe just "generar" will be ok ✅ # I agree with keeping generar✅❓ In the Python documentation in Spanish is used "lanza" or "levanta"✅
-  return: "regresa" # ✅✅ Regresa sounds more natural for me than retorna ❓I think that in this case "retorna" it is the better way to translate it, as we are talking that a function will run to then return a value, in spanish will be "la función se ejecuta y retorna un valor" ✅ I think regresa would be just fine ❓ The word "retorna" is accepted in the Spanish Python documentation✅
-  try: "intenta" # ✅✅ I also think of using this as imperative ✅ I agree with "intenta" ❓ maybe "tratar" would be better? intenta sounds okay too ✅ "intenta"✅✅
-  while: "mientras" # ✅✅✅✅✅✅✅
-  with: "con" # ✅✅✅✅✅✅✅
-  yield: "entregar" # ✅ yield return a generator, insted of use "retornar", "entregar" can be more properly ✅ I agree with the comment, "entregar" it is better ✅✅✅✅
-
+  False: "Falso"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  None: "Ninguno"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  True: "Verdadero"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  and: "Y"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  as: "como"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # 👀 @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  assert: "afirmar"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ❓ @reegoram What about "asegurar"?
+    # ✅ @kararade I agree with "afirmar"
+    # ✅ @JJgar2725 I also agree with "afirmar"
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert I agree with "afirmar"
+  async: "asíncrono"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  await: "esperar"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  break: "romper"
+    # ✅ @zoomstereo
+    # ✅ @asperduti "interrumpir"
+    # ✅ @reegoram "interrumpir"
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf Also "romper"
+    # ✅ @begeistert Yes, it also could be "romper"
+  class: "clase"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  continue: "continuar"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  def: "definir"
+    # ✅ @zoomstereo def it's a short for define, in the traslated version isn't shorted
+    # ✅ @asperduti
+    # ❓ @reegoram What about using "define" as imperative, because you're defining something?
+    # ✅ @kararade I agree with "define"
+    # ✅ @JJgar2725 I also agree with "define"
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  del: "eliminar"
+    # ✅ @zoomstereo same as def
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725 could be left as del, but eliminar is good as well
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert Also "borrar"
+  elif: "si no, si"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ❓ @reegoram  "si no, si" I added a comma here, it's something like, if this does not satisfy let's try this other
+    # ✅ @kararade I agree with the comment, it is better having the comma
+    # ✅ @JJgar2725 I agree that having the comma may be beneficial, but it might also be a bit too long (maybe something like no, si is fine, similar to else if)
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  else: "entonces"
+    # ✅ @zoomstereo in this context means "entonces" because "if else" is "si entonces"
+    # ✅ @asperduti "si no"
+    # ✅ @reegoram "si no"
+    # ✅ @kararade "si no"
+    # ✅ @JJgar2725 "si no"
+    # ✅ @aliciacisnerosm "si no"
+    # ✅ @iam-agf "si no"
+    # ✅ @begeistert "si no"
+  except: "excepto"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  finally: "finalmente"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  for: "por"
+    # ✅ @zoomstereo
+    # ✅ @asperduti "para"
+    # ✅ @reegoram "para"
+    # ✅ @kararade "para"
+    # ✅ @JJgar2725 "para"
+    # ✅ @aliciacisnerosm "para"
+    # ✅ @iam-agf "para"
+    # ✅ @begeistert "para"
+  from: "desde"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  global:  "global"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  if: "si"
+    # ✅ @zoomstereo same in the else keyword, in this context means "si"
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  import: "importar"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  in: "en"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  is: "es"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  lambda: "lambda"
+    # 🤔 @zoomstereo there isn't translation for this word to spanish,
+    # ❓ @asperduti "función anónima"
+    # 🤔 @reegoram What about using the same word?
+    # 🤔 @kararade I agree with the above comment, in this case is better to keep the same word "lambda"
+    # 🤔 @JJgar2725 I agree with keeping the word lamba, 'función anónima' may be a bit too much
+    # 🤔 @aliciacisnerosm I also agree with the second comment
+    # 🤔 @iam-agf The word should stay as lambda, since it's a greek word, and in Spanish is the same.
+    # 🤔 @begeistert I agree with using lambda
+  nonlocal: "no local"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  not: "no"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  or: "o"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  pass: "pasar"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  raise: "subir"
+    # ✅ @zoomstereo
+    # ❓ @asperduti "genera excepción"
+    # ❓ @reegoram "genera excepción"
+    # ❓ @kararade maybe just "generar" will be ok
+    # ❓ @JJgar2725 I agree with keeping generar
+    # ✅ @aliciacisnerosm
+    # ❓ @iam-agf In the Python documentation in Spanish is used "lanza" or "levanta"
+    # ✅ @begeistert
+  return: "retornar"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram "regresa" Regresa sounds more natural for me than retorna
+    # ❓ @kararade I think that in this case "retorna" it is the better way to translate it, as we are talking that a function will run to then return a value, in spanish will be "la función se ejecuta y retorna un valor"
+    # ✅ @JJgar2725 I think "regresa" would be just fine
+    # ✅ @aliciacisnerosm
+    # ❓ @iam-agf The word "retorna" is accepted in the Spanish Python documentation
+    # ✅ @begeistert
+  try: "intentar"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram "intenta" I also think of using this as imperative
+    # ✅ @kararade I agree with "intenta"
+    # ❓ @JJgar2725 maybe "tratar" would be better? intenta sounds okay too
+    # ✅ @aliciacisnerosm "intenta"
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  while: "mientras"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  with: "con"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  yield: "generador"
+    # ✅ @zoomstereo it isn't the direct translation, but it's more understandeable since yield returns a generator
+    # ❓ @asperduti "entregar" yield return a generator, insted of use "retornar", "entregar" can be more properly
+    # ✅ @reegoram "entregar"
+    # ✅ @kararade I agree with the comment, "entregar" it is better
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
 # << Built-In Functions >>
 
-  abs: "valor absoluto" # ✅✅✅✅✅✅
-  all: "todos" # I think we can omite "iterable" ✅ I agree with "todos" ✅✅✅✅
-  any: "alguno" # same here ✅ I agree with "alguno" ✅✅✅✅
-  ascii: "ascii" # ✅✅ does not have direct translation ✅✅✅✅✅
-  bin: "binario" # ✅✅✅✅✅✅
-  bool: "booleano" # ✅✅✅✅✅✅✅
-  breakpoint: "punto de interrupción" # ✅ Punto de interrupción sounds more natural for me ✅ I agree with the comment ✅✅✅✅
-  bytearray: "arreglo de byte" # ✅✅✅✅✅🤔The word "byte" should be in plural as "bytes"🤔 I agree with the first comment
-  bytes: "bytes" # ✅✅✅✅✅✅
-  callable: "llamable" # ✅❓✅✅✅❓It's more appropiate the word "invocable", and the Python documentation accepts it instead of the one here.❓
-  chr: "caracter" # ✅✅✅✅✅✅✅
-  classmethod: "método de la clase" # ✅✅✅✅✅✅✅
-  compile: "compilar" # ✅✅✅✅✅✅✅
-  complex: "complejo" # ✅✅✅✅✅✅✅
-  delattr: "eliminar atributo" # ✅✅ from delete attribute ✅✅✅✅✅
-  dict: "diccionario" # ✅✅✅✅✅✅✅
-  dir: "atributos" # ✅✅✅✅✅✅
-  divmod: "cociente y resto" # ✅✅✅✅✅✅
-  enumerate: "enumerar" # ✅✅✅✅✅✅
-  eval: "evaluar" # ✅✅✅✅✅✅
-  exec: "ejecutar" # ✅✅✅✅✅✅✅
-  filter: "filtrar" # ✅✅✅✅✅✅✅
-  float: "flotante"  # ✅✅✅✅✅✅✅
-  format: "formato" # ✅✅✅✅✅✅✅
-  frozenset: "congelar" # ✅✅✅✅✅✅It's needed to mention that the literal translation is "conjunto congelado"✅
-  getattr: "obtener atributo" # ✅✅✅✅✅✅✅
-  globals: "globales" # ✅✅✅✅✅✅✅
-  hasattr: "tiene atributo" # ✅✅✅✅✅✅✅
-  hash: "hash" # ✅✅ its direct translation wont make sense in this context ✅✅ I agree, keeping hash is fine✅✅✅
-  help: "ayuda" # ✅✅✅✅✅✅✅
-  hex: "hexadecimal" # ✅✅✅✅✅✅✅
-  id: "identificador" # ✅✅✅✅ or just id is fine as well✅ id sounds okay✅ Like the comments before, "id" is also ok, but also "identidad"✅
-  input: "entrada" # ✅✅✅✅✅✅✅
-  int: "entero" # ✅✅✅✅✅✅✅
-  isinstance: "es instancia" # ✅✅✅✅✅✅✅
-  issubclass: "es subclase" # ✅✅✅✅✅✅✅
-  iter: "iterador" # ✅✅✅✅✅✅✅
-  len: "longitud" # ✅✅✅✅✅✅✅
-  list: "lista" # ✅✅✅✅✅✅✅
-  locals: "locales" # ✅✅✅✅✅✅✅
-  map: "mapa" # ✅✅✅✅✅✅✅
-  max: "máximo" # ✅✅✅✅✅✅
-  memoryview: "vista de memoria" # ✅✅✅✅✅✅✅
-  min: "mínimo" # ✅✅✅✅✅✅
-  next: "siguiente" # ✅✅✅✅✅✅✅
-  object: "objeto" # ✅✅✅✅✅✅✅
-  oct: "octal" # ✅✅✅✅✅✅✅
-  open: "abrir" # ✅✅✅✅✅✅
-  ord: "representación unicode" # I don't know how I would traslate this ❓What about "código unicode"? ✅ I agree with "representación unicode" ❓ not entirely sure on this one, código unicode sounds okay✅❓The literal way to translate this one is impossible, but the action is accuarate with the word written there.❓I don't know how I would traslate thi
-  pow: "potencia" # ✅✅✅✅✅✅✅
-  print: "imprimir" # ✅✅✅✅✅✅✅
-  property: "propiedad" # ✅✅✅✅✅✅✅
-  range: "rango" # ✅✅✅✅✅✅✅
-  repr: "representación" # ✅✅✅✅✅✅
-  reversed: "invertido" # ✅✅✅✅✅✅✅
-  round: "redondear" # ✅✅✅✅✅✅✅
-  set: "asignar" # ✅✅ it is not the direct translation but in this context it makes sense ✅✅✅✅✅
-  setattr: "asignar atributo" # ✅✅✅✅✅✅✅
-  slice: "cortar" # ✅✅✅✅✅✅
-  sorted: "ordenado" ✅✅✅✅✅
-  staticmethod: "método estático" # ✅✅✅✅✅✅✅
-  str: "cadena de texto" # ✅✅✅✅✅✅Also it's possible to say "cadena de caracteres"✅
-  sum: "suma" # ✅✅✅✅✅✅✅
-  super: "superior" # ✅❓ What about using padre? ❓I think this should be just "super" as it is the way an object allows the developer to refer to its parent class ✅ keeping super would make sense, I agree with that✅ "super" sound fine✅ But also "padre" or "super" can be considered as valid✅"super" sound fine
-  tuple: "tupla" # ✅✅✅✅✅✅✅
-  type: "tipo" # ✅✅✅✅✅✅✅
-  vars: "variables" # ✅✅✅✅✅✅✅
-  zip: "zip" # ✅✅ can't be direct translated ✅✅✅✅✅
-  __import__: "importar" # ✅✅✅✅✅✅✅
+  abs: "absoluto"
+    # ✅ @zoomstereo
+    # ❓ @asperduti "valor absoluto"
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  all: "todos"
+    # ✅ @zoomstereo
+    # ❓ @asperduti "todos iterables"
+    # ✅ @reegoram I think we can omite "iterable"
+    # ✅ @kararade I agree with "todos"
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  any: "cualquier"
+    # ✅ @zoomstereo
+    # ❓ @asperduti "alguno iterable"
+    # ✅ @reegoram same here
+    # ✅ @kararade  I agree with "alguno"
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  ascii: "ascii"
+    # ✅ @zoomstereo does not have direct translation
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  bin: "binarios"
+    # ✅ @zoomstereo
+    # ✅ @asperduti "binario"
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  bool: "booleano"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  breakpoint: "punto de ruptura"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram "punto de interrupción" Punto de interrupción sounds more natural for me
+    # ✅ @kararade I agree with the comment
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  bytearray: "arreglo de byte"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # 🤔 @iam-agf The word "byte" should be in plural as "bytes"
+    # 🤔 @begeistert I agree with the comment above
+  bytes: "byte"
+    # ✅ @zoomstereo
+    # ✅ @asperduti "bytes"
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  callable: "llamable"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ❓ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ❓ @iam-agf It's more appropiate the word "invocable", and the Python documentation accepts it instead of the one here.
+    # ❓ @begeistert
+  chr: "caracter"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  classmethod: "metodo de la clase"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf "método de la clase"
+    # ✅ @begeistert
+  compile: "compilar"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  complex: "complejo"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  delattr: "eliminar atributo"
+    # ✅ @zoomstereo  from delete attribute
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  dict: "diccionario"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  dir: "directorio"
+    # ✅ @zoomstereo
+    # ❓ @asperduti "atributos"
+    # ✅ @reegoram "atributos"
+    # ✅ @kararade "atributos"
+    # ✅ @JJgar2725  "atributos"
+    # ✅ @aliciacisnerosm  "atributos"
+    # ✅ @iam-agf  "atributos"
+    # ✅ @begeistert "atributos"
+  divmod: "mode de division"
+    # ✅ @zoomstereo not quite sure if it should be translated like this
+    # ❓ @asperduti "cociente y resto"
+    # ✅ @reegoram "cociente y resto"
+    # ✅ @kararade "cociente y resto"
+    # ✅ @JJgar2725 "cociente y resto"
+    # ✅ @aliciacisnerosm "cociente y resto"
+    # ✅ @iam-agf "cociente y resto"
+    # ✅ @begeistert "cociente y resto"
+  enumerate: "enumerado"
+    # ✅ @zoomstereo
+    # ❓ @asperduti "enumerar"
+    # ✅ @reegoram "enumerar"
+    # ✅ @kararade "enumerar"
+    # ✅ @JJgar2725 "enumerar"
+    # ✅ @aliciacisnerosm "enumerar"
+    # ✅ @iam-agf "enumerar"
+    # ✅ @begeistert "enumerar"
+  eval: "eval"
+    # 🤔 @zoomstereo Not sure how will translate
+    # ❓ @asperduti "evaluar"
+    # ✅ @reegoram "evaluar"
+    # ✅ @kararade "evaluar"
+    # ✅ @JJgar2725 "evaluar"
+    # ✅ @aliciacisnerosm "evaluar"
+    # ✅ @iam-agf "evaluar"
+    # ✅ @begeistert "evaluar"
+  exec: "ejecutar"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  filter: "filtrar"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  float: "flotante"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  format: "formato"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  frozenset: "congelar"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf It's needed to mention that the literal translation is "conjunto congelado"
+    # ✅ @begeistert
+  getattr: "obtener atributo"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  globals: "globales"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  hasattr: "tiene atributo"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  hash: "hash"
+    # ✅ @zoomstereo its direct translation wont make sense in this context
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725 I agree, keeping hash is fine
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  help: "ayuda"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  hex: "hexadecimal"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  id: "identificador"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725 or just id is fine as well
+    # ✅ @aliciacisnerosm id sounds okay
+    # ✅ @iam-agf Like the comments before, "id" is also ok, but also "identidad"
+    # ✅ @begeistert
+  input: "entrada"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  int: "entero"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  isinstance: "es instancia"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  issubclass: "es subclase"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  iter: "iterador"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  len: "longitud"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  list: "lista"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  locals: "locales"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  map: "mapa"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  max: "máximo"
+    # ✅ @zoomstereo
+    # ✅ @asperduti "máximo"
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  memoryview: "vista de memoria"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  min: "mínimo"
+    # ✅ @zoomstereo
+    # ✅ @asperduti "mínimo"
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  next: "siguiente"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  object: "objeto"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  oct: "octal"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  open: "abrir"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  ord: "ord"
+    # 🤔 @zoomstereo  I don't know how I would traslate this
+    # ❓ @asperduti "representación unicode"
+    # ❓ @reegoram What about "código unicode"?
+    # ❓ @kararade  I agree with "representación unicode"
+    # ❓ @JJgar2725 not entirely sure on this one, código unicode sounds okay
+    # ✅ @aliciacisnerosm
+    # ❓ @iam-agf The literal way to translate this one is impossible, but the action is accuarate with the word written there.
+    # ❓ @begeistert I don't know how I would traslate this
+  pow: "potencia"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  print: "imprimir"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  property: "propiedad"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  range: "rango"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  repr: "repr"
+    # 🤔 @zoomstereo can't be direct translated
+    # ✅ @asperduti "representación"
+    # ✅ @reegoram "representación"
+    # ✅ @kararade "representación"
+    # ✅ @JJgar2725 "representación"
+    # ✅ @aliciacisnerosm "representación"
+    # ✅ @iam-agf "representación"
+    # ✅ @begeistert "representación"
+  reversed: "invertido"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  round: "redondear"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  set: "asignar"
+    # ✅ @zoomstereo it is not the direct translation but in this context it makes sense
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  setattr: "asignar atributo"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  slice: "rebanada"
+    # ✅ @zoomstereo
+    # ❓ @asperduti "cortar"
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  sorted: "ordenado"
+    # ✅ @zoomstereo
+    # ❓ @asperduti "ordenar"
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  staticmethod: "metodo estatico"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf "método estático"
+    # ✅ @begeistert "método estático"
+  str: "cadena de texto"
+    # ✅ @zoomstereo
+    # ✅ @asperduti "cadena de texto"
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf Also it's possible to say "cadena de caracteres"
+    # ✅ @begeistert
+  sum: "suma"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  super: "superior"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ❓ @reegoram What about using padre?
+    # ❓ @kararade I think this should be just "super" as it is the way an object allows the developer to refer to its parent class
+    # ✅ @JJgar2725 keeping super would make sense, I agree with that
+    # ✅ @aliciacisnerosm "super" sound fine
+    # ✅ @iam-agf But also "padre" or "super" can be considered as valid
+    # ✅ @begeistert "super" sound fine
+  tuple: "tupla"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  type: "tipo"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  vars: "variables"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  zip: "zip"
+    # 🤔 @zoomstereo can't be direct translated
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
+  __import__: "importar"
+    # ✅ @zoomstereo
+    # ✅ @asperduti
+    # ✅ @reegoram
+    # ✅ @kararade
+    # ✅ @JJgar2725
+    # ✅ @aliciacisnerosm
+    # ✅ @iam-agf
+    # ✅ @begeistert
 
 # << Error Messages >>
 
