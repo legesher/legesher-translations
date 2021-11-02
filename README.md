@@ -131,26 +131,26 @@ We love your desire to give back, and want to make the process as welcoming to n
 
 Legesher Developer Tools might be useful to you if:
 
-- you are a non-native english speaker
+- you are a non-native English speaker
 - you are new to programming
-- you work on a team with non-native english speakers
+- you work on a team with non-native English speakers
 - you are a developer (simple enough)
 
 | Project                                                                                  | Purpose                                                                                                   |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | [`tree-sitter-legesher-python`](https://github.com/legesher/tree-sitter-legesher-python) | Tree-sitter python grammar used by text editors allowing Legesher's languages to be implemented           |
-| [`language-legesher-python`](https://github.com/legesher/language-legesher-python)       | Atom's programming language binding to allow syntax highlighting, code folding etc. to a specific grammar |
+| [`language-legesher-python`](https://github.com/legesher/language-legesher-python)       | Atom's programming language binding to allow syntax highlighting, code folding, etc. to a specific grammar |
 | [`legesher-translations`](https://github.com/legesher/legesher-translations)             | Host and API of all the language translations for written languages for code keywords / concepts          |
 | [`legesher-dot-io`](https://github.com/legesher/legesher-dot-io)                         | Legesher's public [website](https://legesher.io)                                                          |
 | [`legesher-docs`](https://github.com/legesher/legesher-docs)                             | Legesher's documentation hub. Will be transitioning to a documentation host soon.                         |
 | [`legesher`](https://github.com/legesher/legesher)                                       | Git integration to collaborate with code and others in other languages                                    |
-| [`legesher-pride`](https://github.com/legesher/legesher-pride)                           | A non-programmer's dream to contributing to open source by sharing what they know and learning what's new |
+| [`legesher-pride`](https://github.com/legesher/legesher-pride)                           | A non-programmer's dream is to conrtibute to open source by sharing what they know and learning what's new |
 
 ## The Community
 
 A message from our [founder, Madi](https://www.instagram.com/withmadico/):
 
-> It is truly a blessing to be surrounded by a community of passionate, driven individuals who love sharing their gifts to creating better products together. Your contribution means the world to me, and keeps me motivated to continue creating. This wouldn't be possible without you. From the bottom of my heart, 💛 THANK YOU!
+> It is truly a blessing to be surrounded by a community of passionate, driven individuals who love sharing their gifts to creating better products together. Your contribution means the world to me and keeps me motivated to continue creating. This wouldn't be possible without you. From the bottom of my heart, 💛 THANK YOU!
 
 Meet our [community](https://legesher.io/community) (full of contributors, backers, sponsors, and supporters) that give a little piece of their heart to this project. Thank you so much. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
 
