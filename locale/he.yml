@@ -16,75 +16,99 @@ language-abbreviation: "he"
   NOTE: "הערה"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
+    # ✅ @tomerpacific
   INFO: "מידע"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
+    # ✅ @tomerpacific
   IDEA: "רעיון"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
+    # ✅ @tomerpacific
   DEBUG: "מציאת_באגים"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
+    # ✅ @tomerpacific
   REMOVE: "הסר"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
+    # ✅ @tomerpacific
   OPTIMIZE: ""
     # ❓ @Adarwall
     # ❓ @Gal-Gilor "ייעול"
+    # ❓ @tomerpacific "הפוך_ליעיל"
   REVIEW: ""
     # ❓ @Adarwall
     # ❓ @Gal-Gilor "סקירה"
+    # ❓ @tomerpacific "לבצע_סקירה"
   HACK: "האק"
     # ✅ @Adarwall
     # ❓ @Gal-Gilor "פריצה או פרץ?"
+    # ❓ @tomerpacific "פתרון_פרוץ"
   UNDONE: "שחזר"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
+    # ❓ @tomerpacific "מצריך_עבודה"
   TODO: ""
     # ❓ @Adarwall
     # ❓ @Gal-Gilor "לעשות"
+    # ❓ @tomerpacific "צריך_לעשות"
   REFACTOR: "לעשות_מחדש"
     # ✅ @Adarwall
     # ❓ @Gal-Gilor "לשפר"
+    # ❓ @tomerpacific "מצריך_שיפור"
   DEPRECATED: "הוצא_משימוש"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
+    # ✅ @tomerpacific
   TASK: "מטלה"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
+    # ✅ @tomerpacific
   CHGME: ""
     # ❓ @Adarwall
     # 🤔 @Gal-Gilor "Requires elaboration on what this word does"
+    # ❓ @tomerpacific "שנה_אותי"
   NOTREACHED: ""
     # ❓ @Adarwall
     # 🤔 @Gal-Gilor "Requires elaboration on what this word does"
+    # ❓ @tomerpacific "לא_הושג"
   WTF: "וואט_דה_פאק"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
+    # ❓ @tomerpacific "מה_לעזאזל"
   BUG: "באג"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
+    # ✅ @tomerpacific
   ERROR: "שגיאה"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
+    # ✅ @tomerpacific
   OMG: "או_מיי_גאד"
     # ✅ @Adarwall
     # ❓ @Gal-Gilor "אלוהים_אדירים"
+    # ❓ @tomerpacific "אלוהים_ישמור"
   ERR: "שגיאה"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
+    # ✅ @tomerpacific
   OMFGRLY: ""
     # ❓ @Adarwall
     # 🤔 @Gal-Gilor "OMG REALLY isn't used much. Same as OMG (אלוהים_אדירים)"
+    # ❓ @tomerpacific "אני_לא_מאמין_למראה_עיניי"
   WARNING: "אזהרה"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
+    # ✅ @tomerpacific
   WARN: "אזהרה"
     # ✅ @Adarwall
     # ❓ @Gal-Gilor "להזהיר"
+    # ❓ @tomerpacific "להזהיר"
   BROKEN: "שבור"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
+    # ✅ @tomerpacific
 
 # ----------------------
 # |   LANGUAGE: AGDA   |
