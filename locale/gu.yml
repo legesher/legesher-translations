@@ -1700,346 +1700,415 @@ abs: "એબીએસ"
   # ❓ @sshiv5768 I think "સંપૂર્ણ" fits better for abs, which returns absolute value.
   # 👀 @136tejas
   # 👀 @Nidhir2k1
+  # ✅  @nik132-eng
 all: "બધા"
   # ✅ @bvishal8510
   # ✅ @sshiv5768
   # 👀 @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 any: "કોઈપણ"
   # ✅ @bvishal8510
   # ✅ @sshiv5768
   # 👀 @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 ascii: "ascii"
   # ✅ @bvishal8510
   # ✅ @sshiv5768
   # 👀 @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 bin: "ડબ્બા"
   # ✅ @bvishal8510
   # ❓ @sshiv5768 I think "દ્વિસંગી" is perfect for bin because "ડબ્બા" represents boxes, which is not meaningful.
   # 👀 @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 bool: "બુલ"
   # ✅ @bvishal8510
   # ✅ @sshiv5768
   # 👀 @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 breakpoint: "બ્રેકપોઇન્ટ"
   # ✅ @bvishal8510
   # ❓ @sshiv5768 I think "વિરામ બિંદુ" suits better than "બ્રેકપોઇન્ટ"
   # 👀 @136tejas
   # ❓ @Nidhir2k1 I think અલ્પવિરામ is better
+  # ❓ @nik132-eng I think "વિરામ બિંદુ"
 bytearray: "બાયટ્રે"
   # ✅ @bvishal8510
   # ✅ @sshiv5768
   # 👀 @136tejas
   # 🤔 @Nidhir2k1 Dont think there is a translation
+  # ✅  @nik132-eng
 bytes: "બાઇટ્સ"
   # ✅ @bvishal8510
   # ✅ @sshiv5768
   # 👀 @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 callable: "બોલાવવા યોગ્ય"
   # ✅ @bvishal8510
   # ✅ @sshiv5768
   # 👀 @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 chr: "chr"
   # ✅ @bvishal8510
   # ✅ @sshiv5768
   # 👀 @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 classmethod: "વર્ગમૂળ"
   # ✅ @bvishal8510
   # ✅ @sshiv5768
   # 👀 @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 compile: "સંકલન"
   # ✅ @bvishal8510
   # ✅ @sshiv5768
   # 👀 @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 complex: "જટિલ"
   # ✅ @bvishal8510
   # ✅ @sshiv5768
   # 👀 @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 delattr: "delattr"
   # ✅ @bvishal8510
   # ❓ @sshiv5768 I think phonetic translation will not work here, "લક્ષણ હટાવવા" fits better
   # 👀 @136tejas
   # ❓ @Nidhir2k1 Agree with "લક્ષણ હટાવવા"
+  # ❓ @nik132-eng "લક્ષણ હટાવવા"
 dict: "ડિક"
   # ✅ @bvishal8510
   # ❓ @sshiv5768 "કોશ" or "શબ્દકોશ" is perfect translation, because we use it as dictionary
   # 👀 @136tejas
   # ❓ @Nidhir2k1 "શબ્દકોશ" suits better
+  # ❓ @nik132-eng "શબ્દકોશ"
 dir: "dir"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # 🤔 @136tejas Maybe "નિર્દેશિકા"
   # ❓ @Nidhir2k1 નિર્દેશિક translates it well
+  # ✅  @nik132-eng
 divmod: "divmod"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # 🤔 @136tejas maybe "વિભાગ મોડ"
   # 🤔 @Nidhir2k1
+  # 🤔  @nik132-eng
 enumerate: "ગણતરી કરવી"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1 or you use ગણવું
+  # ✅  @nik132-eng
 eval: "ઇવલ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ❓ @136tejas "મૂલ્યાંકન" is better translation for eval.
   # ❓ @Nidhir2k1 "મૂલ્યાંકન" is better translation
+  # ❓ @nik132-eng "મૂલ્યાંકન"
 exec: "એક્ઝેક"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # 🤔 @136tejas
   # 🤔 @Nidhir2k1
+  # 🤔 @nik132-eng
 filter: "ફિલ્ટર"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # 👀 @Nidhir2k1
+  # ✅  @nik132-eng
 float: "ફ્લોટ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 format: "બંધારણ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 frozenset: "સ્થિર"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ❓ @136tejas "સ્થિર સમૂહ" is better translation for frozenset.
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 getattr: "getattr"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # 🤔 @136tejas
   # 👀 @Nidhir2k1
+  # 🤔  @nik132-eng
 globals: "ગ્લોબલ્સ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ❓ @136tejas "વૈશ્વિક" is better translation for globals.
   # 🤔 @Nidhir2k1
+  # ❓ @nik132-eng "વૈશ્વિક"
 hasattr: "ઉતાવળ કરવી"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ❓ @136tejas  "ગુણ હોવા" or "વિશેષતા હોવી"
   # 🤔 @Nidhir2k1
+  # ✅  @nik132-eng
 hash: "હેશ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 help: "મદદ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
-  # ✅ @Nidhir2k1
+  # ✅ @Nidhir2k1  
+  # ✅  @nik132-eng
 hex: "હેક્સ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 id: "આઈડી"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 input: "ઇનપુટ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ❓ @136tejas maybe "દાખલ કરવું"
   # ❓ @Nidhir2k1 "દાખલ કરવું" suits better
+  # ❓ @nik132-eng "દાખલ કરવું"
 int: "પૂર્ણાંક"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 isinstance: "isinstance"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ❓ @136tejas "ઉદાહરણ તરીકે" is better translation for ininstance.
   # 🤔 @Nidhir2k1
+  # 🤔  @nik132-eng
 issubclass: "ઇસ્યુબક્લાસ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ❓ @136tejas "પેટા વર્ગ છે" is better translation for issubclass.
   # ❓ @Nidhir2k1 "પેટા વર્ગ છે"
+  # ❓ @nik132-eng "પેટા વર્ગ છે"
 iter: "તે"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # 🤔 @136tejas
   # ❓ @Nidhir2k1 પુનરાવર્તન
+    # 🤔  @nik132-eng
 len: "લેન"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ❓ @136tejas "લંબાઈ" is better translation
   # ❓ @Nidhir2k1 "લંબાઈ"
+  # ❓ @nik132-eng "લંબાઈ"
 list: "યાદી"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 locals: "સ્થાનિકો"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 map: "નકશો"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 max: "મહત્તમ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 memoryview: "મેમરીવ્યુ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # 🤔 @136tejas
   # 🤔 @Nidhir2k1
+  # 🤔 @nik132-eng
 min: "મિનિટ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ❓ @136tejas "ન્યૂનતમ" is better translation for min
   # ❓ @Nidhir2k1 લઘુત્તમ is also a possible
+  # ✅  @nik132-eng
 next: "આગળ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
-  # ✅ @Nidhir2k1
+  # ✅ @Nidhir2k1  
+  # ✅  @nik132-eng
 object: "objectબ્જેક્ટ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ❓ @136tejas  "વસ્તુ"
   # ❓ @Nidhir2k1 "વસ્તુ" fits better
+  # ❓ @nik132-eng  "વસ્તુ"
 oct: "ઓક્ટો"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 open: "ખુલ્લા"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 ord: "ઓર્ડર"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 pow: "પાવ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ❓ @136tejas "ઘાતાંક" or "વદી"
   # ❓ @Nidhir2k1 "વદી"
+  # ❓ @nik132-eng "વદી"
 print: "છાપો"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1 or you can use લખો..though it changes the real translation but makes more sense for print function
+  # ✅  @nik132-eng
 property: "મિલકત"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 range: "શ્રેણી"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 repr: "repr"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # 🤔 @136tejas
   # 👀 @Nidhir2k1
+  # ✅  @nik132-eng
 reversed: ".લટું"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ❓ @136tejas "ઉલટું"
   # ❓ @Nidhir2k1 "ઉલટું"
+  # ❓ @nik132-eng "ઉલટું"
 round: "ગોળ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
   # ✅ @Nidhir2k1
+  # ✅  @nik132-eng
 set: "સમૂહ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
-  # ✅ @Nidhir2k1
+  # ✅ @Nidhir2k1  
+  # ✅  @nik132-eng
 setattr: "setattr"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # 🤔 @136tejas
   # ❓ @Nidhir2k1 લક્ષણ સેટ કરો
+  # 👀 @nik132-eng
 slice: "કટકા"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
-  # ✅ @Nidhir2k1
+  # ✅ @Nidhir2k1  
+  # ✅  @nik132-eng
 sorted: "સortedર્ટ થયેલ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ❓ @136tejas "વર્ગીકૃત"
-  # 👀 @Nidhir2k1
+  # 👀 @Nidhir2k1  
+  # ✅  @nik132-eng
 staticmethod: "સ્થિર"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
-  # ❓ @Nidhir2k1 frozenst has the some translation
+  # ❓ @Nidhir2k1 frozenst has the some translation  
+  # ✅  @nik132-eng
 str: "str"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas I believe data types should be kept as it is just change them phonetically if needed
-  # ✅ @Nidhir2k1
+  # ✅ @Nidhir2k1  
+  # ✅  @nik132-eng
 sum: "સરવાળો"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
-  # ✅ @Nidhir2k1
+  # ✅ @Nidhir2k1  
+  # ✅  @nik132-eng
 super: "સુપર"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
-  # ✅ @Nidhir2k1
+  # ✅ @Nidhir2k1  
+  # ✅  @nik132-eng
 tuple: "tuple"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas I believe data types should be kept as it is just change them phonetically if needed
-  # 👀 @Nidhir2k1
+  # 👀 @Nidhir2k1  
+  # ✅  @nik132-eng
 type: "પ્રકાર"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ✅ @136tejas
-  # ✅ @Nidhir2k1
+  # ✅ @Nidhir2k1  
+  # ✅  @nik132-eng
 vars: "યુદ્ધો"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ❓ @136tejas "ચલ"
-  # ❓ @Nidhir2k1
+  # ❓ @Nidhir2k1  
+  # ✅  @nik132-eng
 zip: "ઝિપ"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # 🤔 @136tejas
-  # 🤔 @Nidhir2k1
+  # 🤔 @Nidhir2k1  
+  # ✅  @nik132-eng
 __import__: "__ મહત્વપૂર્ણ__"
   # ✅ @bvishal8510
   # 👀 @sshiv5768
   # ❓ @136tejas "આયાત કરવું"
-  # ❓ @Nidhir2k1
+  # ❓ @Nidhir2k1  
+  # ✅  @nik132-eng
 
 # << Error Messages >>
 
