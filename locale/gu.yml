@@ -16,75 +16,98 @@ language-abbreviation: "gu"
   NOTE: "નોંધ"
     # ✅ @179priyasoni
     # ✅ @aadii0408
+    # ✅ @shahkv95
   INFO: "માહિતી"
     # ✅ @179priyasoni
     # ✅ @aadii0408
+    # ✅ @shahkv95
   IDEA: "વિચાર"
     # ✅ @179priyasoni
     # ✅ @aadii0408
-  DEBUG: ""
+    # ✅ @shahkv95
+  DEBUG: "ખામી-સુધારવી"
     # 👀 @179priyasoni
     #  ❓ @aadii0408 - it would be more effective - "સુધારવુ"
-  REMOVE: "દૂર કરવું"
+    # ✅ @shahkv95
+  REMOVE: "દૂર-કરવું"
     # ✅ @179priyasoni
     # ✅ @aadii0408
-  OPTIMIZE: ""
+    # ✅ @shahkv95
+  OPTIMIZE: "સુધારવું"
     # 👀 @179priyasoni
     #  ❓ @aadii0408 - it would be more effective - "શક્ય ઍટલુ સારુ કરવુ"
+    # ✅ @shahkv95
   REVIEW: "સમીક્ષા"
     # ✅ @179priyasoni
     # ✅ @aadii0408
-  HACK: ""
+  HACK: "હેક"
     # 👀 @179priyasoni
     # 🤔 @aadii0408
-  UNDONE: "પૂર્ણ ના થવું"
+    # ❓ @shahkv95
+  UNDONE: "પૂર્વવત્"
     # ✅ @179priyasoni
     # ✅ @aadii0408
-  TODO: "આ  કરવું"
+    # ✅ @shahkv95
+  TODO: "આ-કરવું"
     # ✅ @179priyasoni
     # ✅ @aadii0408
-  REFACTOR: ""
+    # ❓ @shahkv95 - unable to find anything better
+  REFACTOR: "પુનઃરચના"
     # 👀 @179priyasoni
     # 🤔  @aadii0408
+    # ✅ @shahkv95
   DEPRECATED: "નાપસંદ"
     # ✅ @179priyasoni
     # ✅ @aadii0408
+    # ❓ @shahkv95 - Need to confirm once - as નાપસંદ means dislike which does not deprecated
   TASK: "કાર્ય"
     # ✅ @179priyasoni
     # ✅ @aadii0408
+    # ✅ @shahkv95
   CHGME: ""
     # 👀 @179priyasoni
     # 🤔  @aadii0408
-  NOTREACHED: "સુધી પહોંચ્યું નથી"
+    # ❓ @shahkv95 - unsure about the keyword itself
+  NOTREACHED: "ન-પહોચવું "
     # ✅ @179priyasoni
     # ✅ @aadii0408
-  WTF: "અશબ્દ"
+    # ✅ @shahkv95
+  WTF: "વાહિયાત"
     # ✅ @179priyasoni
     # ✅ @aadii0408
-  BUG: "ભૂલ"
+    # ✅ @shahkv95
+  BUG: "ખામી"
     # ✅ @179priyasoni
     # ✅ @aadii0408
+    # ✅ @shahkv95
   ERROR: "ભૂલ"
     # ✅ @179priyasoni
     # ✅ @aadii0408
-  OMG: "હે રામ"
+    # ✅ @shahkv95
+  OMG: "હે-રામ"
     # ✅ @179priyasoni
     # ✅ @aadii0408
-  ERR: ""
+    # ✅ @shahkv95
+  ERR: "સંકેત-ભૂલ"
     # 👀 @179priyasoni
     # 🤔  @aadii0408
+    # ✅ @shahkv95
   OMFGRLY: ""
     # 👀 @179priyasoni
     # 🤔  @aadii0408
+    # ❓ @shahkv95 - unsure about the keyword itself
   WARNING: "ચેતવણી"
     # ✅ @179priyasoni
     # ✅ @aadii0408
-  WARN: "ચેતવણી આપવી"
+    # ✅ @shahkv95
+  WARN: "સંકેત-ચેતવણી"
     # ✅ @179priyasoni
     # ✅ @aadii0408
+    # ✅ @shahkv95
   BROKEN: "તૂટેલું"
     # ✅ @179priyasoni
     # ✅ @aadii0408
+    # ✅ @shahkv95
 
 # ----------------------
 # |   LANGUAGE: AGDA   |
@@ -149,118 +172,155 @@ language-abbreviation: "gu"
 do: "કરવું" # (part of do-while statement)
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 while: "જ્યારે"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 for: "માટે"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 if: "જો" # (part of if-else statement)
   # ✅ @179priyasoni
   # ✅ @aadii0408
-else: "નહિ તો" # (part of if-else statement)
+  # ✅ @shahkv95
+else: "નહિ-તો" # (part of if-else statement)
   # ✅ @179priyasoni
   # ✅ @aadii0408
-switch: ""
+  # ✅ @shahkv95
+switch: "ફેરફાર"
   # 👀 @179priyasoni
   # 🤔  @aadii0408
+  # ✅ @shahkv95
 break: "વિરામ" # (part of the switch statement or for/while statements)
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 case: "બાબત" # (part of the switch statement)
   # ✅ @179priyasoni
   # ✅ @aadii0408
-continue: "ચાલુ રાખવું" # (part of for/while statements)
+  # ✅ @shahkv95
+continue: "ચાલુ-રાખવું" # (part of for/while statements)
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 default: "મૂળભૂત" # (part of switch statement)
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 function: "કાર્ય"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 procedure: "પ્રક્રિયા"
   # ✅ @179priyasoni
   # ✅ @aadii0408
-return: "પાછું આપવું"
+  # ✅ @shahkv95
+return: "પાછું-આપવું"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ❓ @shahkv95 - how about - પરત
 local: "સ્થાનિક"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 global: "વૈશ્વિક"
   # ✅ @179priyasoni
   # ✅ @aadii0408
-static: ""
+  # ✅ @shahkv95
+static: "સ્થિર"
   # 👀 @179priyasoni
   # 🤔  @aadii0408
+  # ✅ @shahkv95
 typeof: "પ્રકાર"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 NOT: "નથી"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 AND: "અને"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 OR: "અથવા"
   # ✅ @179priyasoni
   # ✅ @aadii0408
-Null: "ખાલી"
+  # ✅ @shahkv95
+Null: "અસ્તિત્વમાં-નથીી"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 # << Error Messages >>
 
 # ----------------------
 # |   LANGUAGE: BASH   |
 # ----------------------
 # << Keywords >>
-case: "મુકદ્દમો"
+case: "મૂલ્ય"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 do: "કરવું"
   # ✅ @179priyasoni
   # ✅ @aadii0408
-done: "થઈ ગયું"
+  # ✅ @shahkv95
+done: "પૂર્ણ"
   # ✅ @179priyasoni
   # ✅ @aadii0408
-elif: "એલિફ"
+  # ✅ @shahkv95
+elif: "અન્ય-જો"
   # ✅ @179priyasoni
   # ✅ @aadii0408
-else: "નહિતો"
+  # ✅ @shahkv95
+else: "અન્ય"
   # ✅ @179priyasoni
   # ✅ @aadii0408
-esac: ""
+  # ✅ @shahkv95
+esac: "ઈ-એસ-એ-સી"
   # 👀 @179priyasoni
-fi: ""
+  # ❓ @shahkv95 - unsure about the word itself - it's a keyword and not a word
+fi: "અંત"
   # 👀 @179priyasoni
+  # ✅ @shahkv95
 for: "માટે"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 function: "કાર્ય"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 if: "જો"
   # ✅ @179priyasoni
   # ✅ @aadii0408
-in: "ની અંદર"
+  # ✅ @shahkv95
+in: "અંદર"
   # ✅ @179priyasoni
   # ✅ @aadii0408
-select: "પસંદ કરવું"
+  # ✅ @shahkv95
+select: "પસંદ-કરવું"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 then: "પછી"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 time: "સમય"
   # ✅ @179priyasoni
   # ✅ @aadii0408
-until: "ત્યાં સુધી"
+  # ✅ @shahkv95
+until: "ત્યાં-સુધી"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 while: "જ્યારે"
   # ✅ @179priyasoni
   # ✅ @aadii0408
+  # ✅ @shahkv95
 
 # << Error Messages >>
 
