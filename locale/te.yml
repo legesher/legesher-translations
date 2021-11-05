@@ -1426,75 +1426,144 @@ __TRAIT__: ""
 
 # << Built-In Functions >>
 
-  abs: ""
-  all: ""
-  any: ""
-  ascii: ""
-  bin: ""
-  bool: ""
-  breakpoint: ""
-  bytearray: ""
-  bytes: ""
-  callable: ""
+  abs: "సంపూర్ణ సంఖ్య"
+  # ✅ @KarthikMothiki
+  all: "అన్ని"
+  # ✅ @KarthikMothiki
+  any: "ఏదైనా"
+  # ✅ @KarthikMothiki
+  ascii: "ఆశ్కి"
+  # 👀 @KarthikMothiki there is no word for ascii in telugu
+  bin: "బైనరీ"
+  # 👀 @KarthikMothiki
+  bool: "బూలియన్"
+  # ✅ @KarthikMothiki
+  breakpoint: "బ్రేక్ పాయింట్"
+  # ✅ @KarthikMothiki
+  bytearray: "బైట్ అమరిక"
+  # ✅ @KarthikMothiki
+  bytes: "బైట్లు"
+  # ✅ @KarthikMothiki
+  callable: "పిలవదగినది"
+  # ✅ @KarthikMothiki
   chr: ""
-  classmethod: ""
-  compile: ""
+  # 👀 @KarthikMothiki
+  classmethod: "తరగతి కర్మము"
+  # 👀 @KarthikMothiki
+  compile: "గ్రంథస్తం చేయు"
+  # ✅ @KarthikMothiki
   complex: ""
+  # ✅ @KarthikMothiki
   delattr: ""
+  # ✅ @KarthikMothiki
   dict: ""
+  # ✅ @KarthikMothiki
   dir: ""
+  # ✅ @KarthikMothiki
   divmod: ""
+  # ✅ @KarthikMothiki
   enumerate: ""
+  # ✅ @KarthikMothiki
   eval: ""
+  # ✅ @KarthikMothiki
   exec: ""
+  # ✅ @KarthikMothiki
   filter: ""
+  # ✅ @KarthikMothiki
   float: ""
+  # ✅ @KarthikMothiki
   format: ""
+  # ✅ @KarthikMothiki
   frozenset: ""
+  # ✅ @KarthikMothiki
   getattr: ""
+  # ✅ @KarthikMothiki
   globals: ""
+  # ✅ @KarthikMothiki
   hasattr: ""
+  # ✅ @KarthikMothiki
   hash: ""
+  # ✅ @KarthikMothiki
   help: ""
+  # ✅ @KarthikMothiki
   hex: ""
+  # ✅ @KarthikMothiki
   id: ""
+  # ✅ @KarthikMothiki
   input: ""
+  # ✅ @KarthikMothiki
   int: ""
+  # ✅ @KarthikMothiki
   isinstance: ""
+  # ✅ @KarthikMothiki
   issubclass: ""
+  # ✅ @KarthikMothiki
   iter: ""
+  # ✅ @KarthikMothiki
   len: ""
+  # ✅ @KarthikMothiki
   list: ""
+  # ✅ @KarthikMothiki
   locals: ""
+  # ✅ @KarthikMothiki
   map: ""
+  # ✅ @KarthikMothiki
   max: ""
+  # ✅ @KarthikMothiki
   memoryview: ""
+  # ✅ @KarthikMothiki
   min: ""
+  # ✅ @KarthikMothiki
   next: ""
+  # ✅ @KarthikMothiki
   object: ""
+  # ✅ @KarthikMothiki
   oct: ""
+  # ✅ @KarthikMothiki
   open: ""
+  # ✅ @KarthikMothiki
   ord: ""
+  # ✅ @KarthikMothiki
   pow: ""
+  # ✅ @KarthikMothiki
   print: ""
+  # ✅ @KarthikMothiki
   property: ""
+  # ✅ @KarthikMothiki
   range: ""
+  # ✅ @KarthikMothiki
   repr: ""
+  # ✅ @KarthikMothiki
   reversed: ""
+  # ✅ @KarthikMothiki
   round: ""
+  # ✅ @KarthikMothiki
   set: ""
+  # ✅ @KarthikMothiki
   setattr: ""
+  # ✅ @KarthikMothiki
   slice: ""
+  # ✅ @KarthikMothiki
   sorted: ""
+  # ✅ @KarthikMothiki
   staticmethod: ""
+  # ✅ @KarthikMothiki
   str: ""
+  # ✅ @KarthikMothiki
   sum: ""
+  # ✅ @KarthikMothiki
   super: ""
+  # ✅ @KarthikMothiki
   tuple: ""
+  # ✅ @KarthikMothiki
   type: ""
+  # ✅ @KarthikMothiki
   vars: ""
+  # ✅ @KarthikMothiki
   zip: ""
+  # ✅ @KarthikMothiki
   __import__: ""
+  # ✅ @KarthikMothiki
 
 # << Error Messages >>
 
