@@ -149,37 +149,69 @@ while: ""
 # ----------------------
 # << Keywords >>
 auto: "auto"
+  # ✅ @JohannaHillebrand
 double: "Kommazahl"
+  # ✅ @JohannaHillebrand
 int: "GanzeZahl"
+  # ✅ @JohannaHillebrand
 struct: "Struktur"
+  # ✅ @JohannaHillebrand
 break: "Abbruch"
+  # ✅ @JohannaHillebrand
 else: "ansonsten"
+  # ✅ @JohannaHillebrand
 long: ""
-switch: "switch" #there is not really a good alternative in German
+  # 🤔 @JohannaHillebrand
+switch: "switch"
+  # ❓ @JohannaHillebrand there is not really a good alternative in German
 case: "Fall"
+  # ✅ @JohannaHillebrand
 enum: "enum"
+  # ✅ @JohannaHillebrand
 register: "Register"
+  # ✅ @JohannaHillebrand
 typedef: "TypDefinition"
+  # ✅ @JohannaHillebrand
 char: "Zeichen"
+  # ✅ @JohannaHillebrand
 extern: "extern"
+  # ✅ @JohannaHillebrand
 return: "Rückgabe"
+  # ✅ @JohannaHillebrand
 union: ""
+  # 🤔 @JohannaHillebrand
 const: "Konstante"
+  # ✅ @JohannaHillebrand
 float: "Fließkommazahl"
+  # ✅ @JohannaHillebrand
 short: ""
+  # 🤔 @JohannaHillebrand
 unsigned: "vorzeichenlos"
+  # ✅ @JohannaHillebrand
 continue: "fahreFort"
+  # ✅ @JohannaHillebrand
 for: "für"
+  # ✅ @JohannaHillebrand
 signed: "vorzeichenbehaftet"
-void: "stumm" #maybe
+  # ✅ @JohannaHillebrand
+void: "stumm"
+  # ❓ @JohannaHillebrand maybe
 default: "default"
+  # ✅ @JohannaHillebrand
 goto: "wechselZu"
+  # ✅ @JohannaHillebrand
 sizeof: "größeVon"
+  # ✅ @JohannaHillebrand
 volatile: ""
+  # 🤔 @JohannaHillebrand
 do: "tue"
+  # ✅ @JohannaHillebrand
 if: "wenn"
+  # ✅ @JohannaHillebrand
 static: "statisch"
+  # ✅ @JohannaHillebrand
 while: "solange"
+  # ✅ @JohannaHillebrand
 
 # << Error Messages >>
 
@@ -853,56 +885,107 @@ wbr: "" #	Defines a possible line-break
 # ----------------------
 # << Keywords >>
 abstract: "abstrakt"
+  # ✅ @JohannaHillebrand
 continue: "fahreFort"
+  # ✅ @JohannaHillebrand
 for: "für"
+  # ✅ @JohannaHillebrand
 new: "neu"
+  # ✅ @JohannaHillebrand
 switch: "switch"
+  # ✅ @JohannaHillebrand
 assert: "vergleiche"
+  # ✅ @JohannaHillebrand
 default: "default"
+  # ✅ @JohannaHillebrand
 goto: "geheZu"
+  # ✅ @JohannaHillebrand
 package: "Paket"
+  # ✅ @JohannaHillebrand
 synchronized: "synchronisiert"
+  # ✅ @JohannaHillebrand
 boolean: "Wahrheitswert"
+  # ✅ @JohannaHillebrand
 do: "tue"
+  # ✅ @JohannaHillebrand
 if: "wenn"
+  # ✅ @JohannaHillebrand
 private: "privat"
+  # ✅ @JohannaHillebrand
 this: "dieses"
+  # ✅ @JohannaHillebrand
 break: "Abbruch"
+  # ✅ @JohannaHillebrand
 double: "Kommazahl"
+  # ✅ @JohannaHillebrand
 implements: "implementiert"
+  # ✅ @JohannaHillebrand
 protected: "geschützt"
+  # ✅ @JohannaHillebrand
 throw: "werfe"
+  # ✅ @JohannaHillebrand
 byte: "Byte"
+  # ✅ @JohannaHillebrand
 else: "dann"
+  # ✅ @JohannaHillebrand
 import: "importiere"
+  # ✅ @JohannaHillebrand
 public: "öffentlich"
+  # ✅ @JohannaHillebrand
 throws: "werfe"
+  # ✅ @JohannaHillebrand
 case: "Fall"
+  # ✅ @JohannaHillebrand
 enum: "enum"
+  # ✅ @JohannaHillebrand
 instanceof: "instanzVon"
+  # ✅ @JohannaHillebrand
 return: "gebeZurück"
+  # ✅ @JohannaHillebrand
 transient: ""
+  # 🤔 @JohannaHillebrand
 catch: "fange"
+  # ✅ @JohannaHillebrand
 extends: "erweitert"
+  # ✅ @JohannaHillebrand
 int: "Ganzzahl"
+  # ✅ @JohannaHillebrand
 short: ""
+  # 🤔 @JohannaHillebrand
 try: "versuche"
+  # ✅ @JohannaHillebrand
 char: "Zeichen"
+  # ✅ @JohannaHillebrand
 final: "final"
+  # ✅ @JohannaHillebrand
 interface: "Interface"
+  # ✅ @JohannaHillebrand
 static: "statisch"
+  # ✅ @JohannaHillebrand
 void: "stumm"
+  # ✅ @JohannaHillebrand
 class: "Klasse"
+  # ✅ @JohannaHillebrand
 finally: "schlussendlich"
+  # ✅ @JohannaHillebrand
 long: ""
+  # 🤔 @JohannaHillebrand
 strictfp: ""
+  # 🤔 @JohannaHillebrand
 volatile: ""
+  # 🤔 @JohannaHillebrand
 const: "Konstante"
+  # ✅ @JohannaHillebrand
 float: "Fließkommazahl"
+  # ✅ @JohannaHillebrand
 native: "nativ"
+  # ✅ @JohannaHillebrand
 super: "super"
+  # ✅ @JohannaHillebrand
 while: "solange"
-_: "" #_(underscore)
+  # ✅ @JohannaHillebrand
+_: ""
+  # 🤔 @JohannaHillebrand _(underscore)
 
 # << Error Messages >>
 
@@ -910,61 +993,203 @@ _: "" #_(underscore)
 # |   LANGUAGE: JAVASCRIPT   |
 # ----------------------------
 # << Keywords >>
-arguments: "argumente" #✅
-await: "erwarte" #warteAuf?
-# break: "bruch"
-break: "brich" # Imperative of brechen, instead of noun Bruch #abbruch?
-case: "fall" #✅
-catch: "fange" # not sure #fangeAuf
-class: "klasse" #✅
-const: "konstante" #✅
-continue: "fortfahren" #fahreFort?
-debugger: "debugger" #✅
-default: "default" #✅
-# delete: "löschen"
-delete: "lösche" #✅ # Imperative
-do: "tue" #✅
-else: "sonst" #✅
-enum: "enum" #✅ # no idea
-# eval: "evaluieren" # Imperative
-eval: "evaluiere" #✅
-# export: "exportieren"
-export: "exportiere" #✅ # Imperative
-extends: "erweitert" #✅
-false: "falsch" #✅
-finally: "endlich" #schlussendlich?
-for: "für" #✅
-from: "von" #✅
-function: "funktion" #✅
-# if: "wenn"
-if: "falls" #✅ # If -> falls (It might happen), When -> Wenn (It will happen)
-implements: "implementiert" #✅
-import: "importiere" #✅
-in: "in" #✅
-instanceof: "instanzvon" #✅
-interface: "interface" #✅
-# let: "lasse"
-let: "sei" #✅ # Mathematical notation e.g. let x be 5 -> Sei x 5
-new: "neu" #✅
-null: "null" #✅ # no idea
-package: "paket" #✅
-private: "privat" #✅
-protected: "geschützt" #✅
-public: "öffentlich" #✅
-return: "gib" #✅
-static: "statisch" #✅
-super: "super"  #✅ # über?
-switch: "schalter" #works but weird
-this: "dies" #✅
-throw: "werfe" #✅
-true: "wahr" #✅
-try: "versuche" #✅
-typeof: "typvon" #✅
-var: "var" #✅ # no idea
-void: "void" #stumm? maybe? # no idea
-while: "während" #✅ #solange?
-with: "mit" #✅
-yield: "liefere" #✅
+arguments: "argumente"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+await: "erwarte"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ❓ @JohannaHillebrand "warteAuf"
+break: "bruch"
+  # ✅ @ZeroOne010101
+  # ❓ @LoLei "brich" Imperative of brechen, instead of noun Bruch
+  # ❓ @JohannaHillebrand "abbruch"
+case: "fall"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+catch: "fange"
+  # ❓ @ZeroOne010101 not sure
+  # 👀 @LoLei
+  # ❓ @JohannaHillebrand "fangeAuf"
+class: "klasse"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+const: "konstante"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+continue: "fortfahren"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ❓ @JohannaHillebrand "fahreFort"
+debugger: "debugger"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+default: "default"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+delete: "lösche"
+  # ✅ @ZeroOne010101
+  # ❓ @LoLei "löschen" Imperative
+  # ✅ @JohannaHillebrand
+do: "tue"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+else: "sonst"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+enum: "enum"
+  # 🤔 @ZeroOne010101 no idea
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+eval: "evaluieren"
+  # ✅ @ZeroOne010101
+  # ❓ @LoLei "evaluiere" Imperative
+  # ✅ @JohannaHillebrand
+export: "exportieren"
+  # ✅ @ZeroOne010101
+  # ❓ @LoLei "exportiere" Imperative
+  # ✅ @JohannaHillebrand
+extends: "erweitert"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+false: "falsch"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+finally: "endlich"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ❓ @JohannaHillebrand "schlussendlich"
+for: "für"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+from: "von"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+function: "funktion"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+# if:
+if: "wenn"
+  # ✅ @ZeroOne010101
+  # ❓ @LoLei If -> "falls" (It might happen), When -> Wenn (It will happen)
+  # ✅ @JohannaHillebrand "falls"
+implements: "implementiert"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+import: "importiere"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+in: "in"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+instanceof: "instanzvon"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+interface: "interface"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+let: "lasse"
+  # ✅ @ZeroOne010101 not sure
+  # ❓ @LoLei "sei" Mathematical notation e.g. let x be 5 -> Sei x 5
+  # ✅ @JohannaHillebrand
+new: "new"
+  # ✅ @ZeroOne010101
+  # ❓ @LoLei "neu"
+  # ✅ @JohannaHillebrand
+null: "null"
+  # 🤔 @ZeroOne010101 no idea
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+package: "paket"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+private: "privat"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+protected: "geschützt"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+public: "öffentlich"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+return: "return"
+  # ❓ @ZeroOne010101 rückgabe?
+  # ❓ @LoLei "gib"
+  # ❓ @JohannaHillebrand "gib"
+static: "statisch"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+super: "super"
+  # ❓ @ZeroOne010101 über?
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+switch: "schalter"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ❓ @JohannaHillebrand works but weird
+this: "dies"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+throw: "throw"
+  # 🤔 @ZeroOne010101 no idea
+  # ❓ @LoLei "werfe"
+  # ❓ @JohannaHillebrand "werfe"
+true: "wahr"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+try: "versuche"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+typeof: "typvon"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+var: "var"
+  # 🤔 @ZeroOne010101 no idea
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+void: "void"
+  # 🤔 @ZeroOne010101 no idea
+  # 👀 @LoLei
+  # ❓ @JohannaHillebrand "stumm" maybe?
+while: "während"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ❓ @JohannaHillebrand "solange"
+with: "mit"
+  # ✅ @ZeroOne010101
+  # 👀 @LoLei
+  # ✅ @JohannaHillebrand
+yield: "yield" #✅
+  # ❓ @ZeroOne010101 ausgabe? ausbeute?
+  # ❓ @LoLei "liefere"
+  # ❓ @JohannaHillebrand "liefere"
 
 # << Error Messages >>
 
@@ -1263,126 +1488,1051 @@ __TRAIT__: ""
 # # works but weird -> its translated and makes sense, but sounds weird to me ...
 # ... needs second opinion on wether to translate or keep english
 
-# General comment to German translations; due to its grammatical structure,
-# German tends to use more than one word where only one is sufficient in
-# English. This means that many keywords are not easily translatable.
+# @nausicaea General comment to German translations; due to its grammatical structure, German tends to use more than one word where only one is sufficient in English. This means that many keywords are not easily translatable.
 
-  False: "Falsch" #✅✅✅✅✅✅
-  None: "Nichts" #✅✅✅✅✅✅
-  True: "Wahr" #✅✅✅✅✅✅
-  and: "und" #✅✅✅✅✅✅
-  as: "als" #✅✅✅✅✅✅
-  assert: "behaupte" # ✅ ? fordere #❓"bestätige"✅ or "versichere" might fit better ✅ (agree with "versichere")
-  async: "asynchron" #✅✅✅✅✅✅
-  await: "erwarte" #✅✅✅✅✅✅ #warte auf ?
-  # break: "bruch"
-  break: "brich" # Imperative instead of noun # Abbruch ? #❓❓"brich ab"✅✅ fits better; just "brich" rather means "to fracture something"
-  class: "klasse" #✅✅ #?Klasse is a noun # needs a capital "K" <- I second this one, the "K" needs to be uppercase <-- agree <- agree
-  continue: "fortfahren" #✅✅ # ? überspringe ✅ (imperative and the semantic meaning is clearer) # <- I second this # works but weird
-  def: "def" # <- short | definiere? ✅✅✅✅ #🤔
-  del: "lösche" #✅✅✅✅❓✅
-  # elif: "sonstwenn"✅
-  elif: "sonstfalls" #✅✅✅ # If -> falls, when -> wenn #ansonsten? ❓ "sonstfalls" sounds weird, would prefer "andernfalls"
-  else: "sonst" #✅✅✅✅✅✅
-  except: "außer" #✅✅✅✅✅✅
-  finally: "endlich" # ? schlußendlich ✅✅✅✅ # ? abschließend # I second "schlußendlich"
-  for: "für" #✅✅✅✅❓✅
-  from: "von" ✅✅ # ? aus ✅ (in the semantic context of python, this represents the meaning more clearly) # I second "aus" <-- agree
-  global: "global" #✅✅✅✅✅✅
-  # if: "wenn"✅
-  if: "falls" #✅✅✅✅✅ # If -> falls, when -> wenn
-  import: "importiere" #✅✅✅✅✅✅ ? verwende
-  in: "in" #✅✅✅✅✅✅
-  is: "ist" #✅✅✅✅✅✅
-  lambda: "lambda" #✅✅✅✅ ❓ It's a noun, so "Lambda" ✅
-  nonlocal: "unlogisch" # "unlogisch" is definitely wrong. "nichtlokal"  is the appropriate translation ✅ # ? nonlokal #nichtlokal? #🤔 ❓ "nichtlokal"?
-  not: "nicht" #✅✅✅✅✅✅
-  or: "oder" #✅✅✅✅✅✅
-  # pass: "besteht"✅
-  pass: "weiter" # pass in python means to execute a line of code that does nothing #✅✅✅✅✅
-  raise: "erhebe" # ? (I'm not happy with this, because one cannot use "erhebe eine Ausnahme", i.e. raise an exception, in German) # auslösen? ❓❓ "löse aus"?✅
-  # raise: not a direct translation, but "werfe" might be a more suitable translation, i.e. "werfe eine Ausnahme"
-  return: "gib" #✅✅(if spaces are possible, prefer "gib zurück")✅✅❓
-  try: "versuche" #✅✅✅✅✅✅
-  while: "während" #✅✅✅✅❓ ❓ maybe "solange" would also fit
-  with: "mit" #✅✅✅✅❓✅
-  yield: "liefere" #✅✅❓(if spaces are possible, prefer "gib ab". This would completement the translation of return) <- I second that <-- agree ✅
+  False: "Falsch"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  None: "Nichts"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  True: "Wahr"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  and: "und"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  as: "als"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  assert: "assert"
+    # ❓ @ZeroOne010101 "stelle_fest"? "behaupte"?
+    # ❓ @LoLei "behaupte"
+    # ❓ @nausicaea "fordere"
+    # 👀 @otherpaco
+    # 👀 @JohannaHillebrand
+    # ❓ @merelyAnna "bestätige" or "versichere" might fit better
+    # ❓ @diana48 "bestätige"
+    # ✅ @twille00
+    # ❓ @alxnull (agree with "versichere")
+  async: "asynchron"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  await: "erwarte"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei (if spaces are possible, prefer "warte ab")
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ❓ @JohannaHillebrand "warte auf"
+    # ✅ @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  break: "bruch"
+    # ✅ @ZeroOne010101
+    # ❓ @LoLei "brich" Imperative instead of noun
+    # ✅ @nausicaea "brich"
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "Abbruch"
+    # ❓ @merelyAnna "brich ab" fits better; just "brich" rather means "to fracture something"
+    # ❓ @diana48 "brich ab"
+    # ❓ @twille00 "brich ab"
+    # ❓ @alxnull "brich ab"
+  class: "klasse"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ❓ @otherpaco Klasse is a noun
+    # ✅ @JohannaHillebrand Klasse is a noun # needs a capital "K"
+    # ✅ @merelyAnna I second @JohannaHillebrand, the "K" needs to be uppercase
+    # ✅ @diana48 I agree with @JohannaHillebrand "Klasse"
+    # ✅ @twille00
+    # ✅ @alxnull I agree with @JohannaHillebrand "Klasse"
+  continue: "fortfahren"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ❓ @nausicaea "überspringe" (imperative and the semantic meaning is clearer)
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand works but weird
+    # ❓ @merelyAnna I second "überspringe"
+    # ✅ @diana48
+    # ✅ @twille00
+    # ❓ @alxnull "überspringe"
+  def: "def"
+    # ✅ @ZeroOne010101 short | definiere?
+    # 👀 @LoLei
+    # ✅ @nausicaea "definiere" (prefer long form)
+    # 👀 @otherpaco
+    # ✅ @JohannaHillebrand
+    # 🤔 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  del: "lösche"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ❓ @twille00
+    # ✅ @alxnull
+  elif: "sonstwenn"
+    # ✅ @ZeroOne010101
+    # ❓ @LoLei "sonstfalls"  If -> falls, when -> wenn
+    # ❓ @nausicaea "andernfalls"
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "ansonsten"
+    # ❓ @merelyAnna "sonstfalls"
+    # ✅ @diana48
+    # ✅ @twille00
+    # ❓ @alxnull "sonstfalls" sounds weird, would prefer "andernfalls"
+  else: "sonst"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  except: "außer"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  finally: "endlich"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ❓ @nausicaea "schlußendlich"
+    # ❓ @otherpaco "abschließend"
+    # ❓ @JohannaHillebrand "schlußendlich"
+    # ❓ @merelyAnna I second "schlußendlich"
+    # ❓ @diana48 "schlußendlich"
+    # ✅ @twille00
+    # ❓ @alxnull "schlußendlich"
+  for: "für"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ❓ @twille00
+    # ✅ @alxnull
+  from: "von"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ❓ @nausicaea "aus" (in the semantic context of python, this represents the meaning more clearly)
+    # 👀 @otherpaco
+    # ✅ @JohannaHillebrand
+    # ❓ @merelyAnna I second "aus"
+    # ❓ @diana48 I agree with @nausicaea
+    # ✅ @twille00
+    # ❓ @alxnull "aus"
+  global: "global"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  if: "wenn"
+    # ✅ @ZeroOne010101
+    # ❓ @LoLei "falls" If -> falls, when -> wenn
+    # ✅ @nausicaea "falls"
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "falls"
+    # ❓ @merelyAnna "falls"
+    # ❓ @diana48 "falls"
+    # ✅ @twille00
+    # ❓ @alxnull "falls"
+  import: "importiere"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ❓ @nausicaea "verwende"
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # ✅ @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  in: "in"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  is: "ist"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  lambda: "lambda"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # ❓ @merelyAnna It's a noun, so "Lambda"
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull "Lambda"
+  nonlocal: "unlogisch"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ❓ @nausicaea "unlogisch" is definitely wrong. "nichtlokal"  is the appropriate translation
+    # ❓ @otherpaco "nonlokal"
+    # ❓ @JohannaHillebrand "nichtlokal"
+    # 🤔 @merelyAnna
+    # ❓ @diana48 "nichtlokal"
+    # 👀 @twille00
+    # ❓ @alxnull  agree with @nausicaea
+  not: "nicht"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  or: "oder"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  pass: "besteht"
+    # ❓ @ZeroOne010101 bestanden?
+    # ❓ @LoLei "weiter" pass in python means to execute a line of code that does nothing
+    # ❓ @nausicaea "weiter"
+    # ❓ @otherpaco "weiter"
+    # ❓ @JohannaHillebrand "weiter"
+    # ❓ @merelyAnna "weiter"
+    # ❓ @diana48 "weiter"
+    # ❓ @twille00 "weiter"
+    # ❓ @alxnull "weiter"
+  raise: "raise"
+    # ❓ @ZeroOne010101 erheben?
+    # ❓ @LoLei "erhebe"
+    # ❓ @nausicaea (I'm not happy with this, because one cannot use "erhebe eine Ausnahme", i.e. raise an exception, in German)
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "auslösen"
+    # 👀 @merelyAnna
+    # ❓ @diana48 "löse aus"
+    # ❓ @twille00 "löse aus"
+    # ❓ @alxnull not a direct translation, but "werfe" might be a more suitable translation, i.e. "werfe eine Ausnahme"
+  return: "return"
+    # ❓ @ZeroOne010101 rückgabe?
+    # ❓ @LoLei "gib"
+    # ❓ @nausicaea (if spaces are possible, prefer "gib zurück")
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "gib zurück"
+    # 👀 @merelyAnna
+    # ❓ @diana48 "gib zurück"
+    # ❓ @twille00
+    # ❓ @alxnull "gib"
+  try: "versuche"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  while: "während"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ❓ @twille00
+    # ❓ @alxnull maybe "solange" would also fit
+  with: "mit"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ❓ @twille00
+    # ✅ @alxnull
+  yield: "yield"
+    # ❓ @ZeroOne010101 ausgabe? ausbeute?
+    # ❓ @LoLei "liefere"
+    # ❓ @nausicaea (if spaces are possible, prefer "gib ab". This would completement the translation of return)
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "liefere"
+    # ❓ @merelyAnna I second @nausicaea
+    # ❓ @diana48 I agree @nausicaea
+    # ❓ @twille00
+    # ❓ @alxnull agree with @nausicaea
 
 # << Built-In Functions >>
 
-  abs: "abs" #✅ # absoluter wert? #absolut? #✅✅✅
-  all: "alle" #✅✅✅✅✅✅
-  any: "eines" #✅ #? beliebig ✅✅ # I second "beliebig"✅✅
-  ascii: "ascii" #✅✅✅✅✅✅
-  bin: "bin" # binär? ✅✅ #I second "binär"✅✅
-  bool: "bool" # ✅ # warheitswert? ✅✅✅✅
-  breakpoint: "bruchpunkt" # ✅✅✅✅ # ? Bruchpunkt #Abbruchpunkt?✅
-  bytearray: "bytearray" # ? byteabfolge #? Bytearray ✅✅✅✅ # ? bytefolge
-  bytes: "bytes" # ✅✅ #? Bytes ✅✅✅✅
-  callable: "rufbar" # ? aufrufbar✅✅✅ # I second "aufrufbar"✅
-  chr: "chr" # zeichen? ✅✅ #❓"Buchstabe" oder "Zeichen" ✅
-  classmethod: "klassenmethode" # ✅✅ #?Klassenmethode✅✅✅✅
-  # compile: "compiliere"✅
-  compile: "kompiliere" #✅✅✅ # German spelling✅✅
-  complex: "komplex" # ✅✅✅✅✅✅
-  delattr: "" # entfattr? ✅✅ #löscheAttribut? #❓"lösche Attribut"✅, shortened to "löeschattr" maybe
-  dict: "dict" # wörterbuch? ✅✅ ❓The German equivalent for dictionary would probably be "assoziative Liste"✅, so maybe shortened to "assozListe"; "Wörterbuch" a literal translation # 🤔
-  dir: "ver" # verzeichnis? #Verzeichnis? # I second "Verzeichnis"✅✅✅
-  divmod: "divmod" # ✅ # no idea, division(en) == division(de) so... #modulo? #🤔 ❓ "Division mit Rest"?✅
-  enumerate: "aufzählen" # zähle_auf? #✅✅✅❓ #🤔
-  eval: "evaluiere" #✅✅✅✅✅ # ? verarbeite / berechne✅
-  exec: "ausführen" # ✅✅✅✅(if spaces are possible, use "führe aus" or "rufe auf")✅✅
-  filter: "filter" #✅✅✅✅ # ? filtriere ✅
-  float: "gleitkomma" # Gleitkomma or Fließkomma is floating point #Fließkomma? #✅✅✅
-  format: "format" # -> noun | formatiere -> imperativ #formatiere? # I second "formatiere"✅✅
-  frozenset: "frozenset" #gefrorenes set? #works but weird #🤔🤔🤔
-  getattr: "getattr" # holeattribute? #holeAttribute # I second "holeattr"✅✅
-  globals: "globale" # ✅✅✅✅✅ (alternatively, "globalvar" for "globale Variable")
-  hasattr: "hatattr" # ✅✅✅✅ #hatAttribut?
-  hash: "hash" #✅✅✅ # ? schlüssel / streuwert #Streuwert? #🤔 "Streuwert" is the best/the most literal translation, but I think "hash" works just fine
-  help: "hilfe" # ✅✅✅✅✅
-  hex: "hex" # ✅✅✅✅✅ #❓"hexadezimalzahl"
-  id: "id" #✅✅✅✅ # no idea, probably same
-  input: "eingabe" # ✅✅ #? Eingabe ✅✅✅
-  int: "int" #✅✅✅✅✅ ? ganzzahl
-  isinstance: "istinstanz" #✅✅✅✅✅
-  issubclass: "istsubklasse" #✅✅✅✅✅
-  iter: "iter" # Iterator same in German ✅✅✅✅
-  len: "länge" #✅✅ Länge? ✅✅✅
-  list: "liste" #✅✅ Liste? ✅✅✅
-  locals: "locale" #✅ works but weird #lokale ✅ or maybe lokaleVariable? #🤔
-  map: "karte" #✅ no idea #no idea #🤔"Karte" doesn't fit, depending on the context it means menu, or ticket, or chart, ... no idea, maybe "Abbildung"
-  max: "max" #✅✅✅✅✅
-  memoryview: "speicheransicht" #✅✅ #? Speicheransicht ✅✅✅
-  min: "min" #✅✅✅✅✅
-  # next: "weiter"
-  next: "nächstes" #✅✅ More literal translation ✅ #❓"nächstfolgend"
-  object: "objekt" #✅✅✅✅ # ? Objekt
-  oct: "oct" #✅ do idea #no idea #❓"oktalzahl # ? oktal
-  open: "öffne" #✅✅✅✅✅
-  ord: "ord" #✅✅✅ # no idea #🤔
-  pow: "potenz" #✅✅✅✅✅
-  print: "drucke" #✅✅✅✅✅ (if spaces are allowed, "gib aus")
-  property: "eigenschaft" # ✅✅✅✅ #? Eigenschaft ✅
-  # range: "reichweite"✅
-  range: "bereich" # Better fitting in context #✅✅✅✅ # ? Bereich
-  repr: "repr" #✅✅✅✅✅ #🤔
-  reversed: "umgekehrt" #✅✅✅✅✅✅
-  round: "runde" #✅✅✅✅❓✅
-  set: "setze" #✅✅✅✅✅✅
-  setattr: "setzeattr" #✅✅✅✅✅✅
-  # slice: "scheibe"
-  slice: "schnitt" #✅✅ slice in this case is not necessarily a round plate, which "scheibe" implies ❓"Scheibe" fits (eine Scheibe Brot = a slice of bread) or "Stück" maybe❓
-  sorted: "sortiert" #✅✅✅✅✅✅
-  staticmethod: "statischemethode" #✅✅✅✅✅ #should be✅ "statischeMethode", because its two words and therefore camelcase is easier to read ✅
-  str: "str" # ✅ # ? text #✅✅✅✅✅
-  sum: "sum" # ? summe #✅✅✅✅✅✅
-  super: "super" #✅✅ # über? # I second "über"✅✅
-  tuple: "tuple" # no idea #❓"Tupel" #Tupel?✅✅✅
-  type: "typ" # ✅✅✅✅ #?Typ ✅
-  vars: "vars" # variablen? # I second "variablen" #Variablen?✅✅✅
-  zip: "zip" #✅✅ # no idea✅ #🤔 #🤔
-  __import__: "__importiere__" #✅✅✅✅✅ # ? __verwende__
+  abs: "abs"
+    # ❓ @ZeroOne010101 absoluter wert?
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "absolut"
+    # ✅ @merelyAnna
+    # ❓ @diana48 "absolut"
+    # ❓ @twille00 "absolut"
+    # ✅ @alxnull
+  all: "alle"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  any: "eines"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ❓ @otherpaco "beliebig"
+    # ❓ @JohannaHillebrand "beliebig"
+    # ❓ @merelyAnna I second "beliebig"
+    # ❓ @diana48 "beliebig"
+    # ❓ @twille00 "beliebig"
+    # ❓ @alxnull "beliebig"
+  ascii: "ascii"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  bin: "bin"
+    # ❓ @ZeroOne010101 binär?
+    # 👀 @LoLei
+    # ❓ @nausicaea prefer "binär"
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "binär"
+    # ❓ @merelyAnna I second "binär"
+    # ❓ @diana48 "binär"
+    # ❓ @twille00 "binär"
+    # ❓ @alxnull "binär"
+  bool: "bool"
+    # ❓ @ZeroOne010101 warheitswert?
+    # 👀 @LoLei
+    # ✅ @nausicaea (because bool refers to the last name of George Bool, I think the original value is appropriate)
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "warheitswert"
+    # ❓ @merelyAnna "warheitswert"
+    # ❓ @diana48 "warheitswert"
+    # ❓ @twille00 "warheitswert"
+    # ✅ @alxnull
+  breakpoint: "bruchpunkt"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ❓ @otherpaco "Bruchpunkt"
+    # ❓ @JohannaHillebrand "Abbruchpunkt"
+    # ✅ @merelyAnna
+    # ✅ @diana48
+    # ❓ @twille00 "Abbruchpunkt"
+    # ✅ @alxnull
+  bytearray: "bytearray"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ❓ @nausicaea "byteabfolge"
+    # ✅ @otherpaco "Bytearray"
+    # ✅ @JohannaHillebrand "Bytearray"
+    # ✅ @merelyAnna "Bytearray"
+    # ✅ @diana48 "Bytearray"
+    # ✅ @twille00 "Bytearray"
+    # ❓ @alxnull "bytefolge"
+  bytes: "bytes"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ❓ @otherpaco "Bytes"
+    # ✅ @JohannaHillebrand "Bytes"
+    # ✅ @merelyAnna
+    # ✅ @diana48 "Bytes"
+    # ✅ @twille00 "Bytes"
+    # ✅ @alxnull "Bytes"
+  callable: "rufbar"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ❓ @nausicaea "aufrufbar"
+    # 👀 @otherpaco
+    # ✅ @JohannaHillebrand
+    # ❓ @merelyAnna I second "aufrufbar"
+    # ❓ @diana48 "aufrufbar"
+    # ❓ @twille00 "aufrufbar"
+    # ❓ @alxnull "aufrufbar"
+  chr: "chr"
+    # ❓ @ZeroOne010101 zeichen?
+    # 👀 @LoLei
+    # ❓ @nausicaea prefer "zeichen"
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "zeichen"
+    # ❓ @merelyAnna "Buchstabe" oder "Zeichen"
+    # ❓ @diana48 "zeichen"
+    # 👀 @twille00
+    # ❓ @alxnull "Zeichen"
+  classmethod: "klassenmethode"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ❓ @otherpaco "Klassenmethode"
+    # ✅ @JohannaHillebrand
+    # ✅ @merelyAnna
+    # ❓ @diana48 "Klassenmethode"
+    # ❓ @twille00 "Klassenmethode"
+    # ❓ @alxnull "Klassenmethode"
+  compile: "compiliere"
+    # ✅ @ZeroOne010101
+    # ❓ @LoLei "kompiliere" German spelling
+    # ❓ @nausicaea "kompiliere"
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "kompiliere"
+    # ❓ @merelyAnna "kompiliere"
+    # ❓ @diana48 "kompiliere"
+    # ✅ @twille00
+    # ❓ @alxnull "kompiliere" German spelling
+  complex: "komplex"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  delattr: ""
+    # 🤔 @ZeroOne010101 entfattr?
+    # 👀 @LoLei
+    # ❓ @nausicaea I like "entfattr"
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "löscheAttribut"
+    # ❓ @merelyAnna "lösche Attribut", shortened to "löeschattr" maybe
+    # ❓ @diana48 "lösche Attribut"
+    # 👀 @twille00
+    # ❓ @alxnull "entfattr"
+  dict: "dict"
+    # ❓ @ZeroOne010101 "wörterbuch"?
+    # 👀 @LoLei
+    # ❓ @nausicaea aufschlüßelung / schlüßeltabelle (A dict here, does not refer to a table of words, but a table of key-value pairs)
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "wörterbuch"
+    # ❓ @merelyAnna The German equivalent for dictionary would probably be "assoziative Liste", so maybe shortened to "assozListe"; "Wörterbuch" a literal translation
+    # ❓ @diana48 "assoziative Liste"
+    # ✅ @twille00
+    # 🤔 @alxnull
+  dir: "ver"
+    # ❓ @ZeroOne010101  verzeichnis?
+    # 👀 @LoLei
+    # ❓ @nausicaea "verz" (based on German abbreviation rules, the latter is correct)
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "Verzeichnis"
+    # ❓ @merelyAnna I second "Verzeichnis"
+    # ❓ @diana48 "Verzeichnis"
+    # ❓ @twille00 "Verzeichnis"
+    # ❓ @alxnull "Verzeichnis"
+  divmod: "divmod"
+    # 🤔 @ZeroOne010101 no idea, division(en) == division(de) so...
+    # 👀 @LoLei
+    # ✅ @nausicaea (I agree with using "divmod", because both division and modulo are the same in German)
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "modulo"
+    # 🤔 @merelyAnna
+    # ❓ @diana48 "Division mit Rest"
+    # ❓ @twille00 "Division mit Rest"
+    # ✅ @alxnull
+  enumerate: "aufzählen"
+    # ❓ @ZeroOne010101 "zähle_auf"?
+    # 👀 @LoLei
+    # ❓ @nausicaea "nummeriere"
+    # ✅ @otherpaco
+    # ❓ @JohannaHillebrand "zähle_auf"
+    # ❓ @merelyAnna "zähle_auf"
+    # ❓ @diana48 "zähle_auf"
+    # ❓ @twille00
+    # 🤔 @alxnull
+  eval: "evaluiere"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ❓ @nausicaea verarbeite / berechne
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # ✅ @merelyAnna
+    # ✅ @diana48
+    # ❓ @twille00 verarbeite / berechne
+    # ✅ @alxnull
+  exec: "ausführen"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea (if spaces are possible, use "führe aus" or "rufe auf")
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  filter: "filter"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ❓ @nausicaea filtriere
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # ✅ @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ❓ @alxnull "filtriere"
+  float: "float"
+    # 🤔 @ZeroOne010101 no idea
+    # ❓ @LoLei "gleitkomma" # Gleitkomma or Fließkomma is floating point
+    # ❓ @nausicaea prefer "fließkomma" because it's more widely used
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "Fließkomma"
+    # ❓ @merelyAnna "Fließkomma"
+    # ❓ @diana48 "Fließkomma"
+    # 👀 @twille00
+    # ❓ @alxnull "Fließkomma"
+  format: "format"
+    # ❓ @ZeroOne010101 -> noun | formatiere -> imperativ
+    # 👀 @LoLei
+    # ❓ @nausicaea prefer "formatiere" because semantically, it's a function
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "formatiere"
+    # ❓ @merelyAnna I agree "formatiere"
+    # ❓ @diana48 "formatiere"
+    # 👀 @twille00
+    # ❓ @alxnull "formatiere"
+  frozenset: "frozenset"
+    # ❓ @ZeroOne010101 gefrorenes set?
+    # 👀 @LoLei
+    # ❓ @nausicaea festmenge (Frozenset refers to a set of unique values that is not modifiable after its creation)
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand works but weird
+    # 🤔 @merelyAnna
+    # 🤔 @diana48
+    # 👀 @twille00
+    # 🤔 @alxnull
+  getattr: "getattr"
+    # ❓ @ZeroOne010101 holeattribute?
+    # 👀 @LoLei
+    # ❓ @nausicaea "nimmattr"
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "holeAttribute"
+    # ❓ @merelyAnna I second "holeattr"
+    # ❓ @diana48 "holeattr"
+    # 👀 @twille00
+    # ❓ @alxnull "holeattr"
+  globals: "globale"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea (alternatively, "globalvar" for "globale Variable")
+    # 👀 @otherpaco
+    # ✅ @JohannaHillebrand
+    # ✅ @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  hasattr: "hatattr"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "hatAttribut"
+    # ✅ @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  hash: "hash"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ❓ @nausicaea schlüssel / streuwert
+    # ✅ @otherpaco
+    # ❓ @JohannaHillebrand "Streuwert"
+    # 🤔 @merelyAnna "Streuwert" is the best/the most literal translation, but I think "hash" works just fine
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  help: "hilfe"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  hex: "hex"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # ❓ @merelyAnna "hexadezimalzahl"
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  id: "id"
+    # 🤔 @ZeroOne010101 no idea, probably same
+    # 👀 @LoLei
+    # ✅ @nausicaea (or "identität")
+    # 👀 @otherpaco
+    # ✅ @JohannaHillebrand
+    # ✅ @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  input: "eingabe"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ❓ @otherpaco "Eingabe"
+    # ❓ @JohannaHillebrand "Eingabe"
+    # ✅ @merelyAnna
+    # ✅ @diana48 "Eingabe"
+    # 👀 @twille00
+    # ✅ @alxnull "Eingabe"
+  int: "int"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ❓ @nausicaea "ganzzahl"
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # ✅ @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  isinstance: "istinstanz"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  issubclass: "istsubklasse"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  iter: "iter"
+    # 🤔 @ZeroOne010101 no idea
+    # ✅ @LoLei Iterator same in German
+    # ✅ @nausicaea
+    # 👀 @otherpaco
+    # ✅ @JohannaHillebrand
+    # ✅ @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  len: "länge"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco "Länge"
+    # ✅ @JohannaHillebrand "Länge"
+    # ✅ @merelyAnna
+    # ✅ @diana48 "Länge"
+    # 👀 @twille00
+    # ✅ @alxnull "Länge"
+  list: "liste"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco "Liste"
+    # ✅ @JohannaHillebrand "Liste"
+    # ✅ @merelyAnna
+    # ✅ @diana48 "Liste"
+    # 👀 @twille00
+    # ✅ @alxnull "Liste"
+  locals: "locale"
+    # ✅ @ZeroOne010101 works but weird
+    # 👀 @LoLei
+    # ❓ @nausicaea lokale / lokalvar (analogous to globals)
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand lokale or maybe lokaleVariable
+    # 🤔 @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ❓ @alxnull "lokale"
+  map: "map"
+    # 🤔 @ZeroOne010101 no idea
+    # ❓ @LoLei "karte"
+    # ❓ @nausicaea zuweisung
+    # 👀 @otherpaco
+    # 🤔 @JohannaHillebrand no idea
+    # 🤔 @merelyAnna "Karte" doesn't fit, depending on the context it means menu, or ticket, or chart, ...
+    # ✅ @diana48
+    # 👀 @twille00
+    # 🤔 @alxnull no idea, maybe "Abbildung"
+  max: "max"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  memoryview: "memoryview"
+    # ❓ @ZeroOne010101 "speichersicht" ?
+    # ❓ @LoLei "speicheransicht"
+    # ❓ @nausicaea "speicheransicht"
+    # ❓ @otherpaco "Speicheransicht"
+    # ❓ @JohannaHillebrand "Speicheransicht"
+    # ❓ @merelyAnna "speicheransicht"
+    # ❓ @diana48 "Speicheransicht"
+    # 👀 @twille00
+    # ❓ @alxnull "Speicheransicht"
+  min: "min"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  next: "weiter"
+    # ✅ @ZeroOne010101
+    # ❓ @LoLei "nächstes" More literal translation
+    # ✅ @nausicaea
+    # 👀 @otherpaco
+    # ✅ @JohannaHillebrand
+    # ❓ @merelyAnna "nächstfolgend"
+    # ✅ @diana48
+    # 👀 @twille00
+    # ❓ @alxnull "nächstes"
+  object: "objekt"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull "Objekt"
+  oct: "oct"
+    # 🤔 @ZeroOne010101 no idea
+    # 👀 @LoLei
+    # ❓ @nausicaea okt / oktal / oktalzahl
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand no idea
+    # ❓ @merelyAnna "oktalzahl
+    # ✅ @diana48
+    # 👀 @twille00
+    # ❓ @alxnull oktal
+  open: "öffne"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  ord: "ord"
+    # 🤔 @ZeroOne010101 no idea
+    # 👀 @LoLei
+    # ❓ @nausicaea ord / ordnungszahl
+    # 👀 @otherpaco
+    # ✅ @JohannaHillebrand
+    # 🤔 @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  pow: "potenz"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  print: "drucke"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea (if spaces are allowed, "gib aus")
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # 👀 @twille00
+    # ✅ @alxnull
+  property: "eigenschaft"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco "Eigenschaft"
+    # ✅ @JohannaHillebrand
+    # ✅ @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull "Eigenschaft"
+  range: "reichweite"
+    # ❓ @ZeroOne010101 "Bereich"
+    # ❓ @LoLei "bereich" Better fitting in context
+    # ❓ @nausicaea "bereich" (alternatively, "intervall")
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "bereich"
+    # ❓ @merelyAnna "bereich"
+    # ❓ @diana48 "bereich"
+    # ✅ @twille00
+    # ❓ @alxnull "Bereich"
+  repr: "repr"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # 👀 @otherpaco
+    # ✅ @JohannaHillebrand
+    # 🤔 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  reversed: "umgekehrt"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  round: "runde"
+    # ❓ @ZeroOne010101 +n ?
+    # ✅ @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ❓ @twille00
+    # ✅ @alxnull
+  set: "setze"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  setattr: "setzeattr"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  slice: "scheibe"
+    # ✅ @ZeroOne010101 weird but works
+    # ❓ @LoLei "schnitt" slice in this case is not necessarily a round plate, which "scheibe" implies
+    # ❓ @nausicaea abschnitt / ausschnitt
+    # 👀 @otherpaco
+    # ✅ @JohannaHillebrand
+    # ❓ @merelyAnna "Scheibe" fits (eine Scheibe Brot = a slice of bread) or "Stück" maybe
+    # ✅ @diana48
+    # ❓ @twille00 "Stück"
+    # ❓ @alxnull "schnitt"
+  sorted: "sortiert"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  staticmethod: "statischemethode"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ❓ @JohannaHillebrand should be "statischeMethode", because its two words and therefore camelcase is easier to read
+    # ✅ @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ❓ @alxnull agree with @JohannaHillebrand
+  str: "str"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ❓ @nausicaea "text"
+    # ❓ @otherpaco "text"
+    # ✅ @JohannaHillebrand
+    # ❓ @merelyAnna "text"
+    # ❓ @diana48 "text"
+    # ❓ @twille00 "text"
+    # ✅ @alxnull
+  sum: "sum"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ❓ @nausicaea "summe"
+    # ❓ @otherpaco "summe"
+    # ✅ @JohannaHillebrand
+    # ❓ @merelyAnna "summe"
+    # ❓ @diana48 "summe"
+    # ❓ @twille00 "summe"
+    # ❓ @alxnull "summe"
+  super: "über"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea (I don't really see a better translation than "super", given the keyword refers to the base class)
+    # 👀 @otherpaco
+    # ✅ @JohannaHillebrand
+    # ✅ @merelyAnna I second "über"
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
+  tuple: "tuple"
+    # ❓ @ZeroOne010101 no idea
+    # 👀 @LoLei
+    # ❓ @nausicaea "tupel"
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "Tupel"
+    # ❓ @merelyAnna "Tupel"
+    # ❓ @diana48 "Tupel"
+    # ❓ @twille00 "Tupel"
+    # ❓ @alxnull "Tupel"
+  type: "typ"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ✅ @nausicaea
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand "Typ"
+    # ✅ @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull "Typ"
+  vars: "vars"
+    # ❓ @ZeroOne010101 variablen?
+    # 👀 @LoLei
+    # ❓ @nausicaea prefer "variablen"
+    # 👀 @otherpaco
+    # ❓ @JohannaHillebrand "Variablen"
+    # ❓ @merelyAnna I second "variablen"
+    # ❓ @diana48 "Variablen"
+    # ❓ @twille00 "Variablen"
+    # ❓ @alxnull "Variablen"
+  zip: "zip"
+    # 🤔 @ZeroOne010101 no idea
+    # 👀 @LoLei
+    # ❓ @nausicaea reißverschluss / paarbildung (maybe abbreviated as "paar")
+    # 👀 @otherpaco
+    # ✅ @JohannaHillebrand
+    # 🤔 @merelyAnna
+    # ✅ @diana48
+    # 🤔 @twille00 no idea
+    # 🤔 @alxnull
+  __import__: "__importiere__"
+    # ✅ @ZeroOne010101
+    # 👀 @LoLei
+    # ❓ @nausicaea __verwende__
+    # ✅ @otherpaco
+    # ✅ @JohannaHillebrand
+    # 👀 @merelyAnna
+    # ✅ @diana48
+    # ✅ @twille00
+    # ✅ @alxnull
 
 # << Error Messages >>
 
