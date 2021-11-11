@@ -1426,6 +1426,7 @@ __TRAIT__: ""
 
 # << Built-In Functions >>
 
+  # @KarthikMothiki: Some of the keywords are hard-translated!
   abs: "సంపూర్ణ సంఖ్య"
   # ✅ @KarthikMothiki
   all: "అన్ని"
@@ -1452,117 +1453,117 @@ __TRAIT__: ""
   # 👀 @KarthikMothiki
   compile: "గ్రంథస్తం చేయు"
   # ✅ @KarthikMothiki
-  complex: ""
+  complex: "కాంప్లెక్స్"
   # ✅ @KarthikMothiki
-  delattr: ""
+  delattr: "ఆస్ట్రిబ్యూటె తొలిగింపు"
   # ✅ @KarthikMothiki
-  dict: ""
+  dict: "డిక్షనరీ"
   # ✅ @KarthikMothiki
-  dir: ""
+  dir: "డైరెక్టరీ"
   # ✅ @KarthikMothiki
-  divmod: ""
+  divmod: "విభజన మాడ్యూల్"
   # ✅ @KarthikMothiki
-  enumerate: ""
+  enumerate: "లెక్కించు"
   # ✅ @KarthikMothiki
-  eval: ""
+  eval: "మూల్యాంకన"
   # ✅ @KarthikMothiki
-  exec: ""
+  exec: "అమలు"
   # ✅ @KarthikMothiki
-  filter: ""
+  filter: "వడపోత"
+  # 👀 @KarthikMothiki
+  float: "దశాంశ"
   # ✅ @KarthikMothiki
-  float: ""
+  format: "ఫార్మాట్"
   # ✅ @KarthikMothiki
-  format: ""
+  frozenset: "ఫ్రోజెన్ సెట్"
+  # 👀 @KarthikMothiki
+  getattr: "ఆస్ట్రిబ్యూట్ పొందుట"
   # ✅ @KarthikMothiki
-  frozenset: ""
+  globals: "గ్లోబల్స్"
   # ✅ @KarthikMothiki
-  getattr: ""
+  hasattr: "ఆస్ట్రిబ్యూటె ఉంది"
   # ✅ @KarthikMothiki
-  globals: ""
+  hash: "హాష్"
+  # 👀 @KarthikMothiki
+  help: "తోడ్పాటు"
   # ✅ @KarthikMothiki
-  hasattr: ""
+  hex: "హెక్స్"
   # ✅ @KarthikMothiki
-  hash: ""
+  id: "గుర్తింపు"
   # ✅ @KarthikMothiki
-  help: ""
+  input: "ఇన్పుట్"
+  # 👀 @KarthikMothiki
+  int: "పూర్ణ సంఖ్య"
   # ✅ @KarthikMothiki
-  hex: ""
+  isinstance: "ఇన్స్టన్స్"
+  # 👀 @KarthikMothiki
+  issubclass: "ఐస్ సబ్ క్లాస్ "
   # ✅ @KarthikMothiki
-  id: ""
+  iter: "మరల"
   # ✅ @KarthikMothiki
-  input: ""
+  len: "పొడవు"
   # ✅ @KarthikMothiki
-  int: ""
+  list: "పట్టిక"
   # ✅ @KarthikMothiki
-  isinstance: ""
+  locals: "స్థానిక"
   # ✅ @KarthikMothiki
-  issubclass: ""
+  map: "మ్యాప్ "
   # ✅ @KarthikMothiki
-  iter: ""
+  max: "గరిష్ట"
   # ✅ @KarthikMothiki
-  len: ""
+  memoryview: "మెమరీ వ్యూ "
   # ✅ @KarthikMothiki
-  list: ""
+  min: "కనిష్ట"
   # ✅ @KarthikMothiki
-  locals: ""
+  next: "తరువాత"
   # ✅ @KarthikMothiki
-  map: ""
+  object: "వస్తువు"
   # ✅ @KarthikMothiki
-  max: ""
+  oct: "ఆక్టల్"
   # ✅ @KarthikMothiki
-  memoryview: ""
+  open: "తెరుచుట"
   # ✅ @KarthikMothiki
-  min: ""
+  ord: "ఒర్డ్"
+  # 👀 @KarthikMothiki
+  pow: "ఘాతాంకం"
+  # 👀 @KarthikMothiki
+  print: "ముద్రించుట"
   # ✅ @KarthikMothiki
-  next: ""
+  property: "ప్రాపర్టీ"
   # ✅ @KarthikMothiki
-  object: ""
+  range: "పరిధి"
   # ✅ @KarthikMothiki
-  oct: ""
+  repr: "రిప్రెసెంట్"
   # ✅ @KarthikMothiki
-  open: ""
+  reversed: "తిరగపడిన"
   # ✅ @KarthikMothiki
-  ord: ""
+  round: "చుట్టు"
+  # 👀 @KarthikMothiki
+  set: "సెట్"
   # ✅ @KarthikMothiki
-  pow: ""
+  setattr: "సెట్ ఆస్ట్రిబ్యూటె"
   # ✅ @KarthikMothiki
-  print: ""
+  slice: "భాగము"
   # ✅ @KarthikMothiki
-  property: ""
+  sorted: "క్రమబద్ధీకరించబడింది"
   # ✅ @KarthikMothiki
-  range: ""
+  staticmethod: "స్టాటిక్ పద్ధతి"
   # ✅ @KarthikMothiki
-  repr: ""
+  str: "స్ట్రింగ్"
   # ✅ @KarthikMothiki
-  reversed: ""
+  sum: "మొత్తం"
   # ✅ @KarthikMothiki
-  round: ""
+  super: "సూపర్"
   # ✅ @KarthikMothiki
-  set: ""
+  tuple: "టుపుల్"
   # ✅ @KarthikMothiki
-  setattr: ""
+  type: "రకం"
   # ✅ @KarthikMothiki
-  slice: ""
+  vars: "వేరియబుల్"
   # ✅ @KarthikMothiki
-  sorted: ""
+  zip: "జిప్"
   # ✅ @KarthikMothiki
-  staticmethod: ""
-  # ✅ @KarthikMothiki
-  str: ""
-  # ✅ @KarthikMothiki
-  sum: ""
-  # ✅ @KarthikMothiki
-  super: ""
-  # ✅ @KarthikMothiki
-  tuple: ""
-  # ✅ @KarthikMothiki
-  type: ""
-  # ✅ @KarthikMothiki
-  vars: ""
-  # ✅ @KarthikMothiki
-  zip: ""
-  # ✅ @KarthikMothiki
-  __import__: ""
+  __import__: "__దిగుమతి__"
   # ✅ @KarthikMothiki
 
 # << Error Messages >>
