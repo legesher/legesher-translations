@@ -1249,112 +1249,216 @@ __TRAIT__: ""
 # ----------------------
 # << Keywords >>
   False: "মিথ্যা"
+    # ✅  @SandipPalit
   None: "কোনোটিই নয়"
+    # ✅  @SandipPalit
   True: "সত্য"
+    # ✅  @SandipPalit
   and: "এবং"
+    # ✅  @SandipPalit
   as: "হিসাবে"
+    # ✅  @SandipPalit
   assert: "দাবি করা"
+    # ❓  @SandipPalit
   async: "অসমনিয়ত"
+    # ✅  @SandipPalit
   await: "অপেক্ষা করা"
+    # ❓  @SandipPalit
   break: "বিরতি"
+    # ✅  @SandipPalit
   class: "বিভাগ"
+    # 🤔  @SandipPalit
   continue: "বজায় রাখা"
+    # ❓  @SandipPalit
   def: "নির্ধারণ"
+    # ✅  @SandipPalit
   del: "মুছে ফেলা"
+    # ❓  @SandipPalit
   elif: "অন্যথায় যদি"
+    # ✅  @SandipPalit
   else: "অন্যথায়"
+    # ✅  @SandipPalit
   except: "বাদে"
+    # ✅  @SandipPalit
   finally: "অবশেষে"
+    # ✅  @SandipPalit
   for: "জন্য"
+    # ✅  @SandipPalit
   from: "হইতে"
+    # ✅  @SandipPalit
   global:  "বিশ্বব্যাপী"
+    # ✅  @SandipPalit
   if: "যদি"
+    # ✅  @SandipPalit
   import: "আমদানি"
+    # ✅  @SandipPalit
   in: "মধ্যে"
+    # ✅  @SandipPalit
   is: "হয়"
+    # ✅  @SandipPalit
   lambda: "বেনামী"
+    # ❓  @SandipPalit
   nonlocal: "অস্থানীয়"
+    # ✅  @SandipPalit
   not: "নয়"
+    # ✅  @SandipPalit
   or: "অথবা"
+    # ✅  @SandipPalit
   pass: "ছাড়পত্র"
+    # ✅  @SandipPalit
   raise: "সৃষ্টি করা"
+    # ❓  @SandipPalit
   return: "প্রত্যাবর্তন"
+    # ✅  @SandipPalit
   try: "চেষ্টা"
+    # ✅  @SandipPalit
   while: "যখন"
+    # ✅  @SandipPalit
   with: "সঙ্গে"
+    # ✅  @SandipPalit
   yield: "ফলন করা"
+    # ❓  @SandipPalit
 
 # << Built-In Functions >>
 
   abs: "নিরপেক্ষ মূল্য"
+    # ✅  @SandipPalit
   all: "সমস্ত"
+    # ✅  @SandipPalit
   any: "যেকোনো"
+    # ✅  @SandipPalit
   ascii: "অ্যাসকি"
+    # ❓  @SandipPalit
   bin: "বাইনারি উপস্থাপনা"
+    # 🤔  @SandipPalit
   bool: "বুলিয়ান"
+    # ✅  @SandipPalit
   breakpoint: "ব্রেকপয়েন্ট"
+    # ✅  @SandipPalit
   bytearray: "প্রদত্ত বাইটের অ্যারে"
+    # ❓  @SandipPalit
   bytes: "বাইট"
+    # ✅  @SandipPalit
   callable: "কলযোগ্য"
+    # ✅  @SandipPalit
   chr: "প্রতিনিধিত্বকারী অক্ষর"
+    # 🤔  @SandipPalit
   classmethod: "ক্লাস পদ্ধতি"
+    # ❓  @SandipPalit
   compile: "কম্পাইল"
+    # ✅  @SandipPalit
   complex: "জটিল"
+    # ✅  @SandipPalit
   delattr: "বৈশিষ্ট্য মুছে ফেলুন"
+    # 🤔  @SandipPalit
   dict: "অভিধান"
+    # ✅  @SandipPalit
   dir: "সমস্ত বৈশিষ্ট্য এবং পদ্ধতি"
+    # ❓  @SandipPalit
   divmod: "ভাগফল এবং তাদের বিভাগের অবশিষ্টাংশে"
+    # 🤔  @SandipPalit
   enumerate: "গোনা"
+    # ✅  @SandipPalit
   eval: "মূল্যায়ন"
+    # ✅  @SandipPalit
   exec: "করণ"
+    # ✅  @SandipPalit
   filter: "ফিল্টার"
+    # ✅  @SandipPalit
   float: "ফ্লোট"
+    # ✅  @SandipPalit
   format: "পদ্ধতি"
+    # ✅  @SandipPalit
   frozenset: "তাদের অপরিবর্তনীয় করে তোলে"
+    # 🤔  @SandipPalit
   getattr: "মান ফেরত দিন"
+    # ❓  @SandipPalit
   globals: "বিশ্বব্যাপী"
+    # ✅  @SandipPalit
   hasattr: "যদি বস্তুর বৈশিষ্ট্য থাকে"
+    # ❓  @SandipPalit
   hash: "হ্যাশ"
+    # ✅  @SandipPalit
   help: "সাহায্য"
+    # ✅  @SandipPalit
   hex: "হেক্স"
+    # ✅  @SandipPalit
   id: "আইডি"
+    # ✅  @SandipPalit
   input: "ইনপুট"
+    # ✅  @SandipPalit
   int: "পূর্ণসংখ্যা"
+    # ❓  @SandipPalit
   isinstance: "যদি নির্দিষ্ট প্রকার"
+    # 🤔  @SandipPalit
   issubclass: "যদি সাবক্লাস"
+    # ❓  @SandipPalit
   iter: "পুনরাবৃত্তি"
+    # ✅  @SandipPalit
   len: "দৈর্ঘ্য"
+    # ✅  @SandipPalit
   list: "তালিকা"
+    # ✅  @SandipPalit
   locals: "স্থানীয়দের"
+    # ✅  @SandipPalit
   map: "মানচিত্র"
+    # ✅  @SandipPalit
   max: "সর্বোচ্চ"
+    # ✅  @SandipPalit
   memoryview: "মেমরিভিউ"
+    # ❓  @SandipPalit
   min: "ন্যূনতম"
+    # ✅  @SandipPalit
   next: "পরবর্তী"
+    # ✅  @SandipPalit
   object: "বস্তু"
+    # ❓  @SandipPalit
   oct: "অক্টাল মান"
+    # ✅  @SandipPalit
   open: "খোলা"
+    # ✅  @SandipPalit
   ord: "ইউনিকোড কোড"
+    # ❓  @SandipPalit
   pow: "গুণ"
+    # ❓  @SandipPalit
   print: "ছাপ"
+    # ✅  @SandipPalit
   property: "বৈশিষ্ট্য"
+    # ✅  @SandipPalit
   range: "পরিসীমা"
+    # ✅  @SandipPalit
   repr: "স্ট্রিং প্রতিনিধিত্ব"
+    # ❓  @SandipPalit
   reversed: "বিপরীত"
+    # ✅  @SandipPalit
   round: "সুসম্পন্ন করা"
+    # ❓  @SandipPalit
   set: "সেট"
+    # ✅  @SandipPalit
   setattr: "বৈশিষ্ট্য সেট করে"
+    # 🤔  @SandipPalit
   slice: "টুকরা"
+    # ✅  @SandipPalit
   sorted: "সাজানো"
+    # ✅  @SandipPalit
   staticmethod: "স্ট্যাটিক পদ্ধতি"
+    # ❓  @SandipPalit
   str: "স্ট্রিং"
+    # ✅  @SandipPalit
   sum: "যোগফল"
+    # ✅  @SandipPalit
   super: "সুপার"
+    # ✅  @SandipPalit
   tuple: "টুপল"
+    # ❓  @SandipPalit
   type: "প্রকার"
+    # ✅  @SandipPalit
   vars: "যার"
+    # ❓  @SandipPalit
   zip: "জিপ"
+    # ✅  @SandipPalit
   __import__: "__আমদানি__"
+    # ✅  @SandipPalit
 
 # << Error Messages >>
 
