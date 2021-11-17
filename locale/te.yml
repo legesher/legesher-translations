@@ -1426,75 +1426,145 @@ __TRAIT__: ""
 
 # << Built-In Functions >>
 
-  abs: ""
-  all: ""
-  any: ""
-  ascii: ""
-  bin: ""
-  bool: ""
-  breakpoint: ""
-  bytearray: ""
-  bytes: ""
-  callable: ""
+  # @KarthikMothiki: Some of the keywords are hard-translated!
+  abs: "సంపూర్ణ సంఖ్య"
+  # ✅ @KarthikMothiki
+  all: "అన్ని"
+  # ✅ @KarthikMothiki
+  any: "ఏదైనా"
+  # ✅ @KarthikMothiki
+  ascii: "ఆశ్కి"
+  # 👀 @KarthikMothiki there is no word for ascii in telugu
+  bin: "బైనరీ"
+  # 👀 @KarthikMothiki
+  bool: "బూలియన్"
+  # ✅ @KarthikMothiki
+  breakpoint: "బ్రేక్ పాయింట్"
+  # ✅ @KarthikMothiki
+  bytearray: "బైట్ అమరిక"
+  # ✅ @KarthikMothiki
+  bytes: "బైట్లు"
+  # ✅ @KarthikMothiki
+  callable: "పిలవదగినది"
+  # ✅ @KarthikMothiki
   chr: ""
-  classmethod: ""
-  compile: ""
-  complex: ""
-  delattr: ""
-  dict: ""
-  dir: ""
-  divmod: ""
-  enumerate: ""
-  eval: ""
-  exec: ""
-  filter: ""
-  float: ""
-  format: ""
-  frozenset: ""
-  getattr: ""
-  globals: ""
-  hasattr: ""
-  hash: ""
-  help: ""
-  hex: ""
-  id: ""
-  input: ""
-  int: ""
-  isinstance: ""
-  issubclass: ""
-  iter: ""
-  len: ""
-  list: ""
-  locals: ""
-  map: ""
-  max: ""
-  memoryview: ""
-  min: ""
-  next: ""
-  object: ""
-  oct: ""
-  open: ""
-  ord: ""
-  pow: ""
-  print: ""
-  property: ""
-  range: ""
-  repr: ""
-  reversed: ""
-  round: ""
-  set: ""
-  setattr: ""
-  slice: ""
-  sorted: ""
-  staticmethod: ""
-  str: ""
-  sum: ""
-  super: ""
-  tuple: ""
-  type: ""
-  vars: ""
-  zip: ""
-  __import__: ""
+  # 👀 @KarthikMothiki
+  classmethod: "తరగతి కర్మము"
+  # 👀 @KarthikMothiki
+  compile: "గ్రంథస్తం చేయు"
+  # ✅ @KarthikMothiki
+  complex: "కాంప్లెక్స్"
+  # ✅ @KarthikMothiki
+  delattr: "ఆస్ట్రిబ్యూటె తొలిగింపు"
+  # ✅ @KarthikMothiki
+  dict: "డిక్షనరీ"
+  # ✅ @KarthikMothiki
+  dir: "డైరెక్టరీ"
+  # ✅ @KarthikMothiki
+  divmod: "విభజన మాడ్యూల్"
+  # ✅ @KarthikMothiki
+  enumerate: "లెక్కించు"
+  # ✅ @KarthikMothiki
+  eval: "మూల్యాంకన"
+  # ✅ @KarthikMothiki
+  exec: "అమలు"
+  # ✅ @KarthikMothiki
+  filter: "వడపోత"
+  # 👀 @KarthikMothiki
+  float: "దశాంశ"
+  # ✅ @KarthikMothiki
+  format: "ఫార్మాట్"
+  # ✅ @KarthikMothiki
+  frozenset: "ఫ్రోజెన్ సెట్"
+  # 👀 @KarthikMothiki
+  getattr: "ఆస్ట్రిబ్యూట్ పొందుట"
+  # ✅ @KarthikMothiki
+  globals: "గ్లోబల్స్"
+  # ✅ @KarthikMothiki
+  hasattr: "ఆస్ట్రిబ్యూటె ఉంది"
+  # ✅ @KarthikMothiki
+  hash: "హాష్"
+  # 👀 @KarthikMothiki
+  help: "తోడ్పాటు"
+  # ✅ @KarthikMothiki
+  hex: "హెక్స్"
+  # ✅ @KarthikMothiki
+  id: "గుర్తింపు"
+  # ✅ @KarthikMothiki
+  input: "ఇన్పుట్"
+  # 👀 @KarthikMothiki
+  int: "పూర్ణ సంఖ్య"
+  # ✅ @KarthikMothiki
+  isinstance: "ఇన్స్టన్స్"
+  # 👀 @KarthikMothiki
+  issubclass: "ఐస్ సబ్ క్లాస్ "
+  # ✅ @KarthikMothiki
+  iter: "మరల"
+  # ✅ @KarthikMothiki
+  len: "పొడవు"
+  # ✅ @KarthikMothiki
+  list: "పట్టిక"
+  # ✅ @KarthikMothiki
+  locals: "స్థానిక"
+  # ✅ @KarthikMothiki
+  map: "మ్యాప్ "
+  # ✅ @KarthikMothiki
+  max: "గరిష్ట"
+  # ✅ @KarthikMothiki
+  memoryview: "మెమరీ వ్యూ "
+  # ✅ @KarthikMothiki
+  min: "కనిష్ట"
+  # ✅ @KarthikMothiki
+  next: "తరువాత"
+  # ✅ @KarthikMothiki
+  object: "వస్తువు"
+  # ✅ @KarthikMothiki
+  oct: "ఆక్టల్"
+  # ✅ @KarthikMothiki
+  open: "తెరుచుట"
+  # ✅ @KarthikMothiki
+  ord: "ఒర్డ్"
+  # 👀 @KarthikMothiki
+  pow: "ఘాతాంకం"
+  # 👀 @KarthikMothiki
+  print: "ముద్రించుట"
+  # ✅ @KarthikMothiki
+  property: "ప్రాపర్టీ"
+  # ✅ @KarthikMothiki
+  range: "పరిధి"
+  # ✅ @KarthikMothiki
+  repr: "రిప్రెసెంట్"
+  # ✅ @KarthikMothiki
+  reversed: "తిరగపడిన"
+  # ✅ @KarthikMothiki
+  round: "చుట్టు"
+  # 👀 @KarthikMothiki
+  set: "సెట్"
+  # ✅ @KarthikMothiki
+  setattr: "సెట్ ఆస్ట్రిబ్యూటె"
+  # ✅ @KarthikMothiki
+  slice: "భాగము"
+  # ✅ @KarthikMothiki
+  sorted: "క్రమబద్ధీకరించబడింది"
+  # ✅ @KarthikMothiki
+  staticmethod: "స్టాటిక్ పద్ధతి"
+  # ✅ @KarthikMothiki
+  str: "స్ట్రింగ్"
+  # ✅ @KarthikMothiki
+  sum: "మొత్తం"
+  # ✅ @KarthikMothiki
+  super: "సూపర్"
+  # ✅ @KarthikMothiki
+  tuple: "టుపుల్"
+  # ✅ @KarthikMothiki
+  type: "రకం"
+  # ✅ @KarthikMothiki
+  vars: "వేరియబుల్"
+  # ✅ @KarthikMothiki
+  zip: "జిప్"
+  # ✅ @KarthikMothiki
+  __import__: "__దిగుమతి__"
+  # ✅ @KarthikMothiki
 
 # << Error Messages >>
 
