@@ -81,6 +81,7 @@ We are actively working on adding as many written languages as we can for versio
 - [Indonesian (id)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Indonesian")
 - [Italian (it)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Italian")
 - [Kabyle (kab)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Kabyle")
+- [Malayalam (ml)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Malayalam")                                                                   
 - [Nepali (ne)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Nepali")
 - [Polish (pl) ](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Polish")
 - [Portuguese (pt)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Portugese")
