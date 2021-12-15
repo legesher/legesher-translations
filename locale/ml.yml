@@ -1250,74 +1250,107 @@ __TRAIT__: ""
 # << Keywords >>
   False: "തെറ്റ്"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   None: "ഒന്നുമില്ല"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   True: "സത്യം"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   and: "ഒപ്പം"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   as: "ആയി"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   assert: "ഉറപ്പിക്കുക"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   async: "അസിങ്ക്"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   await: "പതീക്ഷിച്ചിരിക്കുക"
     # ✅ @sanjay-kv
+    # ❓ @varghesejose2020  "പ്രതീക്ഷിച്ചിരിക്കുക"
   break: "ഇടവേള"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   class: "ക്ലാസ്"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   continue: "തുടരുക"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   def: "ഡിഎഫ്"
     # ✅ @sanjay-kv
   del: "ഇല്ലാതാക്കുക"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   elif: "എലിഫ"
     # ✅ @sanjay-kv
+    # ❓ @varghesejose2020  "എലിഫ്"
   else: "വേറെ"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   except: "പ്രതീക്ഷിക്കുന്നു"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   finally: "ഒടുവിൽ"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   for: "വേണ്ടി"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   from: "മുതൽ"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   global:  "ഗ്ലോബൽ "
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   if: "എങ്കിൽ"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   import: "ഇറക്കുമതി"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   in: "ഇൻ"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   is: "ആണ്"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   lambda: "ലാമ്പടാ"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   nonlocal: "നോൺലോക്കൽ"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   not: "അല്ല"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   or: "അഥവാ"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   pass: "പാസ്"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   raise: "ഉയർത്തുക"
     # ✅ @sanjay-kv
   return: "മടക്കം"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   try: "ശ്രമിക്കുക"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   while: "അതേസമയം"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   with: "കൂടെ"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
   yield: "വരുമാനം"
     # ✅ @sanjay-kv
+    # ✅ @varghesejose2020
 
 # << Built-In Functions >>
 
