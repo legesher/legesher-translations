@@ -125,22 +125,38 @@ Null: ""
 # |   LANGUAGE: BASH   |
 # ----------------------
 # << Keywords >>
-case: ""
-do: ""
-done: ""
-elif: ""
-else: ""
-esac: ""
-fi: ""
-for: ""
-function: ""
-if: ""
-in: ""
-select: ""
-then: ""
-time: ""
-until: ""
-while: ""
+case: "കേസ്"
+ # ✅ @varghesejose2020
+do: "ചെയ്യുക"
+ # ✅ @varghesejose2020
+done: "ചെയ്തു"
+ # ✅ @varghesejose2020
+elif: "എലിഫ്"
+ # ✅ @varghesejose2020
+else: "വേറെ"
+ # ✅ @varghesejose2020
+esac: "ഈസക്"
+ # ✅ @varghesejose2020
+fi: "ഫൈ"
+ # ✅ @varghesejose2020
+for: "വേണ്ടി"
+ # ✅ @varghesejose2020
+function: "പ്രവർത്തനം"
+ # ✅ @varghesejose2020
+if: "എങ്കിൽ"
+ # ✅ @varghesejose2020
+in: "ഭാഗമായ"
+ # ✅ @varghesejose2020
+select: "തിരഞ്ഞെടുക്കുക"
+ # ✅ @varghesejose2020
+then: "പിന്നെ"
+ # ✅ @varghesejose2020
+time: "സമയം"
+ # ✅ @varghesejose2020
+until: "വരുവോളം"
+ # ✅ @varghesejose2020
+while: "സമയത്ത്"
+ # ✅ @varghesejose2020
 
 # << Error Messages >>
 
