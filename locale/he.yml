@@ -17,98 +17,122 @@ language-abbreviation: "he"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   INFO: "מידע"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   IDEA: "רעיון"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   DEBUG: "מציאת_באגים"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ❓ @michalirak "דיבוג"
   REMOVE: "הסר"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   OPTIMIZE: ""
     # ❓ @Adarwall
     # ❓ @Gal-Gilor "ייעול"
     # ❓ @tomerpacific "הפוך_ליעיל"
+    # ✅ @michalirak "ייעול" or "אופטימיזציה"
   REVIEW: ""
     # ❓ @Adarwall
     # ❓ @Gal-Gilor "סקירה"
     # ❓ @tomerpacific "לבצע_סקירה"
+    # ❓ @michalirak "סקירה"
   HACK: "האק"
     # ✅ @Adarwall
     # ❓ @Gal-Gilor "פריצה או פרץ?"
     # ❓ @tomerpacific "פתרון_פרוץ"
+    # ❓ @michalirak "האק" or "אלתור"
   UNDONE: "שחזר"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ❓ @tomerpacific "מצריך_עבודה"
+    # ❓ @tomerpacific "משוחזר"
   TODO: ""
     # ❓ @Adarwall
     # ❓ @Gal-Gilor "לעשות"
     # ❓ @tomerpacific "צריך_לעשות"
+    # ❓ @michalirak "לעשות"
   REFACTOR: "לעשות_מחדש"
     # ✅ @Adarwall
     # ❓ @Gal-Gilor "לשפר"
     # ❓ @tomerpacific "מצריך_שיפור"
+    # ❓ @michalirak "שיפוץ"
   DEPRECATED: "הוצא_משימוש"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   TASK: "מטלה"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   CHGME: ""
     # ❓ @Adarwall
     # 🤔 @Gal-Gilor "Requires elaboration on what this word does"
     # ❓ @tomerpacific "שנה_אותי"
+    # ❓ @michalirak "שנה_אותי"
   NOTREACHED: ""
     # ❓ @Adarwall
     # 🤔 @Gal-Gilor "Requires elaboration on what this word does"
     # ❓ @tomerpacific "לא_הושג"
+    # ❓ @michalirak "לא_הושג"
   WTF: "וואט_דה_פאק"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ❓ @tomerpacific "מה_לעזאזל"
+    # ❓ @michalirak "מה_לעזאזל"
   BUG: "באג"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   ERROR: "שגיאה"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   OMG: "או_מיי_גאד"
     # ✅ @Adarwall
     # ❓ @Gal-Gilor "אלוהים_אדירים"
     # ❓ @tomerpacific "אלוהים_ישמור"
+    # ✅ @michalirak
   ERR: "שגיאה"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   OMFGRLY: ""
     # ❓ @Adarwall
     # 🤔 @Gal-Gilor "OMG REALLY isn't used much. Same as OMG (אלוהים_אדירים)"
     # ❓ @tomerpacific "אני_לא_מאמין_למראה_עיניי"
+    # 🤔 @michalirak "נו באמת can be used but has a passive aggressive tone, otherwise agree with @Gal-Gilor"
   WARNING: "אזהרה"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   WARN: "אזהרה"
     # ✅ @Adarwall
     # ❓ @Gal-Gilor "להזהיר"
     # ❓ @tomerpacific "להזהיר"
+    # ❓ @michalirak "להזהיר"
   BROKEN: "שבור"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
 
 # ----------------------
 # |   LANGUAGE: AGDA   |
