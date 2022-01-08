@@ -1654,283 +1654,387 @@ __TRAIT__: ""
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   None: "כלום"
     # ✅ @Adarwall
     # ❓ @Gal-Gilor "ריק" Python's "None" is equivalent to other language's null
     # ❓ @tomerpacific None is not equivalent to null of other languages. I think the current translation is fitting.
+    # ✅ @michalirak
   True: "אמת"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   and: "ו"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor Although 100% correct. I'm hesistant to use a single character
     # ❓ @tomerpacific Maybe should be renamed to "וגם"
+    # ❓ @michalirak Agree with @tomerpacific
   as: "כ"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor Although 100% correct. I'm hesistant to use a single character
     # ✅ @tomerpacific
+    # ✅ @michalirak Agree with @Gal-Gilor
   assert: "הנח"
     # ✅ @Adarwall
     # ❓ @Gal-Gilor In Python, I could aruge I can replace "assert" with "insist" I suggest "לדרוש  or להתעקש"
     # ❓ @tomerpacific When assert is used, it is to evaluate a certain condition. Therefore, I believe a better translation would be "בחן".
+    # ❓ @michalirak "טען"
   async: "בסנכרון"
     # ✅ @Adarwall
     # ❓ @Gal-Gilor 'אסינכרוני' The opposite of Sync
     # ❓ @tomerpacific Should be renamed to "אסינכרוני"
+    # ❓ @michalirak I agree with @tomerpacific
   await: "המתן"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   break: "לשבור"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ❓ @tomerpacific Should be "שבור"
+    # ❓ @michalirak I agree with @tomerpacific
   class: "מחלקה"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor I agree. However, thoughts on "אובייקט" (I understand they are not the same)?
     # ✅ @tomerpacific
+    # ✅ @michalirak
   continue: "המשך"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   def: "פעולה"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ❓ @tomerpacific This keyword means definition so the translation should be "הגדר"
+    # ❓ @michalirak I agree with @tomerpacific
   del: "מחק"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   elif: "אחרת_אז"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   else: "אחרת"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   except: "בשגיאה"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ❓ @tomerpacific This marks and exception, so it should be "חריגה"
+    # ❓ @michalirak The current translation matches the pythonic function while @tomerpacific 's translation matches the word's meaning better.
   finally: "לבסוף"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   for: "לכל"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ❓ @michalirak "עבור"
   from: "מ"
     # ✅ @Adarwall
     # ❓ @Gal-Gilor Although 100% correct. I'm hesistant to use a single character
     #    @tomerpacific
+    # ❓ @michalirak Once again I agree with @Gal-Gilor
   global: "גלובלי"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   if: "אם"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   import: "ייבא"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   in: "ב"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor although 100% correct. I'm hesistant to use a single character. how about "בתוך"
     # ❓ @tomerpacific I support "בתוך"
+    # ❓ @michalirak Once again I agree with @Gal-Gilor, and support the suggested solution of "בתוך"
   is: "הוא"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   lambda: "פעולונת"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor Clever!
     # ✅ @tomerpacific
+    # ✅ @michalirak
   nonlocal: "לא_מקומי"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   not: "לא"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ❓ @michalirak "אינו"
   or: "או"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   pass: "קוד_עתידי"
     # ✅ @Adarwall
     # ❓ @Gal-Gilor Since "pass" is a null statement, how about "הצהרת_בטל"
     # ✅ @tomerpacific
+    # ❓ @michalirak "עבור"
   raise: "העלה"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   return: "החזר"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   try: "נסה"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   while: "כל_עוד"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ❓ @michalirak "בעוד" for a neat one word translation
   with: "עם"
     # ✅ @Adarwall
     # ✅ @Gal-Gilor
     # ✅ @tomerpacific
+    # ✅ @michalirak
   yield: "הוצא"
     # ✅ @Adarwall
     # ❓ @Gal-Gilor How about "חולל איטרטור"
     # ❓ @tomerpacific How about "חולל גנרטור"
+    # ❓ @michalirak "הנב"
 
 # << Built-In Functions >>
 
   abs: "ערך_מוחלט"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   all: "הכל"
     # ✅ @Adarwall
+    # ❓ @michalirak "כל"
   any: "כל_ערך"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   ascii: "אסקי"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   bin: "בינארי"
     # ✅ @Adarwall
+    # ✅ @michalirak
   bool: "בוליאני"
     # ✅ @Adarwall
+    # ✅ @michalirak
   breakpoint: "נקודת_שבירה"
     # ✅ @Adarwall
+    # ✅ @michalirak
   bytearray: "מערך_בייטים"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   bytes: "בייטים"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   callable: "ניתן_לקריאה"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   chr: "תו"
     # ✅ @Adarwall
+    # ✅ @michalirak
   classmethod: "מתודת_מחלקה"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   compile: "עבד"
     # ✅ @tomerpacific
+    # ❓ @michalirak "קמפל" or "הדר"
   complex: "מורכב"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   delattr: "מחק_תכונה"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   dict: "מילון"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   dir: "תיקיה"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   divmod: "חלוקה"
     # ✅ @tomerpacific
+    # ❓ @michalirak "חלק"
   enumerate: "למנות"
     # ✅ @tomerpacific
+    # ❓ @michalirak "מנה"
   eval: "לשערך"
     # ✅ @tomerpacific
+    # ❓ @michalirak "הערך"
   exec: "לבצע"
     # ✅ @tomerpacific
+    # ❓ @michalirak "בצע"
   filter: "סנן"
     # ✅ @Adarwall
+    # ✅ @michalirak
   float: "ממשי"
     # ✅ @Adarwall
+    # ✅ @michalirak
   format: "ערוך_לתבנית"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   frozenset: "מערכת_בלתי_ניתנת_לשינוי"
     # ✅ @tomerpacific
+    # ❓ @michalirak "מערכת_קפואה"
   getattr: "השג_ערך"
     # ✅ @tomerpacific
+    # ❓ @michalirak "השג_תכונה" to match delattr
   globals: "גלובאלים"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   hasattr: "בעל_תכונה"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   hash: "בליל"
     # ✅ @tomerpacific
+    # ❓ @michalirak "גיבוב"
   help: "עזרה"
     # ✅ @Adarwall
+    # ✅ @michalirak
   hex: "הקסדצימלי"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   id: "מזהה"
     # ✅ @Adarwall
+    # ✅ @michalirak
   input: "קלט"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   int: "שלם"
     # ✅ @Adarwall
+    # ✅ @michalirak
   isinstance: "האם_סוג_של"
     # ✅ @tomerpacific
+    # ❓ @michalirak "האם_מופע" going by the traditional translation of instance
   issubclass: "מחלקה"
     # ✅ @Adarwall
+    # ❓ @michalirak "האם_תת_מחלקה" the current translation approved by @Adarwall is literally <class>, which is not the same as <issubclass>
   iter: "איטרטור"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   len: "אורך"
     # ✅ @Adarwall
+    # ✅ @michalirak
   list: "רשימה"
     # ✅ @Adarwall
+    # ✅ @michalirak
   locals: "טבלת_ערכים_מקומיים"
     # ✅ @tomerpacific
+    # ❓ @michalirak "מקומיים" following the conventions set by <globals>
   map: "למפות"
     # ✅ @Adarwall
+    # ❓ @michalirak "מפה"
   max: "מקסימום"
     # ✅ @Adarwall
+    # ✅ @michalirak
   memoryview: "אובייקט_תצוגת_זיכרון"
     # ✅ @tomerpacific
+    # ❓ @michalirak "תצוגת_זיכרון" ommiting the word for object, which is not used in any other object-word here
   min: "מינימום"
     # ✅ @Adarwall
+    # ✅ @michalirak
   next: "הבא"
     # ✅ @Adarwall
+    # ✅ @michalirak
   object: "אובייקט"
     # ✅ @Adarwall
+    # ✅ @michalirak
   oct: "אוקטלי"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   open: "פתח"
     # ✅ @Adarwall
+    # ✅ @michalirak
   ord: "ערך_תו_יוניקוד"
     # ✅ @tomerpacific
+    # ❓ @michalirak "אורדינלי" following the translations for <oct> <hex> and so on
   pow: "חזקה"
     # ✅ @Adarwall
+    # ✅ @michalirak
   print: "הדפס"
     # ✅ @Adarwall
+    # ✅ @michalirak
   property: "תכונה"
     # ✅ @tomerpacific
+    # ❓ @michalirak "מאפיין" so that it differs from <attr>
   range: "טווח"
     # ✅ @Adarwall
+    # ✅ @michalirak
   repr: "ייצוג_להדפסה"
     # ✅ @tomerpacific
+    # ❓ @michalirak "ייצוג"
   reversed: "מהופך"
     # ✅ @Adarwall
+    # ❓ @michalirak "הפוך"
   round: "עיגול"
     # ✅ @Adarwall
+    # ❓ @michalirak "עגל"
   set: "הגדר"
     # ✅ @Adarwall
+    # ❓ @michalirak "קבוצה" This is the programming translation. The current translation means "define" which is clearly not meant here
   setattr: "ערוך_תכונה"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   slice: "חתוך"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   sorted: "ממויין"
     # ✅ @Adarwall
+    # ✅ @michalirak
   staticmethod: "מתודה_סטטית"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   str: "מחרוזת"
     # ✅ @Adarwall
+    # ✅ @michalirak
   sum: "סכום"
     # ✅ @Adarwall
+    # ✅ @michalirak
   super: "מחלקת אם"
     # ✅ @tomerpacific
+    # ❓ @michalirak "מחלקת_אם" Following the no-spaces convention used
   tuple: "צמד"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   type: "סוג"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   vars: "תכונת_מילון"
     # ✅ @tomerpacific
+    # ❓ @michalirak "הפוך_למילון"
   zip: "לקבץ"
     # ✅ @tomerpacific
+    # ✅ @michalirak
   __import__: "__ייבוא__"
     # ✅ @Adarwall
+    # ❓ @michalirak "__יבא__" following the translation for <import>
 
 # << Error Messages >>
 
