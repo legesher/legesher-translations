@@ -33,7 +33,7 @@
     "eslint": "^7.11.0",
     "eslint-plugin-react": "^7.21.4",
     "js-beautify": "^1.13.0",
-    "nodemon": "^2.0.5",
+    "nodemon": "^2.0.20",
     "prettier": "^1.19.1",
     "prettydiff2": "^2.2.8",
     "unibeautify-cli": "^0.2.1"
