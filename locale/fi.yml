@@ -853,56 +853,107 @@ wbr: "" #	Defines a possible line-break
 # ----------------------
 # << Keywords >>
 abstract: "abstrakti"
-continue: "sivuuta" # @minna-xd: make sure final Python (etc.) translation is the same
+  # ✅ @minna-xD
+continue: "sivuuta"
+  # ✅ @minna-xD: make sure final Python (etc.) translation is the same
 for: "kunnes"
+  # ✅ @minna-xD
 new: "uusi"
+  # ✅ @minna-xD
 switch: "valinta"
-assert: "edellytä" # @minna-xd: make sure final Python (etc.) translation is the same
+  # ✅ @minna-xD
+assert: "edellytä"
+  # ✅ @minna-xD: make sure final Python (etc.) translation is the same
 default: "oletus"
+  # ✅ @minna-xD
 goto: "siirry"
+  # ✅ @minna-xD
 package: "paketti"
+  # ✅ @minna-xD
 synchronized: "synkronoitu"
+  # ✅ @minna-xD
 boolean: "totuusarvo"
+  # ✅ @minna-xD
 do: "tee"
+  # ✅ @minna-xD
 if: "jos"
+  # ✅ @minna-xD
 private: "yksityinen"
+  # ✅ @minna-xD
 this: "tämä"
-break: "katkaise" # @minna-xd: make sure final Python (etc.) translation is the same
-double: "tarkkaliukuluku" # @minna-xd: ❓
+  # ✅ @minna-xD
+break: "katkaise"
+  # ✅ @minna-xD: make sure final Python (etc.) translation is the same
+double: "tarkkaliukuluku"
+  # ❓ @minna-xD
 implements: "toteuttaa"
+  # ✅ @minna-xD
 protected: "suojattu"
-throw: "heitä" # @minna-xd: ❓ 'aiheuta'?
+  # ✅ @minna-xD
+throw: "heitä"
+  # ❓ @minna-xD: 'aiheuta'?
 byte: "tavu"
-else: "muuten" # @minna-xd: make sure final Python (etc.) translation is the same
+  # ✅ @minna-xD
+else: "muuten"
+  # ✅ @minna-xD: make sure final Python (etc.) translation is the same
 import: "tuo"
+  # ✅ @minna-xD
 public: "julkinen"
-throws: "heittää" # @minna-xd: ❓ 'aiheuttaa'?
+  # ✅ @minna-xD
+throws: "heittää"
+  # ❓ @minna-xD: 'aiheuttaa'?
 case: "tapaus"
-enum: "lueteltutyyppi" # @minna-xd: ❓
-instanceof: "onkoluokkaa" # @minna-xd: ❓
-return: "palauta" # @minna-xd: make sure final Python (etc.) translation is the same
+  # ✅ @minna-xD
+enum: "lueteltutyyppi"
+  # ❓ @minna-xD
+instanceof: "onkoluokkaa"
+  # ❓ @minna-xD
+return: "palauta"
+  # ✅ @minna-xD: make sure final Python (etc.) translation is the same
 transient: "tilapäinen"
-catch: "sieppaa" # @minna-xd: ❓ 'havaitse'?
-extends: "perii" # @minna-xd: ❓ sananmukaisesti 'laajentaa'
+  # ✅ @minna-xD
+catch: "sieppaa"
+  # ❓ @minna-xD: 'havaitse'?
+extends: "perii"
+  # ❓ @minna-xD: sananmukaisesti 'laajentaa'
 int: "kokonaisluku"
+  # ✅ @minna-xD
 short: "pienikokonaisluku"
-try: "kokeile" # @minna-xd: make sure final Python (etc.) translation is the same
+  # ✅ @minna-xD
+try: "kokeile" 
+  # ✅ @minna-xD: : make sure final Python (etc.) translation is the same
 char: "merkki"
-final: "vakio" # @minna-xd: ❓ 'muuttumaton'
+  # ✅ @minna-xD
+final: "vakio"
+  # ❓ @minna-xD: 'muuttumaton'
 interface: "rajapinta"
+  # ✅ @minna-xD
 static: "staattinen"
-void: "tyhjä" # @minna-xd: ❓
+  # ✅ @minna-xD
+void: "tyhjä"
+  # ❓ @minna-xD
 class: "luokka"
-finally: "lopuksi" # @minna-xd: make sure final Python (etc.) translation is the same
+  # ✅ @minna-xD
+finally: "lopuksi"
+  # ✅ @minna-xD: : make sure final Python (etc.) translation is the same
 long: "isokokonaisluku"
-strictfp: "tarkkalaskenta" # @minna-xd: ❓
-volatile: "yhteinen" # @minna-xd: ❓
-const: "vakio" # @minna-xd: ❓ or perhaps this should be removed, final is used instead
+  # ✅ @minna-xD
+strictfp: "tarkkalaskenta"
+  # ❓ @minna-xD
+volatile: "yhteinen"
+  # ❓ @minna-xD
+const: "vakio"
+  # ❓ @minna-xD: or perhaps this should be removed, final is used instead
 float: "liukuluku"
-native: "ulkoinen" # @minna-xd: ❓
+  # ✅ @minna-xD
+native: "ulkoinen"
+  # ❓ @minna-xD
 super: "yliluokka"
-while: "kun" # @minna-xd: make sure final Python (etc.) translation is the same
+  # ✅ @minna-xD
+while: "kun"
+  # ✅ @minna-xD: : make sure final Python (etc.) translation is the same
 _: "_" #_(underscore)
+  # ✅ @minna-xD
 
 # << Error Messages >>
 
@@ -1248,41 +1299,112 @@ __TRAIT__: ""
 # |  LANGUAGE: PYTHON  |
 # ----------------------
 # << Keywords >>
-  False: "epätosi" # @minna-xd: ✅
-  None: "eimitään"  # @rouskuli: mitään, tyhjä; @minna-xd: ❓ "puuttuva"?
-  True: "tosi" # @minna-xd: ✅
-  and: "ja" # @minna-xd: ✅
-  as: "kuin" # @rouskuli ❓; @minna-xd: ❓ "nimellä"?
-  assert: "totea" # @minna-xd: ❓ "edellytä", "oleta"?
-  async: "eriaikainen" # @minna-xd: ✅
-  await: "odota" # @minna-xd: ❓ "odota" ok, tai "tauko"?
-  break: "katkaise" # @rouskuli: keskeytä, lopeta; @minna-xd: ✅ "katkaise" ok, aika luontevaa että silmukka katkaistaan(?)
-  class: "luokka" # @minna-xd: ✅
-  continue: "sivuuta" # @rouskuli: jatka, ohita; @minna-xd: ❓ "alkuun"? "sivuuta" aika hyvä myös
-  def: "määritä" # @minna-xd: ✅
-  del: "poista" # @minna-xd: ✅
-  elif: "jooten" # @rouskuli: ❓ josten?, "vaihtoehto"; @minna-xd: ❓ "vaihtoehto" on nokkela!
-  else: "muuten" # @rouskuli: muutoin?; @minna-xd: ❓ itse tykkäisin "muutoin" mutta se voi olla tuntemattomampi sanana (vanhahtava?), "muuten" on merkitykseltään oikea
-  except: "poikkeus" # @minna-xd: ✅
-  finally: "lopuksi" # @minna-xd: ✅
-  for: "kunnes" # @rouskuli: ❓ varten ei käy, muuta?, kohde?, kohteelle?; @minna-xd: ❓ "muuttuja", "muuttujalle"? Note the somewhat different syntax in Python for 'for' loop
-  from: "jostain" # @minna-xd: ❓ "lähde", "lähteestä"?
-  global:  "yleinen" # @minna-xd: ✅ "yleinen" ok, tai "yhteinen"?
-  if: "jos" # @minna-xd: ✅
-  import: "tuo" # @minna-xd: ✅
-  in: "sisältyy" # @rouskuli: ❓, sisällä; @minna-xd:❓ "joukossa"?
-  is: "on" # @minna-xd: ✅ tai "sama"?
-  lambda: "lambda" # @minna-xd: ❓ "nimetön", "anonyymi"?
-  nonlocal: "ulkoinen" # @rouskuli: ❓ epäpaikallinen, vieras; @minna-xd: ❓ "laajennettu"?, "ulkoinen" kyllä ihan hyvä
-  not: "ei" # @minna-xd: ✅
-  or: "tai" # @minna-xd: ✅
-  pass: "ohita" # @minna-xd: ✅
-  raise: "nosta" # @minna-xd: ❓ "varoita", "huomauta"?
-  return: "palaa" # @rouskuli: ❓ vai palauta?; @minna-xd: ❓ "palauta", koska se palauttaa arvon
-  try: "kokeile" # @minna-xd: ✅
-  while: "kun" # @minna-xd: ✅ ihan kielen päällä joku ytimekäs vastine "niin kauan kuin" -rakenteelle mutta ei tule päähän!
-  with: "käyttäen" # @rouskuli: ❓, käytä; @minna-xd: ❓ "käyttäen" vaikuttaa sopivalta (tai miksei "käytä")
-  yield: "väistä" # @minna-xd: ❓ "tuota" (ts. "generoi"), tai lennokkaasti keksitty "yksitellen"?
+  False: "epätosi"
+    # ✅ @rouskuli 
+    # ✅ @minna-xd
+  None: "eimitään"
+    # ✅ @rouskuli: mitään, tyhjä
+    # ❓ @minna-xd: "puuttuva"
+  True: "tosi"
+    # ✅ @rouskuli
+    # ✅ @minna-xd
+  and: "ja"
+    # ✅ @rouskuli
+    # ✅ @minna-xd
+  as: "kuin"
+    # ❓ @rouskuli
+    # ❓ @minna-xd: "nimellä"
+  assert: "totea"
+    # ✅ @rouskuli
+    # ❓ @minna-xd: "edellytä", "oleta"
+  async: "eriaikainen"
+    # ✅ @rouskuli
+    # ✅ @minna-xd
+  await: "odota"
+    # ✅ @rouskuli
+    # ❓ @minna-xd: "odota" ok, tai "tauko"
+  break: "katkaise"
+    # ✅ @rouskuli: keskeytä, lopeta; 
+    # ✅ @minna-xd: "katkaise" ok, aika luontevaa että silmukka katkaistaan(?)
+  class: "luokka"
+    # ✅ @rouskuli
+    # ✅ @minna-xd
+  continue: "sivuuta"
+    # ✅ @rouskuli: jatka, ohita; 
+    # ❓ @minna-xd: "alkuun"? "sivuuta" aika hyvä myös
+  def: "määritä"
+    # ✅ @rouskuli
+    # ✅ @minna-xd
+  del: "poista"
+    # ✅ @rouskuli
+    # ✅ @minna-xd
+  elif: "jooten"
+    # ❓ @rouskuli: josten?, "vaihtoehto";
+    # ❓ @minna-xd: "vaihtoehto" on nokkela!
+  else: "muuten" # @rouskuli @minna-xd: ❓ 
+    # ✅ @rouskuli: muutoin?;
+    # ❓ @minna-xd: itse tykkäisin "muutoin" mutta se voi olla tuntemattomampi sanana (vanhahtava?), 
+    #               "muuten" on merkitykseltään oikea
+  except: "poikkeus"
+    # ✅ @rouskuli
+    # ✅ @minna-xd
+  finally: "lopuksi"
+    # ✅ @rouskuli
+    # ✅ @minna-xd
+  for: "kunnes"
+    # ❓ @rouskuli: varten ei käy, muuta?, kohde?, kohteelle?;
+    # ❓ @minna-xd: "muuttuja", "muuttujalle"? Note the somewhat different syntax in Python for 'for' loop
+  from: "jostain"
+    # ✅ @rouskuli
+    # ❓ @minna-xd: "lähde", "lähteestä"?
+  global:  "yleinen"
+    # ✅ @rouskuli
+    # ✅ @minna-xd: "yleinen" ok, tai "yhteinen"?
+  if: "jos"
+    # ✅ @rouskuli
+    # ✅ @minna-xd
+  import: "tuo"
+    # ✅ @rouskuli
+    # ✅ @minna-xd
+  in: "sisältyy"
+    # ❓ @rouskuli: "sisällä"
+    # ❓ @minna-xd: "joukossa"?
+  is: "on"
+    # ✅ @rouskuli
+    # ✅ @minna-xd: tai "sama"?
+  lambda: "lambda"
+    # ✅ @rouskuli
+    # ❓ @minna-xd:  "nimetön", "anonyymi"?
+  nonlocal: "ulkoinen"
+    # ❓ @rouskuli: epäpaikallinen, vieras;
+    # ❓ @minna-xd: "laajennettu"?, "ulkoinen" kyllä ihan hyvä
+  not: "ei"
+    # ✅ @rouskuli
+    # ✅ @minna-xd
+  or: "tai"
+    # ✅ @rouskuli
+    # ✅ @minna-xd
+  pass: "ohita"
+    # ✅ @rouskuli
+    # ✅ @minna-xd
+  raise: "nosta"
+    # ✅ @rouskuli
+    # ❓ @minna-xd:  "varoita", "huomauta"?
+  return: "palaa"
+    # ❓ @rouskuli: vai palauta?
+    # ❓ @minna-xd: "palauta", koska se palauttaa arvon
+  try: "kokeile"
+    # ✅ @rouskuli
+    # ✅ @minna-xd
+  while: "kun"
+    # ✅ @rouskuli
+    # ✅ @minna-xd: ihan kielen päällä joku ytimekäs vastine "niin kauan kuin" -rakenteelle mutta ei tule päähän!
+  with: "käyttäen"
+    # ❓ @rouskuli: käytä
+    # ❓ @minna-xd: "käyttäen" vaikuttaa sopivalta (tai miksei "käytä")
+  yield: "väistä" # @minna-xd: ❓ 
+    # ✅ @rouskuli
+    # ❓ @minna-xd: "tuota" (ts. "generoi"), tai lennokkaasti keksitty "yksitellen"?
 
 # << Built-In Functions >>
 
