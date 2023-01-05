@@ -237,7 +237,7 @@ enum: ""
 explicit: ""
 export: ""
 extern: ""
-false: "తప్పు"
+false: ""
 final: ""
 float: ""
 for: ""
@@ -1253,387 +1253,629 @@ __TRAIT__: ""
     # ❓ @manojkrishnak May be a better translation is required. Although the translation is correct, when it comes to programming it might not be correct. అసత్యం can be considered.
     # ✅ @Ln11211 seems alright
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   None: "ఏదీ లేదు"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ❓ @KarthikMothiki none can be used on situation based in telugu. It can also be  ఏమీ కాదు
+    # 👀 @sujithkumardola
   True: "నిజం"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   and: "మరియు"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   as: "గా"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   assert: "నొక్కి చెప్పండి"
     # ✅ @nagendrady
     # ❓ @manojkrishnak May be a better translation is required. కచ్చితంగా can be considered in programming perscpective.
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   async: ""
     # 👀 @nagendrady
     # 👀 @manojkrishnak
     # 🤔 @Ln11211 A translation is difficult for this, but "అసమకాలిక" is the translation for "Asynchronous" and can be used
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   await: "వేచిఉండు"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ❓ @KarthikMothiki await can also be written as నిరీక్షించు
+    # 👀 @sujithkumardola
   break: "బయటకి వచ్చుట"
-    # ✅ @nagendrady
-    # ❓ @manojkrishnak May be considered as better translation in programming perscpective.
+    # 👀 @nagendrady
+    # ❓ @manojkrishnak "బయటకి వచ్చుట" May be considered as better translation in programming perscpective.
     # ✅ @Ln11211
     # ❓ @KarthikMothiki another word for break can be written as విరమించు
+    # 👀 @sujithkumardola
   class: "తరగతి"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   continue: "కొనసాగించు"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   def: "వివరణ"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ❓ @KarthikMothiki def key will be better with నిర్వచన
+    # 👀 @sujithkumardola
   del: "తొలగించు"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   elif: "లేకుంటే"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   else: "లేకపోతే"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   except: "ఇది తప్ప"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   finally: "చివరకు"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
-  for: "దానికోసం" # ❓ May be considered as better translation in programming perscpective. # ❓ Maybe "కోఱకు" seems apt. @Ln11211
-    # ✅ @nagendrady
-    # ✅ @manojkrishnak
-    # ✅ @Ln11211
+    # 👀 @sujithkumardola
+  for: "దానికోసం"
+    # 👀 @nagendrady
+    # ❓ @manojkrishnak "దానికోసం" May be considered as better translation in programming perscpective.
+    # ❓ @Ln11211 Maybe "కోఱకు" seems apt.
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   from: "నుండి"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
-  global:  "ప్రపంచ"
+    # 👀 @sujithkumardola
+  global: "ప్రపంచ"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   if: "అయితే"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   import: "దిగుమతి"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   in: "లో"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ❓ @KarthikMothiki లో or లోపల is fine they both gives the same sense
+    # 👀 @sujithkumardola
   is: "ఉంది"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   lambda: "లాంబ్డా"
     # ✅ @nagendrady
     # ✅ @manojkrishnak This is true translation of word; Although we cannot translate this word
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   nonlocal: ""
     # 👀 @nagendrady
     # 👀 @manojkrishnak
     # 🤔 @Ln11211 A translation is difficult for this, but "నాన్ లోకల్" seems ok.
     # 🤔 @KarthikMothiki స్థానికేతర is the exact word for non-local but many people would prefer hard-translation itself.
+    # 👀 @sujithkumardola
   not: "లేదు"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   or: "లేదా"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki 
+    # 👀 @sujithkumardola
   pass: "పాస్"
     # ✅ @nagendrady
     # ❓ @manojkrishnak Here true translation is written, there is an better alternative, that's అందించుట.
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   raise: "పెంచండి"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ❓ @KarthikMothiki when it comes to hard translation of the context ఎత్తుట will work good
+    # 👀 @sujithkumardola
   return: "తిరిగి వచ్చు"
     # ✅ @nagendrady
     # ❓ @manojkrishnak జవాబు ఇచ్చు, బయటకి వచ్చుట may be considered as better translations depending upon the usage(return some value or come out of the loop/if condition).
     # ❓ @Ln11211 "తిరిగిఇచ్చుట" seems apt for the "return" keyword
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   try: "ప్రయత్నించండి"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ❓ @Ln11211 "ప్రత్నించు" is better translation for "try"
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   while: "అయితే"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   with: "తో"
     # ✅ @nagendrady
     # ✅ @manojkrishnak
     # ✅ @Ln11211
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
   yield: "లభించు"
     # ✅ @nagendrady
     # ❓ @manojkrishnak May be a better translation is required.
     # ❓ @Ln11211 Would recommend using "లబించుట", "లభించు" is also fine.
     # ✅ @KarthikMothiki
+    # 👀 @sujithkumardola
 
 # << Built-In Functions >>
 
   # @KarthikMothiki: Some of the keywords are hard-translated!
   abs: "సంపూర్ణ సంఖ్య"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   all: "అన్ని"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   any: "ఏదైనా"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   ascii: "ఆశ్కి"
-  # 👀 @KarthikMothiki there is no word for ascii in telugu
-  # ✅ @sujithkumardola "ఆశ్కి" looks fine
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # 👀 @KarthikMothiki there is no word for ascii in telugu
+    # ✅ @sujithkumardola "ఆశ్కి" looks fine
   bin: "బైనరీ"
-  # 👀 @KarthikMothiki
-  # 👀 @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # 👀 @KarthikMothiki
+    # 👀 @sujithkumardola
   bool: "బూలియన్"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   breakpoint: "బ్రేక్ పాయింట్"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   bytearray: "బైట్ అమరిక"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211  
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   bytes: "బైట్లు"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   callable: "పిలవదగినది"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   chr: ""
-  # 👀 @KarthikMothiki
-  # ❓ @sujithkumardola maybe "అక్షరము" makes a better translation
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # 👀 @KarthikMothiki
+    # ❓ @sujithkumardola maybe "అక్షరము" makes a better translation
   classmethod: "తరగతి కర్మము"
-  # 👀 @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # 👀 @KarthikMothiki
+    # ✅ @sujithkumardola
   compile: "గ్రంథస్తం చేయు"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   complex: "కాంప్లెక్స్"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   delattr: "ఆస్ట్రిబ్యూటె తొలిగింపు"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   dict: "డిక్షనరీ"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   dir: "డైరెక్టరీ"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   divmod: "విభజన మాడ్యూల్"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   enumerate: "లెక్కించు"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   eval: "మూల్యాంకన"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   exec: "అమలు"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   filter: "వడపోత"
-  # 👀 @KarthikMothiki
-  # 👀 @sujithkumardola needs a better translation
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # 👀 @KarthikMothiki
+    # 👀 @sujithkumardola needs a better translation
   float: "దశాంశ"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   format: "ఫార్మాట్"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   frozenset: "ఫ్రోజెన్ సెట్"
-  # 👀 @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # 👀 @KarthikMothiki
+    # ✅ @sujithkumardola
   getattr: "ఆస్ట్రిబ్యూట్ పొందుట"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   globals: "గ్లోబల్స్"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   hasattr: "ఆస్ట్రిబ్యూటె ఉంది"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   hash: "హాష్"
-  # 👀 @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # 👀 @KarthikMothiki
+    # ✅ @sujithkumardola
   help: "తోడ్పాటు"
-  # ✅ @KarthikMothiki
-  # ❓ @sujithkumardola "సహాయం" is a better translation
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ❓ @sujithkumardola "సహాయం" is a better translation
   hex: "హెక్స్"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   id: "గుర్తింపు"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   input: "ఇన్పుట్"
-  # 👀 @KarthikMothiki
-  # 👀 @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # 👀 @KarthikMothiki
+    # 👀 @sujithkumardola
   int: "పూర్ణ సంఖ్య"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   isinstance: "ఇన్స్టన్స్"
-  # 👀 @KarthikMothiki
-  # ❓ @sujithkumardola "ఇస్ఇన్స్టన్" is a better translation
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # 👀 @KarthikMothiki
+    # ❓ @sujithkumardola "ఇస్ఇన్స్టన్" is a better translation
   issubclass: "ఐస్ సబ్ క్లాస్ "
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   iter: "మరల"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   len: "పొడవు"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   list: "పట్టిక"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   locals: "స్థానిక"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   map: "మ్యాప్ "
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   max: "గరిష్ట"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   memoryview: "మెమరీ వ్యూ "
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   min: "కనిష్ట"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   next: "తరువాత"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   object: "వస్తువు"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   oct: "ఆక్టల్"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   open: "తెరుచుట"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   ord: "ఒర్డ్"
-  # 👀 @KarthikMothiki
-  # 👀 @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # 👀 @KarthikMothiki
+    # 👀 @sujithkumardola
   pow: "ఘాతాంకం"
-  # 👀 @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # 👀 @KarthikMothiki
+    # ✅ @sujithkumardola
   print: "ముద్రించుట"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   property: "ప్రాపర్టీ"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   range: "పరిధి"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   repr: "రిప్రెసెంట్"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   reversed: "తిరగపడిన"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   round: "చుట్టు"
-  # 👀 @KarthikMothiki
-  # ❓ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # 👀 @KarthikMothiki
+    # ❓ @sujithkumardola
   set: "సెట్"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   setattr: "సెట్ ఆస్ట్రిబ్యూటె"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   slice: "భాగము"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   sorted: "క్రమబద్ధీకరించబడింది"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   staticmethod: "స్టాటిక్ పద్ధతి"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   str: "స్ట్రింగ్"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   sum: "మొత్తం"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   super: "సూపర్"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   tuple: "టుపుల్"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   type: "రకం"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   vars: "వేరియబుల్"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   zip: "జిప్"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
   __import__: "__దిగుమతి__"
-  # ✅ @KarthikMothiki
-  # ✅ @sujithkumardola
+    # 👀 @nagendrady
+    # 👀 @manojkrishnak
+    # 👀 @Ln11211
+    # ✅ @KarthikMothiki
+    # ✅ @sujithkumardola
 
 # << Error Messages >>
 
