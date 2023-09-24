@@ -1408,75 +1408,144 @@ __TRAIT__: ""
 
 # << Built-In Functions >>
 
-  abs: ""
-  all: ""
-  any: ""
-  ascii: ""
-  bin: ""
-  bool: ""
-  breakpoint: ""
-  bytearray: ""
-  bytes: ""
-  callable: ""
-  chr: ""
-  classmethod: ""
-  compile: ""
-  complex: ""
-  delattr: ""
-  dict: ""
-  dir: ""
-  divmod: ""
-  enumerate: ""
-  eval: ""
-  exec: ""
-  filter: ""
-  float: ""
-  format: ""
-  frozenset: ""
-  getattr: ""
-  globals: ""
-  hasattr: ""
-  hash: ""
-  help: ""
-  hex: ""
-  id: ""
-  input: ""
-  int: ""
-  isinstance: ""
-  issubclass: ""
-  iter: ""
-  len: ""
-  list: ""
-  locals: ""
-  map: ""
-  max: ""
-  memoryview: ""
-  min: ""
-  next: ""
-  object: ""
-  oct: ""
-  open: ""
-  ord: ""
-  pow: ""
-  print: ""
-  property: ""
-  range: ""
-  repr: ""
-  reversed: ""
-  round: ""
-  set: ""
-  setattr: ""
-  slice: ""
-  sorted: ""
-  staticmethod: ""
-  str: ""
-  sum: ""
-  super: ""
-  tuple: ""
-  type: ""
-  vars: ""
-  zip: ""
-  __import__: ""
+  abs: "itseisarvo"
+    # ✅ @minna-xd
+  all: "kaikki"
+    # ❓ @minna-xd: tai jopa 'kaikki-tosia'
+  any: "mikä-tahansa"
+    # ❓ @minna-xd: tai 'joku-totta' (ks. edellinen)
+  ascii: "asciiksi"
+    # ✅ @minna-xd: näissä tekee mieli käyttää -ksi, joka selventää että muunnetaan joksikin
+  bin: "binääriksi"
+    # ✅ @minna-xd
+  bool: "totuusarvoksi"
+    # ✅ @minna-xd
+  breakpoint: "keskeytyskohta"
+    # ✅ @minna-xd
+  bytearray: "tavutaulukoksi"
+    # ✅ @minna-xd
+  bytes: "tavuolioksi"
+    # ✅ @minna-xd
+  callable: "kutsuttavissa"
+    # ✅ @minna-xd
+  chr: "merkiksi"
+    # ✅ @minna-xd
+  classmethod: "luokkametodiksi"
+    # ✅ @minna-xd
+  compile: "käännä"
+    # ❓ @minna-xd: tämä lienee virallinen termi mutta aika monitulkintainen, 'koodiksi'? 'suoritettavaksi'?
+  complex: "kompleksiksi"
+    # ❓ @minna-xd: tai 'kompleksiluvuksi'
+  delattr: "poista-attribuutti"
+    # ✅ @minna-xd
+  dict: "sanakirjaksi"
+    # ✅ @minna-xd
+  dir: "hakemisto"
+    # ✅ @minna-xd
+  divmod: "osamäärä-jakojäännös"
+    # ✅ @minna-xd
+  enumerate: "numeroi"
+    # ✅ @minna-xd
+  eval: "arvioi"
+    # ✅ @minna-xd
+  exec: "suorita"
+    # ✅ @minna-xd
+  filter: "suodata"
+    # ✅ @minna-xd
+  float: "liukuluvuksi"
+    # ✅ @minna-xd
+  format: "muotoile"
+    # ✅ @minna-xd
+  frozenset: "lukituksi-joukoksi"
+    # ✅ @minna-xd
+  getattr: "hae-attribuutti"
+    # ✅ @minna-xd
+  globals: "yleiset"
+    # ✅ @minna-xd: varmista, että lopuksi sama sanavalinta kuin edellä 'global'
+  hasattr: "onko-attribuuttia"
+    # ✅ @minna-xd
+  hash: "hajautusarvo"
+    # ✅ @minna-xd
+  help: "ohje"
+    # ✅ @minna-xd
+  hex: "heksadesimaaliksi"
+    # ✅ @minna-xd
+  id: "tunniste"
+    # ✅ @minna-xd
+  input: "pyydä-syötettä"
+    # ❓ @minna-xd: tai ihan vain 'syöte', mutta se on monitulkintainen
+  int: "kokonaisluvuksi"
+    # ✅ @minna-xd
+  isinstance: "onko-luokkaa"
+    # ✅ @minna-xd
+  issubclass: "onko-aliluokka"
+    # ✅ @minna-xd
+  iter: "iteraattori"
+    # ✅ @minna-xd: tekisi mieli keksiä suomalainen vastine, mutta vaikeaa
+  len: "pituus"
+    # ✅ @minna-xd
+  list: "luetteloksi"
+    # ✅ @minna-xd
+  locals: "paikalliset"
+    # ✅ @minna-xd
+  map: "suorita-alkioille"
+    # ✅ @minna-xd
+  max: "suurin"
+    # ✅ @minna-xd
+  memoryview: "muistinäkymäksi"
+    # ❓ @minna-xd: tämä on itselleni outo käsite, joten epävarma käännösehdotus
+  min: "pienin"
+    # ✅ @minna-xd
+  next: "seuraava"
+    # ✅ @minna-xd
+  object: "olio"
+    # ✅ @minna-xd
+  oct: "oktaaliksi"
+    # ✅ @minna-xd
+  open: "avaa"
+    # ✅ @minna-xd
+  ord: "merkkipaikka"
+    # ✅ @minna-xd
+  pow: "potenssiin"
+    # ✅ @minna-xd
+  print: "tulosta"
+    # ✅ @minna-xd
+  property: "ominaisuus"
+    # ✅ @minna-xd
+  range: "lukujonoksi"
+    # ✅ @minna-xd
+  repr: "esitysmuoto"
+    # ✅ @minna-xd
+  reversed: "käänteinen"
+    # ✅ @minna-xd
+  round: "pyöristä"
+    # ✅ @minna-xd
+  set: "joukko"
+    # ✅ @minna-xd
+  setattr: "aseta-attribuutti"
+    # ✅ @minna-xd
+  slice: "osajoukoksi"
+    # ✅ @minna-xd
+  sorted: "järjestetty"
+    # ✅ @minna-xd
+  staticmethod: "staattiseksi-metodiksi"
+    # ✅ @minna-xd
+  str: "merkkijonoksi"
+    # ✅ @minna-xd
+  sum: "summaa"
+    # ✅ @minna-xd
+  super: "yliluokka"
+    # ✅ @minna-xd
+  tuple: "monikoksi"
+    # ✅ @minna-xd
+  type: "tyyppi"
+    # ❓ @minna-xd: tai 'laji', ikuinen ongelma :)
+  vars: "muuttujat"
+    # ✅ @minna-xd
+  zip: "yhdistä"
+    # ✅ @minna-xd
+  __import__: "__tuo__"
+    # ✅ @minna-xd
 
 # << Error Messages >>
 
