@@ -16,75 +16,99 @@ language-abbreviation: "hi"
   NOTE: "टिप्पणी"
     # ✅ @sshiv5768
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
   INFO: "जानकारी"
     # ✅ @sshiv5768
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
   IDEA: "विचार"
     # ✅ @sshiv5768
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
   DEBUG: "दोषमार्जन"
     # ❓ @sshiv5768 "डीबग करें"
     # ❓ @bhaveshgoyal182 "डीबग"
+    # ❓ @aadii0408 "डीबग करें"
   REMOVE: "हटाना"
     # ✅ @sshiv5768
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
   OPTIMIZE: "अनुकूलन"
     # ❓ @sshiv5768 "सुधारना"
     # ❓ @bhaveshgoyal182 "सुधारना"
+    # ❓ @aadii0408 "सुधारना"
   REVIEW: "समीक्षा"
     # ✅ @sshiv5768
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
   HACK: "हैक"
     # ✅ @sshiv5768
     # ❓ @bhaveshgoyal182 "आसान तरीका"
+    # ✅ @aadii0408
   UNDONE: "पूर्ववत"
     # ❓ @sshiv5768 "असंपादित"
     # ❓ @bhaveshgoyal182 "न किया हुआ"
+    # ✅ @aadii0408 -"नष्ट कर दिया"
   TODO: "करने के लिए"
     # ✅ @sshiv5768
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
   REFACTOR: "रेफेक्टर"
     # ✅ @sshiv5768
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
   DEPRECATED: "बहिष्कृत किया गया"
     # ❓ @sshiv5768 "बहिष्कृत करना"
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
   TASK: "कार्य"
     # ✅ @sshiv5768
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
   CHGME: "CHGME"
     # ✅ @sshiv5768
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
   NOTREACHED: "नहीं पहुँचा"
     # ✅ @sshiv5768
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
   WTF: "WTF"
     # ✅ @sshiv5768 Original word looks more programmic
     # ❓ @bhaveshgoyal182 "बेहूदा"
+    # ❓ @aadii0408 "क्या बकवास है"
   BUG: "प्रोग्राम में त्रुटि, दोष"
     # ✅ @sshiv5768 "प्रोग्राम में त्रुटि, दोष"
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
   ERROR: "त्रुटि"
     # ✅ @sshiv5768
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
   OMG: "OMG"
     # ✅ @sshiv5768 Original word suits way better rather than full form tranlation of OMG word
     # ❓ @bhaveshgoyal182 "हे भगवान"
+    # ✅ @aadii0408 - Original word suits better
   ERR: "ERR"
     # ❓ @sshiv5768 "त्रुटि"
     # ❓ @bhaveshgoyal182 "त्रुटि"
+    # ❓ @aadii0408 "त्रुटि"
   OMFGRLY: "OMFGRLY"
     # ✅ @sshiv5768 Original word looks more programmic
     # 🤔 @bhaveshgoyal182
+    # 🤔 @aadii0408
   WARNING: "चेतावनी"
     # ✅ @sshiv5768
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
   WARN: "चेतावनी देना"
     # ✅ @sshiv5768
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
   BROKEN: "टूटा हुआ"
     # ❓ @sshiv5768 "टूटा"
     # ✅ @bhaveshgoyal182
+    # ✅ @aadii0408
 
 # ----------------------
 # |   LANGUAGE: AGDA   |
@@ -194,66 +218,87 @@ language-abbreviation: "hi"
 do: "करना"
   # ✅ @sshiv5768 (part of do-while statement)
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408 ( in d0-while stat)
 while: "जबकि"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 for: "के लिये"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 if: "अगर"
   # ✅ @sshiv5768 (part of if-else statement)
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 else: "और"
   # ✅ @sshiv5768 (part of if-else statement)
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 switch: "बदलना"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 break: "विराम"
   # ✅ @sshiv5768 (part of the switch statement or for/while statements)
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 case: "स्थिति"
   # ✅ @sshiv5768 (part of the switch statement)
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 continue: "जारी रखें"
   # ✅ @sshiv5768 (part of for/while statements)
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 default: "डिफ़ॉल्ट"
   # ✅ @sshiv5768 (part of switch statement)
   # ❓ @bhaveshgoyal182 "अभाव"
+  # ❓ @aadii0408 (i think this should be more convenient "अप्राप्तिा"
 function: "कार्य"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 procedure: "प्रक्रिया"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 return: "वापसी"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 local: "स्थानीय"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 global: "वैश्विक"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 static: "स्थिर"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 typeof: "प्रकार का"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 NOT: "नहीं"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 AND: "तथा"
   # ✅ @sshiv5768
   # ❓ @bhaveshgoyal182 "और"
+  # ✅ @aadii0408
 OR: "या"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 Null: "अमान्य"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
+  # ✅ @aadii0408
 # << Error Messages >>
 
 # ----------------------
@@ -335,130 +380,162 @@ auto: "स्वत:"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 double: "दोहरा"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 int: "पूर्णांक"
   # ✅ @sshiv5768
   # 🤔 @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 struct: "संरचना"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 break: "विराम"
   # ✅ @sshiv5768
   # ❓ @bhaveshgoyal182 "तोड़ना"
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 else: "अन्य, और"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ❓ @179priyasoni "अन्यथा"
+  # ❓ @aadii0408 "अन्यथा"
 long: "लंबा"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 switch: "स्विच"
   # ✅ @sshiv5768
   # ❓ @bhaveshgoyal182 "बदलना"
   # 👀 @179priyasoni
+  # ✅ @aadii0408
 case: "स्थिति"
   # ✅ @sshiv5768
   # ❓ @bhaveshgoyal182 "मामला"
   # 👀 @179priyasoni
+  # ✅ @aadii0408
 enum: "गणना, परिगणना"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 register: "सूची, दर्ज करना"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 typedef: "परिभाषा का प्रकार"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 char: "अक्षर"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 extern: "extern"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 return: "वापस"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 union: "संयोजन"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 const: "अचल"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 float: "फ्लोट"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 short: "शोर्ट, छोटा"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 unsigned: "अहस्ताक्षरित"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 continue: "चालू रखना, जारी रखें"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 for: "के लिये"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 signed: "साइंड, पर हस्ताक्षर किए"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 void: "शून्य, रिक्त"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 default: "डिफ़ॉल्ट"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 goto: "इस पर चलें"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 sizeof: "का आकार"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 volatile: "परिवर्तनशील"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 do: "करना"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 if: "अगर"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 static: "स्थिर"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 while: "जबकि"
   # ✅ @sshiv5768
   # ✅ @bhaveshgoyal182
   # ✅ @179priyasoni
+  # ✅ @aadii0408
 
 # << Error Messages >>
 
@@ -1153,54 +1230,79 @@ z-index: "" #	Sets the stack order of a positioned element
 # << Keywords >>
 break: "विराम"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 default: "चूक"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 func: "कार्य"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 interface: "अंतराफलक"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 select: "चयन"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 case: "स्थिति"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 defer: "आस्थगित करें"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 go: "चलना"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 map: "मैप"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 struct: "संरचना"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 chan: "चान"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 else: "और"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 goto: "के लिए जाओ"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 package: "पैकेज, संकुल"
   # ✅ @sshiv5768
+  # ✅ @aadii0408 (also it should be more effective) "सन्दूक"
 switch: "बदलना"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 const: "अचल"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 fallthrough: "असफल"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 if: "अगर"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 range: "सीमा"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 type: "प्रकार"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 continue: "जारी रखें"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 for: "के लिये"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 import: "आयात"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 return: "वापसी"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 var: "वर"
   # ✅ @sshiv5768
+  # ✅ @aadii0408 Original word suits way better than tranlation
 
 # << Error Messages >>
 
@@ -1210,72 +1312,106 @@ var: "वर"
 # << Keywords >>
 as: "जैसा"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 case: "स्थिति, परिस्थिति"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 of: "का"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 class: "वर्ग, कक्षा"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 data: "डेटा"
   # ✅ @sshiv5768
+  # ❓ @aadii0408 "सामग्री"
 data family: "डेटा परिवार"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 data instance: "डेटा उदाहरण"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 default: "डिफ़ॉल्ट"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 deriving: "प्राप्त करना"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 deriving instance: "व्युत्पन्न उदाहरण, उदाहरण प्राप्त करना"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 do: "करना"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 forall: "सबके लिए"
+  # ✅ @aadii0408
   # ✅ @sshiv5768
 foreign: "बाह्य"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 hiding: "छुपा रहे है"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 if: "अगर"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 then: "फिर"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 else: "अन्य"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 import: "आयात"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 infix: "इन्फ़िक्स"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 infixl: "इन्फिक्सल "
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 infixr: "इन्फिक्सर"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 instance: "उदाहरण"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 let: "चलो"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 in: "में"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 mdo: "mdo"
   # ✅ @sshiv5768
+  # ✅ @aadii0408- better than any translation
 module: "मॉडुल, मापांक"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 newtype: "नया प्रकार"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 proc: "proc"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 qualified: "योग्य"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 rec: "rec"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 type: "प्रकार"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 type family: "परिवार प्रकार"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 type instance: "उदाहरण प्रकार"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 where: "जहां"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 
 # << Error Messages >>
 
@@ -1408,56 +1544,56 @@ wbr: "" #	Defines a possible line-break
 # |   LANGUAGE: JAVA   |
 # ----------------------
 # << Keywords >>
-abstract: ""
-continue: ""
-for: ""
-new: ""
-switch: ""
-assert: ""
-default: ""
-goto: ""
-package: ""
-synchronized: ""
-boolean: ""
-do: ""
-if: ""
-private: ""
-this: ""
-break: ""
-double: ""
-implements: ""
-protected: ""
-throw: ""
-byte: ""
-else: ""
-import: ""
-public: ""
-throws: ""
-case: ""
-enum: ""
-instanceof: ""
-return: ""
-transient: ""
-catch: ""
-extends: ""
-int: ""
-short: ""
-try: ""
-char: ""
-final: ""
-interface: ""
-static: ""
-void: ""
-class: ""
-finally: ""
-long: ""
-strictfp: ""
-volatile: ""
-const: ""
-float: ""
-native: ""
-super: ""
-while: ""
+abstract: "संक्षेप"
+continue: "जारी रखें"
+for: "के लिए"
+new: "नया"
+switch: "बदलो"
+assert: "दावा करना"
+default: "चूक जाना"
+goto: "इस पर चलें"
+package: "संकुल"
+synchronized: "संकालन करना"
+boolean: "बूलियन"
+do: "कार्य करना"
+if: "यदि"
+private: "निजी"
+this: "यह"
+break: "विराम"
+double: "दोहरा"
+implements: "उपकरण"
+protected: "संरक्षित"
+throw: "फेंकना"
+byte: "बाइट"
+else: "अन्यथा"
+import: "आयात"
+public: "सार्वजनिक"
+throws: "फेंकता"
+case: "स्थिति"
+enum: "एन्यूम"
+instanceof: "का उदाहरण"
+return: "वापसी"
+transient: "क्षणिक"
+catch: "पकड़"
+extends: "विस्तृत करना"
+int: "पूर्णांक"
+short: "कम"
+try: "प्रयत्न"
+char: "शब्"
+final: "अंतिम"
+interface: "अंतराफलक"
+static: "अचल"
+void: "शून्य"
+class: "वर्ग"
+finally: "अंतिम रूप में"
+long: "दीर्घ"
+strictfp: "सख्त एफपी"
+volatile: "परिवर्तनशील"
+const: "स्थिरांक"
+float: "चल"
+native: "देशी"
+super: "उत्तम"
+while: "जब तक"
 _: "" #_(underscore)
 
 # << Error Messages >>
@@ -1740,12 +1876,15 @@ false: ""
 # Not really sure how to do this for JSON
 $schema: "योजना"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 $ref: "संदर्भ"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 $id: "आईडी"
   # ✅ @sshiv5768
 $comment: "टिप्पणी"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 # << Error Messages >>
 
 # ----------------------
@@ -1754,14 +1893,19 @@ $comment: "टिप्पणी"
 # << Keywords >>
 __dirname: "निर्देशिका का नाम"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 __filename: "फ़ाइल का नाम"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 exports: "निर्यात"
   # ✅ @sshiv5768
+  # ✅ @aadii0408
 module: "मॉड्यूल"
   # ✅ @sshiv5768
+  # ✅ @aadii0408 - "भाग" (It should be more effective)
 require: "आवश्यक"
   # ✅ @sshiv5768 require()
+  # ✅ @aadii0408
 
 # << Error Messages >>
 
@@ -1918,144 +2062,168 @@ False: "असत्य"
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 None: "कोई नहीं"
   # ✅ @parammittal16
   # ❓ @iofall "कुछ नहीं" This seems better in the context of none as a datatype
   # ❓ @sshiv5768 "कुछ नहीं"
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 True: "सच"
   # ✅ @parammittal16
   # ❓ @iofall "सत्य"
   # ❓ @sshiv5768 "सत्य"
   # ✅ @Ln11211
   # ❓ @nik132-eng "सत्य" is better
+  # ❓ @aadii0408 "सत्य"
 and: "और"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 as: "के रूप में"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 assert: "जोर"
   # ✅ @parammittal16
   # ❓ @iofall "दावा करना" This one aligns better with the meaning of assert used in Python which is to claim/ give a data type and not "जोर" which would mean force
   # ❓ @sshiv5768 "दावा करना"
   # ❓ @Ln11211 I agree with "दावा करना"
   # ❓ @nik132-eng "दावा करना"
+  # ❓ @aadii008 "दावा करना" This one suits better with the meaning of assert which we used in Python
 async: "async"
   # ✅ @parammittal16
   # ❓ @iofall Translation for asynchronous is "अतुल्यकालिक"
   # ❓ @sshiv5768 "अतुल्यकालिक"
   # ❓ @Ln11211 Contextually "अतुल्यकालिक" is apt, and is the only translation.
   # ❓ @nik132-eng "अतुल्यकालिक" is better
+  # ✅ @aadii0408
 await: "प्रतीक्षा करें"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 break: "टूटना"
   # ✅ @parammittal16
   # ❓ @iofall "तोडना" or maybe "समाप्त करना" to better fit the context of ending a loop
   # ❓ @sshiv5768 "तोड़ना"
   # ❓ @Ln11211 "समाप्त" seems to be more accurate and apt to the context
   # ❓ @nik132-eng "तोड़ना" is better
+  # ❓ @aadi0408 "तोड़ना"
 class: "वर्ग"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 continue: "जारी रखें"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ❓ @Ln11211 "बने रहना", as it seems simple and to the point
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 def: "def"
   # ✅ @parammittal16
   # ❓ @iofall "परिभाषा करना" since def stands for define
   # ❓ @sshiv5768 "परिभाषा करना"
   # ❓ @Ln11211 "परिभाषा करना"
   # ❓ @nik132-eng "परिभाषा करना" is good to define
+  # ✅ @aadii0408
 del: "डेल"
   # ✅ @parammittal16
   # ❓ @iofall "हटाना" or "मिटाना". "डेल" is just the phonetic translation
   # ❓ @sshiv5768 "हटाना"
   # ❓ @Ln11211 I agree with "मिटाना"
   # ❓ @nik132-eng "हटाना" or "मिटाना" with both
+  # ❓ @aadii0408 "हटाना"
 elif: "एलिफ"
   # ✅ @parammittal16
   # ❓ @iofall "अथवा अगर"
   # ❓ @sshiv5768 "और अगर"
   # ❓ @Ln11211 "अथवा अगर" is better.
   # ❓ @nik132-eng "अथवा अगर" is better.
+  # ❓ @aadii0408 "और अगर" -is more effective.
 else: "अन्य"
   # ✅ @parammittal16
   # ❓ @iofall "अन्यथा"
   # ❓ @sshiv5768 "अन्य, अन्यथा"
   # ❓ @Ln11211 "अन्य, अन्यथा"
   # ❓ @nik132-eng "अन्य, अन्यथा" both are good
+  # ✅ @aadii0408
 except: "सिवाय"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 finally: "अंत में"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 for: "के लिए"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 from: "से"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 global: "वैश्विक"
   # ✅ @parammittal16
   # ❓ @iofall "विश्वीय"
   # ❓ @sshiv5768 "विश्वीय"
   # ❓ @Ln11211 "विश्वीय" makes sense.
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 if: "यदि"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 import: "आयात"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 in: "में"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 is: "है"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 lambda: "लैम्ब्डा"
   # ✅ @parammittal16
   # 🤔 @iofall "लैम्ब्डा" is just a phonetic translation
@@ -2074,30 +2242,35 @@ not: "नहीं"
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 or: "या"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 pass: "पास"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 raise: "उठाना"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 return: "वापसी"
   # ✅ @parammittal16
   # ❓ @iofall "प्रतिदान"
   # ❓ @sshiv5768 प्रतिदान
   # ❓ @Ln11211 "प्रतिफल" as "प्रतिदान" means to trade or exchange while "प्रतिफल" means a return or a result.
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 try: "प्रयास करें"
   # ✅ @parammittal16
   # ❓ @iofall "प्रयास करना"
@@ -2110,18 +2283,22 @@ while: "जबकि"
   # ❓ @sshiv5768 "जब तक"
   # ❓ @Ln11211 "जब तक"
   # ❓ @nik132-eng "जब तक"
+  # ✅ @aadii0408
 with: "साथ"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
 yield: "उपज"
   # ✅ @parammittal16
   # ✅ @iofall
   # 👀 @sshiv5768
   # ✅ @Ln11211
   # ✅ @nik132-eng
+  # ✅ @aadii0408
+
 # << Built-In Functions >>
 
 abs: "एब्स"
