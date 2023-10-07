@@ -1249,112 +1249,216 @@ __TRAIT__: ""
 # ----------------------
 # << Keywords >>
   False: "uwongo"
+    # ✅ @wambugucoder
   None: "hakuna"
+    # ✅ @wambugucoder
   True: "ukweli"
+    # ✅ @wambugucoder
   and: "na"
+    # ✅ @wambugucoder
   as: "kama"
+    # ✅ @wambugucoder
   assert: "sisitiza"
+    # ✅ @wambugucoder
   async: "async"
+    # ✅ @wambugucoder
   await: "ngoja"
+    # ✅ @wambugucoder
   break: "vunja"
+    # ✅ @wambugucoder
   class: "darasa"
+    # ✅ @wambugucoder
   continue: "endelea"
+    # ✅ @wambugucoder
   def: "fafanua"
+    # ✅ @wambugucoder
   del: "duta"
+    # ✅ @wambugucoder
   elif: "vinginevyo"
+    # ✅ @wambugucoder
   else: "ikiwa-si-ivyo"
+    # ✅ @wambugucoder
   except: "isipokuwa"
+    # ✅ @wambugucoder
   finally: "mwishowe"
+    # ✅ @wambugucoder
   for: "kwa"
+    # ✅ @wambugucoder
   from: "kutoka"
-  global:  "kimataifa"
+    # ✅ @wambugucoder
+  global: "kimataifa"
+    # ✅ @wambugucoder
   if: "kama"
+    # ✅ @wambugucoder
   import: "agiza"
+    # ✅ @wambugucoder
   in: "ndani"
+    # ✅ @wambugucoder
   is: "ni"
+    # ✅ @wambugucoder
   lambda: "lambda"
+    # ✅ @wambugucoder
   nonlocal: "isiyo-ya-kawaida"
+    # ✅ @wambugucoder
   not: "si"
+    # ✅ @wambugucoder
   or: "au"
+    # ✅ @wambugucoder
   pass: "pita"
+    # ✅ @wambugucoder
   raise: "inua"
+    # ✅ @wambugucoder
   return: "rudisha"
+    # ✅ @wambugucoder
   try: "jaribu"
+    # ✅ @wambugucoder
   while: "wakati"
+    # ✅ @wambugucoder
   with: "na"
+    # ✅ @wambugucoder
   yield: "mavuno"
+    # ✅ @wambugucoder
 
 # << Built-In Functions >>
 
   abs: "abs"
+    # ✅ @wambugucoder
   all: "yote"
+    # ✅ @wambugucoder
   any: "yoyote"
+    # ✅ @wambugucoder
   ascii: "ascii"
+    # ✅ @wambugucoder
   bin: "bin"
+    # ✅ @wambugucoder
   bool: "bool"
+    # ✅ @wambugucoder
   breakpoint: "mahali-pa-kuvunja"
+    # ✅ @wambugucoder
   bytearray: "baiti-safu"
+    # ✅ @wambugucoder
   bytes: "baiti"
+    # ✅ @wambugucoder
   callable: "inayoitwa"
+    # ✅ @wambugucoder
   chr: "tabia"
+    # ✅ @wambugucoder
   classmethod: "njia-ya-darase"
+    # ✅ @wambugucoder
   compile: "kusanya"
+    # ✅ @wambugucoder
   complex: "tata"
+    # ✅ @wambugucoder
   delattr: "futa-sifa"
+    # ✅ @wambugucoder
   dict: "kamusi"
+    # ✅ @wambugucoder
   dir: "saraka"
+    # ✅ @wambugucoder
   divmod: "divmod"
+    # ✅ @wambugucoder
   enumerate: "kuhesabu"
+    # ✅ @wambugucoder
   eval: "tathmini"
+    # ✅ @wambugucoder
   exec: "tekeleza"
+    # ✅ @wambugucoder
   filter: "chuja"
+    # ✅ @wambugucoder
   float: "elea"
+    # ✅ @wambugucoder
   format: "muundo"
+    # ✅ @wambugucoder
   frozenset: "waliohifadhiwa"
+    # ✅ @wambugucoder
   getattr: "pata-sifa"
+    # ✅ @wambugucoder
   globals: "ulimwengu"
+    # ✅ @wambugucoder
   hasattr: "ina-sifa"
+    # ✅ @wambugucoder
   hash: "hash"
+    # ✅ @wambugucoder
   help: "saidia"
+    # ✅ @wambugucoder
   hex: "hex"
+    # ✅ @wambugucoder
   id: "kitambulisho"
+    # ✅ @wambugucoder
   input: "pembejeo"
+    # ✅ @wambugucoder
   int: "nambari"
+    # ✅ @wambugucoder
   isinstance: "mfano"
+    # ✅ @wambugucoder
   issubclass: "darasa-ndogo"
+    # ✅ @wambugucoder
   iter: "mara-kwa-mara"
+    # ✅ @wambugucoder
   len: "urefu"
+    # ✅ @wambugucoder
   list: "orodha"
+    # ✅ @wambugucoder
   locals: "wenyeji"
+    # ✅ @wambugucoder
   map: "ramani"
+    # ✅ @wambugucoder
   max: "upeo"
+    # ✅ @wambugucoder
   memoryview: "mtazamo-wa-kumbukumbu"
+    # ✅ @wambugucoder
   min: "kiwango-cha-chini"
+    # ✅ @wambugucoder
   next: "ijayo"
+    # ✅ @wambugucoder
   object: "kitu"
+    # ✅ @wambugucoder
   oct: "oct"
+    # ✅ @wambugucoder
   open: "fungua"
+    # ✅ @wambugucoder
   ord: "utaratibu"
+    # ✅ @wambugucoder
   pow: "nguvu"
+    # ✅ @wambugucoder
   print: "chapisha"
+    # ✅ @wambugucoder
   property: "mali"
+    # ✅ @wambugucoder
   range: "masafa"
+    # ✅ @wambugucoder
   repr: "repr"
+    # ✅ @wambugucoder
   reversed: "geuza-nyuma"
+    # ✅ @wambugucoder
   round: "raundi"
+    # ✅ @wambugucoder
   set: "seti"
+    # ✅ @wambugucoder
   setattr: "weka-sifa"
+    # ✅ @wambugucoder
   slice: "kipande"
+    # ✅ @wambugucoder
   sorted: "pangwa"
+    # ✅ @wambugucoder
   staticmethod: "njia-tuli"
+    # ✅ @wambugucoder
   str: "str"
+    # ✅ @wambugucoder
   sum: "jumla"
+    # ✅ @wambugucoder
   super: "super"
+    # ✅ @wambugucoder
   tuple: "tuple"
+    # ✅ @wambugucoder
   type: "aina"
+    # ✅ @wambugucoder
   vars: "vars"
+    # ✅ @wambugucoder
   zip: "bana"
+    # ✅ @wambugucoder
   __import__: "_agiza_"
+    # ✅ @wambugucoder
 
 # << Error Messages >>
 
