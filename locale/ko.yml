@@ -1255,7 +1255,7 @@
      as: "별칭"
      assert: "확인"
      async: "비동기"
-     await: "비동기 호출"
+     await: "대기"
      break: "탈출"
      class: "분류"
      continue: "계속"
@@ -1264,7 +1264,7 @@
      elif: "아니면 만약"
      else: "아니면"
      except: "예외"
-     finally: ""
+     finally: "마지막으로"
      for: "반복"
      from: "부터"
      global: "전역"
@@ -1272,7 +1272,7 @@
      import: "가져오기"
      in: "속해 있는"
      is: "동일"
-     lambda: "변환"
+     lambda: "익명함수"
      nonlocal: "비지역"
      not: "아니다"
      or: "이거나"
@@ -1281,8 +1281,8 @@
      return: "반환"
      try: "시도"
      while: "동안"
-     with: "와 함께"
-     yield: "양보"
+     with: "사용하기"
+     yield: "내어주기"
 
      # << Built-In Functions >>
 
