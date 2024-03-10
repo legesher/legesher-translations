@@ -4,7 +4,7 @@ version = "0.0.1"
 description = "Home of all the translations for spoken languages into programming language"
 repository = "https://github.com/legesher/legesher-translations"
 authors = ["Madison (Pfaff) Edgar <7844510+madiedgar@users.noreply.github.com>"]
-packages = [{include = "legesher_translations}]
+packages = [{include = "legesher_translations"}]
 readme = "README.md"
 
 [tool.poetry.dependencies]
@@ -21,3 +21,33 @@ isort = "^5.13.2"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+profile = "black"
+py_version = 312
+line_length = 120
+force_grid_wrap = 0
+multi_line_output = 3
+use_parentheses = true
+include_trailing_comma = true
+ensure_newline_before_comments = true
+
+
+[tool.black]
+line-length = 120
+target-version = ['py312']
+include = '\.pyi?$'
+exclude = '''
+/(
+    \.eggs
+    | \.git
+    | \.hg
+    | \.mypy_cache
+    | \.tox
+    | \.venv
+    | _build
+    | buck-out
+    | build
+    | dist
+)/
+'''
