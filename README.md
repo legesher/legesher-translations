@@ -1,5 +1,5 @@
-<img src="/lib/images/README-EggPeggy.png" align="center"/>
-
+![Pre-commit Hook](lib/images/README-EggPeggy.png)
+<!-- <img src="/lib/images/README-EggPeggy.png" align="center"/> -->
 <h1 align="center">Legesher Translations</h1>
 <blockquote align="center">Translation database for written languages ✏️ used in programming languages💻.  </blockquote>
 <p align="center">Programming with <b>Legesher</b>'s dev tools empowers any developer to create without losing the art of innovation 💡, creativity 🎨, or collaboration 🤝 in translation. </p>
@@ -51,7 +51,7 @@
             alt="Read on Medium"></a> -->
     <a href="https://mailchi.mp/083d8b2e0e12/legesher-landing-page">
         <img src="https://img.shields.io/badge/-Subscribe-black?style=flat-square&logo=mailchimp&logoColor=7ed2e7"
-            alt="Subscribe on Mailchimp"></a>    
+            alt="Subscribe on Mailchimp"></a>
 </p>
 <!-- SOCIAL MEDIA -->
 
@@ -82,7 +82,7 @@ We are actively working on adding as many written languages as we can for versio
 - [Indonesian (id)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Indonesian")
 - [Italian (it)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Italian")
 - [Kabyle (kab)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Kabyle")
-- [Malayalam (ml)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Malayalam")                                                                   
+- [Malayalam (ml)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Malayalam")
 - [Nepali (ne)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Nepali")
 - [Polish (pl) ](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Polish")
 - [Portuguese (pt)](https://github.com/legesher/legesher-translations/issues?q=label%3A"Dialect%3A+Portugese")
@@ -100,53 +100,28 @@ We are actively working on adding as many written languages as we can for versio
 
 _📢 If your native language is not available in the Legesher translation repository, we'd love your help to add it!! Create an issue using the "🌏 Add New Dialect" template._
 
+## Development
+*If you are new to GitHub and need help getting set up, these [docs](https://docs.legesher.io/legesher-docs/getting-started) were created for you!*
+
+**1️⃣ Setup repository with Poetry and Pre-Commit**
+```bash
+poetry install # installs dependencies of the project
+poetry shell # this will activate the virtual environment
+pre-commit install # helpful hooks for maintaining code style
+```
+![Pre-commit Hook](lib/images/README-pre-commit-hook.png)
+
+**2️⃣ Start at the correct branch to develop your feature/add your translation**
+To develop a new feature for the entire repository, please use the `master` branch as the base for your feature branch.
+
+To add an initial translation or a translation review for a particular language, please use the language's specific branch: `LANGUAGE-translation`. _Please make translation PR's for a new or reviewed language to the designated branch and not to `master`._
+More details on translation PR expectations are found in the [Translation Guide](https://docs.legesher.io/legesher-translations/translation-guide).
+
 # Contributing
 
 ❤️ Legesher relies on the passionate members of its community (both developer and non-developer alike) to keep delivering impactful tools to people all over the world.
 
 Before contributing, be sure to consult Legesher's [contribution guidelines](https://docs.legesher.io/the-official-things/contributing-guidelines) and [language conventions](https://docs.legesher.io/legesher-translations/translation-conventions). As a member of our community, you must abide by our [Code Of Conduct](https://docs.legesher.io/the-official-things/code-of-conduct).
-
-## Installation
-
-**1️⃣ Fork the `legesher/legesher-translations/` repository**  
-Follow these instructions on [how to fork a repository](https://help.github.com/en/articles/fork-a-repo)
-
-**2️⃣ Cloning the repository**  
-Once you have set up your fork of the `legesher/legesher-translations` repository, you'll want to clone it to your local machine. This is so you can make and test all of your personal edits before adding it to the master version of `legesher/legesher-translations`.
-
-Navigate to the location on your computer where you want to host your code. Once in the appropriate folder, run the following command to clone the repository to your local machine.
-
-```
-git clone git@github.com:your-username/legesher-translations.git
-```
-
-**3️⃣ Switch to the language's branch**
-For translating, any changes will be first made in the language specific branch, `LANGUAGE-translation`. _Please make translation PR's for a new or reviewed language to the designated branch and not to `master`._
-
-More details on translation PR expectations are found in the [Translation Guide](https://docs.legesher.io/legesher-translations/translation-guide).
-
-## Development
-
-We love your desire to give back, and want to make the process as welcoming to newcomers and experts as possible. We're working on developing more intuitive tutorials for individuals of all skill levels and expertise, so if you think the community would value from being walked through the steps you're going through please share! ❤️
-
-# Legesher Projects
-
-Legesher Developer Tools might be useful to you if:
-
-- you are a non-native English speaker
-- you are new to programming
-- you work on a team with non-native English speakers
-- you are a developer (simple enough)
-
-| Project                                                                                  | Purpose                                                                                                   |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| [`tree-sitter-legesher-python`](https://github.com/legesher/tree-sitter-legesher-python) | Tree-sitter python grammar used by text editors allowing Legesher's languages to be implemented           |
-| [`language-legesher-python`](https://github.com/legesher/language-legesher-python)       | Atom's programming language binding to allow syntax highlighting, code folding, etc. to a specific grammar |
-| [`legesher-translations`](https://github.com/legesher/legesher-translations)             | Host and API of all the language translations for written languages for code keywords / concepts          |
-| [`legesher-dot-io`](https://github.com/legesher/legesher-dot-io)                         | Legesher's public [website](https://legesher.io)                                                          |
-| [`legesher-docs`](https://github.com/legesher/legesher-docs)                             | Legesher's documentation hub. Will be transitioning to a documentation host soon.                         |
-| [`legesher`](https://github.com/legesher/legesher)                                       | Git integration to collaborate with code and others in other languages                                    |
-| [`legesher-pride`](https://github.com/legesher/legesher-pride)                           | A non-programmer's dream is to conrtibute to open source by sharing what they know and learning what's new |
 
 ## The Community
 
