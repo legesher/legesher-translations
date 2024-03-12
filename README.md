@@ -1,5 +1,5 @@
-![Pre-commit Hook](lib/images/README-EggPeggy.png)
-<!-- <img src="/lib/images/README-EggPeggy.png" align="center"/> -->
+![Pre-commit Hook](supplementary/images/README-EggPeggy.png)
+<!-- <img src="/supplementary/images/README-EggPeggy.png" align="center"/> -->
 <h1 align="center">Legesher Translations</h1>
 <blockquote align="center">Translation database for written languages ✏️ used in programming languages💻.  </blockquote>
 <p align="center">Programming with <b>Legesher</b>'s dev tools empowers any developer to create without losing the art of innovation 💡, creativity 🎨, or collaboration 🤝 in translation. </p>
@@ -109,7 +109,7 @@ poetry install # installs dependencies of the project
 poetry shell # this will activate the virtual environment
 pre-commit install # helpful hooks for maintaining code style
 ```
-![Pre-commit Hook](lib/images/README-pre-commit-hook.png)
+![Pre-commit Hook](supplementary/images/README-pre-commit-hook.png)
 
 **2️⃣ Start at the correct branch to develop your feature/add your translation**
 To develop a new feature for the entire repository, please use the `master` branch as the base for your feature branch.
