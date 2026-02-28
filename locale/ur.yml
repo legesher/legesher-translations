@@ -1250,215 +1250,322 @@ __TRAIT__: ""
 # << Keywords >>
   False: "غلط"
     # ✅ @nooras
+    # ✅ @sarr266
   None: "کُچھ نہیں"
     # ✅ @nooras
+    # ❓ @sarr266 (ندارد)
   True: "صحیح"
     # ✅ @nooras
+    # ✅ @sarr266 
   and: "اور"
     # ✅ @nooras
+    # ✅ @sarr266
   as: "جیسا کہ"
     # ✅ @nooras
+    # ❓ @sarr266 (بطور)
   assert: "دعویٰ"
     # ✅ @nooras
+    # ✅ @sarr266
   async: "غیر متزلزل"
     # ✅ @nooras
+    # ❓ @sarr266 (نا ہم وقت)
   await: "انتظار"
     # ✅ @nooras
+    # ✅ @sarr266
   break: "توڑ"
     # ✅ @nooras
+    # ✅ @sarr266
   class: "کلاس"
     # ✅ @nooras
+    # ❓ @sarr266 (طبقہ)
   continue: "جاری رہے"
     # ✅ @nooras
+    # ❓ @sarr266 (can be simplified to: جاری)
   def: "واضح"
     # ✅ @nooras
+    # ❓ @sarr266 (تعریف)
   del: "مٹانا"
     # ✅ @nooras
+    # ✅ @sarr266
   elif: "ورنہ اگر"
     # ✅ @nooras
+    # ✅ @sarr266
   else: "ورنہ"
     # ✅ @nooras
+    # ✅ @sarr266
   except: "سوائے"
     # ✅ @nooras
+    # ✅ @sarr266
   finally: "آخر"
     # ✅ @nooras
+    # ❓ @sarr266 (آخرکار)
   for: "کے لیے"
     # ✅ @nooras
+    # ❓ @sarr266 (ہر)
   from: "سے"
     # ✅ @nooras
+    # ✅ @sarr266
   global:  "عالم"
     # ✅ @nooras
+    # ❓ @sarr266 (عالمی)
   if: "اگر"
     # ✅ @nooras
+    # ✅ @sarr266
   import: "درآمد"
     # ✅ @nooras
+    # ✅ @sarr266
   in: "اندر"
     # ✅ @nooras
+    # ✅ @sarr266
   is: "ہے"
     # ✅ @nooras
+    # ✅ @sarr266
   lambda: "لیمبڈا"
     # ✅ @nooras
+    # ✅ @sarr266
   nonlocal: "غیر مقامی"
     # ✅ @nooras
+    # ✅ @sarr266
   not: "نہیں"
     # ✅ @nooras
+    # ✅ @sarr266
   or: "یا"
     # ✅ @nooras
+    # ✅ @sarr266
   pass: "پاس"
     # ✅ @nooras
+    # ❓ @sarr266 (گزر)
   raise: "اُٹھانا"
     # ✅ @nooras
+    # ✅ @sarr266
   return: "واپس"
     # ✅ @nooras
+    # ✅ @sarr266
   try: "کوشش"
     # ✅ @nooras
+    # ✅ @sarr266
   while: "جبکہ"
     # ✅ @nooras
+    # ❓ @sarr266 (جبتک)
+  for: "کے لیے"
+    # ✅ @sarr266
   with: "کے ساتھ"
     # ✅ @nooras
+    # ✅ @sarr266
   yield: "پیدا"
     # ✅ @nooras
+    # ✅ @sarr266
 
 # << Built-In Functions >>
 
   abs: "مطلق"
     # ✅ @nooras
+    # ✅ @sarr266
   all: "سب"
     # ✅ @nooras
+    # ✅ @sarr266
   any: "کوئی"
     # ✅ @nooras
+    # ✅ @sarr266
   ascii: "ascii"
     # ❓ @nooras Fullform of ascii in URDU is "امریکی معیاری رمز براۓ اطلاعاتی تبادلہ"
+    # ❓ @sarr266 (امریکی معیاری رمز برائے اطلاعاتی تبادلہ = امرات)
   bin: "بائنری"
     # ✅ @nooras
+    # ✅ @sarr266 
   bool: "بولین"
     # ✅ @nooras
+    # ❓ @sarr266 (بوليائی)
   breakpoint: "بریک پوائنٹ"
     # ✅ @nooras
+    # ✅ @sarr266 
   bytearray: "بائٹ ایرے"
     # ✅ @nooras
+    # ✅ @sarr266 
   bytes: "بائٹس"
     # ✅ @nooras
+    # ✅ @sarr266 
   callable: "قابل طلب"
     # ✅ @nooras
+    # ✅ @sarr266 
   chr: "حروف"
     # ✅ @nooras
+    # ❓ @sarr266 (حرف)
   classmethod: "کلاس کا طریقہ"
     # ❓ @nooras another option could be "کلاس ترتیب"
+    # ❓ @sarr266 (طبقاتی طریقہ)
   compile: "تالیف کرنا"
     # ✅ @nooras
+    # ❓ @sarr266 (can be simplified to: تالیف)
   complex: "پیچیدہ"
     # ✅ @nooras
+    # ❓ @sarr266 (ملتف)
+
   delattr: "صفعت مٹانا"
     # ❓ @nooras another option could be "خاصیت مٹانا"
+    # ✅ @sarr266 (both options are fine: صفت مٹانا and خاصیت مٹانا)
   dict: "لغت"
     # ✅ @nooras
+    # ✅ @sarr266
   dir: "ڈائریکٹری"
     # ✅ @nooras
+    # ✅ @sarr266
   divmod: "تقسیم ذریب"
     # ✅ @nooras
+    # ❓ @sarr266 (تقسیم باقی)
   enumerate: "گننا"
     # ✅ @nooras
+    # ❓ @sarr266 (شمار)
   eval: "حساب"
     # ✅ @nooras
+    # ✅ @sarr266
   exec: "عمل میں لانا"
     # ✅ @nooras
+    # ❓ @sarr266 (اجرا)
   filter: "تَقطیر"
     # ❓ @nooras another option could be "فلٹر"
+    # ❓ @sarr266 (چھان)
   float: "فلوٹ"
     # ✅ @nooras
+    # ❓ @sarr266 (اعشاری)
   format: "فارمیٹ"
     # ✅ @nooras
+    # ❓ @sarr266 (another option: ہیئت)
   frozenset: "فروزن سیٹ"
     # ✅ @nooras
+    # ❓ @sarr266 (جامد_مجموعہ)
   getattr: "صفعت حاصل کرنا"
     # ✅ @nooras
+    # ❓ @sarr266(can be simplified to: حاصل صفت)
   globals: "عالمی"
     # ✅ @nooras
+    # ❓ @sarr266 (عالم)
   hasattr: "صفعت ہے"
     # ✅ @nooras
+    # ❓ @sarr266(موجود صفت)
   hash: "ہیش"
+    # ✅ @nooras
     # ✅ @nooras
   help: "مدد"
     # ✅ @nooras
+    # ✅ @sarr266
   hex: "ہیکس"
     # ✅ @nooras
+    # ✅ @sarr266
   id: "آئی ڈی"
     # ✅ @nooras
+    # ❓ @sarr266 (شناخت)
   input: "ان پٹ"
     # ✅ @nooras
+    # ❓ @sarr266 (داخلہ)
   int: "اِنٹ"
     # ✅ @nooras
+    # ❓ @sarr266 (عدد)
   isinstance: "مثال ہے"
     # ✅ @nooras
+    # ❓ @sarr266 (a better option: نمونہ ہے)
   issubclass: " سب کلاس ہے"
     # ✅ @nooras
+    # ❓ @sarr266 (ذیلی طبقہ ہے)
   iter: "دہرانا"
     # ✅ @nooras
+    # ✅ @sarr266
   len: "لمبائی"
     # ✅ @nooras
+    # ✅ @sarr266
   list: "فہرست"
     # ✅ @nooras
+    # ✅ @sarr266
   locals: "مقامی"
     # ✅ @nooras
+    # ✅ @sarr266
   map: "نقشہ"
     # ✅ @nooras
+    # ❓ @sarr266 (نقشہ means chart, outline, map. Replacement: اطلاق ,اطلاق means application)
   max: "اعلیٰ"
     # ❓ @nooras another option could be "زیادہ سے زیادہ"
+    # ❓ @sarr266 (زیادہ_سے_زیادہ)
   memoryview: "میموری ویو"
     # ✅ @nooras
+    # ✅ @sarr266
   min: "ادنیٰ"
     # ❓ @nooras another option could be "کم از کم"
+    # ❓ @sarr266 (کم_از_کم)
   next: "اگلا"
     # ✅ @nooras
+    # ✅ @sarr266
   object: "اوبجکٹ"
     # ✅ @nooras
+    # ❓ @sarr266 (شے)
   oct: "آکٹل"
     # ✅ @nooras
+    # ✅ @sarr266
   open: "کھلا"
     # ✅ @nooras
+    # ❓ @sarr266 (کھول)
   ord: "آرد"
     # ❓ @nooras another option could be "ord"
+    # ❓ @sarr266 (ترتیب)
   pow: "پاؤ"
     # ✅ @nooras
+    # ❓ @sarr266 (طاقت)
   print: "پرنٹ"
     # ✅ @nooras
+    # ❓ @sarr266 (لکھو)
   property: "صفت"
     # ✅ @nooras
+    # ❓ @sarr266 (خاصیت)
   range: "حد"
     # ✅ @nooras
+    # ❓ @sarr266 (سلسلہ)
   repr: "repr"
     # ✅ @nooras
+    # ✅ @sarr266
   reversed: "الٹا"
     # ✅ @nooras
+    # ❓ @sarr266 (پلٹ)
   round: "گول"
     # ✅ @nooras
+    # ❓ @sarr266 (other options: عدد مکمل or قریبی عدد)
   set: "سیٹ"
     # ✅ @nooras
+    # ❓ @sarr266 (other option: مجموعہ)
   setattr: "صفعت مقدرکرنا"
     # ✅ @nooras
+    # ❓ @sarr266 (can be simplified to: مقرر صفت)
   slice: "ٹکڑا"
     # ✅ @nooras
+    # ✅ @sarr266
   sorted: "ترتیب وار"
     # ✅ @nooras
+    # ✅ @sarr266
   staticmethod: "سٹیٹک طریقہ"
     # ✅ @nooras
+    # ❓ @sarr266 (ساکن طریقہ)
   str: "سٹرنگ"
     # ✅ @nooras
+    # ❓ @sarr266 (string: ڈوری, str: ڈور)
   sum: "کُل"
     # ✅ @nooras
+    # ❓ @sarr266 (جمع)
   super: "سُپر"
     # ✅ @nooras
+    # ✅ @sarr266
   tuple: "ٹپل"
     # ✅ @nooras
+    # ✅ @sarr266
   type: "قسم"
     # ✅ @nooras
+    # ✅ @sarr266
   vars: "متغیر"
     # ✅ @nooras
+    # ✅ @sarr266
   zip: "زپ"
     # ✅ @nooras
+    # ❓ @sarr266 (another option: ضم)
   __import__: "__درآمد__"
     # ✅ @nooras
+    # ✅ @sarr266
 
 # << Error Messages >>
 
