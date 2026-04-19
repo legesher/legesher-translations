@@ -521,6 +521,7 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/26907770?v=4",
       "profile": "https://github.com/alxnull",
       "contributions": [
+        "review",
         "translation"
       ]
     },
@@ -638,6 +639,7 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/36460223?v=4",
       "profile": "https://github.com/begeistert",
       "contributions": [
+        "review",
         "translation"
       ]
     },
@@ -757,6 +759,15 @@
       "profile": "https://github.com/179priyasoni",
       "contributions": [
         "translation"
+      ]
+    },
+    {
+      "login": "jaimegarjr",
+      "name": "Jaime Garcia Jr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40704782?v=4",
+      "profile": "https://github.com/jaimegarjr",
+      "contributions": [
+        "review"
       ]
     }
   ],
