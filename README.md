@@ -1,3 +1,15 @@
+> ## ⚠️ This repository is deprecated
+>
+> **Legesher's translation work has moved to the monorepo:** [**Legesher/legesher/libs/i18n/**](https://github.com/legesher/legesher/tree/main/libs/i18n)
+>
+> - **51 language packs** (experimental, community validation ongoing) — [browse them](https://github.com/legesher/legesher/tree/main/libs/i18n/language-packs/python)
+> - **Install:** `pip install legesher-i18n`
+> - **Contribute:** open PRs, issues, and translation reviews on the [monorepo](https://github.com/legesher/legesher)
+>
+> This repo is kept as a historical record. The **[149 contributors](CONTRIBUTORS.md)** whose work established Legesher's translation infrastructure are credited here. Full line-by-line community review discussions for Spanish and German translations are preserved in [`docs/review-history/`](docs/review-history/). Browse, fork, learn — but please direct new contributions to the monorepo.
+>
+> ---
+
 <img src="/lib/images/README-EggPeggy.png" align="center"/>
 
 <h1 align="center">Legesher Translations</h1>
