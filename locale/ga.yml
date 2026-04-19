@@ -1,0 +1,1827 @@
+# Files in the locale directory are used for localization.
+# If you want to use locales other than English, follow the instructions in legesher-translations guide.
+# https://legesher.readme.io/docs/translation-guide
+#
+# THANK YOU FOR MAKING LEGESHER LARGER THAN US.
+Database: bunachar sonraí
+
+dearbhaigh/fógair = declare, assert?
+
+else? eile
+
+abstract?
+set = set variable or set theory?
+
+while = i rith/le linn/tamall/seal/nuair
+
+where = áite/cá bhfuil
+
+# NOTE: "language-abbreviation"
+language-abbreviation: "ga"
+
+# ----------------------
+# |    SYSTEM: ATOM (ADAMH)   |
+# ----------------------
+# << Keywords >>
+# NOTE: All keywords are capitalized for Atom because it is used for
+# key information found in comments within the editor
+  NOTE: "NÓTA"
+  INFO: "EOLAS"
+  IDEA: "TUALEIS"
+  DEBUG: "DÍFHABHTAIGH"
+  REMOVE: "AISTRIGH"
+  OPTIMIZE: "?" #optamaigh/barrfheabhsaigh
+  REVIEW: "ATHBHREITHNIÚ"
+  HACK: "HAICEÁIL"
+  UNDONE: "" #cealaigh/cealaithe
+  TODO: "ÁDHEANAMH"
+  REFACTOR: "ATHFHACHTÓRIGH"
+  DEPRECATED: "GNÉ DHÍMHOLTA" #deprecated feature
+  TASK: "TASC"
+  CHGME: ""
+  NOTREACHED: ""
+  WTF: ""
+  BUG: "FABHT"
+  ERROR: "EARRÁID"
+  OMG: "ÓMD"
+  ERR: "EARRÁID" #?
+  OMFGRLY: ""
+  WARNING: "RABHADH"
+  WARN: "TABHAIR RABHADH"
+  BROKEN: BRISTÉ
+
+# ----------------------
+# |   LANGUAGE: AGDA   |
+# ----------------------
+# NOTE: https://agda.readthedocs.io/en/v2.5.4.2/index.html
+# << Keywords >>
+  abstract: ""
+  codata: "comhsonraí?"
+  coinductive: "comh?ionduchtaitheach?ionduchtach"
+  constructor: "cruthaitheoir"
+  data: "sonraí"
+  do: "déan"
+  eta-equality: "-cothroime "
+  field: "réimse"
+  forall: "dogach"
+  hiding: ""
+  import: "iompórtáil"
+  in: "isteach/istigh"
+  inductive: "ionductach?"
+  infix: ""
+  infixl: ""
+  infixr: ""
+  instance: "ásc"
+  let: "lig"
+  macro: "macra"
+  module: "modúl"
+  mutual: "cómhalartach"
+  no-eta-equality: "-cothroime"
+  open: "oscailte"
+  overlap: "forluí/forluigh" #n/v?
+  pattern: "patrún"
+  postulate: "postaláidigh(br)/postaláid"
+  primitive: "buntéarma" #primitíbheach
+  private: "príobháideach"
+  public: "poiblí"
+  quote: ""
+  quoteContext: ""
+  quoteGoal: ""
+  quoteTerm: ""
+  record: ""
+  renaming: "athainmniú"
+  rewrite: "athscríobh"
+  Set: "" # can appear with a number suffix, optionally suffixed, make sure we account for this
+  syntax: "comhréir"
+  tactic: "oirbheart"
+  unquote: ""
+  unquoteDecl: ""
+  unquoteDef: ""
+  using: "ag úsáid? grammar"
+  where: "áite/cá bhfuil"
+  with: "leis"
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: AFL    |
+# ----------------------
+# Amibroker Formula Language
+# NOTE: https://www.amibroker.com/guide/a_language.html
+
+# << Keywords >>
+do: "dean" # (part of do-while statement)
+while: ""
+for: "do"
+if: "más" # (part of if-else statement)
+else: "ná" # (part of if-else statement)
+switch: "lasc"
+break: "bristé" # (part of the switch statement or for/while statements)
+case: "cás" # (part of the switch statement)
+continue: "lean ar" # (part of for/while statements)
+default: "réamhshocrú" # (part of switch statement)
+function: "feidhm"
+procedure: "fo-oideas"
+return: "aisfhilleadh"
+local: "logánta"
+global: "domhanda"
+static: "statach"
+typeof: "cineál"
+NOT: ""
+AND: "AGUS"
+OR: "NÓ"
+Null: "Nialasach"
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: BASH   |
+# ----------------------
+# << Keywords >>
+case: "cás/tuiseal"
+do: "déan"
+done: "déanta"
+elif: "eile"
+else: "nó"
+esac: "sác/leasiut"
+fi: "sám"
+for: "do"
+function: "feidhm"
+if: "más"
+in: "isteach"
+select: "roghnaigh"
+then: "ansin"
+time: "ám"
+until: "go"
+while: "i rith/le linn"
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: C      |
+# ----------------------
+# << Keywords >>
+auto: "uath"
+double: "dúbailte"
+int: "slánuimhir"
+struct: "struchtúr"
+break: "bris"
+else: ""
+long: "fada"
+switch: "lasc"
+case: "cás"
+enum: "áirigh"
+register: "cláraigh"
+typedef: "cineál"
+char: "carachtar"
+extern: "seachtrach"
+return: "aisfhilleadh"
+union: "aontas"
+const: "tairiseach"
+float: "snámhphointe"
+short: "gairid/gearr"
+unsigned: "gan sín"
+continue: "lean ar"
+for: "do"
+signed: "le sín"
+void: "folamh/folúntas"
+default: "réamhshocrú"
+goto: "dulgodtí"
+sizeof: "méidede?"
+volatile: "luaineach"
+do: "déan"
+if: "más"
+static: "statach"
+while: ""
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE:  C++   |
+# ----------------------
+# << Keywords >>
+
+#define: "sainigh/sainmhínigh"
+#defined: "sainithe/sainmhínithe"
+#elif: "eile más?"
+#else: ""
+#endif: "críocnaigh más"
+#error: "earráid"
+#if: "más"
+#ifdef: ""
+#ifndef: ""
+#include: "cuimsigh"
+#line: "líne"
+#pragma: ""
+#undef: ""
+alignas: ""
+alignof: ""
+and: "agus"
+and_eq: ""
+asm: ""
+atomic_cancel: ""
+atomic_commit: ""
+atomic_noexcept: ""
+auto: ""
+bitand: ""
+bitor: ""
+bool: ""
+break: "bris"
+case: "cás"
+catch: "gabháil"
+char: "carachtar"
+char16_t: "carachtar16_?"
+char32_t: "carachtar32_"
+class: "aicme"
+compl: ""
+concept: "coincheap"
+const: "tairiseach"
+constexpr: "tairiseach?"
+const_cast: "tairiseach?"
+continue: "lean ar"
+decltype: "?cineál"
+default: "réamhshocrú"
+delete: "scrios"
+do: "déan"
+double: "dúbailte"
+dynamic_cast: "_dinimiciúil"
+else: ""
+enum: "áirigh"
+explicit: "léir"
+export: "easpórtáil"
+extern: "seachtrach"
+false: "breagach"
+final: "deireanach"
+float: "snámhphointe" ###
+for: "do"
+friend: "cara"
+goto: "dulgodtí"
+if: "más"
+inline: "inlíne"
+int: "slánuimhir"
+import: "iompórtáil"
+long: "fada"
+module: "modúl"
+mutable: "athraithe"
+namespace: "ainmspás"
+new: "nua"
+noexcept: ""
+not: ""
+not_eq: ""
+nullptr: ""
+operator: "oibreoir"
+or: "nó"
+or_eq: ""
+override: "sárú"
+private: "príobháideach"
+protected: "cosanta"
+public: "poiblí"
+register: "cláraigh"
+reinterpret_cast: ""
+requires: ""
+return: "aisfhilleadh"
+short: "gairid/gearr"
+signed: "le sín"
+sizeof: ""
+static: "statach"
+static_assert: "dearbhaigh_statach"
+static_cast: "statach_"
+struct: "struchtúr"
+switch: "lasc"
+synchronized: "sioncronaigh"
+template: "teimpléad"
+this: "seo"
+thread_local: "_logánta"
+throw: ""
+transaction_safe: ""
+transaction_safe_dynamic: "_dinimiciúil"
+true: "fíor"
+try: "triail"
+typedef: "cineál"
+typeid: "cineál"
+typename: "cineál"
+union: "aontas"
+unsigned: "gan sín"
+using: ""
+virtual: "fhíorúil"
+void: "folamh/folúntas"
+volatile: "luaineach"
+wchar_t: "carachtar?"
+while: ""
+xor: "eisiach OR"
+xor_eq: ""
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: C#     |
+# ----------------------
+# << Keywords >>
+abstract: ""
+add: "cuir le"
+alias: "ailias"
+as: ""
+ascending: "ardaitheach"
+async: "neamsioncronaigh"
+await: "fan le"
+base: ""
+bool: "bool"
+break: "bris"
+byte: "ochtán"
+case: "cás"
+catch: "gabháil"
+char: "carachtar"
+checked: ""
+class: "aicme"
+const: "tairiseach"
+continue: "lean ar"
+decimal: "deachúil"
+default: "réamhshocrú"
+delegate: "toscaire?"
+descending: "íslitheach"
+do: "déan"
+double: "dúbailte"
+dynamic: "dinimiciúil"
+else: ""
+enum: "áirigh"
+event: "teagmhas"
+explicit: "léir"
+extern: "seachtrach"
+false: "breagach"
+finally: "faoi dheireadh"
+fixed: "fosaithe" #nó seasta
+float: "snámhphointe" ###http://www.potafocal.com/gt/?s=r%C3%ADomhaire
+for: "do"
+foreach: ""
+from: "ó"
+get: "faigh"
+global: "domhanda"
+goto: "dulgodtí"
+group: "grúpa"
+if: "má"
+implicit: "" infhillte/intuigthe
+in: "isteach"
+int: "slánuimhir"
+interface: "comhéadan"
+internal: "inmhéanach"
+into: "isteach"
+is: ""
+join: "comcheangail"
+let: "lig"
+lock: "glas"
+long: "fada"
+namespace: "ainmspás"
+new: "nua"
+null: "nialasach"
+object: "oibiacht"
+operator: "oibreoir"
+orderby: "chur in ord de réir"
+out: "amach"
+override: "sárú"
+params: "paraiméadair"
+partial: "páirteach?"
+private: "príobháideach"
+protected: "cosanta"
+public: "poiblí"
+readonly: "inléiteamháin"
+ref: "tagairt"
+remove: "cuir le?is"
+return: "aisfhilleadh"
+sbyte: "*ochtán"
+sealed: "séalaithe"
+select: "roghnaigh"
+set: ""
+short: "gearr"
+sizeof: ""
+stackalloc: "cruachleithdháil"
+static: "statach"
+string: "teaghrán"
+struct: "struchtúr"
+switch: "lasc"
+this: "seo"
+throw: ""
+true: "fíor"
+try: "triail"
+typeof: "cineál"
+uint: "?slánuimhir"
+ulong: ""
+unchecked: ""
+unsafe: ""
+ushort: ""
+using: ""
+value: "luach"
+var: "athróg"
+virtual: "fhíorúil"
+void: "folamh/folúntas"
+volatile: "luaineach"
+where: "áite/cá bhfuil"
+while: ""
+yield: "toradh"
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: CSS    |
+# ----------------------
+# This regex saved by butt: FIND = \n(@?)(\w+)(-\w+){0,3} REPLACE: \n$1$2$3: "" #
+
+# << Keywords >>
+align-content: "ailínigh" #	Specifies the alignment between the lines inside a flexible container when the items do not use all available space
+align-items: "ailínigh-airteagal" #	Specifies the alignment for items inside a flexible container
+align-self: "ailínigh" #	Specifies the alignment for selected items inside a flexible container
+all: "gach" #	Resets all properties (except unicode-bidi and direction)
+animation: "anamúlacht" #	A shorthand property for all the animation-* properties
+animation-delay: "-anamúlacht" #	Specifies a delay for the start of an animation
+animation-direction: "treo-anamúlacht" #	Specifies whether an animation should be played forwards, backwards or in alternate cycles
+animation-duration: "fad-anamúlacht" #	Specifies how long an animation should take to complete one cycle
+animation-mode: "anamúlacht" #	Specifies a style for the element when the animation is not playing (before it starts, after it ends, or both)
+animation-count: "cuntas-anamúlacht" #	Specifies the number of times an animation should be played
+animation-name: "ainm-anamúlacht" #	Specifies a name for the @keyframes animation
+animation-state: "cruth-anamúlacht" #	Specifies whether the animation is running or paused
+animation-function: "anamúlacht" #	Specifies the speed curve of an animation
+backface-visibility: "" #	Defines whether or not the back face of an element should be visible when facing the user
+background: "cúlra" #	A shorthand property for all the background-* properties
+background-attachment: "cúlra" #	Sets whether a background image scrolls with the rest of the page, or is fixed
+background-mode: "cúlra" #	Specifies the blending mode of each background layer (color/image)
+background-clip: "cúlra" #	Defines how far the background (color or image) should extend within an element
+background-color: "dath-cúlra" #	Specifies the background color of an element
+background-image: "íomhá-cúlra" #	Specifies one or more background images for an element
+background-origin: "cúlra" #	Specifies the origin position of a background image
+background-position: "cúlra" #	Specifies the position of a background image
+background-repeat: "cúlra" #	Sets if/how a background image will be repeated
+background-size: "cúlra" #	Specifies the size of the background images
+border: "imeall" #	A shorthand property for border-width, border-style and border-color
+border-bottom: "bun-imeall" #	A shorthand property for border-bottom-width, border-bottom-style and border-bottom-color
+border-color: "dath-imeall" #	Sets the color of the bottom border
+border-radius: "imeall" #	Defines the radius of the border of the bottom-left corner
+border-radius: "imeall" #	Defines the radius of the border of the bottom-right corner
+border-style: "stíl-imeall" #	Sets the style of the bottom border
+border-width: "imeall" #	Sets the width of the bottom border
+border-collapse: "imeall-cliseadh" #	Sets whether table borders should collapse into a single border or be separated
+border-color: "imeall-dath" #	Sets the color of the four borders
+border-image: "íomhá-imeall" #	A shorthand property for all the border-image-* properties
+border-outset: "imeall" #	Specifies the amount by which the border image area extends beyond the border box
+border-repeat: "imeall" #	Specifies whether the border image should be repeated, rounded or stretched
+border-slice: "imeall" #	Specifies how to slice the border image
+border-source: "foinseach-imeall" #	Specifies the path to the image to be used as a border
+border-width: "leithead-imeall" #	Specifies the width of the border image
+border-left: "clé-imeall" #	A shorthand property for all the border-left-* properties
+border-color: "dath-imeall" #	Sets the color of the left border
+border-style: "stíl-imeall" #	Sets the style of the left border
+border-width: "leithead-imeall" #	Sets the width of the left border
+border-radius: "imeall" #	A shorthand property for the four border-*-radius properties
+border-right: "imeall-deis" #	A shorthand property for all the border-right-* properties
+border-color: "dath-imeall" #	Sets the color of the right border
+border-style: "imeall" #	Sets the style of the right border
+border-width: "leithead-imeall" #	Sets the width of the right border
+border-spacing: "imeall" #	Sets the distance between the borders of adjacent cells
+border-style: "stíl-imeall" #	Sets the style of the four borders
+border-top: "barr-imeall" #	A shorthand property for border-top-width, border-top-style and border-top-color
+border-color: "dath-imeall" #	Sets the color of the top border
+border-radius: "-imeall" #	Defines the radius of the border of the top-left corner
+border-radius: "-imeall" #	Defines the radius of the border of the top-right corner
+border-style: "stíl-imeall" #	Sets the style of the top border
+border-width: "leithead-imeall" #	Sets the width of the top border
+border-width: "leithead-imeall" #	Sets the width of the four borders
+bottom: "bun" #	Sets the elements position, from the bottom of its parent element
+box-break: "" #	Sets the behavior of the background and border of an element at page-break, or, for in-line elements, at line-break.
+box-shadow: "" #	Attaches one or more shadows to an element
+box-sizing: "" #	Defines how the width and height of an element are calculated: should they include padding and borders, or not
+break-after: "bris-tar-éis" #	Specifies the page-, column-, or region-break behavior after the generated box
+break-before: "brís-" #	Specifies the page-, column-, or region-break behavior before the generated box
+break-inside: "" #	Specifies the page-, column-, or region-break behavior inside the generated box
+caption-side: "" #	Specifies the placement of a table caption
+caret-color: "-dath" #	Specifies the color of the cursor (caret) in inputs, textareas, or any element that is editable
+@charset: "@carachtar?" #	Specifies the character encoding used in the style sheet
+clear: "" #	Specifies on which sides of an element floating elements are not allowed to float
+clip: "" #	Clips an absolutely positioned element
+color: "dath" #	Sets the color of text
+column-count: "colún" #	Specifies the number of columns an element should be divided into
+column-fill: "colún" #	Specifies how to fill columns, balanced or not
+column-gap: "colún" #	Specifies the gap between the columns
+column-rule: "colún" #	A shorthand property for all the column-rule-* properties
+column-color: "dath-colún" #	Specifies the color of the rule between columns
+column-style: "stíl-colún" #	Specifies the style of the rule between columns
+column-width: "colún" #	Specifies the width of the rule between columns
+column-span: "colún" #	Specifies how many columns an element should span across
+column-width: "leithead" #	Specifies the column width
+columns: "colúin" #	A shorthand property for column-width and column-count
+content: "inneachar" #	Used with the :before and :after pseudo-elements, to insert generated content
+counter-increment: "" #	Increases or decreases the value of one or more CSS counters
+counter-reset: "" #	Creates or resets one or more CSS counters
+cursor: "cúrsóir" #	Specifies the mouse cursor to be displayed when pointing over an element
+direction: "" #	Specifies the text direction/writing direction
+display: "taispeántas" #	Specifies how a certain HTML element should be displayed
+empty-cells: "" #	Specifies whether or not to display borders and background on empty cells in a table
+filter: "sgagaire" #	Defines effects (e.g. blurring or color shifting) on an element before the element is displayed
+flex: "" #	A shorthand property for the flex-grow, flex-shrink, and the flex-basis properties
+flex-basis: "" #	Specifies the initial length of a flexible item
+flex-direction: "" #	Specifies the direction of the flexible items
+flex-flow: "" #	A shorthand property for the flex-direction and the flex-wrap properties
+flex-grow: "" #	Specifies how much the item will grow relative to the rest
+flex-shrink: "" #	Specifies how the item will shrink relative to the rest
+flex-wrap: "" #	Specifies whether the flexible items should wrap or not
+float: "snámh" #	Specifies whether or not a box should float
+font: "cló" #	A shorthand property for the font-style, font-variant, font-weight, font-size/line-height, and the font-family properties
+@font-face: "cló" #	A rule that allows websites to download and use fonts other than the "web-safe" fonts
+font-family: "fine-cló" #	Specifies the font family for text
+font-settings: "socruithe-cló" #	Allows control over advanced typographic features in OpenType fonts
+@font-values: "cló" #	Allows authors to use a common name in font-variant-alternate for feature activated differently in OpenType
+font-kerning: "cló" #	Controls the usage of the kerning information (how letters are spaced)
+font-override: "sárú-cló" #	Controls the usage of language-specific glyphs in a typeface
+font-size: "cló" #	Specifies the font size of text
+font-adjust: "cló" #	Preserves the readability of text when font fallback occurs
+font-stretch: "cló" #	Selects a normal, condensed, or expanded face from a font family
+font-style: "stíl-cló" #	Specifies the font style for text
+font-synthesis: "cló" #	Controls which missing typefaces (bold or italic) may be synthesized by the browser
+font-variant: "cló" #	Specifies whether or not a text should be displayed in a small-caps font
+font-alternates: "cló" #	Controls the usage of alternate glyphs associated to alternative names defined in @font-feature-values
+font-caps: "cló" #	Controls the usage of alternate glyphs for capital letters
+font-asian: "cló" #	Controls the usage of alternate glyphs for East Asian scripts (e.g Japanese and Chinese)
+font-ligatures: "nasclitreacha-cló"? #	Controls which ligatures and contextual forms are used in textual content of the elements it applies to
+font-numeric: "cló" #	Controls the usage of alternate glyphs for numbers, fractions, and ordinal markers
+font-position: "cló" #	Controls the usage of alternate glyphs of smaller size positioned as superscript or subscript regarding the baseline of the font
+font-weight: "cló" #	Specifies the weight of a font
+grid: "greille" #  A shorthand property for the grid-template-rows, grid-template-columns, grid-template-areas, grid-auto-rows, grid-auto-columns, and the grid-auto-flow properties
+grid-area: "achar-greille" #	Either specifies a name for the grid item, or this property is a shorthand property for the grid-row-start, grid-column-start, grid-row-end, and grid-column-end properties
+grid-columns: "colúin-greille" #	Specifies a default column size
+grid-flow: "greille" #	Specifies how auto-placed items are inserted in the grid
+grid-rows: "greille" #	Specifies a default row size
+grid-column: "greille" #	A shorthand property for the grid-column-start and the grid-column-end properties
+grid-end: "greille" #	Specifies where to end the grid item
+grid-gap: "greille" #	Specifies the size of the gap between columns
+grid-start: "greille" #	Specifies where to start the grid item
+grid-gap: "greille" #	A shorthand property for the grid-row-gap and grid-column-gap properties
+grid-row: "greille" #	A shorthand property for the grid-row-start and the grid-row-end properties
+grid-end: "greille" #	Specifies where to end the grid item
+grid-gap: "greille" #	Specifies the size of the gap between rows
+grid-start: "greille" #	Specifies where to start the grid item
+grid-template: "teimpléad-greille" #	A shorthand property for the grid-template-rows, grid-template-columns and grid-areas properties
+grid-areas: "achair-?rgreille" #	Specifies how to display columns and rows, using named grid items
+grid-columns: "colúin-greille" #	Specifies the size of the columns, and how many columns in a grid layout
+grid-rows: "greille" #	Specifies the size of the rows in a grid layout
+hanging-punctuation: "" #	Specifies whether a punctuation character may be placed outside the line box
+height: "airde" #	Sets the height of an element
+hyphens: "fleiscíní" #	Sets how to split words to improve the layout of paragraphs
+image-rendering: "íomhá" #	Gives a hint to the browser about what aspects of an image are most important to preserve when the image is scaled
+@import: "@iompórtáil" #	Allows you to import a style sheet into another style sheet
+isolation: "leithlisiú" #	Defines whether an element must create a new stacking content
+justify-content: "fírinnigh-inneachar" #	Specifies the alignment between the items inside a flexible container when the items do not use all available space
+@keyframes: "" #	Specifies the animation code
+left: "clé" #	Specifies the left position of a positioned element
+letter-spacing: "spásáil-carachtar" #	Increases or decreases the space between characters in a text
+line-break: "bris-líne" #	Specifies how/if to break lines
+line-height: "airde-líne" #	Sets the line height
+list-style: "stíl" #	Sets all the properties for a list in one declaration
+list-image: "" #	Specifies an image as the list-item marker
+list-position: "" #	Specifies the position of the list-item markers (bullet points)
+list-type: "" #	Specifies the type of list-item marker
+margin: "ciumhais" #	Sets all the margin properties in one declaration
+margin-bottom: "bun-ciumhais" #	Sets the bottom margin of an element
+margin-left: "clé-ciumhais" #	Sets the left margin of an element
+margin-right: "deis-ciumhais" #	Sets the right margin of an element
+margin-top: "barr-ciumhais" #	Sets the top margin of an element
+max-height: "airde-uasta" #	Sets the maximum height of an element
+max-width: "leithead-uasta" #	Sets the maximum width of an element
+@media: "" #	Sets the style rules for different media types/devices/sizes
+min-height: "airde-íosta" #	Sets the minimum height of an element
+min-width: "leithead-íosta" #	Sets the minimum width of an element
+mix-mode: "modh-measc?" #	Specifies how an element's content should blend with its direct parent background
+object-fit: "oibiacht-" #	Specifies how the contents of a replaced element should be fitted to the box established by its used height and width
+object-position: "oibiacht-" #	Specifies the alignment of the replaced element inside its box
+opacity: "teimhneacht" #	Sets the opacity level for an element
+order: "chur in ord" #	Sets the order of the flexible item, relative to the rest
+orphans: "dílleachtaí" #	Sets the minimum number of lines that must be left at the bottom of a page when a page break occurs inside an element
+outline: "imlíne" #	A shorthand property for the outline-width, outline-style, and the outline-color properties
+outline-color: "dath-imlíne?" #	Sets the color of an outline
+outline-offset: "imlíne?" #	Offsets an outline, and draws it beyond the border edge
+outline-style: "stíl-imlíne" #	Sets the style of an outline
+outline-width: "leithead-imlíne" #	Sets the width of an outline
+overflow: "róshreabhadh?" #
+Specifies: "" # what happens if content overflows an element's box
+overflow-wrap: "róshreabhadh?" #	Specifies whether or not the browser may break lines within words in order to prevent overflow (when a string is too long to fit its containing box)
+overflow-x: "róshreabhadh?-x" #	Specifies whether or not to clip the left/right edges of the content, if it overflows the element's content area
+overflow-y: "róshreabhadh?-y" #	Specifies whether or not to clip the top/bottom edges of the content, if it overflows the element's content area
+padding: "stuáil" #	A shorthand property for all the padding-* properties
+padding-bottom: "bunn-stuáil" #	Sets the bottom padding of an element
+padding-left: "clé-stuáil" #	Sets the left padding of an element
+padding-right: "deis-stuáil" #	Sets the right padding of an element
+padding-top: "barr-stuáil" #	Sets the top padding of an element
+page-after: "" #	Sets the page-break behavior after an element
+page-before: "" #: "" #	Sets the page-break behavior before an element
+page-inside: "" #: "" #	Sets the page-break behavior inside an element
+perspective: "peirspictíocht" #	Gives a 3D-positioned element some perspective
+perspective-origin: "peirspictíocht" #	Defines at which position the user is looking at the 3D-positioned element
+pointer-events: "-pointeora" #	Defines whether or not an element reacts to pointer events
+position: "" #	Specifies the type of positioning method used for an element (static, relative, absolute or fixed)
+quotes: "" #	Sets the type of quotation marks for embedded quotations
+resize: "" #	Defines if (and how) an element is resizable by the user
+right: "deis" #	Specifies the right position of a positioned element
+scroll-behavior: "" #	Specifies whether to smoothly animate the scroll position in a scrollable box, instead of a straight jump
+tab-size: "" #	Specifies the width of a tab character
+table-layout: "-tábla" #	Defines the algorithm used to lay out table cells, rows, and columns
+text-align: "ailínigh" #	Specifies the horizontal alignment of text
+text-last: "téacs" #	Describes how the last line of a block or a line right before a forced line break is aligned when text-align is "justify"
+text-upright: "téacs" #	Specifies the combination of multiple characters into the space of a single character
+text-decoration: "téacs" #	Specifies the decoration added to text
+text-color: "dath-téacs" #	Specifies the color of the text-decoration
+text-line: "líne-téacs" #	Specifies the type of line in a text-decoration
+text-style: "stíl-téacs" #	Specifies the style of the line in a text decoration
+text-indent: "téacs" #	Specifies the indentation of the first line in a text-block
+text-justify: "téacs" #	Specifies the justification method used when text-align is "justify"
+text-orientation: "téacs" #: "" 	#Defines the orientation of the text in a line
+text-overflow: "téacs" #: "" 	#Specifies what should happen when text overflows the containing element
+text-shadow: "téacs" #: "" 	#Adds shadow to text
+text-transform: "téacs" #: "" 	#Controls the capitalization of text
+text-position: "téacs" #: "" #	Specifies the position of the underline which is set using the text-decoration property
+top: "barr" #: "" #	Specifies the top position of a positioned element
+transform: "" #: "" #	Applies a 2D or 3D transformation to an element
+transform-origin: "" #	Allows you to change the position on transformed elements
+transform-style: "" #	Specifies how nested elements are rendered in 3D space
+transition: "" #	A shorthand property for all the transition-* properties
+transition-delay: "" #	Specifies when the transition effect will start
+transition-duration: "" #	Specifies how many seconds or milliseconds a transition effect takes to complete
+transition-property: "" #	Specifies the name of the CSS property the transition effect is for
+transition-function: "" #	Specifies the speed curve of the transition effect
+unicode-bidi: "" #	Used together with the direction property to set or return whether the text should be overridden to support multiple languages in the same document
+user-select: "roghnaigh-féin" #	Specifies whether the text of an element can be selected
+vertical-align: "ailínigh" #	Sets the vertical alignment of an element
+visibility: "infheictheacht" #	Specifies whether or not an element is visible
+white-space: "spás-bán" #	Specifies how white-space inside an element is handled
+widows: "baintreacha" #	Sets the minimum number of lines that must be left at the top of a page when a page break occurs inside an element
+width: "leithead" #	Sets the width of an element
+word-break: "focail" #	Specifies how words should break when reaching the end of a line
+word-spacing: "focail" #	Increases or decreases the space between words in a text
+word-wrap: "focail" #	Allows long, unbreakable words to be broken and wrap to the next line
+writing-mode: "modh-" #	Specifies whether lines of text are laid out horizontally or vertically
+z-index: "-z" #	Sets the stack order of a positioned element
+# << Error Messages >>
+
+# ------------------------
+# |   LANGUAGE: FLUENT   |
+# ------------------------
+# << Keywords >>
+# << Error Messages >>
+
+# ------------------------
+# |   LANGUAGE: GOLANG   |
+# ------------------------
+# << Keywords >>
+break: "bris"
+default: "réamhshocrú"
+func: "feidhm"
+interface: "comhéadan"
+select: "roghnaigh"
+case: "cás"
+defer: "" géill (opinion or judgment), or iarchuir (defer)
+go: "téigh"
+map: "mapáil"
+struct: "struchtúr"
+chan: ""
+else: ""
+goto: "téigh go"
+package: "pacáiste"
+switch: "lasc"
+const: "tairiseach"
+fallthrough: ""
+if: "má"
+range: "raon"
+type: "cineál"
+continue: "lean ar"
+for: "do"
+import: "iompórtáil"
+return: "aisfhilleadh"
+var: "athróg"
+
+# << Error Messages >>
+
+# -------------------------
+# |   LANGUAGE: HASKELL   |
+# -------------------------
+# << Keywords >>
+as: "mar"
+case: "cás"
+of: ""
+class: "aicme"
+data: "sonraí"
+data family: "fine sonraí"
+data instance: "ásc sonraí"
+default: "réamhshocrú"
+deriving: ""
+deriving instance: "ásc "
+do: "déan"
+forall: "dogach"
+foreign: ""
+hiding: ""
+if: "má"
+then: "ansin"
+else: ""
+import: "iompórtáil"
+infix: ""
+infixl: ""
+infixr: ""
+instance: "ásc"
+let: "lig"
+in: ""
+mdo: ""
+module: "modúl"
+newtype: "cineálnua"
+proc: ""
+qualified: "cáilithe"
+rec: ""
+type: "cineál"
+type family: "fine cineál"
+type instance: "cineál ásc" #? asc de cineal
+where: "áite/cá bhfuil"
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: HTML   |
+# ----------------------
+# << Keywords >>
+!DOCTYPE: "cineál" #	Defines the document type
+a: "a" #	Defines a hyperlink
+abbr: "gior" #	Defines an abbreviation or an acronym
+acronym: "acrainm" #	Not supported in HTML5. Use <abbr> instead. Defines an acronym
+address: "seoladh" #	Defines contact information for the author/owner of a document
+applet: "feidhmchláirín" #	Not supported in HTML5. Use <embed> or <object> instead. Defines an embedded applet
+area: "achar" #	Defines an area inside an image-map
+article: "" #	Defines an article
+aside: "seachfhocal" #	Defines content aside from the page content
+audio: "closán" #	Defines sound content
+b: "" #	Defines bold text
+base: "" #	Specifies the base URL/target for all relative URLs in a document
+basefont: "" #	Not supported in HTML5. Use CSS instead. Specifies a default color, size, and font for all text in a document
+bdi: "" #	Isolates a part of text that might be formatted in a different direction from other text outside it
+bdo: "" #	Overrides the current text direction
+big: "mór" #	Not supported in HTML5. Use CSS instead. Defines big text
+blockquote: "" #	Defines a section that is quoted from another source
+body: "cabhail" #	Defines the document's body
+br: "br" #	Defines a single line break
+button: "cnaipe" #	Defines a clickable button
+canvas: "canbhás" #	Used to draw graphics, on the fly, via scripting (usually JavaScript)
+caption: "fotheideal" #	Defines a table caption
+center: "lár" #	Not supported in HTML5. Use CSS instead. Defines centered text
+cite: "luaigh" #	Defines the title of a work
+code: "cód" #	Defines a piece of computer code
+col: "colún" #	Specifies column properties for each column within a <colgroup> element
+colgroup: "grupacolún?sp" #	Specifies a group of one or more columns in a table for formatting
+data: "sonraí" #	Links the given content with a machine-readable translation
+datalist: "liostasonraí" #	Specifies a list of pre-defined options for input controls
+dd: "" #	Defines a description/value of a term in a description list
+del: "scrios:" #	Defines text that has been deleted from a document
+details: "" #	Defines additional details that the user can view or hide
+dfn: "" #	Represents the defining instance of a term
+dialog: "" #	Defines a dialog box or window
+dir: "" #	Not supported in HTML5. Use <ul> instead. Defines a directory list
+div: "" #	Defines a section in a document
+dl: "" #	Defines a description list
+dt: "" #	Defines a term/name in a description list
+em: "" #	Defines emphasized text
+embed: "leabaigh" #	Defines a container for an external (non-HTML) application
+fieldset: "" #	Groups related elements in a form
+figcaption: "" #	Defines a caption for a <figure> element
+figure: "" #	Specifies self-contained content
+font: "cló" #	Not supported in HTML5. Use CSS instead. Defines font, color, and size for text
+footer: "" #	Defines a footer for a document or section
+form: "foirm" #	Defines an HTML form for user input
+frame: "" #	Not supported in HTML5. Defines a window (a frame) in a frameset
+frameset: "" #	Not supported in HTML5. Defines a set of frames
+h1: "" # to <h6>	Defines HTML headings
+head: "ceann" #	Defines information about the document
+header: "" #	Defines a header for a document or section
+hr: "" #	Defines a thematic change in the content
+html: "" #	Defines the root of an HTML document
+i: "" #	Defines a part of text in an alternate voice or mood
+iframe: "" #	Defines an inline frame
+img: "íomhá" #	Defines an image
+input: "ionchur " #	Defines an input control
+ins: "" #	Defines a text that has been inserted into a document
+kbd: "méarchlár" #	Defines keyboard input
+label: "lipéad" #	Defines a label for an <input> element
+legend: "eochaireolais" #	Defines a caption for a <fieldset> element
+li: "al" #	Defines a list item (airteagal liosta)
+link: "nasc" #	Defines the relationship between a document and an external resource (most used to link to style sheets)
+main: "" #	Specifies the main content of a document
+map: "" #	Defines a client-side image-map
+mark: "" #	Defines marked/highlighted text
+meta: "meiteashonraí" #	Defines metadata about an HTML document
+meter: "méadar" #	Defines a scalar measurement within a known range (a gauge)
+nav: "" #	Defines navigation links
+noframes: "" #	Not supported in HTML5. Defines an alternate content for users that do not support frames
+noscript: "" #	Defines an alternate content for users that do not support client-side scripts
+object: "oibiacht" #	Defines an embedded object
+ol: "lo" #	Defines an ordered list ("liosta ordaithe")
+optgroup: "" #	Defines a group of related options in a drop-down list
+option: "rogha" #	Defines an option in a drop-down list
+output: "aschur" #	Defines the result of a calculation
+p: "" #	Defines a paragraph
+param: "araiméadair" #	Defines a parameter for an object
+picture: "" #	Defines a container for multiple image resources
+pre: "" #	Defines preformatted text
+progress: "dulchunchin" #	Represents the progress of a task
+q: "" #	Defines a short quotation
+rp: "" #	Defines what to show in browsers that do not support ruby annotations
+rt: "" #	Defines an explanation/pronunciation of characters (for East Asian typography)
+ruby: "" #	Defines a ruby annotation (for East Asian typography)
+s: "" #	Defines text that is no longer correct
+samp: "samp" #	Defines sample output from a computer program
+script: "" #	Defines a client-side script
+section: "" #	Defines a section in a document
+select: "roghnaigh" #	Defines a drop-down list
+small: "beag" #	Defines smaller text
+source: "foinseach" #	Defines multiple media resources for media elements (<video> and <audio>)
+span: "" #	Defines a section in a document
+strike: "" #	Not supported in HTML5. Use <del> or <s> instead. Defines strikethrough text
+strong: "láidir/bríomhar" #	Defines important text
+style: "stíl" #	Defines style information for a document
+sub: "" #	Defines subscripted text
+summary: "achoimre" #	Defines a visible heading for a <details> element
+sup: "" #	Defines superscripted text
+svg: "svg" #	Defines a container for SVG graphics
+table: "tábla" #	Defines a table
+tbody: "" #	Groups the body content in a table
+td: "" #	Defines a cell in a table
+template: "teimpléad" #	Defines a template
+textarea: "" #	Defines a multiline input control (text area)
+tfoot: "" #	Groups the footer content in a table
+th: "" #	Defines a header cell in a table
+thead: "" #	Groups the header content in a table
+time: "am" #	Defines a date/time
+title: "teideal" #	Defines a title for the document
+tr: "" #	Defines a row in a table
+track: "rian?" #	Defines text tracks for media elements (<video> and <audio>)
+tt: "" #	Not supported in HTML5. Use CSS instead. Defines teletype text
+u: "" #	Defines text that should be stylistically different from normal text
+ul: "liosta gan ord" #	Defines an unordered list
+var: "athróg" #	Defines a variable
+video: "fístéip" #	Defines a video or movie
+wbr: "" #	Defines a possible line-break
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: JAVA   |
+# ----------------------
+# << Keywords >>
+abstract: ""
+continue: "lean"
+for: "do"
+new: "nua"
+switch: "lasc/cas"
+assert: "dearbhaigh"
+default: "réamhshocrú"
+goto: "téigh go"
+package: "pacáiste"
+synchronized: "sioncronaithe"
+boolean: "oibritheoir Boole"
+do: "déan"
+if: "má"
+private: "príobháideach"
+this: "seo"
+break: "brís"
+double: "dúbailte"
+implements: ""
+protected: "cosanta"
+throw: "caith" #?
+byte: "ochtán/bearta" #?
+else: "ná"
+import: "iompórtáil"
+public: "poiblí"
+throws: "caitheamh" #?
+case: "cás"
+enum: "áirigh"
+instanceof: "ásc de"
+return: "aisfhilleadh"
+transient: "neambhuain" #tearma
+catch: "gabháil"
+extends: "?" Síneann (strech)/ leathnaíonn (expand) [sé]
+int: "slánuimhir"
+short: "gairid/gearr"
+try: "triail"
+char: "carachtar"
+final: "deireanach"
+interface: "comhéadan"
+static: "statach"
+void: "folamh/folúntas"
+class: "aicme"
+finally: "faoi dheireadh"
+long: "fada"
+strictfp: "docht?"
+volatile: "luaineach" #tearma
+const: "tairiseach"
+float: "snámhphointe"
+native: "dúchasach"
+super: "os"
+while: ""
+_: "_" #_(underscore)
+
+# << Error Messages >>
+
+# ----------------------------
+# |   LANGUAGE: JAVASCRIPT   |
+# ----------------------------
+# << Keywords >>
+arguments: "argóintí"
+await: "fan ar?/le"
+break: "bris"
+case: "cás"
+catch: "gabháil"
+class: "aicme"
+const: "tairiseach"
+continue: "lean ar"
+debugger: "dífhabhtóir"
+default: "réamhshocrú"
+delete: "scrios"
+do: "déan"
+else: ""
+enum: "áirigh"
+eval: "luacháil"
+export: "easpórtáil"
+extends: "?" Síneann (strech)/ leathnaíonn (expand) [sé]
+false: "breagach/falsa"
+finally: "faoi dheireadh"
+for: "do"
+from: "ó"
+function: "feidhm"
+if: "má"
+implements: "uirlisí?"
+import: "iompórtáil"
+in: ""
+instanceof: "ásc de"
+interface: comhéadan"
+let: "lig"
+new: "nua"
+null: "nialasach"
+package: "pacáiste"
+private: "príobháideach"
+protected: "cosanta"
+public: "poiblí"
+return: "aisfhilleadh"
+static: "statach"
+super: "os"
+switch: "lasc"
+this: "seo"
+throw: "caith"
+true: "fíor"
+try: "triail"
+typeof: "cineál"
+var: "athróg"
+void: "folamh/folúntas"
+while: ""
+with: "leis"
+yield: "toradh"
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: JULIA  |
+# ----------------------
+# << Keywords >>
+begin: "tosaigh"
+while: "tamall"
+if: "má"
+for: "do"
+try: "triail"
+return: "aisfhilleadh"
+break: "bris"
+continue: "lean ar"
+function: "feidhm"
+macro: "macra"
+quote: "arsa"
+let: "lig"
+local: "logánta"
+global: "domhanda"
+const: "tairiseach"
+do: "déan"
+struct: "struchtúr"
+abstract: "" #to be deprecated
+typealias: "?ailias" #to be deprecated
+bitstype: "" #to be deprecated
+type: "cineál" #to be deprecated
+immutable: "do-athraithe"  #to be deprecated
+module: "modúl"
+baremodule: "?modúl"
+using: ""
+import: "iompórtáil"
+export: "easpórtáil"
+importall: "iompórtáilgach"
+end: "críochnaigh"
+else: ""
+catch: "gabháil"
+finally: " faoi dheireadh"
+true: "fíor"
+false: "breagach"
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: JSDOC  |
+# ----------------------
+# << Keywords >>
+@abstract: "" #(synonyms: @virtual) This member must be implemented (or overridden) by the inheritor.
+@access: "@rochtain" # Specify the access level of this member (private, package-private, public, or protected).
+@alias: "@ailias" # Treat a member as if it had a different name.
+@async: "@neamsioncronaigh" # Indicate that a function is asynchronous.
+@augments: "" #(synonyms: @extends) Indicate that a symbol inherits from, and adds to, a parent symbol.
+@author: "@údar" # Identify the author of an item.
+@borrows: "" # This object uses something from another object.
+@callback: "" # Document a callback function.
+@class: "@aicme" #(synonyms: @constructor) This function is intended to be called with the "new" keyword.
+@classdesc: "@?aicme" # Use the following text to describe the entire class.
+@constant: "@tairiseach" #(synonyms: @const) Document an object as a constant.
+@constructs: "" # This function member will be the constructor for the previous class.
+@copyright: "@cóipcheart" # Document some copyright information.
+@default: "@réamhshocrú" #(synonyms: @defaultvalue) Document the default value.
+@deprecated: "@gnédhímholta" # Document that this is no longer the preferred way.
+@description: "" #(synonyms: @desc) Describe a symbol.
+@enum: "@áirigh" # Document a collection of related properties.
+@event: "@teagmhas" # Document an event.
+@example: "@sampla" # Provide an example of how to use a documented item.
+@exports: "@easpórtálacha" # Identify the member that is exported by a JavaScript module.
+@external: "@seachtrach" #(synonyms: @host) Identifies an external class, namespace, or module.
+@file: "@comhad" #(synonyms: @fileoverview, @overview) Describe a file.
+@fires: "" #(synonyms: @emits) Describe the events this method may fire.
+@function: "@feidhm" #(synonyms: @func, @method) Describe a function or method.
+@generator: "" # Indicate that a function is a generator function.
+@global: "@domhanda" # Document a global object.
+@hideconstructor: "" # Indicate that the constructor should not be displayed.
+@ignore: "déan neamhaird de" # Omit a symbol from the documentation.
+@implements: "" # This symbol implements an interface.
+@inheritdoc: "" # Indicate that a symbol should inherit its parent's documentation.
+@inner: "" # Document an inner object.
+@instance: "" # Document an instance member.
+@interface: "@comhéadan" # This symbol is an interface that others can implement.
+@kind: "@" # What kind of symbol is this?
+@lends: "" # Document properties on an object literal as if they belonged to a symbol with a given name.
+@license: "" # Identify the license that applies to this code.
+@listens: "" #List the events that a symbol listens for.
+@member: "" #(synonyms: @var)Document a member.
+@memberof: "" #This symbol belongs to a parent symbol.
+@mixes: "" #This object mixes in all the members from another object.
+@mixin: "" #Document a mixin object.
+@module: "@modúl" #Document a JavaScript module.
+@name: "@ainm" #Document the name of an object.
+@namespace: "@ainmspás" #Document a namespace object.
+@override: "@sárú" #Indicate that a symbol overrides its parent.
+@package: "@pacáiste" # This symbol is meant to be package-private.
+@param: "@paraiméadair" #(synonyms: @arg, @argument)Document the parameter to a function.
+@private: "@príobháideach" #This symbol is meant to be private.
+@property: "@airí" #(synonyms: @prop) Document a property of an object.
+@protected: "@cosanta" #This symbol is meant to be protected.
+@public: "@poiblí" #This symbol is meant to be public.
+@readonly: "@inléiteamháin" #This symbol is meant to be read-only.
+@requires: "" #This file requires a JavaScript module.
+@returns: "" #(synonyms: @return)Document the return value of a function.
+@see: "feach" #Refer to some other documentation for more information.
+@since: "" #When was this feature added?
+@static: "@statach" #Document a static member.
+@summary: "@achoimre" #A shorter version of the full description.
+@this: "" #What does the 'this' keyword refer to here?
+@throws: "" #(synonyms: @exception) Describe what errors could be thrown.
+@todo: "@ádheanamh" #Document tasks to be completed.
+@tutorial: "" #Insert a link to an included tutorial file.
+@type: "@cinéal" #Document the type of an object.
+@typedef: "" # Document a custom type.
+@variation: "" # Distinguish different objects with the same name.
+@version: "" # Documents the version number of an item.
+@yields: "" #(synonyms: @yield) Document the value yielded by a generator function.
+{@link}: "{@nasc}" # (synonyms: {@linkcode}, {@linkplain}) Link to another item in the documentation.
+{@tutorial}: "" # Link to a tutorial.
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: JSON   |
+# ----------------------
+# << Keywords >>
+# Not really sure how to do this for JSON
+$schema: "$scéim"
+$ref: "$tagairt"
+$id: "$aitheantas"
+$comment: "$trácht"
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: NODE   |
+# ----------------------
+# << Keywords >>
+__dirname: "__eolainm" #eolaí
+__filename: "__comhadainm"
+exports: "easpórtáilach" #grammar
+module: "modúl"
+require: "teastáil" #require()
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: OCAML  |
+# ----------------------
+# << Keywords >>
+and: "agus" #
+as: "mar" #
+assert: "dearbhaigh" #
+asr: "" #
+begin: "tosaigh" #
+class: "aicme" #
+constraint: "iallach" #
+do: "déan" #
+done: "déanta" #
+downto: "" #
+else: "" #
+end: "críoch" #
+exception: "" #
+external: "seachtrach" #
+false: "breagach" #
+for: "do" #
+fun: "" #
+function: "feidhm" #
+functor: "" #
+if: "má" #
+in: "i" #
+include: "cuimsigh" #
+inherit: "faigh br le hoidhreacht/
+faigh br ó oidhreacht/
+faigh br trí oidhreacht/" #
+initializer: "tosaitheoir" #
+land: "" #
+lazy: "leithsceal" #
+let: "lig" #
+lor: "" #
+lsl: "" #
+lsr: "" #
+lxor: "" #
+match: "cuir le" #
+method: "modh" #
+mod: "" #
+module: "modúl" #
+mutable: "athraithe" #
+new: "nua" #
+nonrec: "" #
+object: "oibiacht" #
+of: "" #
+open: "oscail" #
+or: "nó" #
+private: "príobháideach" #
+rec: "" #
+sig: "" #
+struct: "struchtúr" #
+then: "ansin" #
+to: "" #
+true: "fíor" #
+try: "triail" #
+type: "cineál" #
+val: "luach" #
+virtual: "fhíorúil" #
+when: "nuair" #
+while: "" #
+with: "leis" #
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: PHP    |
+# ----------------------
+# << Keywords >>
+__halt_compiler: "_stad_tiomsaitheoir"
+abstract: ""
+and: "agus"
+array: ""
+as: ""
+break: "bris"
+callable: ""
+case: "cás"
+catch: "gabháil"
+class: "aicme"
+clone: "?" #clón (n)/clónáil(v)
+const: "tairiseach"
+continue: "lean ar"
+declare: "dearbhaigh"
+default: "réamhshocrú"
+die: "éag"
+do: "déan"
+echo: "macalla"
+else: ""
+elseif: ""
+empty: "folamh"
+enddeclare: "críochnaighdearbhaigh"
+endfor: ""
+endforeach: ""
+endif: ""
+endswitch: "críoch-lasc"
+endwhile: ""
+eval: "luacháil"
+exit: "téigh amach"
+extends: ""
+final: "deireanach"
+for: ""
+foreach: ""
+function: "feidhm"
+global: "domhanda"
+goto: "téigh go"
+if: "má"
+implements: ""
+include: "cuimsigh"
+include_once: "cuimsigh_uair"
+instanceof: "ásc de"
+insteadof: ""
+interface: "comhéadan"
+isset: ""
+list: "liostaigh"
+namespace: "ainmspás"
+new: "nua"
+or: "nó"
+print: "priontáil"
+private: "príobháideach"
+protected: "cosantach"
+public: "poiblí"
+require: "gátar?"
+require_once: "gátar_amhain?"
+return: "aisfhilleadh"
+static: "statach"
+switch: "lasc"
+throw: "rad?"
+trait: "tréith"
+try: "triail"
+unset: ""
+use: "úsáid"
+var: "athróg"
+while: ""
+xor: "XOR??"
+__CLASS__: "__AICME__"
+__DIR__: "_EOLAIRE_"
+__FILE__: "__COMHAD__"
+__FUNCTION__: "__FEIDHM__"
+__LINE__: "__LÍNE__"?
+__METHOD__: "__MODH__"
+__NAMESPACE__: "__AIMNSPÁS__"
+__TRAIT__: "__TRÉITH__"
+
+# << Error Messages >>
+
+# ----------------------
+# |  LANGUAGE: PYTHON  |
+# ----------------------
+# << Keywords >>
+  False: "Breagach"
+  None: ""
+  True: "Fíor"
+  and: "agus"
+  as: "mar"
+  assert: "dearbhaigh"
+  async: "neamsioncronaithe/neamsioncronaigh"
+  await: ""
+  break: "bris"
+  class: "aicme"
+  continue: "lean ar"
+  def: ""
+  del: "scrios"
+  elif: ""
+  else: ""
+  except: "eisceadh"
+  finally: " faoi dheireadh"
+  for: "do"
+  from: "ó"
+  global:  "domhanda"
+  if: "má"
+  import: "iompórtáil"
+  in: ""
+  is: ""
+  lambda: "lambda"
+  nonlocal: "neamhlogánta"
+  not: ""
+  or: "nó"
+  pass: ""
+  raise: ardaigh
+  return: "aisfhilleadh"
+  try: "triail"
+  while: ""
+  with: "leis"
+  yield: "toradh"
+
+# << Built-In Functions >>
+
+  abs: ""
+  all: "gach"
+  any: ""
+  ascii: ""
+  bin: ""
+  bool: ""
+  breakpoint: "brisphointe"
+  bytearray: "ochtán*"
+  bytes: "ochtán*"
+  callable: ""
+  chr: ""
+  classmethod: "aicme"
+  compile: "tiomsú"
+  complex: "choimpléascach"
+  delattr: ""
+  dict: ""
+  dir: ""
+  divmod: ""
+  enumerate: "áirigh"
+  eval: "luacháil"
+  exec: ""
+  filter: "sgagaire"
+  float: "snámhphointe "
+  format: ""
+  frozenset: ""
+  getattr: "faighaitreabúid"
+  globals: "domhandacha"
+  hasattr: "aitreabúid"
+  hash: "hais"
+  help: "cabhair"
+  hex: ""
+  id: "aitheantas"
+  input: "ionchuir"
+  int: "slánuimhir"
+  isinstance: ""
+  issubclass: "?aicme"
+  iter: ""
+  len: ""
+  list: "liostaigh"
+  locals: "logántai?"
+  map: ""
+  max: ""
+  memoryview: ""
+  min: ""
+  next: ""
+  object: "oibiacht"
+  oct: ""
+  open: "oscail"
+  ord: ""
+  pow: ""
+  print: "pr"
+  property: "airí"
+  range: "raon"
+  repr: ""
+  reversed: ""
+  round: "slánaigh"
+  set: ""
+  setattr: "aitreabúid"
+  slice: ""
+  sorted: ""
+  staticmethod: "modhstatach"
+  str: ""
+  sum: "suim" #suimigh?
+  super: "os"
+  tuple: "codach"
+  type: "cineál"
+  vars: ""
+  zip: ""
+  __import__: "__iompórtáil__"
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: RAZOR   |
+# ----------------------
+# << Keywords >>
+page: "" # (Requires ASP.NET Core 2.0 and later)
+namespace: "ainmspás" #
+functions: "feidhmeanna" #
+inherits: "" #faighte a3 le hoidhreacht
+model: "eiseamláireach" #
+section: "alt/gearradh" #
+helper: "" # (Not currently supported by ASP.NET Core)
+@case: "@cás" #
+@do: "@déan" #
+@default: "@réamhshocrú" #
+@for: "" #
+@foreach: "" #
+@if: "" #
+@else: "" #
+@lock: "@glas" #
+@switch: "@lasc" #
+@try: "@triail" #
+@catch: "@gabháil" #
+@finally: "@faoi dheireadh" #
+@using: "" #
+@while: "" #
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: REGEX  |
+# ----------------------
+# << Keywords >>
+# Not sure how to template that out // taking all ideas
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: RUBY   |
+# ----------------------
+# << Keywords >>
+alias: "ailias"
+and: "agus"
+begin: "tosaigh"
+break: "brís"
+case: "cás"
+class: "aicme"
+def: ""
+defined?: ""
+do: ""
+else: ""
+elsif: ""
+end: "críoch"
+ensure: ""
+false: "breagach"
+for: ""
+if: ""
+in: "isteach"
+module: "modúl"
+next: ""
+nil: "neamhní"
+not: ""
+or: "nó"
+redo: "athdhéan"
+rescue: "tarrtháil"
+retry: "atriail"
+return: "aisfhilleadh"
+self: ""
+super: "os"
+then: "ansin"
+true: "fíor"
+undef: ""
+unless: "mura"
+until: "go"
+when: ""
+while: "tamall/seal"
+yield: "toradh"
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE:  RUST  |
+# ----------------------
+# << Keywords >>
+
+_: ""
+abstract: ""
+alignof: ""
+as: ""
+become: ""
+box: ""
+break: "bris"
+const: "tairiseach"
+continue: "lean ar"
+crate: ""
+do: "déan"
+else: ""
+enum: "áirigh"
+extern: ""
+false: "breagach"
+final: "deireanach"
+fn: ""
+for: ""
+if: "má"
+impl: ""
+in: ""
+let: "lig"
+loop: "lúb"
+macro: "macra"
+match: ""
+mod: ""
+move: ""
+mut: ""
+offsetof: ""
+override: "sárú"
+priv: ""
+proc: ""
+pub: ""
+pure: ""
+ref: "tagairt"
+return: "aisfhilleadh"
+Self: ""
+self: ""
+sizeof: ""
+static: "statach"
+struct: "struchtúr"
+super: "os"
+trait: "tréith"
+true: "fíor"
+type: "cineál"
+typeof: "cineál"
+unsafe: ""
+unsized: ""
+use: "toradh"
+virtual: "fhíorúil"
+where: "áite/cá bhfuil"
+while: ""
+yield: "toradh"
+
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: SCALA  |
+# ----------------------
+# << Keywords >>
+abstract: ""
+case: "cás"
+catch: "gabháil"
+class: "aicme"
+def: ""
+do: "dêan"
+else: ""
+extends: ""
+false: "breagach"
+final: "deireanach"
+finally: "faoi dheireadh"
+for: ""
+forSome: ""
+if: "má"
+implicit: "?"
+import: "iompórtáil"
+lazy: "leithsceal"
+macro: "macra"
+match: "cuir le chéile"
+new: "nua"
+null: "nialasach"
+object: "oibiacht"
+override: "sárú"
+package: "pacáiste"
+private: "príobháideach"
+protected: "cosanta"
+return: "aisfhilleadh"
+sealed: "séalaithe"
+super: "os"
+this: "seo"
+throw: "caith"
+trait: "tréith"
+try: "triail"
+true: "fíor"
+type: "cineál" #saghas, sórt
+val: "luach"
+var: "athróg"
+while: ""
+with: "leis"
+yield: "toradh"
+# << Error Messages >>
+
+# ----------------------
+# |   LANGUAGE: SWIFT   |
+# ----------------------
+# << Keywords >>
+associatedtype: "cineál?"
+class: "aicme"
+deinit: "dítúsaigh"
+enum: "áirigh"
+extension: "" #iarmhír (file extension)/ breisiú (In coding theory, the process of encoding several symbols at a time, or the results thereof.)
+func: "feidhm"
+import: "iompórtáil"
+init: "túsaigh"
+inout: ""
+internal: "inmheánach"
+let: "lig"
+operator: "oibritheoir"
+private: "príobháideach"
+protocol: "prótacal"
+public: "poiblí"
+static: "statach"
+struct: "struchtúr"
+subscript: "foscript" #?
+typealias: "ailiascineál"
+var: "athróg"
+break: "bris"
+case: "cás"
+continue: "lean ar"
+default: "réamhshocrú"
+defer: "iarchuir/géill" postpone/judgment
+do: "déan"
+else: ""
+fallthrough: ""
+for: "do"
+guard: "fair"
+if: "mâ"
+in: "istigh"
+repeat: "athdhéan"
+return: "aisfhilleadh"
+switch: "lasc"
+where: "áite"
+while: ""
+as: "mar"
+catch: "gabháil"
+dynamicType: "dinimiciúil?"
+false: "breagach"
+is: ""
+nil: "neamhní"
+rethrows: ""
+super: "os"
+self: "féin"
+Self: "Féin"
+throw: ""
+throws: ""
+true: "fíor"
+try: "triail"
+#column: ""
+#file: "comhad"
+#function: "#feidhm"
+#line: ""
+#available: ""
+#column: ""
+#else: ""
+#elseif: ""
+#endif: ""
+#file: "comhad"
+#function: "#feidhm"
+#if: "má"
+#line: ""
+#selector: "roghnaighnó"
+associativity: "comhcheangaltacht"
+convenience: "áis"
+dynamic: "dinimiciúil"
+didSet: ""
+final: "deireanach"
+get: "faigh"
+infix: ""
+indirect: "indíreach"
+lazy: "leithsceal"
+left: "clé"
+mutating: ""
+none: ""
+nonmutating: ""
+optional: "roghnach"
+override: "sárú"
+postfix: ""
+precedence: ""
+prefix: ""
+Protocol: ""
+required: ""
+right: "ardheis"
+set: ""
+Type: "Cineál"
+unowned: ""
+weak: "" lag (lacking in strength) nó éadrom (light)
+willSet: ""
+
+# << Error Messages >>
+
+# ---------------------------
+# |   LANGUAGE: TYPESCRIPT  |
+# ---------------------------
+# << Keywords >>
+break: "bris"
+case: "cás"
+catch: "gabháil"
+class: "aicme"
+const: "tairiseach"
+continue: "lean ar"
+debugger: "dífhabhtóir"
+default: "réamhshocrú"
+delete: "scrios"
+do: "déan"
+else: ""
+enum: "áirigh"
+export: "easpórtáil"
+extends: ""
+false: "breagach"
+finally: "faoi dheireadh"
+for: ""
+function: "feidhm"
+if: "má"
+import: "iompórtáil"
+in: "isteach"
+instanceof: "ásc de"
+new: "nua"
+null: "nialasach"
+return: "aisfhilleadh"
+super: "os"
+switch: "lasc"
+this: "sin" #?
+throw: "caith"
+true: "fíor"
+try: "triail"
+typeof: "cineál?"
+var: "athróg"
+void: "folamh/folúntas"
+while: ""
+with: "leis"
+as: ""
+implements: ""
+interface: "comhéadan"
+let: "lig"
+package: "pacáiste"
+private: "príobháideach"
+protected: "cosanta"
+public: "poiblí"
+static: "statach"
+yield: "toradh"
+any: "aon"
+boolean: "boole"
+constructor: "cruthaitheoir"
+declare: "dearbhaigh/fógair"
+get: "faigh"
+module: "modúl"
+require: "tai"
+number: "uimhir"
+set: ""
+string: "teaghrán"
+symbol: "siombail"
+type: "cineál"
+from: "ó"
+of: ""
+
+# << Error Messages >>
+
+# ------------------------
+# |   LANGUAGE: VERILOG  |
+# ------------------------
+# << Keywords >>
+
+always: ""
+and: "agus"
+assign: "sann"
+begin: "tosaigh"
+buf: ""
+bufif0: ""
+bufif1: ""
+case: "cás"
+casex: "cás"
+casez: "cás"
+cmos: ""
+deassign: "dísann"
+default: "réamhshocrú"
+defparam: "éamhshocrú"
+disable: "díchumasaigh"
+edge: ""
+else: ""
+end: "críoch"
+endcase: "críochcás?"
+endfunction: "críochfeidhm"
+endmodule: "críoch"
+endprimitive: "críoch?buntéarma" #primitíbheach"
+endspecify: "críoch"
+endtable: "críoch"
+endtask: "críoch"
+event: "teagmhas"
+for: ""
+force: "brúigh"
+forever: ""
+fork: "forc"
+function: "feidhm"
+highz0: ""
+highz1: ""
+if: "má"
+initial: "tosaigh?"
+inout: ""
+input: "ionchuir"
+integer: "slánuimhir"
+join: "comhcheangail"
+large: "mór"
+macromodule: "macramodúl"
+medium: "meán"
+module: "modúl"
+nand: "nand"
+negedge: ""
+nmos: ""
+nor: ""
+not: ""
+notif0: ""
+notif1: ""
+or: "nó"
+output: "aschur"
+pmos: ""
+posedge: ""
+primitive: "buntéarma" #primitíbheach
+pull0: "tarraing0"
+pull1: "tarraing1"
+pulldown: "tarraingsíos"
+pullup: "tarraingsuas"
+rcmos: ""
+reg: ""
+release: "eisigh(v)/eisigh(n)/scaoileadh"
+repeat: "athdhean"
+rnmos: ""
+rpmos: ""
+rtran: ""
+rtranif0: ""
+rtranif1: ""
+scalared: "scálach?"
+small: "beag"
+specify: "sainigh"
+specparam: ""
+strong0: "láidir/tréan0"
+strong1: "láidir/tréan1"
+supply0: ""
+supply1: ""
+table: "tábla"
+task: "tasc"
+time: "ám"
+tran: ""
+tranif0: ""
+tranif1: ""
+tri: ""
+tri0: ""
+tri1: ""
+triand: ""
+trior: ""
+vectored: "veicteoireach"
+wait: "fan"
+wand: "fagus"
+weak0: ""
+weak1: ""
+while: ""
+wire: "sreang?"
+wor: ""
+xnor: ""
+xor: ""
+
+# << Error Messages >>
