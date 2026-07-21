@@ -40,8 +40,8 @@
   },
   "dependencies": {
     "acorn": "^8.0.4",
-    "body-parser": "^1.19.0",
-    "express": "^4.19.2",
+    "body-parser": "^1.20.6",
+    "express": "^4.22.2",
     "minimist": ">=1.2.6",
     "mongodb": "^3.6.2"
   }
