@@ -11,4 +11,4 @@ Each file captures the line-by-line community review for a language pack — rev
 
 ## Why these two?
 
-PRs #183 and #186 are the only two archived PRs that carry substantial line-by-line review debate (22 and 10 inline comments plus emoji-voted PR descriptions with multiple anonymous reviewers). The other 83 translation branches landed without comparable review activity, so extracting their review histories would have been mostly empty files.
+PRs #183 and #186 are the two PRs whose review debate was rich enough to extract into standalone documents (22 and 10 inline comments plus emoji-voted PR descriptions with multiple anonymous reviewers). They were not the only reviewed PRs: substantive per-word review comments also landed on the Ukrainian (#27), Russian (#84), Swahili (#190, #305), Hebrew (#207), Gujarati (#274), and Korean (#312, #316) PRs — 156 inline review comments across 28 PRs in total, all still readable on the closed PRs. The remaining translation branches landed without comparable review activity, so extracting their histories would have been mostly empty files.
