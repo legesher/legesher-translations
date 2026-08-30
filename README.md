@@ -1,9 +1,10 @@
 > ## ⚠️ This repository is changing
 >
-> The original translation app and locale files here are **retired**. Legesher's translation work continued in the Legesher monorepo — private while it is prepared for public release — and its results are already public:
+> The original translation app and locale files here are **retired**. Legesher's translation work continued in the Legesher monorepo, private while it is prepared for public release. This repository's data lives in three Hugging Face datasets:
 >
-> - **The language corpus** — every candidate translation and every endorsement, openly licensed: [huggingface.co/datasets/legesher/language-corpus](https://huggingface.co/datasets/legesher/language-corpus)
-> - **Install the language packs:** `pip install legesher-i18n`
+> - **[language-corpus](https://huggingface.co/datasets/legesher/language-corpus)** — the evidence: every candidate translation anyone has offered and every endorsement a native speaker attached to it, openly licensed.
+> - **[language-canon](https://huggingface.co/datasets/legesher/language-canon)** — the decision: the rendering Legesher currently ships for each language, with how far each language has climbed the review ladder.
+> - **[language-packs](https://huggingface.co/datasets/legesher/language-packs)** — what ships: the packaged vocabulary a release actually carries, one pinned revision per release.
 > - **Contribute:** translation contributions are reopening **in this repository** — the contribution forms and reviewer guide land here next. Until then, questions are welcome in the [corpus discussions](https://huggingface.co/datasets/legesher/language-corpus/discussions).
 >
 > This repo also remains the historical record. The **[149 contributors](CONTRIBUTORS.md)** whose work established Legesher's translation infrastructure are credited here, and the full line-by-line community review discussions for Spanish and German are preserved in [`docs/review-history/`](docs/review-history/).
