@@ -1,12 +1,12 @@
-> ## ⚠️ This repository is deprecated
+> ## ⚠️ This repository is changing
 >
-> **Legesher's translation work has moved to the monorepo:** [**Legesher/legesher/libs/i18n/**](https://github.com/legesher/legesher/tree/main/libs/i18n)
+> The original translation app and locale files here are **retired**. Legesher's translation work continued in the Legesher monorepo — private while it is prepared for public release — and its results are already public:
 >
-> - **51 language packs** (experimental, community validation ongoing) — [browse them](https://github.com/legesher/legesher/tree/main/libs/i18n/language-packs/python)
-> - **Install:** `pip install legesher-i18n`
-> - **Contribute:** open PRs, issues, and translation reviews on the [monorepo](https://github.com/legesher/legesher)
+> - **The language corpus** — every candidate translation and every endorsement, openly licensed: [huggingface.co/datasets/legesher/language-corpus](https://huggingface.co/datasets/legesher/language-corpus)
+> - **Install the language packs:** `pip install legesher-i18n`
+> - **Contribute:** translation contributions are reopening **in this repository** — the contribution forms and reviewer guide land here next. Until then, questions are welcome in the [corpus discussions](https://huggingface.co/datasets/legesher/language-corpus/discussions).
 >
-> This repo is kept as a historical record. The **[149 contributors](CONTRIBUTORS.md)** whose work established Legesher's translation infrastructure are credited here. Full line-by-line community review discussions for Spanish and German translations are preserved in [`docs/review-history/`](docs/review-history/). Browse, fork, learn — but please direct new contributions to the monorepo.
+> This repo also remains the historical record. The **[149 contributors](CONTRIBUTORS.md)** whose work established Legesher's translation infrastructure are credited here, and the full line-by-line community review discussions for Spanish and German are preserved in [`docs/review-history/`](docs/review-history/).
 >
 > ---
 
