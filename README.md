@@ -5,7 +5,7 @@
 > - **[language-corpus](https://huggingface.co/datasets/legesher/language-corpus)** — the evidence: every candidate translation anyone has offered and every endorsement a native speaker attached to it, openly licensed.
 > - **[language-canon](https://huggingface.co/datasets/legesher/language-canon)** — the decision: the rendering Legesher currently ships for each language, with how far each language has climbed the review ladder.
 > - **[language-packs](https://huggingface.co/datasets/legesher/language-packs)** — what ships: the packaged vocabulary a release actually carries, one pinned revision per release.
-> - **Contribute:** translation contributions are reopening **in this repository** — the contribution forms and reviewer guide land here next. Until then, questions are welcome in the [corpus discussions](https://huggingface.co/datasets/legesher/language-corpus/discussions).
+> - **Contribute:** translation contributions are reopening **in this repository** — the contribution forms and reviewer guide land here next. Until then, questions are welcome in this repository's [Discussions](https://github.com/legesher/legesher-translations/discussions).
 >
 > This repo also remains the historical record. The **[149 contributors](CONTRIBUTORS.md)** whose work established Legesher's translation infrastructure are credited here, and the full line-by-line community review discussions for Spanish and German are preserved in [`docs/review-history/`](docs/review-history/).
 >
